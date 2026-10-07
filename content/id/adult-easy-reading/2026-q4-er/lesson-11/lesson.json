@@ -1,0 +1,57 @@
+{
+  "id": "lesson-11",
+  "title": "UTUSAN ALLAH PADA MASA-MASA PENTING DALAM SEJARAH",
+  "startDate": "2026-12-05",
+  "endDate": "2026-12-11",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-12-05",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "PERINGATAN TENTANG BENCANA YANG AKAN DATANG",
+      "date": "2026-12-06",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "SEORANG IBU DI ISRAEL",
+      "date": "2026-12-07",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "KEMBALI KEPADA ALLAH",
+      "date": "2026-12-08",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "PENGHARAPAN BAGI MASA DEPAN",
+      "date": "2026-12-09",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "UTUSAN BAGI MASA PENANTIAN",
+      "date": "2026-12-10",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "PENGARUH UTUSAN ALLAH PADA AKHIR ZAMAN",
+      "date": "2026-12-11",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "ROH JAHAT DAN KEMATIAN: BAGIAN 1",
+      "file": "inside-story.md"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "lesson-07",
+  "title": "DENGARKAN DAN TAATILAH!",
+  "startDate": "2026-11-07",
+  "endDate": "2026-11-13",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-11-07",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "MARAH KEPADA UTUSAN ALLAH",
+      "date": "2026-11-08",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "MENGHANCURKAN PEKABARAN: BAGIAN 1",
+      "date": "2026-11-09",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "MENGHANCURKAN PEKABARAN: BAGIAN 2",
+      "date": "2026-11-10",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "BERPURA-PURA SALEH",
+      "date": "2026-11-11",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "PERINGATAN BAGI KITA",
+      "date": "2026-11-12",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "ELLEN G. WHITE: MENERIMA DAN MENYAMPAIKAN PEKABARAN ALLAH",
+      "date": "2026-11-13",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "“ALLAH YANG TERUTAMA”: BAGIAN 2",
+      "file": "inside-story.md"
+    }
+  ]
+}

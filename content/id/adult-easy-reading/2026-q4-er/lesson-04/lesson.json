@@ -1,0 +1,57 @@
+{
+  "id": "lesson-04",
+  "title": "UTUSAN-UTUSAN DALAM PERJANJIAN BARU",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-23",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-10-17",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "YESUS: LEBIH DARI SEORANG UTUSAN",
+      "date": "2026-10-18",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "PEMIMPIN JEMAAT DAN UTUSAN ALLAH",
+      "date": "2026-10-19",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "TUGAS UTUSAN DALAM PERJANJIAN BARU",
+      "date": "2026-10-20",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "UTUSAN WANITA DAN PARA PENDETA MUDA",
+      "date": "2026-10-21",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "UTUSAN PALSU DALAM PERJANJIAN BARU",
+      "date": "2026-10-22",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "MENGUTAMAKAN YESUS DAN ALKITAB DALAM HIDUP KITA",
+      "date": "2026-10-23",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "SEBUAH SEKOLAH UNTUK BERTA",
+      "file": "inside-story.md"
+    }
+  ]
+}

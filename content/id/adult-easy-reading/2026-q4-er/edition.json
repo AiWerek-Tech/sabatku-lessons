@@ -1,0 +1,20 @@
+{
+  "id": "2026-q4-er",
+  "programId": "adult-easy-reading",
+  "locale": "id",
+  "title": "Karunia Pesan Khusus",
+  "description": "Pelajaran Sekolah Sabat Dewasa Edisi Mudah Dibaca, Triwulan IV 2026.",
+  "startDate": "2026-09-26",
+  "endDate": "2026-12-25",
+  "cover": null,
+  "sourceName": "General Conference of Seventh-day Adventists®",
+  "attribution": "© 2026 General Conference of Seventh-day Adventists®. Edisi Mudah Dibaca disiapkan oleh Kantor Pedoman Pendalaman Alkitab Dewasa bekerja sama dengan Three Angels Deaf Ministries. Terjemahan bebas Bahasa Indonesia oleh tim penerjemah resmi SabatKu.",
+  "rightsStatement": "Hak cipta dilindungi. Materi ini merupakan publikasi resmi tim penerjemah SabatKu dan disediakan untuk akses publik melalui SabatKu.",
+  "publicationStatus": "published",
+  "introductionFile": "introduction.md",
+  "publicationNotesFile": "publication-notes.md",
+  "lessonCount": 13,
+  "contributors": [
+    "Tim penerjemah resmi SabatKu"
+  ]
+}

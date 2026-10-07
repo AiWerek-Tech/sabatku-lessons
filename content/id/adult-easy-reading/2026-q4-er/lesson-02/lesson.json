@@ -1,0 +1,57 @@
+{
+  "id": "lesson-02",
+  "title": "TUGAS UTUSAN-UTUSAN ALLAH",
+  "startDate": "2026-10-03",
+  "endDate": "2026-10-09",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-10-03",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "ABRAHAM, PEMBELA JANJI ALLAH",
+      "date": "2026-10-04",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "PEKABARAN ELIA",
+      "date": "2026-10-05",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "YESAYA, PEMBAWA KABAR BAIK",
+      "date": "2026-10-06",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "DANIEL: TELADAN IMAN",
+      "date": "2026-10-07",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "YOHANES PEMBAPTIS: MEMPERSIAPKAN UMAT",
+      "date": "2026-10-08",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "DIPILIH UNTUK TUGAS KHUSUS",
+      "date": "2026-10-09",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "DARI PENJAHAT MENJADI PEMIMPIN GEREJA: BAGIAN 1",
+      "file": "inside-story.md"
+    }
+  ]
+}

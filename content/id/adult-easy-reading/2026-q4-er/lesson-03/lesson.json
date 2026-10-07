@@ -1,0 +1,57 @@
+{
+  "id": "lesson-03",
+  "title": "UTUSAN-UTUSAN DALAM PERJANJIAN LAMA",
+  "startDate": "2026-10-10",
+  "endDate": "2026-10-16",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-10-10",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "HATI YANG TIDAK SOMBONG",
+      "date": "2026-10-11",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "UTUSAN-UTUSAN ALLAH YANG SEJATI",
+      "date": "2026-10-12",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "SETIA KEPADA ALLAH",
+      "date": "2026-10-13",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "WANITA YANG MENJADI UTUSAN KHUSUS",
+      "date": "2026-10-14",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "UTUSAN-UTUSAN PALSU",
+      "date": "2026-10-15",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "TIDAK SEMPURNA, TETAPI BERSEDIA MELAYANI",
+      "date": "2026-10-16",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "DARI PENJAHAT MENJADI PEMIMPIN JEMAAT: BAGIAN 2",
+      "file": "inside-story.md"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "lesson-05",
+  "title": "CARA ALLAH BERKOMUNIKASI DENGAN PARA UTUSAN-NYA",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-30",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-10-24",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "ALKITAB DAN ALAM",
+      "date": "2026-10-25",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "CARA ALLAH MENYAMPAIKAN PEKABARAN-NYA",
+      "date": "2026-10-26",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "PEKABARAN LISAN",
+      "date": "2026-10-27",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "PEKABARAN TERTULIS",
+      "date": "2026-10-28",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "TINDAKAN, LAMBANG, DAN PERUMPAMAAN",
+      "date": "2026-10-29",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "PANDANGAN ELLEN G. WHITE TENTANG CARA ALLAH BERKOMUNIKASI DENGAN PARA UTUSAN-NYA",
+      "date": "2026-10-30",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "PEKERJA INJIL PEMBAWA PENGHARAPAN",
+      "file": "inside-story.md"
+    }
+  ]
+}

@@ -11,5 +11,6 @@
     { "key": "wednesday", "title": "Rabu", "date": "2027-01-06", "file": "wednesday.md" },
     { "key": "thursday", "title": "Kamis", "date": "2027-01-07", "file": "thursday.md" },
     { "key": "friday", "title": "Jumat", "date": "2027-01-08", "file": "friday.md" }
-  ]
+  ],
+  "supplementaryReadings": []
 }

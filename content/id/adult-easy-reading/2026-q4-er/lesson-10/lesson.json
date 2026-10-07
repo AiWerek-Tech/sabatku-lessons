@@ -1,0 +1,57 @@
+{
+  "id": "lesson-10",
+  "title": "WEWENANG UNTUK BERBICARA ATAS NAMA ALLAH",
+  "startDate": "2026-11-28",
+  "endDate": "2026-12-04",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-11-28",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "WEWENANG UNTUK BERBICARA ATAS NAMA ALLAH",
+      "date": "2026-11-29",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "YESUS BERWENANG BERBICARA ATAS NAMA ALLAH",
+      "date": "2026-11-30",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "KUASA FIRMAN ALLAH, YAITU ALKITAB",
+      "date": "2026-12-01",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "UTUSAN ALLAH DAN KEPEMIMPINAN JEMAAT",
+      "date": "2026-12-02",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "UTUSAN YANG TULISANNYA TIDAK MASUK DALAM ALKITAB",
+      "date": "2026-12-03",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "KUASA PARA UTUSAN ALLAH",
+      "date": "2026-12-04",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "DENGAN KASIH UNTUK FINLANDIA: PELAYANAN ELSA LUUKKANEN",
+      "file": "inside-story.md"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "lesson-09",
+  "title": "MENGUJI PARA UTUSAN ALLAH",
+  "startDate": "2026-11-21",
+  "endDate": "2026-11-27",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-11-21",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "MUKJIZAT DAN TANDA",
+      "date": "2026-11-22",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "SELARAS DENGAN ALKITAB",
+      "date": "2026-11-23",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "KETIKA YESUS LAHIR SEBAGAI BAYI",
+      "date": "2026-11-24",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "KEHIDUPAN KITA MENUNJUKKAN SIAPA DIRI KITA",
+      "date": "2026-11-25",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "KETIKA PEKABARAN DIGENAPI",
+      "date": "2026-11-26",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "BERILAH TUHAN KESEMPATAN MENUNJUKKAN KEBAIKAN-NYA!",
+      "date": "2026-11-27",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "AKHIRNYA, SAYA MENJADI PEKERJA INJIL!",
+      "file": "inside-story.md"
+    }
+  ]
+}

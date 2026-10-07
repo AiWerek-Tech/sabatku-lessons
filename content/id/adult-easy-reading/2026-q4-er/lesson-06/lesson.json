@@ -1,0 +1,57 @@
+{
+  "id": "lesson-06",
+  "title": "PEKABARAN KHUSUS TENTANG MASA DEPAN",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-06",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-10-31",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "DIPILIH UNTUK MENULIS",
+      "date": "2026-11-01",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "BERBAGAI JENIS TULISAN",
+      "date": "2026-11-02",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "PARA PEMBANTU PENULIS",
+      "date": "2026-11-03",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "BUKU, AJARAN, DAN PERKATAAN LAIN",
+      "date": "2026-11-04",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "PEKABARAN ALLAH DAN KELEMAHAN PARA UTUSAN-NYA",
+      "date": "2026-11-05",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "TULISAN-TULISAN ELLEN G. WHITE",
+      "date": "2026-11-06",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "“ALLAH YANG TERUTAMA”: BAGIAN 1",
+      "file": "inside-story.md"
+    }
+  ]
+}

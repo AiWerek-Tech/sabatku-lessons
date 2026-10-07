@@ -1,0 +1,57 @@
+{
+  "id": "lesson-13",
+  "title": "BERKAT-BERKAT DARI ALKITAB",
+  "startDate": "2026-12-19",
+  "endDate": "2026-12-25",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-12-19",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "PEKABARAN KHUSUS MEMULIAKAN YESUS",
+      "date": "2026-12-20",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "PEKABARAN KHUSUS MENDUKUNG KEBENARAN ALKITAB",
+      "date": "2026-12-21",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "ALKITAB ADALAH ‘PENDETEKSI KEBOHONGAN’ DARI ALLAH",
+      "date": "2026-12-22",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "PEKABARAN ALLAH MEMBERI PENGHARAPAN",
+      "date": "2026-12-23",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "BEKERJA BERSAMA DALAM DAMAI DAN KASIH",
+      "date": "2026-12-24",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "COBALAH SEKALI LAGI!",
+      "date": "2026-12-25",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "DI MANAKAH ENGKAU, TUHAN?",
+      "file": "inside-story.md"
+    }
+  ]
+}

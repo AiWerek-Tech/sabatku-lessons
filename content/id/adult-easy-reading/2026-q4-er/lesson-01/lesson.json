@@ -1,0 +1,57 @@
+{
+  "id": "lesson-01",
+  "title": "ALLAH BERBICARA KEPADA KITA",
+  "startDate": "2026-09-26",
+  "endDate": "2026-10-02",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-09-26",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "KOMUNIKASI DI EDEN",
+      "date": "2026-09-27",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "BERSEMBUNYI DARI ALLAH",
+      "date": "2026-09-28",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "ALLAH DATANG MENCARI KITA",
+      "date": "2026-09-29",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "HARUS MENINGGALKAN TAMAN EDEN",
+      "date": "2026-09-30",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "UTUSAN-UTUSAN KHUSUS ALLAH",
+      "date": "2026-10-01",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "ELLEN G. WHITE",
+      "date": "2026-10-02",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "AWAL MULA GEREJA ADVENT DI POLANDIA",
+      "file": "inside-story.md"
+    }
+  ]
+}

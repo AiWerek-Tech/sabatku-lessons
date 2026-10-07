@@ -1,4 +1,4 @@
-import { readFile, readdir, mkdir, rm, writeFile } from 'node:fs/promises';
+import { readFile, readdir, mkdir, rm, writeFile, cp } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -31,6 +31,7 @@ async function main() {
   const languages = await readdir(sourceRoot, { withFileTypes: true });
   const editions = [];
   const published = [];
+  const assetDirectories = [];
 
   for (const language of languages.filter(entry => entry.isDirectory() && entry.name !== '_template')) {
     const programRoot = path.join(sourceRoot, language.name, 'adult-easy-reading');
@@ -49,6 +50,8 @@ async function main() {
       assert(edition.title && !edition.title.startsWith('GANTI '), `${edition.id}: replace the title placeholder`);
       assert(edition.sourceName && edition.attribution && edition.rightsStatement && !/GANTI/.test(`${edition.attribution} ${edition.rightsStatement}`), `${edition.id}: approved source, attribution, and rights statement are required`);
       if (edition.publicationStatus !== 'published') continue;
+      const introduction = edition.introductionFile ? (await readFile(path.join(editionDir, edition.introductionFile), 'utf8')).trim() : null;
+      const publicationNotes = edition.publicationNotesFile ? (await readFile(path.join(editionDir, edition.publicationNotesFile), 'utf8')).trim() : null;
 
       const lessonFolders = (await readdir(editionDir, { withFileTypes: true }))
         .filter(entry => entry.isDirectory() && /^lesson-\d{2}$/.test(entry.name))
@@ -65,13 +68,22 @@ async function main() {
         assertDate(lesson.endDate, `${lesson.id}.endDate`);
         assert(Array.isArray(lesson.readings) && lesson.readings.length === 7, `${edition.id}/${lesson.id}: exactly seven daily readings are required in v1`);
         assert(lesson.readings.map(reading => reading.key).join(',') === dayOrder.join(','), `${edition.id}/${lesson.id}: readings must be ordered Sabat petang through Jumat`);
+        const lessonStart = Date.parse(`${lesson.startDate}T00:00:00Z`);
         const readings = [];
 
         for (const reading of lesson.readings) {
           assertDate(reading.date, `${lesson.id}/${reading.key}.date`);
           assert(reading.file === `${reading.key}.md`, `${lesson.id}/${reading.key}: filename must match reading key`);
+          const expectedDate = new Date(lessonStart + dayOrder.indexOf(reading.key) * 86400000).toISOString().slice(0, 10);
+          assert(reading.date === expectedDate, `${lesson.id}/${reading.key}: date must be ${expectedDate}`);
           const markdown = (await readFile(path.join(lessonDir, reading.file), 'utf8')).trim();
           assert(markdown.length > 0 && !markdown.includes('GANTI DENGAN'), `${edition.id}/${lesson.id}/${reading.file}: replace the template text`);
+          for (const assetPath of [...markdown.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g)].map(match => match[1])) {
+            assert(!path.isAbsolute(assetPath) && !assetPath.split(/[\\/]/).includes('..') || assetPath.startsWith('../../assets/'), `${lesson.id}/${reading.file}: image path must stay inside the edition assets`);
+            const assetName = path.basename(assetPath);
+            try { await readFile(path.join(editionDir, 'assets', assetName)); }
+            catch { throw new Error(`${edition.id}/${lesson.id}/${reading.file}: missing asset ${assetName}`); }
+          }
           readings.push({
             id: `adult-easy-reading:${edition.locale}:${edition.id}:${lesson.id}:${reading.key}`,
             key: reading.key,
@@ -90,6 +102,20 @@ async function main() {
           lesson: { id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate },
           readings
         };
+        const supplementaryReadings = [];
+        for (const item of lesson.supplementaryReadings ?? []) {
+          assert(item.key && item.title && item.file, `${edition.id}/${lesson.id}: supplementary reading needs key, title, and file`);
+          const content = (await readFile(path.join(lessonDir, item.file), 'utf8')).trim();
+          assert(content.length > 0 && !content.includes('GANTI DENGAN'), `${edition.id}/${lesson.id}/${item.file}: replace the template text`);
+          supplementaryReadings.push({
+            id: `adult-easy-reading:${edition.locale}:${edition.id}:${lesson.id}:${item.key}`,
+            key: item.key,
+            title: item.title,
+            format: 'text/markdown',
+            content
+          });
+        }
+        lessonOutput.supplementaryReadings = supplementaryReadings;
         const lessonUrl = `editions/${edition.id}/lessons/${lesson.id}/index.json`;
         lessons.push({ id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate, url: lessonUrl });
         published.push({ path: lessonUrl, value: lessonOutput });
@@ -109,6 +135,8 @@ async function main() {
         sourceName: edition.sourceName,
         attribution: edition.attribution,
         rightsStatement: edition.rightsStatement,
+        introduction: introduction ? { format: 'text/markdown', content: introduction } : null,
+        publicationNotes: publicationNotes ? { format: 'text/markdown', content: publicationNotes } : null,
         lessons
       };
       editions.push({
@@ -123,9 +151,12 @@ async function main() {
         sourceName: edition.sourceName,
         attribution: edition.attribution,
         rightsStatement: edition.rightsStatement,
+        introduction: introduction ? { format: 'text/markdown', content: introduction } : null,
+        publicationNotes: publicationNotes ? { format: 'text/markdown', content: publicationNotes } : null,
         url: editionUrl
       });
       published.push({ path: editionUrl, value: editionOutput });
+      assetDirectories.push({ source: path.join(editionDir, 'assets'), destination: path.join(outputRoot, 'editions', edition.id, 'assets') });
     }
   }
 
@@ -144,6 +175,10 @@ async function main() {
   await rm(outputRoot, { recursive: true, force: true });
   await writeJson(path.join(outputRoot, 'catalog.json'), catalog);
   for (const file of published) await writeJson(path.join(outputRoot, file.path), file.value);
+  for (const assets of assetDirectories) {
+    try { await cp(assets.source, assets.destination, { recursive: true }); }
+    catch (error) { if (error.code !== 'ENOENT') throw error; }
+  }
   await writeFile(path.join(outputRoot, '.nojekyll'), '', 'utf8');
   console.log(`Built ${editions.length} edition(s) and ${published.length - editions.length} lesson document(s) into public/.`);
 }

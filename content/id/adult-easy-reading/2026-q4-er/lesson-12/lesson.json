@@ -1,0 +1,57 @@
+{
+  "id": "lesson-12",
+  "title": "PEKABARAN KHUSUS BAGI AKHIR ZAMAN",
+  "startDate": "2026-12-12",
+  "endDate": "2026-12-18",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-12-12",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "JANJI DALAM KITAB YOEL",
+      "date": "2026-12-13",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "ALLAH MENCURAHKAN ROH-NYA KE ATAS GEREJA",
+      "date": "2026-12-14",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "KARUNIA-KARUNIA ROH KUDUS",
+      "date": "2026-12-15",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "UMAT ALLAH PADA AKHIR ZAMAN",
+      "date": "2026-12-16",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "UTUSAN-UTUSAN MASA KINI",
+      "date": "2026-12-17",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "SEMUA UNTUK MELAYANI ALLAH",
+      "date": "2026-12-18",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "ROH JAHAT DAN KEMATIAN: BAGIAN 2",
+      "file": "inside-story.md"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "lesson-08",
+  "title": "MEMAHAMI PEKABARAN KHUSUS ALLAH",
+  "startDate": "2026-11-14",
+  "endDate": "2026-11-20",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sabat Petang",
+      "date": "2026-11-14",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "ALKITAB MENJELASKAN DIRINYA SENDIRI",
+      "date": "2026-11-15",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "SEJARAH MENOLONG KITA MEMAHAMI ALKITAB",
+      "date": "2026-11-16",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "MEMAHAMI KATA DAN AYAT DALAM KONTEKSNYA",
+      "date": "2026-11-17",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "MAKNA SEBUAH AYAT",
+      "date": "2026-11-18",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "MENJELASKAN ALKITAB",
+      "date": "2026-11-19",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "MEMBACA TULISAN ELLEN G. WHITE",
+      "date": "2026-11-20",
+      "file": "friday.md"
+    }
+  ],
+  "supplementaryReadings": [
+    {
+      "key": "inside-story",
+      "title": "MENYALAKAN API",
+      "file": "inside-story.md"
+    }
+  ]
+}
