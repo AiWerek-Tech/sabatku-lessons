@@ -1,0 +1,15 @@
+{
+  "id": "lesson-01",
+  "title": "GANTI DENGAN JUDUL PELAJARAN",
+  "startDate": "2027-01-02",
+  "endDate": "2027-01-08",
+  "readings": [
+    { "key": "sabbath", "title": "Sabat Petang", "date": "2027-01-02", "file": "sabbath.md" },
+    { "key": "sunday", "title": "Minggu", "date": "2027-01-03", "file": "sunday.md" },
+    { "key": "monday", "title": "Senin", "date": "2027-01-04", "file": "monday.md" },
+    { "key": "tuesday", "title": "Selasa", "date": "2027-01-05", "file": "tuesday.md" },
+    { "key": "wednesday", "title": "Rabu", "date": "2027-01-06", "file": "wednesday.md" },
+    { "key": "thursday", "title": "Kamis", "date": "2027-01-07", "file": "thursday.md" },
+    { "key": "friday", "title": "Jumat", "date": "2027-01-08", "file": "friday.md" }
+  ]
+}

@@ -1,0 +1,68 @@
+# SabatKu Lessons
+
+Repositori materi Sekolah Sabat yang diterbitkan SabatKu. Versi awal difokuskan pada program **Dewasa Mudah Dibaca** (`adult-easy-reading`) berbahasa Indonesia.
+
+## Alur kerja
+
+Tim menyimpan metadata edisi/pelajaran sebagai JSON dan naskah bacaan sebagai Markdown. Pull request menjadi titik review. Setelah perubahan masuk ke `main`, GitHub Actions memvalidasi sumber, menghasilkan katalog JSON statis, lalu menerbitkannya ke GitHub Pages. Android mengonsumsi hasil publikasi, bukan file kerja editorial.
+
+```text
+content/id/adult-easy-reading/<edition>/
+  edition.json
+  lesson-01/lesson.json
+  lesson-01/sabbath.md ... friday.md
+        │
+        └── npm run build:content
+                ├── public/catalog.json
+                └── public/editions/<edition>/... JSON
+```
+
+Belum ada materi pelajaran contoh yang dimasukkan. Template memakai placeholder, agar teks placeholder tidak keliru dianggap sebagai materi terbitan.
+
+## Persiapan lokal
+
+- Node.js 20 atau lebih baru.
+- Tidak ada dependensi npm eksternal untuk memeriksa dan membangun katalog.
+
+```powershell
+npm run validate
+npm run build:content
+```
+
+Hasil publikasi dibuat di `public/` dan diabaikan Git. GitHub Actions membangun ulang hasil tersebut dari sumber.
+
+## Menambah materi
+
+1. Salin `content/_template/edition.json` dan direktori pelajaran template ke `content/id/adult-easy-reading/<id-edisi>/`.
+2. Isi metadata edisi dan pelajaran yang benar, serta tujuh bacaan harian sesuai jadwal edisi.
+3. Simpan naskah setiap bacaan pada file Markdown terpisah. Gunakan heading dan paragraf Markdown standar; hindari HTML mentah pada fase awal.
+4. Lengkapi atribusi dan pernyataan hak publikasi dalam metadata.
+5. Jalankan validasi dan build lokal, lalu buka PR untuk review tim.
+
+Jangan mengisi tanggal, judul, kutipan ayat, atau materi sumber secara tebakan. Metadata dan hak publikasi harus disetujui tim sebelum rilis.
+
+## GitHub Pages
+
+Aktifkan Pages untuk repo ini dengan sumber **GitHub Actions**. Workflow `.github/workflows/publish-pages.yml` akan deploy `public/` setelah push ke `main`. Endpoint katalog menjadi:
+
+```text
+https://<organisasi>.github.io/sabatku-lessons/catalog.json
+```
+
+Gunakan URL hasil Pages yang ditampilkan GitHub; URL di atas hanya pola. Aplikasi harus diberi URL katalog eksplisit melalui konfigurasi build, tidak menebak alamat organisasi.
+
+## Format API statis v1
+
+- `catalog.json`: program, locale, edisi, rentang tanggal, atribusi, dan URL relatif ke JSON edisi.
+- `editions/<edition-id>/index.json`: metadata edisi dan daftar pelajaran.
+- `editions/<edition-id>/lessons/<lesson-id>/index.json`: metadata pelajaran dan daftar tujuh bacaan dengan isi Markdown.
+
+ID dokumen stabil memakai `adult-easy-reading:id:<edition>:lesson-XX:<day>`. Perubahan isi tidak boleh mengubah ID yang sudah diterbitkan, agar progres pengguna tetap tertaut.
+
+## Hak dan publikasi
+
+Hanya materi yang tim berwenang terbitkan dan setujui untuk akses publik yang boleh masuk ke `main`. Repositori ini belum menetapkan lisensi penggunaan ulang. Jangan menambahkan lisensi open-source untuk materi secara otomatis; keputusan hak penggunaan harus dinyatakan terpisah dan disetujui pemilik materi.
+
+## Status integrasi Android
+
+Repo ini menyiapkan sumber dan format distribusi. Adapter Android untuk katalog SabatKu ini merupakan langkah integrasi terpisah; jangan menganggap katalog sudah terhubung ke aplikasi sampai URL Pages dikonfigurasi dan alur unduh/offline diuji.

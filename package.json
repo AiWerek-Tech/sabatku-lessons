@@ -1,0 +1,14 @@
+{
+  "name": "sabatku-lessons",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Markdown source and static catalog publisher for SabatKu Sabbath School lessons",
+  "scripts": {
+    "validate": "node scripts/build-content.mjs --check",
+    "build:content": "node scripts/build-content.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
