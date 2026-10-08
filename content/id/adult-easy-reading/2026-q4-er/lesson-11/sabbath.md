@@ -1,5 +1,7 @@
 SABAT, 5 DESEMBER 2026
 
+![lesson-cover](../../assets/lesson-cover-11.png)
+
 ![Ilustrasi dari publikasi edisi](../../assets/image58.png)
 
 ### BACAAN PEKAN INI

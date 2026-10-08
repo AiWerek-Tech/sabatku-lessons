@@ -1,5 +1,7 @@
 SABAT, 3 OKTOBER 2026
 
+![lesson-cover](../../assets/lesson-cover-02.png)
+
 ![Ilustrasi dari publikasi edisi](../../assets/image95.png)
 
 Orang-orang mengejek para utusan Allah, memukuli mereka, atau menjebloskan mereka ke penjara.

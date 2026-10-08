@@ -27,6 +27,23 @@ function assertDate(value, label) {
   assert(typeof value === 'string' && datePattern.test(value) && !Number.isNaN(Date.parse(`${value}T00:00:00Z`)), `${label} must be YYYY-MM-DD`);
 }
 
+async function pdfResources(lesson, editionDir, label) {
+  const resources = lesson.pdfs ?? [];
+  assert(Array.isArray(resources), `${label}.pdfs must be an array`);
+  const ids = new Set();
+  return Promise.all(resources.map(async (pdf, index) => {
+    assert(pdf && /^[a-zA-Z0-9_-]{1,100}$/.test(pdf.id ?? '') && pdf.title && typeof pdf.file === 'string', `${label}.pdfs[${index}] needs a valid id, title, and file`);
+    assert(!ids.has(pdf.id), `${label}.pdfs contains duplicate id ${pdf.id}`);
+    ids.add(pdf.id);
+    assert(pdf.file.startsWith('../../assets/') && pdf.file.toLowerCase().endsWith('.pdf') && !pdf.file.split(/[\\/]/).includes('..', 2), `${label}.pdfs[${index}].file must point to a PDF in edition assets`);
+    const assetName = pdf.file.slice('../../assets/'.length);
+    assert(assetName && !assetName.startsWith('/') && !assetName.split(/[\\/]/).includes('..'), `${label}.pdfs[${index}].file escapes edition assets`);
+    try { await readFile(path.join(editionDir, 'assets', assetName)); }
+    catch { throw new Error(`${label}.pdfs[${index}]: missing asset ${assetName}`); }
+    return { id: pdf.id, title: pdf.title, src: pdf.file };
+  }));
+}
+
 async function main() {
   const languages = await readdir(sourceRoot, { withFileTypes: true });
   const editions = [];
@@ -100,7 +117,8 @@ async function main() {
           programId: edition.programId,
           locale: edition.locale,
           lesson: { id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate },
-          readings
+          readings,
+          pdfs: await pdfResources(lesson, editionDir, `${edition.id}/${lesson.id}`)
         };
         const supplementaryReadings = [];
         for (const item of lesson.supplementaryReadings ?? []) {
@@ -215,7 +233,8 @@ async function main() {
         schemaVersion: 'sabatku-lessons-v1', editionId: edition.id, programId: edition.programId, locale: edition.locale,
         lesson: { id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate },
         readings,
-        companionReadings
+        companionReadings,
+        pdfs: await pdfResources(lesson, editionDir, `${edition.id}/${lesson.id}`)
       };
       lessons.push({ id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate, url: lessonUrl });
       published.push({ path: lessonUrl, value: lessonOutput });

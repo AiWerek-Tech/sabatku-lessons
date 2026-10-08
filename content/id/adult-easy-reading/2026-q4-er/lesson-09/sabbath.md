@@ -1,5 +1,7 @@
 SABAT, 21 NOVEMBER 2026
 
+![lesson-cover](../../assets/lesson-cover-09.png)
+
 ![Ilustrasi dari publikasi edisi](../../assets/image36.png)
 
 ### BACAAN PEKAN INI

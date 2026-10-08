@@ -1,5 +1,7 @@
 SABAT, 17 OKTOBER 2026
 
+![lesson-cover](../../assets/lesson-cover-04.png)
+
 ![Ilustrasi dari publikasi edisi](../../assets/image108.png)
 
 Roh Kudus menjadikan Yesus sebagai bagian yang paling penting dari pesan-pesan yang Dia berikan kepada para utusan Allah.

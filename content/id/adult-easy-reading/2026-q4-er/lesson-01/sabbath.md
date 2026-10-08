@@ -1,5 +1,7 @@
 SABAT PETANG, 26 SEPTEMBER 2026
 
+![lesson-cover](../../assets/lesson-cover-01.jpg)
+
 ![Ilustrasi dari publikasi edisi](../../assets/image83.jpg)
 
 Banyak utusan Allah menulis bagian-bagian Alkitab.

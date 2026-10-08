@@ -1,5 +1,7 @@
 SABAT, 14 NOVEMBER 2026
 
+![lesson-cover](../../assets/lesson-cover-08.png)
+
 ![Ilustrasi dari publikasi edisi](../../assets/image107.png)
 
 Yesus membantu kedua pengikut-Nya memahami dengan benar pesan-pesan khusus tersebut.

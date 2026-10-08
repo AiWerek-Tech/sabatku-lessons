@@ -1,5 +1,7 @@
 SABAT, 24 OKTOBER 2026
 
+![lesson-cover](../../assets/lesson-cover-05.png)
+
 ![Ilustrasi dari publikasi edisi](../../assets/image56.png)
 
 Di Patmos, Allah memberikan kepada Yohanes pesan-pesan khusus tentang masa depan.

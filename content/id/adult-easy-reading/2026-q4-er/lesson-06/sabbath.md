@@ -1,5 +1,7 @@
 SABAT, 31 OKTOBER 2026
 
+![lesson-cover](../../assets/lesson-cover-06.png)
+
 ![Ilustrasi dari publikasi edisi](../../assets/image31.png)
 
 Banyak utusan Allah menggunakan bantuan para asisten atau sekretaris untuk membantu mereka menulis.

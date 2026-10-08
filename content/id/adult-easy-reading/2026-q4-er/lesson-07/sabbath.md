@@ -1,5 +1,7 @@
 SABAT, 7 NOVEMBER 2026
 
+![lesson-cover](../../assets/lesson-cover-07.png)
+
 ![Ilustrasi dari publikasi edisi](../../assets/image88.png)
 
 Pada zaman Alkitab, para utusan Allah sering menyampaikan pesan yang tidak ingin ditaati oleh orang-orang.
