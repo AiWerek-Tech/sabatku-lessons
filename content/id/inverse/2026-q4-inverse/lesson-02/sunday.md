@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** Yesaya 6
 
-![lesson-cover](../../../assets/inverse-lesson-02.png)
+![lesson-cover](../assets/adventech-cover-02.png)
 
 Pada zaman Alkitab, para nabi sering memegang peranan penting dalam sejarah umat Allah. Kadang-kadang mereka berada di pusat perhatian dan menempati kedudukan yang berpengaruh, bahkan menentukan, dalam kehidupan masyarakat. Namun, menjadi nabi adalah panggilan yang berat. Kehidupan mereka sering kali tidak mudah, penuh dukacita, penolakan, kesalahpahaman, dan kekecewaan. Mereka pun sering tidak langsung menerima panggilan untuk menjadi nabi—dan itu dapat dimengerti. Banyak nabi justru ditentang keras oleh orang-orang yang seharusnya menyambut pekabaran mereka. Sebagian nabi Allah diabaikan, diejek, dipukuli, atau dipenjarakan. Yang lain dilempari batu atau diburu seperti binatang liar. Beberapa di antaranya mati sebagai martir.
 

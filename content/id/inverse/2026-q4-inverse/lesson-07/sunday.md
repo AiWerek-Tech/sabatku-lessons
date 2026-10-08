@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** Yeremia 36:20–32
 
-![lesson-cover](../../../assets/inverse-lesson-07.png)
+![lesson-cover](../assets/adventech-cover-07.png)
 
 Saat ini sebagian orang didorong untuk “menyuarakan kebenaran mereka”—pengalaman, gagasan, kebutuhan, batasan, dan keyakinan mereka—apa pun isinya. Menurut pandangan ini, setiap “kebenaran” sah dan tidak boleh dibungkam. Namun, apa yang terjadi ketika sebagian “kebenaran” yang dipegang kuat itu bertentangan dengan Sang Kebenaran, Yesus Kristus, dan Firman-Nya yang tertulis?
 

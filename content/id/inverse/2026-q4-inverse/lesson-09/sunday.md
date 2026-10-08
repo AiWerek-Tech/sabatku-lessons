@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** Matius 7:13–29
 
-![lesson-cover](../../../assets/inverse-lesson-09.png)
+![lesson-cover](../assets/adventech-cover-09.png)
 
 Berlian asli adalah salah satu batu permata paling berharga di bumi. Tentu saja, banyak benda lain dapat dibuat hampir menyerupai berlian, tetapi pada akhirnya tidak berharga. Cara terbaik untuk mengetahui apakah sebuah berlian asli atau palsu adalah mengujinya. Sebagian besar pengujian tidak memberikan kesimpulan pasti jika digunakan sendiri, tetapi jika sebuah berlian lolos beberapa pengujian, kita dapat yakin bahwa berlian itu asli.
 

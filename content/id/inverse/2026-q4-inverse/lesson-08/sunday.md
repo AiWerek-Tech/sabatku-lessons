@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** Kisah Para Rasul 8:26–40
 
-![lesson-cover](../../../assets/inverse-lesson-08.png)
+![lesson-cover](../assets/adventech-cover-08.png)
 
 Tulisan kenabian tidak pernah disertai jaminan bahwa setiap orang akan menafsirkan pekabarannya dengan benar. Mendengar orang-orang menafsirkan pekabaran yang sama dengan cara yang sangat berbeda dapat membingungkan. Cara seseorang menafsirkan pekabaran kenabian membawa akibat yang besar. Penafsiran yang benar mengarahkan manusia ke jalan yang benar, tetapi pemahaman nubuat yang keliru dapat membawa bencana rohani.
 

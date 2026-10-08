@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** Kisah Para Rasul 2:1–21
 
-![lesson-cover](../../../assets/inverse-lesson-12.png)
+![lesson-cover](../assets/adventech-cover-12.png)
 
 Dalam sejumlah peraturan pemerintah terdapat “ketentuan batas berlaku” atau sunset provision. Istilah hukum ini tidak berkaitan dengan matahari terbenam. Istilah tersebut merujuk pada klausul yang secara otomatis mengakhiri berlakunya suatu peraturan pada tanggal tertentu. Pemerintah mencantumkannya karena berbagai alasan. Misalnya, pada masa ancaman nasional, pemerintah mungkin memberlakukan aturan yang membatasi hak warga. Ketentuan batas berlaku kadang disertakan agar aturan itu berakhir pada tanggal tertentu dan hak warga yang sementara diambil dapat dipulihkan.
 

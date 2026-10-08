@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** Efesus 2:19–3:7
 
-![lesson-cover](../../../assets/inverse-lesson-04.png)
+![lesson-cover](../assets/adventech-cover-04.png)
 
 Ketika seorang ayah dan putranya sedang dalam perjalanan pulang, sang anak mengamati mobil-mobil yang mereka lewati, mencari yang sama dengan mobil ayahnya. Tiba-tiba sang ayah menunjuk sebuah mobil dan berseru, “Itu sama dengan mobil pertama Ayah!” Sesampainya di rumah, sang ayah mengeluarkan buku petunjuk mobil pertamanya dan buku petunjuk mobil yang sekarang. Dengan saksama ia menunjukkan ciri-ciri masing-masing kendaraan kepada putranya, menjelaskan bagian yang serupa dan yang telah berubah. Ketika mereka membandingkan kedua mesinnya, semuanya sama persis. Banyak hal telah berubah, tetapi mesinnya tetap sama.
 

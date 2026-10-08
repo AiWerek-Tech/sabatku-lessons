@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** 2 Tawarikh 20
 
-![lesson-cover](../../../assets/inverse-lesson-13.png)
+![lesson-cover](../assets/adventech-cover-13.png)
 
 Allah tidak pernah meminta kita percaya secara membabi buta. Sebaliknya, bukti keberadaan-Nya sangat kuat. Alam saja, bahkan setelah enam ribu tahun dosa, bersaksi bukan hanya tentang Allah yang memiliki kuasa penciptaan luar biasa—lihatlah foto-foto Teleskop Antariksa James Webb—tetapi juga tentang Allah yang penuh kasih. Bukti yang menunjuk kepada Allah tidak terbatas pada keajaiban alam. Petrus mengalami peristiwa yang didambakan banyak orang ketika ia mendengar “suara yang datang dari surga itu ... ketika kami bersama-sama dengan Dia di atas gunung yang kudus.” Namun, Petrus percaya ada bukti yang lebih kuat daripada menjadi saksi mata. Ia menulis, “Dengan demikian kami makin diteguhkan oleh firman yang telah disampaikan oleh para nabi. Alangkah baiknya kalau kamu memperhatikannya sama seperti memperhatikan pelita yang bercahaya di tempat yang gelap sampai fajar menyingsing dan bintang timur terbit bersinar di dalam hatimu” (2 Ptr. 1:18, 19). Kita mungkin
 

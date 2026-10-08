@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** Kejadian 3
 
-![lesson-cover](../../../assets/inverse-lesson-01.png)
+![lesson-cover](../assets/adventech-cover-01.png)
 
 Teknologi digital memungkinkan banyak orang melihat teman dan keluarga yang tinggal jauh. Itu sungguh berkat, tetapi bertemu langsung jauh lebih indah. Ada sesuatu yang istimewa ketika kita berkumpul, berpelukan, dan berbicara tatap muka.
 

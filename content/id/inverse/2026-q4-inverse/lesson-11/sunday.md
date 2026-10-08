@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** Hakim-hakim 4–5
 
-![lesson-cover](../../../assets/inverse-lesson-11.png)
+![lesson-cover](../assets/adventech-cover-11.png)
 
 Sejak kejatuhan dalam dosa, manusia cenderung memilih kenikmatan dosa yang hanya sementara daripada hidup kekal dalam Yesus. Allah mengetahui kenyataan yang menyedihkan ini, tetapi Ia tetap mengasihi kita dan bekerja demi keselamatan kita.
 

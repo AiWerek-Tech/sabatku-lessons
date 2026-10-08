@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** Keluaran 3–4
 
-![lesson-cover](../../../assets/inverse-lesson-10.png)
+![lesson-cover](../assets/adventech-cover-10.png)
 
 Pada Nov 9, 1989, pernyataan Günter Schabowski dalam siaran langsung televisi di Jerman Timur yang komunis memicu runtuhnya Tembok Berlin. Sebagai juru bicara pers Jerman Timur, Schabowski keliru menyampaikan pengumuman dalam konferensi pers yang disiarkan televisi. Seharusnya ia mengumumkan bahwa warga Jerman Timur mungkin diizinkan mengunjungi Eropa Barat setelah melalui proses panjang dan sulit untuk memperoleh visa yang sesuai. Namun, ia hanya mengatakan bahwa warga Jerman Timur akan diizinkan mengunjungi Eropa Barat. Ketika seorang wartawan bertanya kapan perubahan kebijakan itu berlaku, Schabowski menjawab, “Sejauh yang saya ketahui, ini berlaku ... segera, tanpa penundaan.” Dalam hitungan menit, orang-orang mulai berbondong-bondong menuju pos pemeriksaan perbatasan dan menuntut diizinkan melintas, sesuai pengumuman pemerintah.
 

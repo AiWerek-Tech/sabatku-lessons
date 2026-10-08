@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** 1 Raja-raja 19:1–16
 
-![lesson-cover](../../../assets/inverse-lesson-03.png)
+![lesson-cover](../assets/adventech-cover-03.png)
 
 Sistem Pemosisian Global (GPS) membantu para pelancong mengetahui di mana mereka berada, ke mana mereka menuju, bahkan memperingatkan mereka tentang bahaya. Para peziarah rohani yang sedang berjalan menuju surga juga membutuhkan tuntunan dari suatu “sistem pemosisian” surgawi. Salah satu cara Allah melakukannya pada masa lampau ialah melalui pelayanan para nabi Perjanjian Lama. Dalam kisah, nasihat, nubuat, puisi, dan nyanyian mereka, kita menemukan banyak hal tentang puluhan nabi yang menyampaikan pekabaran Allah kepada umat.
 

@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** Wahyu 1
 
-![lesson-cover](../../../assets/inverse-lesson-05.png)
+![lesson-cover](../assets/adventech-cover-05.png)
 
 Apa yang hendak dikatakan Sang Pencipta alam semesta kepada kita? Mengapa Ia berkomunikasi dengan kita? Kita adalah manusia yang telah jatuh, hidup di dunia berdosa, dan menghadapi kematian, penderitaan, serta pencobaan. Allah berbicara kepada kita karena Ia ingin kita mengetahui mengapa kita ada di sini, mengapa keadaan begitu buruk, dan mengapa, di tengah segala kejahatan di sekitar kita, kita dapat berharap pada kasih-Nya kepada kita.
 

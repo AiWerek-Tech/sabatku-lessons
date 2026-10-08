@@ -300,6 +300,13 @@ async function main() {
         const markdown = (await readFile(path.join(lessonDir, reading.file), 'utf8')).trim();
         assert(markdown.length > 0, `${edition.id}/${lesson.id}/${reading.file}: reading file is required even for a draft`);
         assert(/^##\s+\S/m.test(markdown), `${edition.id}/${lesson.id}/${reading.file}: a daily reading title is required`);
+        for (const assetPath of [...markdown.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g)].map(match => match[1])) {
+          assert(assetPath.startsWith('../assets/') && !assetPath.split(/[\\/]/).includes('..', 2), `${lesson.id}/${reading.file}: InVerse image must use the edition assets folder`);
+          const assetName = assetPath.slice('../assets/'.length);
+          assert(assetName && !assetName.split(/[\\/]/).includes('..'), `${lesson.id}/${reading.file}: image path escapes edition assets`);
+          try { await readFile(path.join(editionDir, 'assets', assetName)); }
+          catch { assert(false, `${lesson.id}/${reading.file}: missing image ${assetPath}`); }
+        }
         const misplacedLabel = inverseReadingLabelLine.exec(markdown);
         inverseReadingLabelLine.lastIndex = 0;
         assert(!misplacedLabel, `${edition.id}/${lesson.id}/${reading.file}: contains another day's InVerse section label ${misplacedLabel?.[0]?.trim()}`);
@@ -325,19 +332,20 @@ async function main() {
         assert(reading.date === expectedDate, `${lesson.id}/${reading.key}: date must be ${expectedDate}`);
         const markdown = (await readFile(path.join(lessonDir, reading.file), 'utf8')).trim();
         assert(markdown.length > 0 && !markdown.includes('DRAF KERANGKA') && !markdown.includes('MATERI RESMI MENUNGGU'), `${edition.id}/${lesson.id}/${reading.file}: official Indonesian content is required before publication`);
+        const publicMarkdown = markdown.replace(/(!\[[^\]]*\]\()\.\.\/assets\//g, '$1../../assets/');
         readings.push({
           id: `inverse:${edition.locale}:${edition.id}:${lesson.id}:${reading.key}`,
           key: reading.key,
           title: reading.title,
           date: reading.date,
           format: 'text/markdown',
-          content: markdown
+          content: publicMarkdown
         });
       }
       const lessonUrl = `editions/${edition.id}/lessons/${lesson.id}/index.json`;
       const lessonOutput = {
         schemaVersion: 'sabatku-lessons-v1', editionId: edition.id, programId: edition.programId, locale: edition.locale,
-        lesson: { id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate },
+        lesson: { id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate, illustration: lesson.illustration?.replace('../assets/', '../../assets/') },
         readings,
         pdfs: await pdfResources(lesson, editionDir, `${edition.id}/${lesson.id}`)
       };

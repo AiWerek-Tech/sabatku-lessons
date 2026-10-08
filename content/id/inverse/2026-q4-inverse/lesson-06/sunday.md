@@ -2,7 +2,7 @@
 
 **Bacaan pekan ini:** Yeremia 36:1–19
 
-![lesson-cover](../../../assets/inverse-lesson-06.png)
+![lesson-cover](../assets/adventech-cover-06.png)
 
 Alkitab menggambarkan tiga cara utama para nabi menyampaikan pekabaran Allah: secara lisan, melalui tulisan, dan melalui tindakan simbolis atau peragaan. Pekan ini kita akan berfokus pada tulisan-tulisan kenabian dalam Kitab Suci. Alkitab mencatat Firman Allah yang diungkapkan melalui perkataan para utusan-Nya, termasuk khotbah dan pidato para nabi. Cara paling awal yang diketahui digunakan Allah untuk menyampaikan pekabaran kepada manusia ialah komunikasi lisan secara langsung, seperti suara yang terdengar, mimpi, atau malaikat. Baru pada zaman Musa Kitab Suci mencatat perintah ilahi pertama untuk menuliskan apa yang telah Allah firmankan (Kel. 17:14).
 
