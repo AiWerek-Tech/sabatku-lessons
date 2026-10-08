@@ -50,12 +50,17 @@
         "url": null
       },
       "editorialType": "translation",
-      "translationTeam": null,
-      "attribution": null,
-      "rightsStatement": null,
-      "publicationStatus": "draft",
+      "translationTeam": "Tim penerjemah resmi SabatKu",
+      "attribution": "Sumber: Penuntun Guru Sekolah Sabat Dewasa, Triwulan 4 2026, Pelajaran 9.",
+      "rightsStatement": "Diterjemahkan dan diterbitkan dengan izin yang telah diberikan kepada tim penerjemah resmi SabatKu. Hak cipta materi sumber tetap pada pemegangnya.",
+      "publicationStatus": "published",
       "revision": 1,
-      "formats": []
+      "formats": [
+        {
+          "mediaType": "text/markdown",
+          "file": "teacher-guide/content.md"
+        }
+      ]
     },
     {
       "id": "adult-supplement:id:2026-q4:lesson-09:hope-outline",

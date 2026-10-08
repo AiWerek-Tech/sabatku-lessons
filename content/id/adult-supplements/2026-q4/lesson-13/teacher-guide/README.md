@@ -1,5 +1,5 @@
 # teacher-guide · lesson-13
 
-Folder penampung materi mendatang. Belum ada naskah atau PDF resmi.
+Tersedia `content.md`, draf terjemahan Bahasa Indonesia Penuntun Guru Pelajaran 13 dari repositori Adventech. Naskah ini menunggu tinjauan dan persetujuan tim penerjemah resmi SabatKu. Belum ada PDF.
 
-Tambahkan content.md dan/atau document.pdf ketika tersedia, lalu daftarkan di ../resources.json pada entri teacher-guide. README ini bukan konten bacaan. Tetap gunakan publicationStatus draft sampai adapter publikasi dan pembaca pendamping diaktifkan.
+README ini bukan konten bacaan. Entri `teacher-guide` pada `../resources.json` telah menunjuk ke naskah Markdown. Pertahankan `publicationStatus: draft` sampai tim menyetujui terjemahan serta metadata hak publikasi.

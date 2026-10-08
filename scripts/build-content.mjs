@@ -2,6 +2,7 @@ import { readFile, readdir, mkdir, rm, writeFile, cp } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { validateSupplements } from './validate-supplements.mjs';
+import { buildSupplements } from './build-supplements.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const sourceRoot = path.join(root, 'content');
@@ -47,6 +48,7 @@ async function pdfResources(lesson, editionDir, label) {
 
 async function main() {
   await validateSupplements(sourceRoot);
+  const supplementPublications = await buildSupplements(sourceRoot);
   const languages = await readdir(sourceRoot, { withFileTypes: true });
   const editions = [];
   const published = [];
@@ -384,6 +386,7 @@ async function main() {
   const catalog = {
     schemaVersion: 'sabatku-lessons-catalog-v1',
     generatedAt: new Date().toISOString(),
+    supplements: { url: 'supplements/catalog.json', collectionCount: supplementPublications.catalog.collections.length },
     programs: [
       withAudience({ id: 'adult-easy-reading', locale: 'id', title: 'SS Dewasa Mudah Dibaca', editions }),
       ...(egwEditions.length ? [withAudience({ id: 'adult-egw-notes', locale: 'id', title: 'Suplemen EGW Notes', editions: egwEditions })] : []),
@@ -393,19 +396,25 @@ async function main() {
 
   const checkOnly = process.argv.includes('--check');
   if (checkOnly) {
-    console.log(`Valid: ${editions.length + egwEditions.length + inverseEditions.length} published edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length} lesson document(s).`);
+    console.log(`Valid: ${editions.length + egwEditions.length + inverseEditions.length} published edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length} lesson document(s), ${supplementPublications.resourceCount} published supplement resource(s).`);
     return;
   }
 
   await rm(outputRoot, { recursive: true, force: true });
   await writeJson(path.join(outputRoot, 'catalog.json'), catalog);
+  await writeJson(path.join(outputRoot, 'supplements', 'catalog.json'), supplementPublications.catalog);
   for (const file of published) await writeJson(path.join(outputRoot, file.path), file.value);
+  for (const document of supplementPublications.documents) await writeJson(path.join(outputRoot, document.path), document.value);
+  for (const asset of supplementPublications.assets) {
+    await mkdir(path.dirname(path.join(outputRoot, asset.path)), { recursive: true });
+    await writeFile(path.join(outputRoot, asset.path), asset.bytes);
+  }
   for (const assets of assetDirectories) {
     try { await cp(assets.source, assets.destination, { recursive: true }); }
     catch (error) { if (error.code !== 'ENOENT') throw error; }
   }
   await writeFile(path.join(outputRoot, '.nojekyll'), '', 'utf8');
-  console.log(`Built ${editions.length + egwEditions.length + inverseEditions.length} edition(s) and ${published.length - editions.length - egwEditions.length - inverseEditions.length} lesson document(s) into public/.`);
+  console.log(`Built ${editions.length + egwEditions.length + inverseEditions.length} edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length} lesson document(s), and ${supplementPublications.resourceCount} supplement resource(s) into public/.`);
 }
 
 main().catch(error => { console.error(error.message); process.exitCode = 1; });

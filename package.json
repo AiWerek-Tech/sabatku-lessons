@@ -6,7 +6,8 @@
   "description": "Markdown source and static catalog publisher for SabatKu Sabbath School lessons",
   "scripts": {
     "validate": "node scripts/build-content.mjs --check",
-    "build:content": "node scripts/build-content.mjs"
+    "build:content": "node scripts/build-content.mjs",
+    "test": "node --test tests/*.test.mjs"
   },
   "engines": {
     "node": ">=20"

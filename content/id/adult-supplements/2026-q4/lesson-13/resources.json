@@ -47,15 +47,20 @@
       "source": {
         "id": "adult-bible-study-guide",
         "name": "Adult Bible Study Guide",
-        "url": null
+        "url": "https://github.com/Adventech/sabbath-school-lessons/blob/7f0b87a02268457bf18572ad116bdcb38146ad4d/src/en/2026-04/13/teacher-comments.md"
       },
       "editorialType": "translation",
-      "translationTeam": null,
-      "attribution": null,
-      "rightsStatement": null,
-      "publicationStatus": "draft",
+      "translationTeam": "Tim penerjemah resmi SabatKu",
+      "attribution": "Sumber bahasa Inggris: Adult Sabbath School Bible Study Guide, Q4 2026, Lesson 13, Teacher Comments.",
+      "rightsStatement": "Diterjemahkan dan diterbitkan dengan izin yang telah diberikan kepada tim penerjemah resmi SabatKu. Hak cipta materi sumber tetap pada pemegangnya.",
+      "publicationStatus": "published",
       "revision": 1,
-      "formats": []
+      "formats": [
+        {
+          "mediaType": "text/markdown",
+          "file": "teacher-guide/content.md"
+        }
+      ]
     },
     {
       "id": "adult-supplement:id:2026-q4:lesson-13:hope-outline",

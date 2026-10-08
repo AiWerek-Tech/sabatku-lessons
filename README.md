@@ -8,7 +8,7 @@ Untuk katalog bahasa Inggris, jangan tawarkan GraceLink Beginner, Kindergarten, 
 
 ## Alur kerja
 
-Kerangka [pendamping mingguan Dewasa](content/id/adult-supplements/README.md) tersedia untuk Q4 2026: 13 pelajaran dan 52 slot draf. Materi boleh diisi bertahap. Kerangka divalidasi bersama sumber utama, tetapi belum dipublikasikan atau ditampilkan Android.
+Koleksi [pendamping mingguan Dewasa](content/id/adult-supplements/README.md) tersedia untuk Q4 2026: 13 pelajaran dan 52 slot. Materi dapat direview dan diterbitkan per resource. GitHub Actions memasukkan hanya resource `published` yang lengkap ke katalog statis. Android belum membaca katalog suplemen; pembaca dan UI pendamping masih perlu diimplementasikan.
 
 Tim menyimpan metadata edisi/pelajaran sebagai JSON dan naskah bacaan sebagai Markdown. Pull request menjadi titik review. Setelah perubahan masuk ke `main`, GitHub Actions memvalidasi sumber, menghasilkan katalog JSON statis, lalu menerbitkannya ke GitHub Pages. Android mengonsumsi hasil publikasi, bukan file kerja editorial.
 
@@ -20,7 +20,8 @@ content/id/adult-easy-reading/<edition>/
         │
         └── npm run build:content
                 ├── public/catalog.json
-                └── public/editions/<edition>/... JSON
+                ├── public/editions/<edition>/... JSON
+                └── public/supplements/<locale>/<quarter>/... JSON + berkas
 ```
 
 Konten resmi Edisi Mudah Dibaca Triwulan IV 2026 saat ini tersedia pada `content/id/adult-easy-reading/2026-q4-er/`. Berkas di `content/_template/` tetap hanya contoh struktur dan tidak dipublikasikan sebagai materi.
@@ -46,6 +47,7 @@ Bahasa Inggris tetap memakai suplemen EGW Notes yang telah terintegrasi pada mat
 
 ```powershell
 npm run validate
+npm test
 npm run build:content
 ```
 
@@ -73,15 +75,18 @@ Gunakan URL hasil Pages yang ditampilkan GitHub; URL di atas hanya pola. Aplikas
 
 ## Format API statis v1
 
-- `catalog.json`: program, locale, edisi, rentang tanggal, atribusi, dan URL relatif ke JSON edisi.
+- `catalog.json`: program, locale, edisi, rentang tanggal, atribusi, URL edisi, serta pointer `supplements.url`.
 - `editions/<edition-id>/index.json`: metadata edisi dan daftar pelajaran.
 - `editions/<edition-id>/lessons/<lesson-id>/index.json`: metadata pelajaran dan daftar tujuh bacaan dengan isi Markdown.
+- `supplements/catalog.json`: daftar koleksi suplemen yang sudah diterbitkan.
+- `supplements/<locale>/<quarter>/index.json`: binding eksplisit ke edisi Dewasa serta daftar pelajaran/resource terbit.
+- `supplements/<locale>/<quarter>/<lesson>/resources.json`: resource terbit untuk satu studyId; tiap resource memiliki indeks sendiri dan file format dengan ukuran serta SHA-256.
 
 ID dokumen stabil memakai `adult-easy-reading:id:<edition>:lesson-XX:<day>`. Perubahan isi tidak boleh mengubah ID yang sudah diterbitkan, agar progres pengguna tetap tertaut.
 
 ## Hak dan publikasi
 
-Hanya materi yang tim berwenang terbitkan dan setujui untuk akses publik yang boleh masuk ke `main`. Repositori ini belum menetapkan lisensi penggunaan ulang. Jangan menambahkan lisensi open-source untuk materi secara otomatis; keputusan hak penggunaan harus dinyatakan terpisah dan disetujui pemilik materi.
+Hanya materi yang tim berwenang terbitkan dan setujui untuk akses publik yang boleh berstatus `published` dan masuk ke `main`. Publisher memerlukan atribusi dan pernyataan hak; terjemahan juga memerlukan nama tim penerjemah. Repositori ini belum menetapkan lisensi penggunaan ulang. Jangan menambahkan lisensi open-source untuk materi secara otomatis; keputusan hak penggunaan harus dinyatakan terpisah dan disetujui pemilik materi.
 
 ## Status integrasi Android
 
