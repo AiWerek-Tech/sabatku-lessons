@@ -179,6 +179,10 @@ def main() -> None:
     image_output.mkdir(parents=True, exist_ok=True)
     for name in sorted(image_names):
         shutil.copy2(args.assets / name, image_output / name)
+    cover_source = args.assets / "Cover_Depan_ER.png"
+    if cover_source.is_file():
+        shutil.copy2(cover_source, image_output / cover_source.name)
+    cover_url = f"editions/{args.edition_id}/assets/{cover_source.name}" if cover_source.is_file() else None
 
     intro = markdown_for(blocks[intro_index:first_lesson_index], "assets")
     (edition_dir / "introduction.md").write_text(intro, encoding="utf-8")
@@ -274,7 +278,7 @@ def main() -> None:
         "description": "Pelajaran Sekolah Sabat Dewasa Edisi Mudah Dibaca, Triwulan IV 2026.",
         "startDate": edition_start,
         "endDate": edition_end,
-        "cover": None,
+        "cover": cover_url,
         "sourceName": "General Conference of Seventh-day Adventists®",
         "attribution": "© 2026 General Conference of Seventh-day Adventists®. Edisi Mudah Dibaca disiapkan oleh Kantor Pedoman Pendalaman Alkitab Dewasa bekerja sama dengan Three Angels Deaf Ministries. Terjemahan bebas Bahasa Indonesia oleh tim penerjemah resmi SabatKu.",
         "rightsStatement": "Hak cipta dilindungi. Materi ini merupakan publikasi resmi tim penerjemah SabatKu dan disediakan untuk akses publik melalui SabatKu.",

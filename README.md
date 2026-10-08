@@ -17,7 +17,7 @@ content/id/adult-easy-reading/<edition>/
                 └── public/editions/<edition>/... JSON
 ```
 
-Belum ada materi pelajaran contoh yang dimasukkan. Template memakai placeholder, agar teks placeholder tidak keliru dianggap sebagai materi terbitan.
+Konten resmi Edisi Mudah Dibaca Triwulan IV 2026 saat ini tersedia pada `content/id/adult-easy-reading/2026-q4-er/`. Berkas di `content/_template/` tetap hanya contoh struktur dan tidak dipublikasikan sebagai materi.
 
 ## Persiapan lokal
 
