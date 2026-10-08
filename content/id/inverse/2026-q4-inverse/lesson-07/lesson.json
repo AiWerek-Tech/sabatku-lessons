@@ -1,0 +1,52 @@
+{
+  "id": "lesson-07",
+  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "sourceTitle": "Now Hear This!",
+  "startDate": "2026-11-08",
+  "endDate": "2026-11-14",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "inTro",
+      "date": "2026-11-08",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "inGest",
+      "date": "2026-11-09",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "inTerpret",
+      "date": "2026-11-10",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "inSpect",
+      "date": "2026-11-11",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "inVite",
+      "date": "2026-11-12",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "inSight",
+      "date": "2026-11-13",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "inQuire",
+      "date": "2026-11-14",
+      "file": "sabbath.md"
+    }
+  ],
+  "pdfs": []
+}

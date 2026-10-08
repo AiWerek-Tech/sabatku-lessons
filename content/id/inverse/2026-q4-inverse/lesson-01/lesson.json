@@ -1,0 +1,52 @@
+{
+  "id": "lesson-01",
+  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "sourceTitle": "The Creator Speaks",
+  "startDate": "2026-09-27",
+  "endDate": "2026-10-03",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "inTro",
+      "date": "2026-09-27",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "inGest",
+      "date": "2026-09-28",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "inTerpret",
+      "date": "2026-09-29",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "inSpect",
+      "date": "2026-09-30",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "inVite",
+      "date": "2026-10-01",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "inSight",
+      "date": "2026-10-02",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "inQuire",
+      "date": "2026-10-03",
+      "file": "sabbath.md"
+    }
+  ],
+  "pdfs": []
+}

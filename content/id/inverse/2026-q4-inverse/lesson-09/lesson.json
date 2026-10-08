@@ -1,0 +1,52 @@
+{
+  "id": "lesson-09",
+  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "sourceTitle": "Testing the Prophets",
+  "startDate": "2026-11-22",
+  "endDate": "2026-11-28",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "inTro",
+      "date": "2026-11-22",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "inGest",
+      "date": "2026-11-23",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "inTerpret",
+      "date": "2026-11-24",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "inSpect",
+      "date": "2026-11-25",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "inVite",
+      "date": "2026-11-26",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "inSight",
+      "date": "2026-11-27",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "inQuire",
+      "date": "2026-11-28",
+      "file": "sabbath.md"
+    }
+  ],
+  "pdfs": []
+}

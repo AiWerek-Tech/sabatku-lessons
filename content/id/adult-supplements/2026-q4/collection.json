@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "sabatku-supplements-v1",
+  "id": "adult-supplements:id:2026-q4",
+  "title": "Pendamping Sekolah Sabat Dewasa · Triwulan IV 2026",
+  "locale": "id",
+  "quarter": "2026-q4",
+  "audienceCategory": "adult",
+  "programRole": "supplement",
+  "publicationStatus": "draft",
+  "revision": 1,
+  "lessons": [
+    {
+      "lessonId": "lesson-01",
+      "manifest": "lesson-01/resources.json"
+    },
+    {
+      "lessonId": "lesson-02",
+      "manifest": "lesson-02/resources.json"
+    },
+    {
+      "lessonId": "lesson-03",
+      "manifest": "lesson-03/resources.json"
+    },
+    {
+      "lessonId": "lesson-04",
+      "manifest": "lesson-04/resources.json"
+    },
+    {
+      "lessonId": "lesson-05",
+      "manifest": "lesson-05/resources.json"
+    },
+    {
+      "lessonId": "lesson-06",
+      "manifest": "lesson-06/resources.json"
+    },
+    {
+      "lessonId": "lesson-07",
+      "manifest": "lesson-07/resources.json"
+    },
+    {
+      "lessonId": "lesson-08",
+      "manifest": "lesson-08/resources.json"
+    },
+    {
+      "lessonId": "lesson-09",
+      "manifest": "lesson-09/resources.json"
+    },
+    {
+      "lessonId": "lesson-10",
+      "manifest": "lesson-10/resources.json"
+    },
+    {
+      "lessonId": "lesson-11",
+      "manifest": "lesson-11/resources.json"
+    },
+    {
+      "lessonId": "lesson-12",
+      "manifest": "lesson-12/resources.json"
+    },
+    {
+      "lessonId": "lesson-13",
+      "manifest": "lesson-13/resources.json"
+    }
+  ],
+  "editionBindings": [
+    {
+      "programId": "adult-standard",
+      "locale": "id",
+      "editionId": "2026-04",
+      "unitIdPattern": "{number:02}"
+    },
+    {
+      "programId": "adult-easy-reading",
+      "locale": "id",
+      "editionId": "2026-q4-er",
+      "unitIdPattern": "lesson-{number:02}"
+    }
+  ]
+}

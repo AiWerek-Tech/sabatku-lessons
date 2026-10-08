@@ -1,0 +1,147 @@
+{
+  "id": "2026-q4-inverse",
+  "programId": "inverse",
+  "locale": "id",
+  "title": "InVerse · Triwulan IV 2026 (Kerangka Bahasa Indonesia)",
+  "description": "Kerangka editorial InVerse Bahasa Indonesia. Materi resmi tim penerjemah belum dimasukkan.",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "cover": null,
+  "sourceName": "InVerse Study Guide · General Conference of Seventh-day Adventists®",
+  "attribution": "Metadata jadwal dan judul sumber berbahasa Inggris digunakan sebagai acuan struktur. Terjemahan dan materi Indonesia menunggu publikasi resmi tim SabatKu.",
+  "rightsStatement": "Draf internal. Belum disiapkan untuk publikasi atau distribusi sampai materi dan hak publikasi ditinjau serta disetujui.",
+  "publicationStatus": "draft",
+  "sourceFormat": [
+    "Sumber struktur: InVerse Q4 2026 berbahasa Inggris dari Adventech",
+    "Konten Bahasa Indonesia: menunggu tim penerjemah resmi SabatKu"
+  ],
+  "lessonCount": 13,
+  "contributors": [
+    "Tim penerjemah resmi SabatKu"
+  ],
+  "sourceEditionId": "2026-04-cq",
+  "dayOrder": [
+    "sunday",
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "sabbath"
+  ],
+  "readingLabels": [
+    "inTro",
+    "inGest",
+    "inTerpret",
+    "inSpect",
+    "inVite",
+    "inSight",
+    "inQuire"
+  ],
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "The Creator Speaks",
+      "startDate": "2026-09-27",
+      "endDate": "2026-10-03",
+      "file": "lesson-01/lesson.json"
+    },
+    {
+      "id": "lesson-02",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "The Call of a Prophet",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-10",
+      "file": "lesson-02/lesson.json"
+    },
+    {
+      "id": "lesson-03",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "Old Testament Prophets",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-17",
+      "file": "lesson-03/lesson.json"
+    },
+    {
+      "id": "lesson-04",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "New Testament Prophets",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-24",
+      "file": "lesson-04/lesson.json"
+    },
+    {
+      "id": "lesson-05",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "Revelation and Inspiration",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-31",
+      "file": "lesson-05/lesson.json"
+    },
+    {
+      "id": "lesson-06",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "The Prophetic Writings",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-07",
+      "file": "lesson-06/lesson.json"
+    },
+    {
+      "id": "lesson-07",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "Now Hear This!",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-14",
+      "file": "lesson-07/lesson.json"
+    },
+    {
+      "id": "lesson-08",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "Interpreting Prophetic Writings",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-21",
+      "file": "lesson-08/lesson.json"
+    },
+    {
+      "id": "lesson-09",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "Testing the Prophets",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-28",
+      "file": "lesson-09/lesson.json"
+    },
+    {
+      "id": "lesson-10",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "Prophetic Authority and Relevance",
+      "startDate": "2026-11-29",
+      "endDate": "2026-12-05",
+      "file": "lesson-10/lesson.json"
+    },
+    {
+      "id": "lesson-11",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "The Prophetic Voice in Crucial Moments",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-12",
+      "file": "lesson-11/lesson.json"
+    },
+    {
+      "id": "lesson-12",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "End-time Prophetic Revelations",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-19",
+      "file": "lesson-12/lesson.json"
+    },
+    {
+      "id": "lesson-13",
+      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "sourceTitle": "Blessings from the Prophetic Word",
+      "startDate": "2026-12-20",
+      "endDate": "2026-12-26",
+      "file": "lesson-13/lesson.json"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "lesson-03",
+  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "sourceTitle": "Old Testament Prophets",
+  "startDate": "2026-10-11",
+  "endDate": "2026-10-17",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "inTro",
+      "date": "2026-10-11",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "inGest",
+      "date": "2026-10-12",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "inTerpret",
+      "date": "2026-10-13",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "inSpect",
+      "date": "2026-10-14",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "inVite",
+      "date": "2026-10-15",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "inSight",
+      "date": "2026-10-16",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "inQuire",
+      "date": "2026-10-17",
+      "file": "sabbath.md"
+    }
+  ],
+  "pdfs": []
+}

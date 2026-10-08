@@ -1,0 +1,52 @@
+{
+  "id": "lesson-02",
+  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "sourceTitle": "The Call of a Prophet",
+  "startDate": "2026-10-04",
+  "endDate": "2026-10-10",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "inTro",
+      "date": "2026-10-04",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "inGest",
+      "date": "2026-10-05",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "inTerpret",
+      "date": "2026-10-06",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "inSpect",
+      "date": "2026-10-07",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "inVite",
+      "date": "2026-10-08",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "inSight",
+      "date": "2026-10-09",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "inQuire",
+      "date": "2026-10-10",
+      "file": "sabbath.md"
+    }
+  ],
+  "pdfs": []
+}

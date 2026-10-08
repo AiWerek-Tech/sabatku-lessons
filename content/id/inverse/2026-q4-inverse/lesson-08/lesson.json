@@ -1,0 +1,52 @@
+{
+  "id": "lesson-08",
+  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "sourceTitle": "Interpreting Prophetic Writings",
+  "startDate": "2026-11-15",
+  "endDate": "2026-11-21",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "inTro",
+      "date": "2026-11-15",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "inGest",
+      "date": "2026-11-16",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "inTerpret",
+      "date": "2026-11-17",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "inSpect",
+      "date": "2026-11-18",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "inVite",
+      "date": "2026-11-19",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "inSight",
+      "date": "2026-11-20",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "inQuire",
+      "date": "2026-11-21",
+      "file": "sabbath.md"
+    }
+  ],
+  "pdfs": []
+}

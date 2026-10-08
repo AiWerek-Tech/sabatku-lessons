@@ -1,0 +1,52 @@
+{
+  "id": "lesson-11",
+  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "sourceTitle": "The Prophetic Voice in Crucial Moments",
+  "startDate": "2026-12-06",
+  "endDate": "2026-12-12",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "inTro",
+      "date": "2026-12-06",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "inGest",
+      "date": "2026-12-07",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "inTerpret",
+      "date": "2026-12-08",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "inSpect",
+      "date": "2026-12-09",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "inVite",
+      "date": "2026-12-10",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "inSight",
+      "date": "2026-12-11",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "inQuire",
+      "date": "2026-12-12",
+      "file": "sabbath.md"
+    }
+  ],
+  "pdfs": []
+}

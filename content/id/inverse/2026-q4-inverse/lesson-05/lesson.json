@@ -1,0 +1,52 @@
+{
+  "id": "lesson-05",
+  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "sourceTitle": "Revelation and Inspiration",
+  "startDate": "2026-10-25",
+  "endDate": "2026-10-31",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "inTro",
+      "date": "2026-10-25",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "inGest",
+      "date": "2026-10-26",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "inTerpret",
+      "date": "2026-10-27",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "inSpect",
+      "date": "2026-10-28",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "inVite",
+      "date": "2026-10-29",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "inSight",
+      "date": "2026-10-30",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "inQuire",
+      "date": "2026-10-31",
+      "file": "sabbath.md"
+    }
+  ],
+  "pdfs": []
+}

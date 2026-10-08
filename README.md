@@ -2,7 +2,13 @@
 
 Repositori materi Sekolah Sabat yang diterbitkan SabatKu. Versi awal difokuskan pada program **Dewasa Mudah Dibaca** (`adult-easy-reading`) berbahasa Indonesia.
 
+Katalog mengikuti tiga kelompok: Dewasa, Pemuda Dewasa, serta Anak-anak dan Pemuda. Edisi Standar dan Mudah Dibaca adalah edisi untuk kelompok Dewasa; EGW Notes merupakan suplemen; InVerse termasuk Pemuda Dewasa. Rentang usia hanya rekomendasi, bukan batas akses. Lihat [taksonomi kelas Sekolah Sabat](https://github.com/AiWerek-Tech/sabatku-docs/blob/main/architecture/sabbath-school-audience-taxonomy.md).
+
+Untuk katalog bahasa Inggris, jangan tawarkan GraceLink Beginner, Kindergarten, atau Primary lama sebagai program aktif; gunakan Alive in Jesus untuk level tersebut. Gunakan Junior PowerPoints, Real-Time Faith, dan Cornerstone sebagai materi transisi resmi untuk kelompok Junior, Teen, dan Youth selama materi Alive in Jesus untuk level tersebut belum tersedia.
+
 ## Alur kerja
+
+Kerangka [pendamping mingguan Dewasa](content/id/adult-supplements/README.md) tersedia untuk Q4 2026: 13 pelajaran dan 52 slot draf. Materi boleh diisi bertahap. Kerangka divalidasi bersama sumber utama, tetapi belum dipublikasikan atau ditampilkan Android.
 
 Tim menyimpan metadata edisi/pelajaran sebagai JSON dan naskah bacaan sebagai Markdown. Pull request menjadi titik review. Setelah perubahan masuk ke `main`, GitHub Actions memvalidasi sumber, menghasilkan katalog JSON statis, lalu menerbitkannya ke GitHub Pages. Android mengonsumsi hasil publikasi, bukan file kerja editorial.
 
@@ -18,6 +24,12 @@ content/id/adult-easy-reading/<edition>/
 ```
 
 Konten resmi Edisi Mudah Dibaca Triwulan IV 2026 saat ini tersedia pada `content/id/adult-easy-reading/2026-q4-er/`. Berkas di `content/_template/` tetap hanya contoh struktur dan tidak dipublikasikan sebagai materi.
+
+## Kerangka InVerse Indonesia Q4 2026
+
+Kerangka lokal tersedia di `content/id/inverse/2026-q4-inverse/`, mengikuti edisi InVerse bahasa Inggris `2026-04-cq`: 13 pelajaran dengan tujuh bacaan berurutan Minggu sampai Sabat (`inTro` hingga `inQuire`). Tanggal dan judul Inggris disimpan hanya sebagai referensi struktur. Semua bacaan Indonesia masih placeholder, metadata edisi berstatus `draft`, dan builder tidak memasukkannya ke katalog publik. Siklus InVerse dimulai hari Minggu sehingga pemetaan tanggalnya tidak boleh disamakan dengan urutan bacaan Dewasa Standar/Mudah Dibaca yang dimulai Sabat petang.
+
+Ketika materi resmi tersedia, tim mengganti placeholder dengan bacaan Markdown, mengisi judul terjemahan, atribusi/hak yang disetujui, cover/ilustrasi, serta metadata PDF bila tersedia. Ubah status menjadi `published` hanya setelah review editorial dan hak publikasi selesai.
 
 ## Kerangka EGW Notes Q4 2026
 
@@ -73,4 +85,4 @@ Hanya materi yang tim berwenang terbitkan dan setujui untuk akses publik yang bo
 
 ## Status integrasi Android
 
-Aplikasi Android menyediakan pemilih sumber terkait pada halaman bacaan untuk membuka bacaan harian dari edisi Dewasa Standar, Mudah Dibaca, atau suplemen EGW Notes yang telah diunduh. Katalog statis mencantumkan EGW Notes sebagai edisi terpisah yang dapat disimpan offline.
+Aplikasi Android menyediakan pemilih sumber terkait pada halaman bacaan untuk membuka bacaan harian dari edisi Dewasa Standar, Mudah Dibaca, atau suplemen EGW Notes yang telah diunduh. Katalog statis mencantumkan EGW Notes sebagai edisi terpisah yang dapat disimpan offline. Kerangka InVerse Indonesia disediakan lokal dengan program dan urutan hari tersendiri; belum dipublikasikan sebelum materi resmi diterima.

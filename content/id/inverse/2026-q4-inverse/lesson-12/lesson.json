@@ -1,0 +1,52 @@
+{
+  "id": "lesson-12",
+  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "sourceTitle": "End-time Prophetic Revelations",
+  "startDate": "2026-12-13",
+  "endDate": "2026-12-19",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "inTro",
+      "date": "2026-12-13",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "inGest",
+      "date": "2026-12-14",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "inTerpret",
+      "date": "2026-12-15",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "inSpect",
+      "date": "2026-12-16",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "inVite",
+      "date": "2026-12-17",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "inSight",
+      "date": "2026-12-18",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "inQuire",
+      "date": "2026-12-19",
+      "file": "sabbath.md"
+    }
+  ],
+  "pdfs": []
+}

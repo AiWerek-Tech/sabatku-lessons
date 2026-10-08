@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "sabatku-supplement-resources-v1",
+  "locale": "id",
+  "studyId": "adult:2026-q4:lesson-03",
+  "resources": [
+    {
+      "id": "adult-supplement:id:2026-q4:lesson-03:sabatku-summary",
+      "key": "sabatku-summary",
+      "title": "Ringkasan Pelajaran · Pelajaran 3",
+      "audienceCategory": "adult",
+      "programRole": "supplement",
+      "locale": "id",
+      "kind": "summary",
+      "scope": "weekly",
+      "studyId": "adult:2026-q4:lesson-03",
+      "appliesToPrograms": [
+        "adult-standard",
+        "adult-easy-reading"
+      ],
+      "source": {
+        "id": "sabatku-editorial",
+        "name": "Tim SabatKu",
+        "url": null
+      },
+      "editorialType": "original",
+      "translationTeam": null,
+      "attribution": null,
+      "rightsStatement": null,
+      "publicationStatus": "draft",
+      "revision": 1,
+      "formats": []
+    },
+    {
+      "id": "adult-supplement:id:2026-q4:lesson-03:teacher-guide",
+      "key": "teacher-guide",
+      "title": "Penuntun Guru · Pelajaran 3",
+      "audienceCategory": "adult",
+      "programRole": "supplement",
+      "locale": "id",
+      "kind": "teacher-guide",
+      "scope": "weekly",
+      "studyId": "adult:2026-q4:lesson-03",
+      "appliesToPrograms": [
+        "adult-standard",
+        "adult-easy-reading"
+      ],
+      "source": {
+        "id": "adult-bible-study-guide",
+        "name": "Adult Bible Study Guide",
+        "url": null
+      },
+      "editorialType": "translation",
+      "translationTeam": null,
+      "attribution": null,
+      "rightsStatement": null,
+      "publicationStatus": "draft",
+      "revision": 1,
+      "formats": []
+    },
+    {
+      "id": "adult-supplement:id:2026-q4:lesson-03:hope-outline",
+      "key": "hope-outline",
+      "title": "Outline Hope Sabbath School · Pelajaran 3",
+      "audienceCategory": "adult",
+      "programRole": "supplement",
+      "locale": "id",
+      "kind": "discussion-outline",
+      "scope": "weekly",
+      "studyId": "adult:2026-q4:lesson-03",
+      "appliesToPrograms": [
+        "adult-standard",
+        "adult-easy-reading"
+      ],
+      "source": {
+        "id": "hope-sabbath-school",
+        "name": "Hope Sabbath School",
+        "url": null
+      },
+      "editorialType": "translation",
+      "translationTeam": null,
+      "attribution": null,
+      "rightsStatement": null,
+      "publicationStatus": "draft",
+      "revision": 1,
+      "formats": []
+    },
+    {
+      "id": "adult-supplement:id:2026-q4:lesson-03:talking-points-outline",
+      "key": "talking-points-outline",
+      "title": "Outline Talking Points · Pelajaran 3",
+      "audienceCategory": "adult",
+      "programRole": "supplement",
+      "locale": "id",
+      "kind": "discussion-outline",
+      "scope": "weekly",
+      "studyId": "adult:2026-q4:lesson-03",
+      "appliesToPrograms": [
+        "adult-standard",
+        "adult-easy-reading"
+      ],
+      "source": {
+        "id": "talking-points",
+        "name": "Talking Points",
+        "url": null
+      },
+      "editorialType": "translation",
+      "translationTeam": null,
+      "attribution": null,
+      "rightsStatement": null,
+      "publicationStatus": "draft",
+      "revision": 1,
+      "formats": []
+    }
+  ]
+}

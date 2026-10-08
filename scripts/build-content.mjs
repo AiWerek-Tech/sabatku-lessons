@@ -1,6 +1,7 @@
 import { readFile, readdir, mkdir, rm, writeFile, cp } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { validateSupplements } from './validate-supplements.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const sourceRoot = path.join(root, 'content');
@@ -45,6 +46,7 @@ async function pdfResources(lesson, editionDir, label) {
 }
 
 async function main() {
+  await validateSupplements(sourceRoot);
   const languages = await readdir(sourceRoot, { withFileTypes: true });
   const editions = [];
   const published = [];
@@ -256,18 +258,135 @@ async function main() {
     assetDirectories.push({ source: path.join(editionDir, 'assets'), destination: path.join(outputRoot, 'editions', edition.id, 'assets') });
   }
 
+  // InVerse follows its own Sunday-to-Sabbath weekly cycle and content labels.
+  // Draft editions remain in the editorial tree but never enter the public catalog.
+  const inverseEditions = [];
+  const inverseRoot = path.join(sourceRoot, 'id', 'inverse');
+  let inverseFolders = [];
+  try { inverseFolders = await readdir(inverseRoot, { withFileTypes: true }); }
+  catch { /* InVerse is an optional Indonesian program. */ }
+  const inverseDayOrder = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'sabbath'];
+  for (const folder of inverseFolders.filter(entry => entry.isDirectory())) {
+    const editionDir = path.join(inverseRoot, folder.name);
+    const edition = await json(path.join(editionDir, 'edition.json'));
+    assert(edition.id === folder.name && idPattern.test(edition.id), `${folder.name}: InVerse edition id must match its folder`);
+    assert(edition.programId === 'inverse' && edition.locale === 'id', `${edition.id}: InVerse must use the Indonesian inverse program`);
+    assertDate(edition.startDate, `${edition.id}.startDate`);
+    assertDate(edition.endDate, `${edition.id}.endDate`);
+    assert(edition.title && edition.sourceName && edition.attribution && edition.rightsStatement, `${edition.id}: source and attribution metadata are required`);
+    const lessonFolders = (await readdir(editionDir, { withFileTypes: true }))
+      .filter(entry => entry.isDirectory() && /^lesson-\d{2}$/.test(entry.name))
+      .sort((a, b) => a.name.localeCompare(b.name));
+    assert(lessonFolders.length === 13, `${edition.id}: exactly 13 weekly InVerse lessons are required`);
+    for (const lessonFolder of lessonFolders) {
+      const lessonDir = path.join(editionDir, lessonFolder.name);
+      const lesson = await json(path.join(lessonDir, 'lesson.json'));
+      assert(lesson.id === lessonFolder.name && lesson.title && lesson.sourceTitle, `${edition.id}/${lessonFolder.name}: valid Indonesian and source lesson titles are required`);
+      assertDate(lesson.startDate, `${lesson.id}.startDate`);
+      assertDate(lesson.endDate, `${lesson.id}.endDate`);
+      assert(Array.isArray(lesson.readings) && lesson.readings.length === 7, `${lesson.id}: exactly seven InVerse readings are required`);
+      assert(lesson.readings.map(reading => reading.key).join(',') === inverseDayOrder.join(','), `${lesson.id}: InVerse readings must follow Sunday through Sabbath`);
+      const lessonStart = Date.parse(`${lesson.startDate}T00:00:00Z`);
+      for (const [index, reading] of lesson.readings.entries()) {
+        assertDate(reading.date, `${lesson.id}/${reading.key}.date`);
+        assert(reading.file === `${reading.key}.md`, `${lesson.id}/${reading.key}: filename must match reading key`);
+        const expectedDate = new Date(lessonStart + index * 86400000).toISOString().slice(0, 10);
+        assert(reading.date === expectedDate, `${lesson.id}/${reading.key}: date must be ${expectedDate}`);
+        const markdown = (await readFile(path.join(lessonDir, reading.file), 'utf8')).trim();
+        assert(markdown.length > 0, `${edition.id}/${lesson.id}/${reading.file}: reading file is required even for a draft`);
+      }
+    }
+    if (edition.publicationStatus !== 'published') continue;
+
+    const lessons = [];
+    for (const lessonFolder of lessonFolders) {
+      const lessonDir = path.join(editionDir, lessonFolder.name);
+      const lesson = await json(path.join(lessonDir, 'lesson.json'));
+      assert(lesson.id === lessonFolder.name && lesson.title && lesson.sourceTitle, `${edition.id}/${lessonFolder.name}: valid Indonesian and source lesson titles are required`);
+      assertDate(lesson.startDate, `${lesson.id}.startDate`);
+      assertDate(lesson.endDate, `${lesson.id}.endDate`);
+      assert(Array.isArray(lesson.readings) && lesson.readings.length === 7, `${lesson.id}: exactly seven InVerse readings are required`);
+      assert(lesson.readings.map(reading => reading.key).join(',') === inverseDayOrder.join(','), `${lesson.id}: InVerse readings must follow Sunday through Sabbath`);
+      const lessonStart = Date.parse(`${lesson.startDate}T00:00:00Z`);
+      const readings = [];
+      for (const [index, reading] of lesson.readings.entries()) {
+        assertDate(reading.date, `${lesson.id}/${reading.key}.date`);
+        assert(reading.file === `${reading.key}.md`, `${lesson.id}/${reading.key}: filename must match reading key`);
+        const expectedDate = new Date(lessonStart + index * 86400000).toISOString().slice(0, 10);
+        assert(reading.date === expectedDate, `${lesson.id}/${reading.key}: date must be ${expectedDate}`);
+        const markdown = (await readFile(path.join(lessonDir, reading.file), 'utf8')).trim();
+        assert(markdown.length > 0 && !markdown.includes('DRAF KERANGKA') && !markdown.includes('MATERI RESMI MENUNGGU'), `${edition.id}/${lesson.id}/${reading.file}: official Indonesian content is required before publication`);
+        readings.push({
+          id: `inverse:${edition.locale}:${edition.id}:${lesson.id}:${reading.key}`,
+          key: reading.key,
+          title: reading.title,
+          date: reading.date,
+          format: 'text/markdown',
+          content: markdown
+        });
+      }
+      const lessonUrl = `editions/${edition.id}/lessons/${lesson.id}/index.json`;
+      const lessonOutput = {
+        schemaVersion: 'sabatku-lessons-v1', editionId: edition.id, programId: edition.programId, locale: edition.locale,
+        lesson: { id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate },
+        readings,
+        pdfs: await pdfResources(lesson, editionDir, `${edition.id}/${lesson.id}`)
+      };
+      lessons.push({ id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate, url: lessonUrl });
+      published.push({ path: lessonUrl, value: lessonOutput });
+    }
+    const editionUrl = `editions/${edition.id}/index.json`;
+    const editionOutput = {
+      schemaVersion: 'sabatku-lessons-v1', id: edition.id, programId: edition.programId, locale: edition.locale,
+      title: edition.title, description: edition.description, startDate: edition.startDate, endDate: edition.endDate,
+      cover: edition.cover, sourceName: edition.sourceName, attribution: edition.attribution,
+      rightsStatement: edition.rightsStatement, lessons
+    };
+    inverseEditions.push({
+      id: edition.id, programId: edition.programId, locale: edition.locale, title: edition.title,
+      description: edition.description, startDate: edition.startDate, endDate: edition.endDate,
+      cover: edition.cover, sourceName: edition.sourceName, attribution: edition.attribution,
+      rightsStatement: edition.rightsStatement, url: editionUrl
+    });
+    published.push({ path: editionUrl, value: editionOutput });
+    assetDirectories.push({ source: path.join(editionDir, 'assets'), destination: path.join(outputRoot, 'editions', edition.id, 'assets') });
+  }
+
+  const programMetadata = {
+    'adult-easy-reading': {
+      audienceCategory: 'adult', ageRange: null, programRole: 'edition',
+      audienceLabel: { id: 'Dewasa', en: 'Adult' }
+    },
+    'adult-egw-notes': {
+      audienceCategory: 'adult', ageRange: null, programRole: 'supplement',
+      audienceLabel: { id: 'Dewasa', en: 'Adult' }
+    },
+    inverse: {
+      audienceCategory: 'youth-adult', ageRange: { min: 18, max: 35, unit: 'years', plus: true }, programRole: 'curriculum',
+      audienceLabel: { id: 'Pemuda Dewasa', en: 'Youth Adult' }
+    }
+  };
+  const withAudience = program => ({ ...program, ...programMetadata[program.id] });
+  // Keep downloaded edition and lesson documents self-describing, not only the catalog index.
+  for (const edition of [...editions, ...egwEditions, ...inverseEditions]) {
+    Object.assign(edition, programMetadata[edition.programId]);
+  }
+  for (const document of published) {
+    Object.assign(document.value, programMetadata[document.value.programId]);
+  }
   const catalog = {
     schemaVersion: 'sabatku-lessons-catalog-v1',
     generatedAt: new Date().toISOString(),
     programs: [
-      { id: 'adult-easy-reading', locale: 'id', title: 'SS Dewasa Mudah Dibaca', editions },
-      ...(egwEditions.length ? [{ id: 'adult-egw-notes', locale: 'id', title: 'Suplemen EGW Notes', editions: egwEditions }] : [])
+      withAudience({ id: 'adult-easy-reading', locale: 'id', title: 'SS Dewasa Mudah Dibaca', editions }),
+      ...(egwEditions.length ? [withAudience({ id: 'adult-egw-notes', locale: 'id', title: 'Suplemen EGW Notes', editions: egwEditions })] : []),
+      ...(inverseEditions.length ? [withAudience({ id: 'inverse', locale: 'id', title: 'InVerse · Pemuda Dewasa', editions: inverseEditions })] : [])
     ]
   };
 
   const checkOnly = process.argv.includes('--check');
   if (checkOnly) {
-    console.log(`Valid: ${editions.length + egwEditions.length} published edition(s), ${published.length - editions.length - egwEditions.length} lesson document(s).`);
+    console.log(`Valid: ${editions.length + egwEditions.length + inverseEditions.length} published edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length} lesson document(s).`);
     return;
   }
 
@@ -279,7 +398,7 @@ async function main() {
     catch (error) { if (error.code !== 'ENOENT') throw error; }
   }
   await writeFile(path.join(outputRoot, '.nojekyll'), '', 'utf8');
-  console.log(`Built ${editions.length + egwEditions.length} edition(s) and ${published.length - editions.length - egwEditions.length} lesson document(s) into public/.`);
+  console.log(`Built ${editions.length + egwEditions.length + inverseEditions.length} edition(s) and ${published.length - editions.length - egwEditions.length - inverseEditions.length} lesson document(s) into public/.`);
 }
 
 main().catch(error => { console.error(error.message); process.exitCode = 1; });
