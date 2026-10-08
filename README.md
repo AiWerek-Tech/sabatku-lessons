@@ -29,7 +29,7 @@ Konten resmi Edisi Mudah Dibaca Triwulan IV 2026 saat ini tersedia pada `content
 
 Materi InVerse Karunia Nubuat tersedia di `content/id/inverse/2026-q4-inverse/`: 13 pelajaran, 91 bacaan harian Minggu sampai Sabat (`inTro` hingga `inQuire`), cover, dan ilustrasi mingguan. Tanggal mengikuti publikasi Indonesia. `sourceTitle` Inggris hanya menjadi referensi pencocokan edisi dan tidak ditampilkan sebagai judul Indonesia. Edisi masuk katalog publik setelah dibangun dari branch `main`.
 
-PDF cetak triwulan disimpan sebagai `source-print-edition.pdf`; katalog aplikasi saat ini menyediakan bacaan harian dan ilustrasi, sedangkan PDF tersebut belum didaftarkan sebagai PDF baca per pelajaran.
+PDF cetak triwulan disimpan sebagai `source-print-edition.pdf` untuk pemeriksaan silang. Selain itu, setiap pelajaran memiliki PDF baca tersendiri (`assets/inverse-lesson-NN.pdf`), yang didaftarkan di `lesson.json` dan tersedia melalui katalog aplikasi.
 
 ## Kerangka EGW Notes Q4 2026
 
@@ -85,4 +85,4 @@ Hanya materi yang tim berwenang terbitkan dan setujui untuk akses publik yang bo
 
 ## Status integrasi Android
 
-Aplikasi Android menyediakan pemilih sumber terkait pada halaman bacaan untuk membuka bacaan harian dari edisi Dewasa Standar, Mudah Dibaca, atau suplemen EGW Notes yang telah diunduh. Katalog statis mencantumkan EGW Notes sebagai edisi terpisah yang dapat disimpan offline. Kerangka InVerse Indonesia disediakan lokal dengan program dan urutan hari tersendiri; belum dipublikasikan sebelum materi resmi diterima.
+Aplikasi Android menyediakan pemilih sumber terkait pada halaman bacaan untuk membuka bacaan harian dari edisi Dewasa Standar, Mudah Dibaca, atau suplemen EGW Notes yang telah diunduh. Katalog statis mencantumkan EGW Notes sebagai edisi terpisah yang dapat disimpan offline. InVerse Indonesia telah diterbitkan sebagai program Pemuda Dewasa tersendiri dengan urutan hari Minggu sampai Sabat. InVerse tidak ditautkan ke pelajaran program lain berdasarkan tanggal.

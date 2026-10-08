@@ -284,6 +284,7 @@ async function main() {
       const lessonDir = path.join(editionDir, lessonFolder.name);
       const lesson = await json(path.join(lessonDir, 'lesson.json'));
       assert(lesson.id === lessonFolder.name && lesson.title && lesson.sourceTitle, `${edition.id}/${lessonFolder.name}: valid Indonesian and source lesson titles are required`);
+      assert(Array.isArray(lesson.pdfs) && lesson.pdfs.length === 1, `${edition.id}/${lessonFolder.name}: exactly one per-lesson PDF is required`);
       assertDate(lesson.startDate, `${lesson.id}.startDate`);
       assertDate(lesson.endDate, `${lesson.id}.endDate`);
       assert(Array.isArray(lesson.readings) && lesson.readings.length === 7, `${lesson.id}: exactly seven InVerse readings are required`);
