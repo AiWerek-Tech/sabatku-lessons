@@ -160,15 +160,95 @@ async function main() {
     }
   }
 
+  const egwEditions = [];
+  const egwRoot = path.join(sourceRoot, 'id', 'adult-egw-notes');
+  let egwFolders = [];
+  try { egwFolders = await readdir(egwRoot, { withFileTypes: true }); }
+  catch { /* EGW Notes are an optional companion program. */ }
+  for (const folder of egwFolders.filter(entry => entry.isDirectory())) {
+    const editionDir = path.join(egwRoot, folder.name);
+    const edition = await json(path.join(editionDir, 'edition.json'));
+    assert(edition.id === folder.name && idPattern.test(edition.id), `${folder.name}: EGW edition id must match its folder`);
+    assert(edition.programId === 'adult-egw-notes' && edition.locale === 'id', `${edition.id}: EGW Notes must use the Indonesian companion program`);
+    assertDate(edition.startDate, `${edition.id}.startDate`);
+    assertDate(edition.endDate, `${edition.id}.endDate`);
+    assert(edition.title && edition.sourceName && edition.attribution && edition.rightsStatement, `${edition.id}: source and attribution metadata are required`);
+    if (edition.publicationStatus !== 'published') continue;
+
+    const lessonFolders = (await readdir(editionDir, { withFileTypes: true }))
+      .filter(entry => entry.isDirectory() && /^lesson-\d{2}$/.test(entry.name))
+      .sort((a, b) => a.name.localeCompare(b.name));
+    assert(lessonFolders.length === 13, `${edition.id}: exactly 13 weekly EGW notes are required`);
+    const lessons = [];
+    for (const lessonFolder of lessonFolders) {
+      const lessonDir = path.join(editionDir, lessonFolder.name);
+      const lesson = await json(path.join(lessonDir, 'lesson.json'));
+      assert(lesson.id === lessonFolder.name && lesson.title && lesson.notesFile, `${edition.id}/${lessonFolder.name}: valid lesson metadata is required`);
+      assertDate(lesson.startDate, `${lesson.id}.startDate`);
+      assertDate(lesson.endDate, `${lesson.id}.endDate`);
+      const markdown = (await readFile(path.join(lessonDir, lesson.notesFile), 'utf8')).trim();
+      assert(markdown.length > 0 && !markdown.includes('DRAF KERANGKA') && !markdown.includes('GANTI DENGAN'), `${lesson.id}: official notes content is required before publication`);
+      const companionReadings = edition.lessons.find(item => item.id === lesson.id)?.companionReadings;
+      assert(Array.isArray(companionReadings) && companionReadings.length === 7, `${lesson.id}: seven companion mappings are required`);
+      assert(companionReadings.map(item => item.dayKey).join(',') === dayOrder.join(','), `${lesson.id}: companion days must follow Sabbath evening through Friday`);
+      for (const assetPath of [...markdown.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g)].map(match => match[1])) {
+        const assetName = assetPath.replaceAll('\\', '/').slice('../../assets/'.length);
+        assert(assetPath.startsWith('../../assets/') && assetName && !assetName.split('/').includes('..'), `${lesson.id}: EGW illustrations must use the edition assets folder`);
+        try { await readFile(path.join(editionDir, 'assets', path.basename(assetPath))); }
+        catch { throw new Error(`${edition.id}/${lesson.id}: missing illustration ${path.basename(assetPath)}`); }
+      }
+      const lessonUrl = `editions/${edition.id}/lessons/${lesson.id}/index.json`;
+      const dailySections = markdown.split(/(?=^##\s+)/m).map(section => section.trim()).filter(section => section.startsWith('## '));
+      assert(dailySections.length === 7, `${lesson.id}: EGW Notes must contain seven day sections`);
+      const dayNames = ['Sabat Petang', 'Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat'];
+      const readings = dailySections.map((content, index) => {
+        const sectionTitle = content.match(/^##\s+(.+)$/m)?.[1]?.trim() ?? '';
+        assert(sectionTitle.startsWith(dayNames[index]), `${lesson.id}: expected the ${dayNames[index]} section at position ${index + 1}`);
+        const title = content.match(/^###\s+(.+)$/m)?.[1]?.trim() || lesson.title;
+        const date = new Date(Date.parse(`${lesson.startDate}T00:00:00Z`) + index * 86400000).toISOString().slice(0, 10);
+        return {
+          id: `adult-egw-notes:${edition.locale}:${edition.id}:${lesson.id}:${dayOrder[index]}`,
+          key: dayOrder[index], title, date, format: 'text/markdown', content
+        };
+      });
+      const lessonOutput = {
+        schemaVersion: 'sabatku-lessons-v1', editionId: edition.id, programId: edition.programId, locale: edition.locale,
+        lesson: { id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate },
+        readings,
+        companionReadings
+      };
+      lessons.push({ id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate, url: lessonUrl });
+      published.push({ path: lessonUrl, value: lessonOutput });
+    }
+    const editionUrl = `editions/${edition.id}/index.json`;
+    const editionOutput = {
+      schemaVersion: 'sabatku-lessons-v1', id: edition.id, programId: edition.programId, locale: edition.locale,
+      title: edition.title, description: edition.description, startDate: edition.startDate, endDate: edition.endDate,
+      cover: edition.cover, sourceName: edition.sourceName, attribution: edition.attribution,
+      rightsStatement: edition.rightsStatement, lessons
+    };
+    egwEditions.push({
+      id: edition.id, programId: edition.programId, locale: edition.locale, title: edition.title,
+      description: edition.description, startDate: edition.startDate, endDate: edition.endDate,
+      cover: edition.cover, sourceName: edition.sourceName, attribution: edition.attribution,
+      rightsStatement: edition.rightsStatement, url: editionUrl
+    });
+    published.push({ path: editionUrl, value: editionOutput });
+    assetDirectories.push({ source: path.join(editionDir, 'assets'), destination: path.join(outputRoot, 'editions', edition.id, 'assets') });
+  }
+
   const catalog = {
     schemaVersion: 'sabatku-lessons-catalog-v1',
     generatedAt: new Date().toISOString(),
-    programs: [{ id: 'adult-easy-reading', locale: 'id', title: 'Dewasa Mudah Dibaca', editions }]
+    programs: [
+      { id: 'adult-easy-reading', locale: 'id', title: 'SS Dewasa Mudah Dibaca', editions },
+      ...(egwEditions.length ? [{ id: 'adult-egw-notes', locale: 'id', title: 'Suplemen EGW Notes', editions: egwEditions }] : [])
+    ]
   };
 
   const checkOnly = process.argv.includes('--check');
   if (checkOnly) {
-    console.log(`Valid: ${editions.length} published edition(s), ${published.length - editions.length} lesson document(s).`);
+    console.log(`Valid: ${editions.length + egwEditions.length} published edition(s), ${published.length - editions.length - egwEditions.length} lesson document(s).`);
     return;
   }
 
@@ -180,7 +260,7 @@ async function main() {
     catch (error) { if (error.code !== 'ENOENT') throw error; }
   }
   await writeFile(path.join(outputRoot, '.nojekyll'), '', 'utf8');
-  console.log(`Built ${editions.length} edition(s) and ${published.length - editions.length} lesson document(s) into public/.`);
+  console.log(`Built ${editions.length + egwEditions.length} edition(s) and ${published.length - editions.length - egwEditions.length} lesson document(s) into public/.`);
 }
 
 main().catch(error => { console.error(error.message); process.exitCode = 1; });

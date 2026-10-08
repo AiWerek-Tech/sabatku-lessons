@@ -1,1 +1,91 @@
-# Catatan EGW · Pelajaran 12  > Draf kerangka saja. Isi hanya setelah naskah resmi diverifikasi dan disetujui tim. 
+# Catatan EGW — Pelajaran 12: Wahyu Nubuat Akhir Zaman
+
+![Ilustrasi EGW Notes Pelajaran 12](../../assets/illustration-12.webp)
+
+## Sabat Petang, 12 Desember
+
+Talenta-talenta yang Kristus percayakan kepada jemaat-Nya terutama menggambarkan karunia-karunia dan berkat-berkat yang diberikan oleh Roh Kudus. “Kepada yang seorang Roh memberikan karunia untuk berkata-kata dengan hikmat, dan kepada yang lain Roh yang sama memberikan karunia berkata-kata dengan pengetahuan. Kepada yang seorang Roh yang sama memberikan iman, dan kepada yang lain Ia memberikan karunia untuk menyembuhkan. Kepada yang seorang Roh memberikan kuasa untuk mengadakan mukjizat, dan kepada yang lain Ia memberikan karunia untuk bernubuat, dan kepada yang lain lagi Ia memberikan karunia untuk membedakan bermacam-macam roh. Kepada yang seorang Ia memberikan karunia untuk berkata-kata dengan bahasa roh, dan kepada yang lain Ia memberikan karunia untuk menafsirkan bahasa roh itu. Tetapi semuanya ini dikerjakan oleh Roh yang satu dan yang sama, yang memberikan karunia kepada tiap-tiap orang secara khusus, seperti yang dikehendaki-Nya” (1 Korintus 12:8–11). . . .
+
+Dalam seluruh pengaturan Tuhan, tidak ada sesuatu yang lebih indah daripada rencana-Nya untuk memberikan beragam karunia kepada laki-laki dan perempuan. Jemaat adalah taman-Nya, dihiasi dengan berbagai jenis pohon, tanaman, dan bunga. Ia tidak mengharapkan hisop tumbuh sebesar pohon aras, atau pohon zaitun menjulang setinggi pohon kurma yang megah. Banyak orang hanya memperoleh pendidikan agama dan intelektual yang terbatas, tetapi Allah mempunyai pekerjaan bagi mereka, jika mereka mau bekerja dengan rendah hati dan percaya kepada-Nya. . . .
+
+Karunia yang berbeda diberikan kepada orang yang berbeda agar para pekerja menyadari bahwa mereka saling membutuhkan. Allah yang menganugerahkan karunia-karunia itu, dan semuanya harus digunakan dalam pelayanan kepada-Nya, bukan untuk memuliakan pemiliknya, bukan untuk meninggikan manusia, melainkan untuk meninggikan Penebus dunia. Karunia-karunia itu harus digunakan demi kebaikan seluruh umat manusia dengan menyatakan kebenaran, bukan memberikan kesaksian palsu. . . . Dalam setiap perkataan dan tindakan akan terlihat kebaikan dan kasih. Dan ketika setiap pekerja dengan setia mengisi tempat yang telah ditetapkan baginya, doa Kristus mengenai persatuan para pengikut-Nya akan dijawab, dan dunia akan mengetahui bahwa mereka adalah murid-murid-Nya.—Ye Shall Receive Power, hlm. 191.
+
+Kita harus dituntun dan dikendalikan oleh Roh yang sama, tetapi untuk itu kita tidak harus memiliki karunia yang sama. “Ada rupa-rupa karunia, tetapi satu Roh. Dan ada rupa-rupa pelayanan, tetapi satu Tuhan. Dan ada berbagai-bagai perbuatan ajaib, tetapi Allah adalah satu yang mengerjakan semuanya dalam semua orang” (1 Korintus 12:4–6), untuk membawa berbagai pekerjaan itu ke dalam keselarasan yang sempurna. Allah telah “memberikan kepada anggota, masing-masing secara khusus, suatu tempat pada tubuh, seperti yang dikehendaki-Nya” (ayat 18). Ia telah menempatkan setiap orang pada pos tugasnya dan memberikan kepadanya pekerjaan tertentu. Jika engkau memiliki pertanyaan mengenai tempat tugasmu, berdoalah kepada Allah memohon tuntunan, dan pekerjaanmu akan ditentukan. Allah dengan jelas telah menyatakan bahwa Ia menempatkan setiap orang pada posnya masing-masing.—Ye Shall Receive Power, hlm. 220.
+
+## Minggu, 13 Desember
+
+### Janji Yoel
+
+Baptisan Roh Kudus seperti pada Hari Pentakosta akan membawa kepada kebangunan agama yang sejati dan terlaksananya banyak pekerjaan yang menakjubkan. Makhluk-makhluk surgawi akan datang di tengah-tengah kita, dan manusia akan berbicara ketika mereka digerakkan oleh Roh Kudus Allah. Namun seandainya Tuhan bekerja atas manusia seperti yang dilakukan-Nya pada Hari Pentakosta dan sesudahnya, banyak orang yang sekarang mengaku percaya kepada kebenaran justru akan begitu sedikit memahami pekerjaan Roh Kudus sehingga mereka akan berseru, “Waspadalah terhadap fanatisme.” Mereka akan berkata tentang orang-orang yang dipenuhi Roh, “Mereka sedang mabuk oleh anggur manis” (Kisah Para Rasul 2:13).
+
+Waktunya tidak lama lagi ketika manusia membutuhkan hubungan yang jauh lebih erat dengan Kristus dan persatuan yang jauh lebih dekat dengan Roh Kudus-Nya daripada yang pernah mereka alami sebelumnya. Namun hal itu tidak akan terjadi jika mereka tidak menyerahkan kehendak dan jalan mereka sendiri serta tunduk kepada kehendak dan jalan Allah. Dosa besar mereka yang mengaku Kristen adalah bahwa mereka tidak membuka hati untuk menerima Roh Kudus. Ketika jiwa-jiwa merindukan Kristus dan berusaha menjadi satu dengan-Nya, mereka yang merasa puas hanya dengan bentuk kesalehan akan berseru, “Hati-hati, jangan terlalu berlebihan.” Ketika malaikat-malaikat surga datang di tengah-tengah kita dan bekerja melalui manusia sebagai alat-Nya, akan terjadi pertobatan-pertobatan yang sungguh-sungguh dan nyata seperti pertobatan yang terjadi sesudah Hari Pentakosta.—Ye Shall Receive Power, hlm. 322.
+
+Dalam Firman-Nya, Allah telah mempercayakan kepada manusia pengetahuan yang diperlukan untuk keselamatan. Kitab Suci harus diterima sebagai penyataan kehendak-Nya yang berwibawa dan tidak dapat salah. Kitab Suci adalah standar tabiat, penyingkap ajaran, dan penguji pengalaman. . . .
+
+Namun kenyataan bahwa Allah telah menyatakan kehendak-Nya kepada manusia melalui Firman-Nya tidak berarti bahwa kehadiran dan tuntunan Roh Kudus yang terus-menerus tidak lagi diperlukan. . . .
+
+Selama berabad-abad ketika Kitab Suci Perjanjian Lama dan Perjanjian Baru sedang diberikan, Roh Kudus tidak berhenti menyampaikan terang kepada pribadi-pribadi, di luar penyataan yang kemudian menjadi bagian dari kanon Kitab Suci. . . . Disebutkan pula adanya nabi-nabi pada berbagai zaman yang perkataannya tidak dicatat. Dengan cara yang sama, setelah kanon Kitab Suci selesai, Roh Kudus tetap melanjutkan pekerjaan-Nya untuk menerangi, memperingatkan, dan menghibur anak-anak Allah.—The Faith I Live By, hlm. 293.
+
+## Senin, 14 Desember
+
+### Pentakosta
+
+Janji apakah yang diberikan Tuhan kita Yesus Kristus kepada murid-murid-Nya untuk menghibur mereka karena Ia akan meninggalkan mereka? Itulah janji tentang Roh Kudus Allah. Pengaruh Ilahi Roh Kudus akan bekerja bersama pikiran manusia dan mengingatkan mereka akan segala sesuatu yang telah Kristus katakan kepada mereka. Kebutuhan besar pada masa yang penuh bahaya ini adalah Roh Kudus, sebab Roh itu akan membawa serta semua berkat lainnya kepada orang yang menerimanya. Kebenaran yang dipercayai akan mengubah tabiat.
+
+Dalam terang kebenaran yang bersinar pada zaman kita, kita ditegur karena begitu sedikitnya kehadiran Roh Kudus. . . . Selama seseorang merasa puas hanya dengan teori kebenaran, tetapi tidak mengalami pekerjaan Roh Allah setiap hari di dalam hati yang tampak melalui perubahan tabiat secara nyata, ia sedang menjauhkan dirinya dari persiapan yang akan membuatnya lebih berhasil dalam pekerjaan Sang Guru. . . .
+
+Baptisan Roh Kudus seperti pada Hari Pentakosta akan membawa kepada kebangunan agama yang sejati dan terlaksananya banyak pekerjaan yang menakjubkan. Makhluk-makhluk surgawi akan datang di tengah-tengah kita, dan laki-laki serta perempuan akan berbicara ketika mereka digerakkan oleh Roh Kudus Allah. Namun seandainya Tuhan bekerja atas manusia seperti yang dilakukan-Nya pada Hari Pentakosta dan sesudahnya, banyak orang yang sekarang mengaku percaya kepada kebenaran justru akan begitu sedikit memahami pekerjaan Roh Kudus sehingga mereka akan berseru, “Waspadalah terhadap fanatisme.” Mereka akan berkata tentang orang-orang yang dipenuhi Roh, “Mereka sedang mabuk oleh anggur manis” [Kisah Para Rasul 2:13, NRSV]. . . .
+
+Ketika jiwa-jiwa merindukan Kristus dan berusaha menjadi satu dengan-Nya, mereka yang merasa puas hanya dengan bentuk kesalehan akan berseru, “Hati-hati; jangan terlalu berlebihan.”
+
+Ketika malaikat-malaikat surga datang di tengah-tengah kita dan bekerja melalui manusia sebagai alat-Nya, akan terjadi pertobatan-pertobatan yang sungguh-sungguh dan nyata seperti yang terjadi pada Hari Pentakosta. Sekarang . . . berhati-hatilah agar jangan terjerumus ke dalam kegairahan yang semata-mata berasal dari manusia. Namun sementara kita harus berhati-hati agar tidak terjebak dalam kegairahan manusiawi, kita juga tidak boleh termasuk di antara mereka yang terus mempertanyakan dan memelihara keraguan terhadap pekerjaan Roh Allah. Sebab akan ada orang-orang yang mempertanyakan dan mengkritik ketika Roh Allah menguasai laki-laki dan perempuan, karena hati mereka sendiri tidak digerakkan, melainkan tetap dingin dan tidak peka.—Christ Triumphant, hlm. 371.
+
+## Selasa, 15 Desember
+
+### Karunia-Karunia Roh
+
+Bagi kita pada masa kini, sama seperti bagi murid-murid yang pertama, janji Roh itu tetap berlaku. Allah pada masa kini akan memperlengkapi laki-laki dan perempuan dengan kuasa dari atas, sebagaimana Ia memperlengkapi mereka yang pada Hari Pentakosta mendengar firman keselamatan. Pada saat ini juga Roh dan kasih karunia-Nya tersedia bagi semua orang yang membutuhkannya dan yang mau berpegang pada firman-Nya.
+
+Kristus menyatakan bahwa pengaruh Ilahi Roh akan menyertai para pengikut-Nya sampai kepada akhir zaman. Namun janji itu tidak dihargai sebagaimana mestinya; karena itu penggenapannya pun tidak terlihat sebagaimana seharusnya. Janji tentang Roh hanya sedikit dipikirkan, dan akibatnya adalah seperti yang dapat diperkirakan—kekeringan rohani, kegelapan rohani, kemerosotan rohani, dan kematian. Perkara-perkara kecil menyita perhatian, sedangkan kuasa Ilahi yang diperlukan untuk pertumbuhan dan kemajuan jemaat, yang juga akan membawa semua berkat lainnya, tidak dimiliki, sekalipun kuasa itu ditawarkan dalam kelimpahan yang tidak terbatas.
+
+Ketiadaan Roh itulah yang membuat pelayanan Injil begitu kehilangan kuasa. Seseorang mungkin memiliki pendidikan, talenta, kefasihan berbicara, dan segala kemampuan, baik yang dibawa sejak lahir maupun yang diperoleh melalui latihan; tetapi tanpa kehadiran Roh Allah, tidak ada hati yang akan tersentuh dan tidak ada orang berdosa yang akan dimenangkan bagi Kristus. Sebaliknya, jika mereka bersatu dengan Kristus dan memiliki karunia-karunia Roh, murid-Nya yang paling sederhana dan paling kurang terpelajar sekalipun akan memiliki kuasa yang menyentuh hati. Allah menjadikan mereka saluran bagi mengalirnya pengaruh tertinggi di alam semesta.
+
+Semangat bagi Allah menggerakkan para murid untuk memberikan kesaksian tentang kebenaran dengan kuasa yang besar. Bukankah semangat yang sama seharusnya menyalakan hati kita dengan tekad untuk menceritakan kasih penebusan, tentang Kristus dan Dia yang disalibkan? Bukankah Roh Allah seharusnya datang pada masa kini sebagai jawaban atas doa yang sungguh-sungguh dan tekun, lalu memenuhi manusia dengan kuasa untuk melayani? Kalau demikian, mengapa jemaat begitu lemah dan kehilangan semangat?
+
+Ketika Roh Kudus menguasai pikiran anggota-anggota jemaat kita, akan terlihat di dalam jemaat standar yang jauh lebih tinggi dalam perkataan, pelayanan, dan kerohanian daripada yang sekarang terlihat. Para anggota jemaat akan disegarkan oleh air kehidupan, dan para pekerja, yang bekerja di bawah satu Kepala, yaitu Kristus, akan menyatakan Guru mereka melalui roh, perkataan, dan perbuatan. Mereka akan saling menguatkan untuk terus maju dalam pekerjaan penutup yang besar yang sedang kita jalankan. Akan terjadi pertumbuhan yang sehat dalam persatuan dan kasih, yang akan memberikan kesaksian kepada dunia bahwa Allah telah mengutus Anak-Nya untuk mati demi penebusan orang-orang berdosa. Kebenaran Ilahi akan ditinggikan; dan ketika kebenaran itu bersinar seperti pelita yang menyala, kita akan memahaminya dengan semakin jelas.—Counsels for the Church, hlm. 99, 100.
+
+## Rabu, 16 Desember
+
+### Umat Sisa Akhir Zaman
+
+Memandang sepanjang perjalanan zaman hingga mendekati akhir dunia, Petrus diilhami untuk menggambarkan keadaan yang akan terjadi di dunia menjelang kedatangan Kristus yang kedua. “Pada hari-hari zaman akhir akan tampil pengejek-pengejek,” tulisnya, “yang hidup menuruti hawa nafsunya. Kata mereka: Di manakah janji tentang kedatangan-Nya itu? Sebab sejak bapa-bapa leluhur kita meninggal, segala sesuatu tetap seperti semula, pada waktu dunia diciptakan.” Tetapi “apabila mereka mengatakan: Semuanya damai dan aman—maka tiba-tiba mereka ditimpa oleh kebinasaan” (1 Tesalonika 5:3). Namun tidak semua orang akan terjerat oleh tipu daya musuh. Ketika akhir segala sesuatu di dunia semakin mendekat, akan ada orang-orang setia yang sanggup memahami tanda-tanda zaman. . . . Akan ada umat sisa yang bertahan sampai akhir.
+
+Petrus memelihara pengharapan akan kembalinya Kristus dalam hatinya dan meyakinkan jemaat tentang kepastian penggenapan janji Juruselamat, “Apabila Aku telah pergi ke situ dan telah menyediakan tempat bagimu, Aku akan datang kembali dan membawa kamu ke tempat-Ku” (Yohanes 14:3). Bagi mereka yang sedang menghadapi ujian tetapi tetap setia, kedatangan itu mungkin terasa tertunda lama, tetapi sang rasul meyakinkan mereka: “Tuhan tidak lalai menepati janji-Nya, sekalipun ada orang yang menganggapnya sebagai kelalaian, tetapi Ia sabar terhadap kamu, karena Ia menghendaki supaya jangan ada yang binasa, melainkan supaya semua orang berbalik dan bertobat. Tetapi hari Tuhan akan tiba seperti pencuri. Pada hari itu langit akan lenyap dengan gemuruh yang dahsyat dan unsur-unsur dunia akan hangus dalam nyala api, dan bumi dan segala yang ada di atasnya akan hilang lenyap.
+
+“Jadi, jika segala sesuatu ini akan hancur secara demikian, betapa suci dan salehnya kamu harus hidup, sementara kamu menantikan dan mempercepat kedatangan hari Allah. Pada hari itu langit akan binasa dalam api dan unsur-unsur dunia akan hancur karena nyalanya. Tetapi sesuai dengan janji-Nya, kita menantikan langit yang baru dan bumi yang baru, di mana terdapat kebenaran.
+
+“Sebab itu, saudara-saudaraku yang kekasih, sambil menantikan semuanya ini, kamu harus berusaha supaya kamu didapati tak bercacat dan tak bernoda di hadapan-Nya, dalam perdamaian dengan Dia. Anggaplah kesabaran Tuhan kita sebagai kesempatan bagimu untuk beroleh keselamatan, seperti juga Paulus, saudara kita yang kekasih, telah menulis kepadamu menurut hikmat yang dikaruniakan kepadanya. . . . Tetapi kamu, saudara-saudaraku yang kekasih, karena kamu telah mengetahui hal ini sebelumnya, waspadalah, supaya kamu jangan terseret ke dalam kesesatan orang-orang yang tidak mengenal hukum dan jangan kehilangan peganganmu yang teguh. Tetapi bertumbuhlah dalam kasih karunia dan dalam pengenalan akan Tuhan dan Juruselamat kita, Yesus Kristus” (2 Petrus 3:9–18).—Lift Him Up, hlm. 355.
+
+## Kamis, 17 Desember
+
+### Manifestasi Modern
+
+Sebagaimana para murid, yang dipenuhi kuasa Roh, pergi memberitakan Injil, demikian pula hamba-hamba Allah harus pergi pada masa kini. Dipenuhi kerinduan yang tidak mementingkan diri untuk menyampaikan pekabaran kemurahan kepada mereka yang berada dalam kegelapan kesalahan dan ketidakpercayaan, kita harus mengambil bagian dalam pekerjaan Tuhan. Ia memberikan kepada kita bagian yang harus kita lakukan dalam kerja sama dengan-Nya, dan Ia juga akan menggerakkan hati orang-orang yang belum percaya untuk memajukan pekerjaan-Nya di wilayah-wilayah yang lebih jauh. Banyak orang sudah menerima Roh Kudus, dan jalan tidak lagi akan terhalang oleh sikap acuh tak acuh yang lesu.
+
+Mengapa sejarah pekerjaan para murid, ketika mereka bekerja dengan semangat yang kudus, digerakkan dan dikuatkan oleh Roh Kudus, dicatat jika bukan agar umat Tuhan pada masa kini memperoleh dorongan dari catatan itu untuk bekerja dengan sungguh-sungguh bagi-Nya? Apa yang Tuhan lakukan bagi umat-Nya pada masa itu sama pentingnya—bahkan lebih penting lagi—untuk dilakukan-Nya bagi umat-Nya sekarang. Segala sesuatu yang dilakukan para rasul harus dilakukan oleh setiap anggota jemaat pada masa kini. Dan kita harus bekerja dengan semangat yang jauh lebih besar serta disertai Roh Kudus dalam ukuran yang lebih berlimpah, karena meningkatnya kejahatan menuntut panggilan pertobatan yang lebih tegas.
+
+Setiap orang yang disinari terang kebenaran masa kini harus digerakkan oleh belas kasihan terhadap mereka yang berada dalam kegelapan. Dari semua orang percaya, terang harus dipantulkan dalam sinar yang jelas dan nyata. Pekerjaan serupa dengan yang Tuhan lakukan melalui para utusan-Nya sesudah Hari Pentakosta sedang dinantikan-Nya untuk dilakukan pada masa kini. Pada saat ini, ketika akhir segala sesuatu sudah dekat, bukankah semangat jemaat seharusnya bahkan melebihi semangat jemaat mula-mula? Semangat untuk memuliakan Allah mendorong para murid memberikan kesaksian tentang kebenaran dengan kuasa yang besar. Bukankah semangat yang sama seharusnya menyalakan hati kita dengan kerinduan untuk menceritakan kasih penebusan, tentang Kristus dan Dia yang disalibkan? Bukankah kuasa Allah seharusnya dinyatakan dengan lebih dahsyat pada masa kini daripada pada zaman para rasul?—Ye Shall Receive Power, hlm. 316.
+
+Pekerjaan besar Injil tidak akan berakhir dengan penyataan kuasa Allah yang lebih kecil daripada yang menandai permulaannya. Nubuat-nubuat yang digenapi melalui pencurahan hujan awal pada permulaan pemberitaan Injil akan digenapi kembali melalui hujan akhir pada penutupannya. . . .
+
+Hamba-hamba Allah, dengan wajah yang diterangi dan bersinar oleh penyerahan yang kudus, akan bergegas dari satu tempat ke tempat lain untuk memberitakan pekabaran dari surga. Melalui ribuan suara di seluruh bumi, amaran akan disampaikan. Mukjizat-mukjizat akan dilakukan, orang sakit akan disembuhkan, dan tanda-tanda serta keajaiban akan menyertai orang-orang percaya. Setan juga bekerja melalui mukjizat-mukjizat palsu, bahkan menurunkan api dari langit di depan mata manusia. Dengan demikian penduduk bumi akan dibawa untuk menentukan pendirian mereka.
+
+Pekabaran itu akan disampaikan bukan terutama melalui perdebatan, melainkan melalui keyakinan mendalam yang ditanamkan oleh Roh Allah. . . . Sinar-sinar terang menembus ke mana-mana, kebenaran terlihat dalam kejelasannya, dan anak-anak Allah yang jujur memutuskan ikatan-ikatan yang selama ini menahan mereka.—The Faith I Live By, hlm. 332.
+
+## Jumat, 18 Desember
+
+### Bacaan Lanjutan
+
+God’s Amazing Grace, “Pentecost,” 4 Juli, hlm. 193.
+
+Maranatha, “Another Pentecost Coming!” 5 September, hlm. 256.

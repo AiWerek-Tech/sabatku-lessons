@@ -2,664 +2,710 @@
   "id": "2026-q4-egw",
   "programId": "adult-egw-notes",
   "locale": "id",
-  "title": "Catatan EGW Sekolah Sabat Dewasa · Triwulan IV 2026",
-  "description": "Suplemen Catatan Ellen G. White yang ditautkan ke pelajaran Sekolah Sabat Dewasa Standar dan Edisi Mudah Dibaca.",
+  "title": "Catatan EGW — Sekolah Sabat Dewasa, Triwulan IV 2026",
+  "description": "Suplemen Catatan Ellen G. White untuk Sekolah Sabat Dewasa. Bacaan Indonesia ditautkan berdasarkan hari dan nomor pelajaran.",
   "startDate": "2026-09-26",
   "endDate": "2026-12-25",
-  "sourceName": "Tim resmi penerjemah SabatKu",
-  "publicationStatus": "draft",
+  "cover": "editions/2026-q4-egw/assets/cover.webp",
+  "sourceName": "Ellen G. White Notes on the Adult Bible Study Guide · Pacific Press Publishing Association",
+  "attribution": "Terjemahan bebas Bahasa Indonesia oleh tim resmi penerjemah SabatKu dari publikasi resmi Catatan Ellen G. White untuk Panduan Pendalaman Alkitab Dewasa.",
+  "rightsStatement": "Materi disediakan oleh tim penerjemah resmi SabatKu untuk akses publik. Hak atas karya sumber tetap pada pemegang hak terkait.",
+  "publicationStatus": "published",
   "sourceFormat": [
     "HTML resmi untuk publikasi digital",
     "PDF versi cetak"
   ],
+  "lessonCount": 13,
+  "contributors": [
+    "Tim penerjemah resmi SabatKu"
+  ],
   "lessons": [
     {
-      "lessonId": "lesson-01",
-      "standardLessonNumber": "01",
-      "easyReadingLessonId": "lesson-01",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-01:egw-notes",
-      "readings": [
+      "id": "lesson-01",
+      "title": "Sang Pencipta Berbicara",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-02",
+      "file": "lesson-01/lesson.json",
+      "notesFile": "lesson-01/notes.md",
+      "sourcePage": 1,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-01:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-01:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-01:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-01:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-01:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-01:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-01:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-01:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-01:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-01:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-01:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-01:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-01:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-01:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-01:friday"
         }
       ]
     },
     {
-      "lessonId": "lesson-02",
-      "standardLessonNumber": "02",
-      "easyReadingLessonId": "lesson-02",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-02:egw-notes",
-      "readings": [
+      "id": "lesson-02",
+      "title": "Panggilan Seorang Nabi",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-09",
+      "file": "lesson-02/lesson.json",
+      "notesFile": "lesson-02/notes.md",
+      "sourcePage": 2,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-02:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-02:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-02:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-02:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-02:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-02:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-02:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-02:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-02:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-02:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-02:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-02:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-02:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-02:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-02:friday"
         }
       ]
     },
     {
-      "lessonId": "lesson-03",
-      "standardLessonNumber": "03",
-      "easyReadingLessonId": "lesson-03",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-03:egw-notes",
-      "readings": [
+      "id": "lesson-03",
+      "title": "Nabi-Nabi Perjanjian Lama",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-16",
+      "file": "lesson-03/lesson.json",
+      "notesFile": "lesson-03/notes.md",
+      "sourcePage": 3,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-03:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-03:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-03:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-03:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-03:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-03:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-03:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-03:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-03:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-03:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-03:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-03:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-03:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-03:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-03:friday"
         }
       ]
     },
     {
-      "lessonId": "lesson-04",
-      "standardLessonNumber": "04",
-      "easyReadingLessonId": "lesson-04",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-04:egw-notes",
-      "readings": [
+      "id": "lesson-04",
+      "title": "Nabi-Nabi Perjanjian Baru",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-23",
+      "file": "lesson-04/lesson.json",
+      "notesFile": "lesson-04/notes.md",
+      "sourcePage": 4,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-04:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-04:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-04:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-04:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-04:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-04:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-04:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-04:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-04:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-04:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-04:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-04:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-04:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-04:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-04:friday"
         }
       ]
     },
     {
-      "lessonId": "lesson-05",
-      "standardLessonNumber": "05",
-      "easyReadingLessonId": "lesson-05",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-05:egw-notes",
-      "readings": [
+      "id": "lesson-05",
+      "title": "Wahyu dan Inspirasi",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-30",
+      "file": "lesson-05/lesson.json",
+      "notesFile": "lesson-05/notes.md",
+      "sourcePage": 5,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-05:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-05:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-05:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-05:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-05:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-05:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-05:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-05:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-05:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-05:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-05:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-05:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-05:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-05:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-05:friday"
         }
       ]
     },
     {
-      "lessonId": "lesson-06",
-      "standardLessonNumber": "06",
-      "easyReadingLessonId": "lesson-06",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-06:egw-notes",
-      "readings": [
+      "id": "lesson-06",
+      "title": "Tulisan-tulisan Nubuatan",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-06",
+      "file": "lesson-06/lesson.json",
+      "notesFile": "lesson-06/notes.md",
+      "sourcePage": 6,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-06:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-06:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-06:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-06:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-06:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-06:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-06:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-06:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-06:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-06:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-06:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-06:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-06:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-06:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-06:friday"
         }
       ]
     },
     {
-      "lessonId": "lesson-07",
-      "standardLessonNumber": "07",
-      "easyReadingLessonId": "lesson-07",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-07:egw-notes",
-      "readings": [
+      "id": "lesson-07",
+      "title": "Dengarkanlah Ini!",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-13",
+      "file": "lesson-07/lesson.json",
+      "notesFile": "lesson-07/notes.md",
+      "sourcePage": 7,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-07:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-07:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-07:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-07:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-07:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-07:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-07:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-07:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-07:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-07:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-07:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-07:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-07:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-07:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-07:friday"
         }
       ]
     },
     {
-      "lessonId": "lesson-08",
-      "standardLessonNumber": "08",
-      "easyReadingLessonId": "lesson-08",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-08:egw-notes",
-      "readings": [
+      "id": "lesson-08",
+      "title": "Menafsirkan Tulisan-Tulisan Nubuatan",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-20",
+      "file": "lesson-08/lesson.json",
+      "notesFile": "lesson-08/notes.md",
+      "sourcePage": 8,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-08:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-08:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-08:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-08:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-08:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-08:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-08:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-08:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-08:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-08:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-08:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-08:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-08:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-08:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-08:friday"
         }
       ]
     },
     {
-      "lessonId": "lesson-09",
-      "standardLessonNumber": "09",
-      "easyReadingLessonId": "lesson-09",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-09:egw-notes",
-      "readings": [
+      "id": "lesson-09",
+      "title": "Menguji Para Nabi",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-27",
+      "file": "lesson-09/lesson.json",
+      "notesFile": "lesson-09/notes.md",
+      "sourcePage": 9,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-09:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-09:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-09:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-09:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-09:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-09:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-09:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-09:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-09:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-09:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-09:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-09:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-09:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-09:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-09:friday"
         }
       ]
     },
     {
-      "lessonId": "lesson-10",
-      "standardLessonNumber": "10",
-      "easyReadingLessonId": "lesson-10",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-10:egw-notes",
-      "readings": [
+      "id": "lesson-10",
+      "title": "Otoritas dan Relevansi Kenabian",
+      "startDate": "2026-11-28",
+      "endDate": "2026-12-04",
+      "file": "lesson-10/lesson.json",
+      "notesFile": "lesson-10/notes.md",
+      "sourcePage": 10,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-10:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-10:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-10:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-10:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-10:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-10:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-10:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-10:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-10:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-10:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-10:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-10:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-10:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-10:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-10:friday"
         }
       ]
     },
     {
-      "lessonId": "lesson-11",
-      "standardLessonNumber": "11",
-      "easyReadingLessonId": "lesson-11",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-11:egw-notes",
-      "readings": [
+      "id": "lesson-11",
+      "title": "Manifestasi Nubuat di Saat-Saat Krusial",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-11",
+      "file": "lesson-11/lesson.json",
+      "notesFile": "lesson-11/notes.md",
+      "sourcePage": 11,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-11:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-11:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-11:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-11:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-11:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-11:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-11:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-11:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-11:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-11:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-11:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-11:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-11:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-11:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-11:friday"
         }
       ]
     },
     {
-      "lessonId": "lesson-12",
-      "standardLessonNumber": "12",
-      "easyReadingLessonId": "lesson-12",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-12:egw-notes",
-      "readings": [
+      "id": "lesson-12",
+      "title": "Wahyu Nubuat Akhir Zaman",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-18",
+      "file": "lesson-12/lesson.json",
+      "notesFile": "lesson-12/notes.md",
+      "sourcePage": 12,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-12:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-12:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-12:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-12:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-12:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-12:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-12:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-12:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-12:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-12:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-12:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-12:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-12:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-12:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-12:friday"
         }
       ]
     },
     {
-      "lessonId": "lesson-13",
-      "standardLessonNumber": "13",
-      "easyReadingLessonId": "lesson-13",
-      "egwNotesDocumentId": "adult-egw-notes:id:2026-q4-egw:lesson-13:egw-notes",
-      "readings": [
+      "id": "lesson-13",
+      "title": "Berkat Dari Firman Nubuat",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-25",
+      "file": "lesson-13/lesson.json",
+      "notesFile": "lesson-13/notes.md",
+      "sourcePage": 13,
+      "companionReadings": [
         {
           "dayKey": "sabbath",
           "adultStandardId": "adult-standard:id:2026-04:lesson-13:sabbath",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-13:sabbath",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:sabbath"
         },
         {
           "dayKey": "sunday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-13:sunday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-13:sunday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:sunday"
         },
         {
           "dayKey": "monday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-13:monday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-13:monday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:monday"
         },
         {
           "dayKey": "tuesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-13:tuesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-13:tuesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:tuesday"
         },
         {
           "dayKey": "wednesday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-13:wednesday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-13:wednesday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:wednesday"
         },
         {
           "dayKey": "thursday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-13:thursday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-13:thursday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:thursday"
         },
         {
           "dayKey": "friday",
           "adultStandardId": "adult-standard:id:2026-04:lesson-13:friday",
           "adultEasyReadingId": "adult-easy-reading:id:2026-q4-er:lesson-13:friday",
-          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:egw-notes"
+          "egwNotesId": "adult-egw-notes:id:2026-q4-egw:lesson-13:friday"
         }
       ]
     }

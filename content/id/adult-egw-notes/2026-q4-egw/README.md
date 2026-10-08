@@ -1,10 +1,11 @@
-# EGW Notes Q4 2026 — kerangka draf
+# EGW Notes Q4 2026
 
-Sumber yang disiapkan tim berada di `C:\Users\ADMIN\Music\EGW Notes Q4 2026`. Kerangka ini memisahkan catatan EGW Indonesia dari naskah harian Edisi Standar dan Mudah Dibaca, lalu memetakan semuanya lewat nomor pelajaran dan hari.
+Sumber tim berada di `C:\Users\ADMIN\Music\EGW Notes Q4 2026`. Materi digital disusun dari HTML publikasi resmi, dengan PDF versi cetak sebagai pemeriksaan silang. Catatan EGW Indonesia disimpan sebagai program tersendiri dan terhubung ke bacaan Dewasa Standar serta Mudah Dibaca lewat nomor pelajaran dan hari.
 
-- `edition.json`: metadata edisi, saat ini berstatus `draft`.
-- `lesson-01` … `lesson-13/lesson.json`: nomor pelajaran dan rentang pekan.
-- `lesson-XX/notes.md`: tempat transkripsi/konversi naskah resmi setelah diverifikasi.
-- `edition.json.lessons[].readings[]`: ID stabil untuk tautan ke bacaan Standar, Mudah Dibaca, dan EGW Notes.
+- `edition.json`: metadata terbit dan ID bacaan untuk hubungan lintas edisi.
+- `lesson-01` … `lesson-13/lesson.json`: judul resmi dan rentang pekan.
+- `lesson-XX/notes.md`: tujuh bagian bacaan harian dalam Markdown.
+- `assets/cover.webp` dan `assets/illustration-XX.webp`: cover serta ilustrasi publikasi yang dioptimalkan.
+- `edition.json.lessons[].companionReadings[]`: pemetaan ID harian Dewasa Standar, Mudah Dibaca, dan EGW Notes.
 
-Kerangka ini tidak dipublikasikan oleh pipeline yang ada. Jangan ubah menjadi `published` sebelum naskah resmi dimasukkan, diperiksa, dan format katalog Android untuk sumber pendamping diaktifkan. Catatan bahasa Inggris tetap mengikuti suplemen yang sudah ada pada sumber Dewasa Standar Adventech.
+Pipeline menghasilkan program `adult-egw-notes` secara terpisah. Catatan bahasa Inggris tetap mengikuti suplemen yang sudah ada pada sumber Dewasa Standar Adventech.

@@ -21,11 +21,11 @@ Konten resmi Edisi Mudah Dibaca Triwulan IV 2026 saat ini tersedia pada `content
 
 ## Kerangka EGW Notes Q4 2026
 
-Sumber resmi tim saat ini tersedia di `C:\Users\ADMIN\Music\EGW Notes Q4 2026` dalam HTML untuk publikasi digital dan PDF untuk versi cetak. Kerangka terpisah telah disiapkan di `content/id/adult-egw-notes/2026-q4-egw/` untuk menjaga catatan EGW tetap sebagai sumber bacaan tersendiri, tetapi terhubung ke pelajaran Dewasa Standar dan Mudah Dibaca berdasarkan nomor pelajaran serta hari.
+Sumber resmi tim berada di `C:\Users\ADMIN\Music\EGW Notes Q4 2026` dalam HTML untuk publikasi digital dan PDF untuk versi cetak. Materi Indonesia telah disusun di `content/id/adult-egw-notes/2026-q4-egw/` sebagai program pendamping terpisah. Tiap pelajaran memiliki tujuh bacaan harian, ilustrasi, dan ID stabil yang dipetakan ke edisi Dewasa Standar serta Mudah Dibaca.
 
-Kerangka ini berstatus `draft` dan belum diproses pipeline publikasi. Folder tersebut berisi metadata 13 pelajaran, file `notes.md` sebagai tempat transkripsi resmi, dan pemetaan ID stabil untuk tiga sumber. Jangan aktifkan publikasi sebelum materi diverifikasi dan adapter katalog sumber pendamping Android selesai.
+Cover dan ilustrasi publikasi disimpan sebagai WebP teroptimasi. File Markdown harian diturunkan dari HTML digital resmi; PDF cetak dipakai untuk pemeriksaan silang. Katalog memublikasikan Catatan EGW sebagai program unduhan tersendiri, sementara pemilih Sumber Pelajaran Terkait Android menghubungkan hari yang sama berdasarkan nomor pelajaran dan hari.
 
-Bahasa Inggris tetap memakai suplemen EGW Notes yang telah terintegrasi pada materi Dewasa Standar dari Adventech. Catatan terpisah ini disiapkan untuk edisi Bahasa Indonesia.
+Bahasa Inggris tetap memakai suplemen EGW Notes yang telah terintegrasi pada materi Dewasa Standar dari Adventech. Edisi terpisah ini hanya untuk materi Bahasa Indonesia.
 
 ## Persiapan lokal
 
@@ -73,4 +73,4 @@ Hanya materi yang tim berwenang terbitkan dan setujui untuk akses publik yang bo
 
 ## Status integrasi Android
 
-Aplikasi Android telah menyediakan pemilih sumber terkait pada halaman bacaan untuk membuka bacaan harian Dewasa Standar atau Mudah Dibaca yang telah diunduh. Pilihan EGW Notes Indonesia akan aktif setelah naskah dimasukkan, struktur paket pendamping dipublikasikan, dan adapter unduh/cache offline mengonsumsinya. Jangan mengubah draf EGW menjadi materi terbit hanya dengan mengubah status metadata.
+Aplikasi Android menyediakan pemilih sumber terkait pada halaman bacaan untuk membuka bacaan harian dari edisi Dewasa Standar, Mudah Dibaca, atau suplemen EGW Notes yang telah diunduh. Katalog statis mencantumkan EGW Notes sebagai edisi terpisah yang dapat disimpan offline.
