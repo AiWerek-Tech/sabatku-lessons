@@ -1,6 +1,6 @@
 {
   "id": "lesson-06",
-  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "title": "Tulisan-Tulisan Nubuatan",
   "sourceTitle": "The Prophetic Writings",
   "startDate": "2026-11-01",
   "endDate": "2026-11-07",
@@ -48,5 +48,7 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": []
+  "pdfs": [],
+  "bibleReading": "Yeremia 36:1–19",
+  "illustration": "../../assets/inverse-lesson-06.png"
 }

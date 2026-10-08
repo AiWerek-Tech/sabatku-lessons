@@ -1,6 +1,6 @@
 {
   "id": "lesson-12",
-  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "title": "Wahyu Nubuat Akhir Zaman",
   "sourceTitle": "End-time Prophetic Revelations",
   "startDate": "2026-12-13",
   "endDate": "2026-12-19",
@@ -48,5 +48,7 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": []
+  "pdfs": [],
+  "bibleReading": "Kisah Para Rasul 2:1–21",
+  "illustration": "../../assets/inverse-lesson-12.png"
 }

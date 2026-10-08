@@ -2,18 +2,19 @@
   "id": "2026-q4-inverse",
   "programId": "inverse",
   "locale": "id",
-  "title": "InVerse · Triwulan IV 2026 (Kerangka Bahasa Indonesia)",
-  "description": "Kerangka editorial InVerse Bahasa Indonesia. Materi resmi tim penerjemah belum dimasukkan.",
+  "title": "Karunia Nubuat · InVerse · Triwulan IV 2026",
+  "description": "Panduan InVerse Pemuda Dewasa, Triwulan IV 2026. Materi Bahasa Indonesia dari publikasi resmi tim penerjemah SabatKu.",
   "startDate": "2026-09-27",
   "endDate": "2026-12-26",
-  "cover": null,
-  "sourceName": "InVerse Study Guide · General Conference of Seventh-day Adventists®",
-  "attribution": "Metadata jadwal dan judul sumber berbahasa Inggris digunakan sebagai acuan struktur. Terjemahan dan materi Indonesia menunggu publikasi resmi tim SabatKu.",
-  "rightsStatement": "Draf internal. Belum disiapkan untuk publikasi atau distribusi sampai materi dan hak publikasi ditinjau serta disetujui.",
-  "publicationStatus": "draft",
+  "cover": "editions/2026-q4-inverse/assets/cover-inverse.png",
+  "sourceName": "InVerse · General Conference of Seventh-day Adventists® / Ellen G. White Estate",
+  "attribution": "Terjemahan Bahasa Indonesia dari publikasi resmi InVerse: Karunia Nubuat, disiapkan oleh tim penerjemah resmi SabatKu.",
+  "rightsStatement": "Materi disediakan untuk akses publik melalui SabatKu sesuai otorisasi tim penerjemah; hak atas materi sumber tetap pada pemiliknya.",
+  "publicationStatus": "published",
   "sourceFormat": [
-    "Sumber struktur: InVerse Q4 2026 berbahasa Inggris dari Adventech",
-    "Konten Bahasa Indonesia: menunggu tim penerjemah resmi SabatKu"
+    "Sumber digital: HTML publikasi InVerse Bahasa Indonesia yang diberikan tim penerjemah.",
+    "Sumber cetak: PDF triwulan penuh, disimpan untuk pemeriksaan editorial; belum ditautkan sebagai PDF baca per pelajaran.",
+    "Cover dan ilustrasi mingguan diambil dari aset publikasi yang disediakan bersama materi."
   ],
   "lessonCount": 13,
   "contributors": [
@@ -41,7 +42,7 @@
   "lessons": [
     {
       "id": "lesson-01",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Sang Pencipta Berbicara",
       "sourceTitle": "The Creator Speaks",
       "startDate": "2026-09-27",
       "endDate": "2026-10-03",
@@ -49,7 +50,7 @@
     },
     {
       "id": "lesson-02",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Panggilan Seorang Nabi",
       "sourceTitle": "The Call of a Prophet",
       "startDate": "2026-10-04",
       "endDate": "2026-10-10",
@@ -57,7 +58,7 @@
     },
     {
       "id": "lesson-03",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Nabi-Nabi Perjanjian Lama",
       "sourceTitle": "Old Testament Prophets",
       "startDate": "2026-10-11",
       "endDate": "2026-10-17",
@@ -65,7 +66,7 @@
     },
     {
       "id": "lesson-04",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Nabi-Nabi Perjanjian Baru",
       "sourceTitle": "New Testament Prophets",
       "startDate": "2026-10-18",
       "endDate": "2026-10-24",
@@ -73,7 +74,7 @@
     },
     {
       "id": "lesson-05",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Wahyu dan Inspirasi",
       "sourceTitle": "Revelation and Inspiration",
       "startDate": "2026-10-25",
       "endDate": "2026-10-31",
@@ -81,7 +82,7 @@
     },
     {
       "id": "lesson-06",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Tulisan-Tulisan Nubuatan",
       "sourceTitle": "The Prophetic Writings",
       "startDate": "2026-11-01",
       "endDate": "2026-11-07",
@@ -89,7 +90,7 @@
     },
     {
       "id": "lesson-07",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Dengarkanlah Ini!",
       "sourceTitle": "Now Hear This!",
       "startDate": "2026-11-08",
       "endDate": "2026-11-14",
@@ -97,7 +98,7 @@
     },
     {
       "id": "lesson-08",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Menafsirkan Tulisan-Tulisan Nubuatan",
       "sourceTitle": "Interpreting Prophetic Writings",
       "startDate": "2026-11-15",
       "endDate": "2026-11-21",
@@ -105,7 +106,7 @@
     },
     {
       "id": "lesson-09",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Menguji Para Nabi",
       "sourceTitle": "Testing the Prophets",
       "startDate": "2026-11-22",
       "endDate": "2026-11-28",
@@ -113,7 +114,7 @@
     },
     {
       "id": "lesson-10",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Otoritas dan Relevansi Kenabian",
       "sourceTitle": "Prophetic Authority and Relevance",
       "startDate": "2026-11-29",
       "endDate": "2026-12-05",
@@ -121,7 +122,7 @@
     },
     {
       "id": "lesson-11",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Suara Nubuat di Saat-Saat Krusial",
       "sourceTitle": "The Prophetic Voice in Crucial Moments",
       "startDate": "2026-12-06",
       "endDate": "2026-12-12",
@@ -129,7 +130,7 @@
     },
     {
       "id": "lesson-12",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Wahyu Nubuat Akhir Zaman",
       "sourceTitle": "End-time Prophetic Revelations",
       "startDate": "2026-12-13",
       "endDate": "2026-12-19",
@@ -137,7 +138,7 @@
     },
     {
       "id": "lesson-13",
-      "title": "DRAF: judul Indonesia menunggu materi resmi",
+      "title": "Berkat-Berkat dari Firman Nubuat",
       "sourceTitle": "Blessings from the Prophetic Word",
       "startDate": "2026-12-20",
       "endDate": "2026-12-26",

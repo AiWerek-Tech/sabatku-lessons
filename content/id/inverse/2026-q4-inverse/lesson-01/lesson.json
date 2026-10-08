@@ -1,6 +1,6 @@
 {
   "id": "lesson-01",
-  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "title": "Sang Pencipta Berbicara",
   "sourceTitle": "The Creator Speaks",
   "startDate": "2026-09-27",
   "endDate": "2026-10-03",
@@ -48,5 +48,7 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": []
+  "pdfs": [],
+  "bibleReading": "Kejadian 3",
+  "illustration": "../../assets/inverse-lesson-01.png"
 }

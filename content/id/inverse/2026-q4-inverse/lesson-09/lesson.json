@@ -1,6 +1,6 @@
 {
   "id": "lesson-09",
-  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "title": "Menguji Para Nabi",
   "sourceTitle": "Testing the Prophets",
   "startDate": "2026-11-22",
   "endDate": "2026-11-28",
@@ -48,5 +48,7 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": []
+  "pdfs": [],
+  "bibleReading": "Matius 7:13–29",
+  "illustration": "../../assets/inverse-lesson-09.png"
 }

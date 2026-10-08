@@ -1,6 +1,6 @@
 {
   "id": "lesson-10",
-  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "title": "Otoritas dan Relevansi Kenabian",
   "sourceTitle": "Prophetic Authority and Relevance",
   "startDate": "2026-11-29",
   "endDate": "2026-12-05",
@@ -48,5 +48,7 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": []
+  "pdfs": [],
+  "bibleReading": "Keluaran 3–4",
+  "illustration": "../../assets/inverse-lesson-10.png"
 }

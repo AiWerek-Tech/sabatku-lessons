@@ -25,11 +25,11 @@ content/id/adult-easy-reading/<edition>/
 
 Konten resmi Edisi Mudah Dibaca Triwulan IV 2026 saat ini tersedia pada `content/id/adult-easy-reading/2026-q4-er/`. Berkas di `content/_template/` tetap hanya contoh struktur dan tidak dipublikasikan sebagai materi.
 
-## Kerangka InVerse Indonesia Q4 2026
+## InVerse Indonesia Q4 2026
 
-Kerangka lokal tersedia di `content/id/inverse/2026-q4-inverse/`, mengikuti edisi InVerse bahasa Inggris `2026-04-cq`: 13 pelajaran dengan tujuh bacaan berurutan Minggu sampai Sabat (`inTro` hingga `inQuire`). Tanggal dan judul Inggris disimpan hanya sebagai referensi struktur. Semua bacaan Indonesia masih placeholder, metadata edisi berstatus `draft`, dan builder tidak memasukkannya ke katalog publik. Siklus InVerse dimulai hari Minggu sehingga pemetaan tanggalnya tidak boleh disamakan dengan urutan bacaan Dewasa Standar/Mudah Dibaca yang dimulai Sabat petang.
+Materi InVerse Karunia Nubuat tersedia di `content/id/inverse/2026-q4-inverse/`: 13 pelajaran, 91 bacaan harian Minggu sampai Sabat (`inTro` hingga `inQuire`), cover, dan ilustrasi mingguan. Tanggal mengikuti publikasi Indonesia. `sourceTitle` Inggris hanya menjadi referensi pencocokan edisi dan tidak ditampilkan sebagai judul Indonesia. Edisi masuk katalog publik setelah dibangun dari branch `main`.
 
-Ketika materi resmi tersedia, tim mengganti placeholder dengan bacaan Markdown, mengisi judul terjemahan, atribusi/hak yang disetujui, cover/ilustrasi, serta metadata PDF bila tersedia. Ubah status menjadi `published` hanya setelah review editorial dan hak publikasi selesai.
+PDF cetak triwulan disimpan sebagai `source-print-edition.pdf`; katalog aplikasi saat ini menyediakan bacaan harian dan ilustrasi, sedangkan PDF tersebut belum didaftarkan sebagai PDF baca per pelajaran.
 
 ## Kerangka EGW Notes Q4 2026
 

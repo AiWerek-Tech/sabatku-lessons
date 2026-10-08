@@ -1,6 +1,6 @@
 {
   "id": "lesson-05",
-  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "title": "Wahyu dan Inspirasi",
   "sourceTitle": "Revelation and Inspiration",
   "startDate": "2026-10-25",
   "endDate": "2026-10-31",
@@ -48,5 +48,7 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": []
+  "pdfs": [],
+  "bibleReading": "Wahyu 1",
+  "illustration": "../../assets/inverse-lesson-05.png"
 }

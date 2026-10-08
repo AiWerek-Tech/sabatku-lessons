@@ -1,6 +1,6 @@
 {
   "id": "lesson-02",
-  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "title": "Panggilan Seorang Nabi",
   "sourceTitle": "The Call of a Prophet",
   "startDate": "2026-10-04",
   "endDate": "2026-10-10",
@@ -48,5 +48,7 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": []
+  "pdfs": [],
+  "bibleReading": "Yesaya 6",
+  "illustration": "../../assets/inverse-lesson-02.png"
 }

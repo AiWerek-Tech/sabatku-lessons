@@ -1,6 +1,6 @@
 {
   "id": "lesson-03",
-  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "title": "Nabi-Nabi Perjanjian Lama",
   "sourceTitle": "Old Testament Prophets",
   "startDate": "2026-10-11",
   "endDate": "2026-10-17",
@@ -48,5 +48,7 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": []
+  "pdfs": [],
+  "bibleReading": "1 Raja-raja 19:1–16",
+  "illustration": "../../assets/inverse-lesson-03.png"
 }

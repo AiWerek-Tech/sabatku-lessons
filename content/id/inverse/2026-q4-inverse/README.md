@@ -1,12 +1,14 @@
-# Kerangka InVerse Bahasa Indonesia · Triwulan IV 2026
+# InVerse Bahasa Indonesia · Karunia Nubuat · Triwulan IV 2026
 
-Folder ini hanya menyediakan kerangka editorial lokal. Materi pelajaran Indonesia belum dimasukkan dan status edisi tetap `draft`, sehingga builder tidak menerbitkannya ke katalog publik.
+Materi lokal mencakup 13 pelajaran mingguan dan 91 bacaan harian dengan urutan Minggu–Sabat (`inTro`, `inGest`, `inTerpret`, `inSpect`, `inVite`, `inSight`, `inQuire`). Tanggal dan judul Indonesia diambil dari publikasi yang diberikan tim penerjemah resmi SabatKu. Cover edisi serta ilustrasi tema setiap pelajaran berada di `assets/`.
 
-Struktur mengikuti InVerse Q4 2026 berbahasa Inggris: 13 pelajaran mingguan, masing-masing tujuh hari dengan urutan Minggu–Sabat (`inTro`, `inGest`, `inTerpret`, `inSpect`, `inVite`, `inSight`, `inQuire`). Minggu InVerse dimulai pada hari Minggu dan berakhir pada Sabtu; ini berbeda dari pekan Sekolah Sabat Dewasa yang dimulai Sabat petang.
+Edisi berstatus `published` dan masuk katalog InVerse Indonesia. Materi harian mengikuti HTML publikasi yang diberikan tim; catatan internal penerjemah tidak disertakan dalam bacaan.
 
-- `edition.json`: metadata edisi dan daftar 13 pelajaran.
-- `lesson-NN/lesson.json`: judul, rentang tanggal, serta metadata tujuh bacaan.
-- `lesson-NN/<hari>.md`: placeholder untuk materi resmi tim, bukan konten publikasi.
-- `lesson-NN/lesson.json` menyediakan `pdfs: []` sebagai tempat metadata PDF bila tim nanti menyediakan file resminya.
+`source-print-edition.pdf` adalah PDF cetak triwulan penuh untuk pemeriksaan silang. Metadata PDF per pelajaran masih kosong karena file ini mencakup seluruh triwulan, bukan satu pelajaran.
 
-`sourceTitle` hanya menjadi referensi editorial untuk menyamakan nomor dan jadwal dengan edisi Inggris. Jangan mengubah status ke `published` sebelum judul dan bacaan Indonesia resmi selesai, metadata sumber/hak ditinjau, dan semua placeholder diganti.
+- `edition.json`: metadata edisi dan jadwal 13 pelajaran.
+- `lesson-NN/lesson.json`: judul, tanggal, bacaan utama pekan ini, ilustrasi, dan tujuh hari.
+- `lesson-NN/<hari>.md`: isi bacaan yang diekstrak dari HTML digital yang diberikan.
+- `assets/cover-inverse.png` dan `assets/inverse-lesson-NN.png`: cover dan ilustrasi publikasi.
+
+Urutan pekan InVerse dimulai Minggu dan berakhir Sabat. Jangan menyamakan hari atau tanggalnya dengan minggu Sekolah Sabat Dewasa yang dimulai Sabat petang.

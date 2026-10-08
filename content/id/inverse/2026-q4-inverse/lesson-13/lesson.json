@@ -1,6 +1,6 @@
 {
   "id": "lesson-13",
-  "title": "DRAF: judul Indonesia menunggu materi resmi",
+  "title": "Berkat-Berkat dari Firman Nubuat",
   "sourceTitle": "Blessings from the Prophetic Word",
   "startDate": "2026-12-20",
   "endDate": "2026-12-26",
@@ -48,5 +48,7 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": []
+  "pdfs": [],
+  "bibleReading": "2 Tawarikh 20",
+  "illustration": "../../assets/inverse-lesson-13.png"
 }
