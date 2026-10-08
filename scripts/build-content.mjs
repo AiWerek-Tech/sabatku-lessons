@@ -266,6 +266,8 @@ async function main() {
   try { inverseFolders = await readdir(inverseRoot, { withFileTypes: true }); }
   catch { /* InVerse is an optional Indonesian program. */ }
   const inverseDayOrder = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'sabbath'];
+  const inverseReadingLabels = ['inTro', 'inGest', 'inTerpret', 'inSpect', 'inVite', 'inSight', 'inQuire'];
+  const inverseReadingLabelLine = new RegExp(`^\\s{0,3}(?:#{1,6}\\s*)?(?:${inverseReadingLabels.join('|')})\\s*$`, 'gim');
   for (const folder of inverseFolders.filter(entry => entry.isDirectory())) {
     const editionDir = path.join(inverseRoot, folder.name);
     const edition = await json(path.join(editionDir, 'edition.json'));
@@ -294,6 +296,10 @@ async function main() {
         assert(reading.date === expectedDate, `${lesson.id}/${reading.key}: date must be ${expectedDate}`);
         const markdown = (await readFile(path.join(lessonDir, reading.file), 'utf8')).trim();
         assert(markdown.length > 0, `${edition.id}/${lesson.id}/${reading.file}: reading file is required even for a draft`);
+        assert(/^##\s+\S/m.test(markdown), `${edition.id}/${lesson.id}/${reading.file}: a daily reading title is required`);
+        const misplacedLabel = inverseReadingLabelLine.exec(markdown);
+        inverseReadingLabelLine.lastIndex = 0;
+        assert(!misplacedLabel, `${edition.id}/${lesson.id}/${reading.file}: contains another day's InVerse section label ${misplacedLabel?.[0]?.trim()}`);
       }
     }
     if (edition.publicationStatus !== 'published') continue;
