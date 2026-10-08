@@ -1,7 +1,5 @@
 # Outline Hope Sabbath School · Pelajaran 13
 
-> Draf terjemahan untuk ditinjau dan disunting oleh tim penerjemah SabatKu.
-
 ## Nabi-Nabi Allah — Bagian 13
 
 Selamat datang di Hope Sabbath School—pendalaman Firman Allah yang interaktif. Kita mengakhiri seri tentang Nabi-Nabi Allah. Topik hari ini: **BERKAT DARI FIRMAN KENABIAN**.

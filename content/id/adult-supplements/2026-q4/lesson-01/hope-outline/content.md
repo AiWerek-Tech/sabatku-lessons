@@ -1,7 +1,5 @@
 # Outline Hope Sabbath School · Pelajaran 1
 
-> Draf terjemahan untuk ditinjau dan disunting oleh tim penerjemah SabatKu.
-
 ## Nabi-Nabi Allah — Bagian 1
 
 Selamat datang di Hope Sabbath School—pendalaman Firman Allah yang interaktif. Kita memulai seri baru: Nabi-Nabi Allah. Topik hari ini: **PENCIPTA BERBICARA**.

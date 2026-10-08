@@ -1,7 +1,5 @@
 # Outline Hope Sabbath School · Pelajaran 12
 
-> Draf terjemahan untuk ditinjau dan disunting oleh tim penerjemah SabatKu.
-
 ## Nabi-Nabi Allah — Bagian 12
 
 Selamat datang di Hope Sabbath School—pendalaman Firman Allah yang interaktif. Kita melanjutkan seri tentang Nabi-Nabi Allah. Topik hari ini: **JANJI WAHYU KENABIAN PADA AKHIR ZAMAN**.

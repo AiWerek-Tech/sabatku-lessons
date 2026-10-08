@@ -1,7 +1,5 @@
 # Outline Hope Sabbath School · Pelajaran 7
 
-> Draf terjemahan untuk ditinjau dan disunting oleh tim penerjemah SabatKu.
-
 ## Nabi-Nabi Allah — Bagian 7
 
 Selamat datang di Hope Sabbath School—pendalaman Firman Allah yang interaktif. Kita melanjutkan seri tentang Nabi-Nabi Allah. Topik hari ini: **NABI-NABI YANG DIANIAYA**.

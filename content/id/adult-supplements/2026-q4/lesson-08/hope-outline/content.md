@@ -1,7 +1,5 @@
 # Outline Hope Sabbath School · Pelajaran 8
 
-> Draf terjemahan untuk ditinjau dan disunting oleh tim penerjemah SabatKu.
-
 ## Nabi-Nabi Allah — Bagian 8
 
 Selamat datang di Hope Sabbath School—pendalaman Firman Allah yang interaktif. Kita melanjutkan seri tentang Nabi-Nabi Allah. Topik hari ini: **MENAFSIRKAN TULISAN-TULISAN KENABIAN**.
@@ -34,7 +32,7 @@ Selamat datang di Hope Sabbath School—pendalaman Firman Allah yang interaktif.
   - Bagaimana Kejadian 2:16–17 menyingkapkan kebohongan Iblis dalam Kejadian 3:1–5?
   - Bagaimana Yesus menanggapi penyalahgunaan Kitab Suci oleh Iblis ketika Ia dicobai untuk menjatuhkan diri dari bubungan Bait Suci? Matius 4:5–7; Ulangan 6:16.
   - Kebenaran apa yang terlihat ketika kita membandingkan Matius 5:48 dengan Lukas 6:36?
-  - Bagaimana Yesus menjawab pertanyaan Ayub dalam Ayub 14:14? Yohanes 5:28–19; 6:40; 11:25–26.
+- Bagaimana Yesus menjawab pertanyaan Ayub dalam Ayub 14:14? Yohanes 5:28–29; 6:40; 11:25–26.
 
 ### Memohon tuntunan ilahi
 
