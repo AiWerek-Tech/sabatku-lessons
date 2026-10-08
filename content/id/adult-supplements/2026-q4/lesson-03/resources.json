@@ -79,15 +79,20 @@
       "source": {
         "id": "hope-sabbath-school",
         "name": "Hope Sabbath School",
-        "url": null
+        "url": "https://sabbath-school.adventech.io/api/v2/en/quarterlies/2026-04/lessons/03/days/hope-ss/read/index.json"
       },
       "editorialType": "translation",
-      "translationTeam": null,
-      "attribution": null,
-      "rightsStatement": null,
-      "publicationStatus": "draft",
+      "translationTeam": "Tim penerjemah resmi SabatKu",
+      "attribution": "Sumber: Hope Sabbath School Outline, Triwulan IV 2026, Pelajaran 3.",
+      "rightsStatement": "Diterjemahkan dan diterbitkan dengan izin yang telah diberikan kepada tim penerjemah resmi SabatKu. Hak cipta materi sumber tetap pada pemegangnya.",
+      "publicationStatus": "published",
       "revision": 1,
-      "formats": []
+      "formats": [
+        {
+          "mediaType": "text/markdown",
+          "file": "hope-outline/content.md"
+        }
+      ]
     },
     {
       "id": "adult-supplement:id:2026-q4:lesson-03:talking-points-outline",

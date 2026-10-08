@@ -1,5 +1,5 @@
-# hope-outline · lesson-12
+# Outline Hope Sabbath School · Pelajaran 12
 
-Folder penampung materi mendatang. Belum ada naskah atau PDF resmi.
+Naskah terjemahan yang disetujui tim diterbitkan melalui katalog pendamping mingguan Q4 2026. Berkas konten: `content.md`. 
 
-Tambahkan content.md dan/atau document.pdf ketika tersedia, lalu daftarkan di ../resources.json pada entri hope-outline. README ini bukan konten bacaan. Tetap gunakan publicationStatus draft sampai adapter publikasi dan pembaca pendamping diaktifkan.
+Catatan sumber untuk arsip editorial: sumber Inggris mencantumkan Kisah Para Rasul 2:28 dan 22:8–9; naskah yang diterbitkan memakai rujukan yang disesuaikan dengan konteks, mengikuti hasil pemeriksaan dan persetujuan tim.

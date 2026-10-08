@@ -8,7 +8,7 @@ Untuk katalog bahasa Inggris, jangan tawarkan GraceLink Beginner, Kindergarten, 
 
 ## Alur kerja
 
-Koleksi [pendamping mingguan Dewasa](content/id/adult-supplements/README.md) tersedia untuk Q4 2026: 13 pelajaran dan 52 slot. Materi dapat direview dan diterbitkan per resource. GitHub Actions memasukkan hanya resource `published` yang lengkap ke katalog statis. Android belum membaca katalog suplemen; pembaca dan UI pendamping masih perlu diimplementasikan.
+Koleksi [pendamping mingguan Dewasa](content/id/adult-supplements/README.md) tersedia untuk Q4 2026: 13 Penuntun Guru dan 13 Outline Hope Sabbath School telah diterbitkan. Koleksi memiliki 52 slot untuk empat jenis materi. GitHub Actions memasukkan hanya resource `published` yang lengkap ke katalog statis. Klien Android menghubungkan Penuntun Guru Indonesia ke edisi Dewasa Standar dan Mudah Dibaca lewat Sumber Terkait, memeriksa checksum, dan menyimpan cache berbasis identitas resource agar kedua edisi berbagi salinan. Untuk bahasa Inggris, pemetaan eksplisit menghubungkan edisi Adventech Dewasa Standar dan Easy Reading ke Teacher Comments triwulan yang sama. Pembaca menampilkan status salinan offline, mempertahankan posisi baca, serta menyimpan penanda dan catatan privat di perangkat; fitur-fitur ini tidak memengaruhi progres pelajaran harian.
 
 Tim menyimpan metadata edisi/pelajaran sebagai JSON dan naskah bacaan sebagai Markdown. Pull request menjadi titik review. Setelah perubahan masuk ke `main`, GitHub Actions memvalidasi sumber, menghasilkan katalog JSON statis, lalu menerbitkannya ke GitHub Pages. Android mengonsumsi hasil publikasi, bukan file kerja editorial.
 
