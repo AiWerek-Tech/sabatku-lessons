@@ -48,7 +48,13 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": [],
+  "pdfs": [
+    {
+      "id": "lesson-pdf",
+      "title": "PDF Pelajaran 07 · Dengarkanlah Ini!",
+      "file": "../../assets/inverse-lesson-07.pdf"
+    }
+  ],
   "bibleReading": "Yeremia 36:20–32",
   "illustration": "../../assets/inverse-lesson-07.png"
 }

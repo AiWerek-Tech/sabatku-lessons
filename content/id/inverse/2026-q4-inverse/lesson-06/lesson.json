@@ -48,7 +48,13 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": [],
+  "pdfs": [
+    {
+      "id": "lesson-pdf",
+      "title": "PDF Pelajaran 06 · Tulisan-Tulisan Nubuatan",
+      "file": "../../assets/inverse-lesson-06.pdf"
+    }
+  ],
   "bibleReading": "Yeremia 36:1–19",
   "illustration": "../../assets/inverse-lesson-06.png"
 }

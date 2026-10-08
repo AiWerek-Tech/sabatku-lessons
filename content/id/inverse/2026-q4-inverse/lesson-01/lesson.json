@@ -48,7 +48,13 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": [],
+  "pdfs": [
+    {
+      "id": "lesson-pdf",
+      "title": "PDF Pelajaran 01 · Sang Pencipta Berbicara",
+      "file": "../../assets/inverse-lesson-01.pdf"
+    }
+  ],
   "bibleReading": "Kejadian 3",
   "illustration": "../../assets/inverse-lesson-01.png"
 }

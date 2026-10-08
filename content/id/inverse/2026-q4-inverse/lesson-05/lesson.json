@@ -48,7 +48,13 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": [],
+  "pdfs": [
+    {
+      "id": "lesson-pdf",
+      "title": "PDF Pelajaran 05 · Wahyu dan Inspirasi",
+      "file": "../../assets/inverse-lesson-05.pdf"
+    }
+  ],
   "bibleReading": "Wahyu 1",
   "illustration": "../../assets/inverse-lesson-05.png"
 }

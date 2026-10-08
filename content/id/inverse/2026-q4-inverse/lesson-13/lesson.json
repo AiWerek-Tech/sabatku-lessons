@@ -48,7 +48,13 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": [],
+  "pdfs": [
+    {
+      "id": "lesson-pdf",
+      "title": "PDF Pelajaran 13 · Berkat-Berkat dari Firman Nubuat",
+      "file": "../../assets/inverse-lesson-13.pdf"
+    }
+  ],
   "bibleReading": "2 Tawarikh 20",
   "illustration": "../../assets/inverse-lesson-13.png"
 }

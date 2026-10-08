@@ -48,7 +48,13 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": [],
+  "pdfs": [
+    {
+      "id": "lesson-pdf",
+      "title": "PDF Pelajaran 04 · Nabi-Nabi Perjanjian Baru",
+      "file": "../../assets/inverse-lesson-04.pdf"
+    }
+  ],
   "bibleReading": "Efesus 2:19–3:7",
   "illustration": "../../assets/inverse-lesson-04.png"
 }

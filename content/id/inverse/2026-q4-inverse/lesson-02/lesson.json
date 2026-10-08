@@ -48,7 +48,13 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": [],
+  "pdfs": [
+    {
+      "id": "lesson-pdf",
+      "title": "PDF Pelajaran 02 · Panggilan Seorang Nabi",
+      "file": "../../assets/inverse-lesson-02.pdf"
+    }
+  ],
   "bibleReading": "Yesaya 6",
   "illustration": "../../assets/inverse-lesson-02.png"
 }

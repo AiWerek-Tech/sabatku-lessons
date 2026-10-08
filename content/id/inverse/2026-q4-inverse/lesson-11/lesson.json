@@ -48,7 +48,13 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": [],
+  "pdfs": [
+    {
+      "id": "lesson-pdf",
+      "title": "PDF Pelajaran 11 · Suara Nubuat di Saat-Saat Krusial",
+      "file": "../../assets/inverse-lesson-11.pdf"
+    }
+  ],
   "bibleReading": "Hakim-hakim 4–5",
   "illustration": "../../assets/inverse-lesson-11.png"
 }

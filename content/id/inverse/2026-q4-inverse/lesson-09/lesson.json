@@ -48,7 +48,13 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": [],
+  "pdfs": [
+    {
+      "id": "lesson-pdf",
+      "title": "PDF Pelajaran 09 · Menguji Para Nabi",
+      "file": "../../assets/inverse-lesson-09.pdf"
+    }
+  ],
   "bibleReading": "Matius 7:13–29",
   "illustration": "../../assets/inverse-lesson-09.png"
 }

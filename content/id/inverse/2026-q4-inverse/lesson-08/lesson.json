@@ -48,7 +48,13 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": [],
+  "pdfs": [
+    {
+      "id": "lesson-pdf",
+      "title": "PDF Pelajaran 08 · Menafsirkan Tulisan-Tulisan Nubuatan",
+      "file": "../../assets/inverse-lesson-08.pdf"
+    }
+  ],
   "bibleReading": "Kisah Para Rasul 8:26–40",
   "illustration": "../../assets/inverse-lesson-08.png"
 }

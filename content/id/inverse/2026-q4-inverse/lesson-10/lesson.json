@@ -48,7 +48,13 @@
       "file": "sabbath.md"
     }
   ],
-  "pdfs": [],
+  "pdfs": [
+    {
+      "id": "lesson-pdf",
+      "title": "PDF Pelajaran 10 · Otoritas dan Relevansi Kenabian",
+      "file": "../../assets/inverse-lesson-10.pdf"
+    }
+  ],
   "bibleReading": "Keluaran 3–4",
   "illustration": "../../assets/inverse-lesson-10.png"
 }
