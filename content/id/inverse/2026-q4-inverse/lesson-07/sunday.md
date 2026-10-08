@@ -42,29 +42,23 @@ Gambarlah tanda panah untuk menghubungkan kata atau frasa dengan kata atau frasa
 
 Secara keseluruhan, pemahaman khusus apa yang ditunjukkan oleh tanda-tanda yang Anda buat?
 
-Menghancurkan Pekabaran
+## Menghancurkan Pekabaran
 
-inGest
+Yeremia adalah suara kenabian Allah bagi bangsa Yehuda menjelang kehancuran. Selama bertahun-tahun, Allah menyampaikan peringatan melalui Yeremia: Ia tidak berkenan kepada Yehuda, dan Babel akan menaklukkan bangsa itu serta membawa mereka ke pembuangan (Yer. 6:8–19, 26). Allah ingin menyelamatkan mereka, tetapi mereka harus terlebih dahulu taat.
 
-Yesus membawa kesebelas murid ke Taman Getsemani. Yudas telah meninggalkan rombongan untuk mengkhianati Guru-Nya dan menyerahkan-Nya kepada para pemimpin agama. Yesus meninggalkan delapan murid di dekat pintu masuk, lalu membawa Petrus, Yakobus, dan Yohanes lebih jauh ke dalam taman. Ia berharap mereka akan mendukung-Nya dengan berdoa bagi-Nya selama pergumulan yang mengerikan ini.
+Dosa Yehuda banyak, nyata, dan terus dilakukan. Penyembahan berhala, pengorbanan anak, perzinaan, dan penindasan tersebar luas pada zaman Yeremia, tetapi peringatan dan seruannya tidak diindahkan. Menjelang akhir pelayanan Yeremia, seruan Allah kepada umat-Nya yang tersesat semakin kuat, tetapi tetap bertujuan menyelamatkan. Sebagai contoh, dalam Yeremia 32 Allah menyuruh Yeremia membeli sebidang tanah dan menyimpan surat kepemilikannya: “Rumah-rumah, ladang-ladang dan kebun-kebun anggur akan dibeli lagi di negeri ini” (Yer. 32:15). Tindakan itu menunjukkan iman Yeremia bahwa umat Allah akan kembali ke negeri mereka setelah pembuangan di Babel.
 
-Yesus merindukan kehadiran dan dukungan manusia. Saat ini memberi para murid kesempatan istimewa untuk membalas kasih Yesus ketika Ia membutuhkan mereka. Mereka dapat merasakan kepedihan dalam suara Kristus ketika Ia berseru, “Hati-Ku sangat sedih, seperti mau mati rasanya. Tinggallah di sini dan berjaga-jagalah dengan Aku” (Mat. 26:38). Kata-kata Kristus yang penuh penderitaan menunjukkan kepada para murid bahwa malam ini berbeda dari malam-malam lainnya. Hampir roboh karena tekanan itu, Ia terhuyung sedikit lebih jauh, tersungkur, dan berdoa, “Ya Bapa-Ku, jikalau sekiranya mungkin, biarlah cawan ini lalu dari pada-Ku” (Mat. 26:39). Kristus sangat gentar menghadapi cawan yang hendak Ia minum.
+Kasih Allah mendorong-Nya meminta Yeremia menuliskan seruan terakhir agar umat bertobat dan berubah. Barukh menuliskan pekabaran itu dan membacakannya di Yerusalem. Pekabaran itu mengejutkan para pendengarnya. Ketika para pejabat istana mendengarnya, mereka memanggil Barukh dan memintanya membacakan gulungan itu kepada mereka. Mereka segera menyadari bahwa Yeremia berada dalam bahaya jika gulungan itu disampaikan kepada raja. Karena ingin melindunginya, mereka menyuruh Barukh membawa Yeremia dan bersembunyi (Yer. 36:19).
 
-Kitab Wahyu menggambarkan cawan ini sebagai “cawan murka-Nya” (Why. 14:10). Sebagian terjemahan menggunakan ungkapan “cawan kemarahan-Nya” (ESV) atau “cawan murka-Nya” (NIV). Di Taman Getsemani, Yesus bergumul dengan beratnya murka Allah terhadap dosa. Sebagai pengganti kita, Yesus, Pribadi yang tidak berdosa, menanggung apa yang layak diterima oleh kita, orang berdosa. Ia meminum cawan pahit penghakiman ilahi agar sebagai gantinya Ia dapat memberi
+Para pejabat itu melaporkan isi gulungan kepada Raja Yoyakim. Raja menyuruh agar gulungan tersebut dibawa dan dibacakan kepadanya. Setelah mendengar sebagian isinya, ia marah, mengambil gulungan itu, memotongnya, lalu membakarnya (Yer. 36:20–23). Tindakan Yoyakim menunjukkan penghinaan terhadap Allah, pekabaran-Nya, dan utusan-Nya.
 
-kita cawan berkat ilahi.
+Kadang-kadang orang mengira bahwa jika pekabaran Allah atau utusan-Nya disingkirkan, pekabaran itu akan lenyap. Namun, keengganan kita untuk menaati firman nubuat Allah tidak menghapus pekabaran yang Ia sampaikan. Sikap meremehkan itu justru memperbesar akibat buruk yang menimpa kita dan keluarga karena ketidaktahuan yang disengaja atau pemberontakan. Nubuat Yeremia tentang akhir hidup Raja Yoyakim menjadi peringatan serius bagi setiap orang (Yer. 36:30, 31): kita mengabaikan peringatan Allah dengan risiko kita sendiri dan akan menanggung akibat dosa serta kejahatan kita.
 
-Yesus bergumul seorang diri tanpa dorongan atau pertolongan, bahkan dari sahabat-sahabat terdekat-Nya. Petrus, Yakobus, dan Yohanes tertidur seolah-olah ini malam biasa. Namun, bahkan di sini Yesus menunjukkan belas kasihan: “Kelemahan murid-murid-Nya membangkitkan simpati Yesus. Ia khawatir mereka tidak akan sanggup menghadapi ujian yang akan menimpa mereka ketika Ia dikhianati dan mati. Ia tidak menegur mereka, tetapi berkata, ‘Berjaga-jagalah dan berdoalah, supaya kamu jangan jatuh ke dalam pencobaan.’ Bahkan di tengah penderitaan-Nya yang hebat, Ia berusaha memaklumi kelemahan mereka. ‘Roh memang penurut,’ kata-Nya, ‘tetapi daging lemah.’”¹ Ketika Yesus paling membutuhkan para murid, mereka tidak hadir untuk mendukung-Nya. Meskipun Kristus telah memperingatkan mereka di ruang atas, para murid yang tersisa segera akan meninggalkan-Nya dan melarikan diri. Namun, kasih Kristus kepada mereka tidak berkurang. Ia meminum cawan ini bagi mereka, dan bagi kita.
+**Pertanyaan untuk dipelajari:**
 
-Pertanyaan untuk dipelajari:
-
-Apa yang dinyatakan oleh kegigihan Allah menjangkau umat-Nya meskipun mereka membangkang, mengenai tabiat-Nya yang penuh kasih?
+Apa yang kegigihan Allah dalam menjangkau umat-Nya meskipun mereka membangkang ajarkan kepada kita tentang kasih-Nya?
 
 Bayangkan seandainya Raja Yoyakim menerima pekabaran Yeremia. Bagaimana hal itu mungkin mengubah sejarah Yerusalem?
-
-Tuliskan jawaban Anda di bagian bawah halaman sebelumnya.
-
-1 Ellen G. White, The Desire of Ages (1898), hlm. 689.
 
 Sejarah Perlawanan
 
