@@ -19,6 +19,14 @@ content/id/adult-easy-reading/<edition>/
 
 Konten resmi Edisi Mudah Dibaca Triwulan IV 2026 saat ini tersedia pada `content/id/adult-easy-reading/2026-q4-er/`. Berkas di `content/_template/` tetap hanya contoh struktur dan tidak dipublikasikan sebagai materi.
 
+## Kerangka EGW Notes Q4 2026
+
+Sumber resmi tim saat ini tersedia di `C:\Users\ADMIN\Music\EGW Notes Q4 2026` dalam HTML untuk publikasi digital dan PDF untuk versi cetak. Kerangka terpisah telah disiapkan di `content/id/adult-egw-notes/2026-q4-egw/` untuk menjaga catatan EGW tetap sebagai sumber bacaan tersendiri, tetapi terhubung ke pelajaran Dewasa Standar dan Mudah Dibaca berdasarkan nomor pelajaran serta hari.
+
+Kerangka ini berstatus `draft` dan belum diproses pipeline publikasi. Folder tersebut berisi metadata 13 pelajaran, file `notes.md` sebagai tempat transkripsi resmi, dan pemetaan ID stabil untuk tiga sumber. Jangan aktifkan publikasi sebelum materi diverifikasi dan adapter katalog sumber pendamping Android selesai.
+
+Bahasa Inggris tetap memakai suplemen EGW Notes yang telah terintegrasi pada materi Dewasa Standar dari Adventech. Catatan terpisah ini disiapkan untuk edisi Bahasa Indonesia.
+
 ## Persiapan lokal
 
 - Node.js 20 atau lebih baru.
@@ -65,4 +73,4 @@ Hanya materi yang tim berwenang terbitkan dan setujui untuk akses publik yang bo
 
 ## Status integrasi Android
 
-Repo ini menyiapkan sumber dan format distribusi. Adapter Android untuk katalog SabatKu ini merupakan langkah integrasi terpisah; jangan menganggap katalog sudah terhubung ke aplikasi sampai URL Pages dikonfigurasi dan alur unduh/offline diuji.
+Aplikasi Android telah menyediakan pemilih sumber terkait pada halaman bacaan untuk membuka bacaan harian Dewasa Standar atau Mudah Dibaca yang telah diunduh. Pilihan EGW Notes Indonesia akan aktif setelah naskah dimasukkan, struktur paket pendamping dipublikasikan, dan adapter unduh/cache offline mengonsumsinya. Jangan mengubah draf EGW menjadi materi terbit hanya dengan mengubah status metadata.
