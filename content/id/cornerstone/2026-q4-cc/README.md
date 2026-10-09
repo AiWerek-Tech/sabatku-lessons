@@ -20,3 +20,15 @@ PDF Inggris hanya referensi lokal; tidak disalin ke repository Indonesia. PDF In
 
 ## Publikasi dan batas verifikasi
 build-content.mjs mengompilasi 13 lesson JSON dan edition/catalog. GitHub Pages memerlukan push dan workflow sebelum katalog jarak jauh berubah. Kompilasi Kotlin tidak berarti uji visual/perangkat berhasil. Tidak membuat APK pada tahap ini. Sumber asli pada Music tidak diubah.
+
+## Lima penyempurnaan pengalaman belajar
+1. Referensi di bagian Ke Dalam Cerita menjadi tombol Baca kisah Alkitab dan membuka rentang ayat dari Alkitab lokal dengan bahasa aktif.
+2. Nomor pertanyaan terlihat; pertanyaan majemuk yang dipisah berdasarkan kata tanya mendapat jawaban tersendiri dan label a/b.
+3. Penyimpanan jawaban menampilkan status Menyimpan, Tersimpan di perangkat, atau Belum tersimpan dengan Coba lagi. Identitas jawaban stabil atas perubahan indeks blok; pengetikan baru tidak ditimpa callback simpan lama.
+4. Penyebutan nama bagian pekan yang dikenal menjadi tautan ke isi bagian dalam modal, tetap dalam pelajaran yang sama.
+5. Aktivitas Apakah Pendapatmu? menampilkan pilihan Setuju/Belum yakin/Tidak setuju.
+
+## Ringkasan jawaban pekanan
+Pintasan ringkasan mengumpulkan jawaban yang sudah ditulis pada kolom pertanyaan, pilihan Apakah Pendapatmu?, dan Refleksi pribadi di seluruh hari dalam pekan Cornerstone. Ringkasan tidak menambah kolom jawaban; draf yang belum tersimpan diberi label Draf dan tetap ditampilkan. Data dikelompokkan dengan label hari dan nomor pertanyaan untuk persiapan diskusi Sabat.
+
+Kompilasi Kotlin berhasil. Tes unit tambahan tidak dijalankan pada giliran implementasi ini. Pemeriksaan visual di perangkat dan uji penyimpanan lintas restart masih perlu dilakukan sebelum menyebut pengalaman final siap rilis.
