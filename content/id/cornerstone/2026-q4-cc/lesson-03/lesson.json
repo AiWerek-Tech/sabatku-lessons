@@ -1,0 +1,85 @@
+{
+  "id": "lesson-03",
+  "title": "Sindrom Dosa",
+  "startDate": "2026-10-10",
+  "endDate": "2026-10-16",
+  "discussionDate": "2026-10-17",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Sindrom Dosa",
+      "date": "2026-10-10",
+      "file": "sabbath.md",
+      "readingRefs": [
+        "Wahyu 12:7–9",
+        "Kejadian 3:14–15"
+      ]
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu · Buat itu Nyata",
+      "date": "2026-10-11",
+      "file": "sunday.md",
+      "readingRefs": [
+        "1 Petrus 5:8–9",
+        "Yesaya 14:12–14",
+        "Yehezkiel 28:11–17",
+        "Wahyu 12:7–9"
+      ]
+    },
+    {
+      "key": "monday",
+      "title": "Senin · Buat itu Nyata",
+      "date": "2026-10-12",
+      "file": "monday.md",
+      "readingRefs": [
+        "Wahyu 12:7–9"
+      ]
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa · Buat itu Nyata",
+      "date": "2026-10-13",
+      "file": "tuesday.md",
+      "readingRefs": [
+        "Yohanes 3:16",
+        "2 Petrus 3:9"
+      ]
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu · Buat itu Nyata",
+      "date": "2026-10-14",
+      "file": "wednesday.md",
+      "readingRefs": [
+        "Roma 5:18–19",
+        "Kejadian 3:15",
+        "1 Petrus 5:8–9",
+        "Ibrani 2:14–15",
+        "Yohanes 10:9–10"
+      ]
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis · Buat itu Nyata",
+      "date": "2026-10-15",
+      "file": "thursday.md",
+      "readingRefs": [
+        "Roma 16:20"
+      ]
+    },
+    {
+      "key": "friday",
+      "title": "Jumat · Buat itu Nyata",
+      "date": "2026-10-16",
+      "file": "friday.md",
+      "readingRefs": [
+        "Yohanes 10:9–10"
+      ]
+    }
+  ],
+  "pdfs": [],
+  "illustration": "../../assets/lesson-cover-03.jpg",
+  "illustrationStatus": "available",
+  "relatedResources": []
+}

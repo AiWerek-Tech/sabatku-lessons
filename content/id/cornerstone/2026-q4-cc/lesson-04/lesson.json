@@ -1,0 +1,82 @@
+{
+  "id": "lesson-04",
+  "title": "Kebaikan Mengalahkan Kejahatan",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-23",
+  "discussionDate": "2026-10-24",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Kebaikan Mengalahkan Kejahatan",
+      "date": "2026-10-17",
+      "file": "sabbath.md",
+      "readingRefs": [
+        "Markus 5:15",
+        "Efesus 6:10–12"
+      ]
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu · Buat itu Nyata",
+      "date": "2026-10-18",
+      "file": "sunday.md",
+      "readingRefs": [
+        "Filipi 2:10",
+        "Markus 5:1–19"
+      ]
+    },
+    {
+      "key": "monday",
+      "title": "Senin · Buat itu Nyata",
+      "date": "2026-10-19",
+      "file": "monday.md",
+      "readingRefs": [
+        "Markus 5:15"
+      ]
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa · Buat itu Nyata",
+      "date": "2026-10-20",
+      "file": "tuesday.md",
+      "readingRefs": [
+        "Yohanes 16:24",
+        "Matius 17:20–22"
+      ]
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu · Buat itu Nyata",
+      "date": "2026-10-21",
+      "file": "wednesday.md",
+      "readingRefs": [
+        "1 Korintus 6:19–20",
+        "Matius 12:43–45",
+        "Roma 7:21–23",
+        "Galatia 5:16–17"
+      ]
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis · Buat itu Nyata",
+      "date": "2026-10-22",
+      "file": "thursday.md",
+      "readingRefs": [
+        "Mazmur 91:11"
+      ]
+    },
+    {
+      "key": "friday",
+      "title": "Jumat · Buat itu Nyata",
+      "date": "2026-10-23",
+      "file": "friday.md",
+      "readingRefs": [
+        "Ibrani 1:14"
+      ]
+    }
+  ],
+  "pdfs": [],
+  "illustration": "../../assets/lesson-cover-04.jpg",
+  "illustrationStatus": "available",
+  "relatedResources": []
+}

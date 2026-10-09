@@ -1,0 +1,89 @@
+{
+  "id": "lesson-06",
+  "title": "Kuasa Sejati",
+  "startDate": "2026-10-31",
+  "endDate": "2026-11-06",
+  "discussionDate": "2026-11-07",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Kuasa Sejati",
+      "date": "2026-10-31",
+      "file": "sabbath.md",
+      "readingRefs": [
+        "2 Tesalonika 2:3–4",
+        "Matius 5:13–16"
+      ]
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu · Buat itu Nyata",
+      "date": "2026-11-01",
+      "file": "sunday.md",
+      "readingRefs": [
+        "2 Tesalonika 2:3–8",
+        "Wahyu 13:8",
+        "Wahyu 13:1–8",
+        "Bacalah Wahyu 12:7–9",
+        "Yakobus 1:5"
+      ]
+    },
+    {
+      "key": "monday",
+      "title": "Senin · Buat itu Nyata",
+      "date": "2026-11-02",
+      "file": "monday.md",
+      "readingRefs": [
+        "2 Tesalonika 2:3–4"
+      ]
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa · Buat itu Nyata",
+      "date": "2026-11-03",
+      "file": "tuesday.md",
+      "readingRefs": [
+        "Yohanes 17:17"
+      ]
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu · Buat itu Nyata",
+      "date": "2026-11-04",
+      "file": "wednesday.md",
+      "readingRefs": [
+        "1 Petrus 2:5",
+        "Kisah Para Rasul 5:12–29",
+        "2 Korintus 5:20",
+        "Mazmur 27:5",
+        "Matius 24:13",
+        "Kisah Para Rasul 1:6",
+        "Kisah Para Rasul 1:7",
+        "Wahyu 20:12",
+        "Wahyu 19:10"
+      ]
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis · Buat itu Nyata",
+      "date": "2026-11-05",
+      "file": "thursday.md",
+      "readingRefs": [
+        "Markus 14:38"
+      ]
+    },
+    {
+      "key": "friday",
+      "title": "Jumat · Buat itu Nyata",
+      "date": "2026-11-06",
+      "file": "friday.md",
+      "readingRefs": [
+        "1 Tawarikh 29:12–13"
+      ]
+    }
+  ],
+  "pdfs": [],
+  "illustration": "../../assets/lesson-cover-06.jpg",
+  "illustrationStatus": "available",
+  "relatedResources": []
+}

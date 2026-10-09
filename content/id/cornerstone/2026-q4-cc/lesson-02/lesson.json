@@ -1,0 +1,88 @@
+{
+  "id": "lesson-02",
+  "title": "Pintu Tertutup, Kitab-Kitab Terbuka",
+  "startDate": "2026-10-03",
+  "endDate": "2026-10-09",
+  "discussionDate": "2026-10-10",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Pintu Tertutup, Kitab-Kitab Terbuka",
+      "date": "2026-10-03",
+      "file": "sabbath.md",
+      "readingRefs": [
+        "Kejadian 7:23",
+        "Matius 7:21–23"
+      ]
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu · Buat itu Nyata",
+      "date": "2026-10-04",
+      "file": "sunday.md",
+      "readingRefs": [
+        "Matius 24:42–44",
+        "Matius 24:37",
+        "Kejadian 7:6–23",
+        "Matius 24:39",
+        "Daniel 7:1–10"
+      ]
+    },
+    {
+      "key": "monday",
+      "title": "Senin · Buat itu Nyata",
+      "date": "2026-10-05",
+      "file": "monday.md",
+      "readingRefs": [
+        "Kejadian 7:23",
+        "Wahyu 22:10–11"
+      ]
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa · Buat itu Nyata",
+      "date": "2026-10-06",
+      "file": "tuesday.md",
+      "readingRefs": [
+        "Wahyu 3:5"
+      ]
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu · Buat itu Nyata",
+      "date": "2026-10-07",
+      "file": "wednesday.md",
+      "readingRefs": [
+        "Ibrani 4:14–16",
+        "Wahyu 22:10–11",
+        "Maleakhi 3:16",
+        "Wahyu 14:7",
+        "Daniel 7:9–10",
+        "Markus 13:33",
+        "Matius 13:28–30"
+      ]
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis · Buat itu Nyata",
+      "date": "2026-10-08",
+      "file": "thursday.md",
+      "readingRefs": [
+        "Ibrani 4:14–16"
+      ]
+    },
+    {
+      "key": "friday",
+      "title": "Jumat · Buat itu Nyata",
+      "date": "2026-10-09",
+      "file": "friday.md",
+      "readingRefs": [
+        "Yohanes 1:10–13"
+      ]
+    }
+  ],
+  "pdfs": [],
+  "illustration": "../../assets/lesson-cover-02.jpg",
+  "illustrationStatus": "available",
+  "relatedResources": []
+}

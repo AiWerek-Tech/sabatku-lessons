@@ -1,0 +1,88 @@
+{
+  "id": "lesson-09",
+  "title": "Selamatkan Dirimu",
+  "startDate": "2026-11-21",
+  "endDate": "2026-11-27",
+  "discussionDate": "2026-11-28",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Selamatkan Dirimu",
+      "date": "2026-11-21",
+      "file": "sabbath.md",
+      "readingRefs": [
+        "Wahyu 18:4–5",
+        "Matius 25:31–46",
+        "Kejadian 41:30–31",
+        "Kejadian 19:12–15",
+        "Yunus 3:4–5",
+        "Kejadian 6:5"
+      ]
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu · Buat itu Nyata",
+      "date": "2026-11-22",
+      "file": "sunday.md",
+      "readingRefs": [
+        "Wahyu 18:3",
+        "Wahyu 18:1–14"
+      ]
+    },
+    {
+      "key": "monday",
+      "title": "Senin · Buat itu Nyata",
+      "date": "2026-11-23",
+      "file": "monday.md",
+      "readingRefs": [
+        "Wahyu 18:4–5",
+        "Roma 12:1–2"
+      ]
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa · Buat itu Nyata",
+      "date": "2026-11-24",
+      "file": "tuesday.md",
+      "readingRefs": [
+        "Keluaran 20:1–17"
+      ]
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu · Buat itu Nyata",
+      "date": "2026-11-25",
+      "file": "wednesday.md",
+      "readingRefs": [
+        "Yesaya 44:3–4",
+        "Wahyu 14:8",
+        "Yoel 2:23",
+        "Efesus 6:13",
+        "Yosua 11:15",
+        "1 Korintus 16:13"
+      ]
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis · Buat itu Nyata",
+      "date": "2026-11-26",
+      "file": "thursday.md",
+      "readingRefs": [
+        "Yakobus 3:17"
+      ]
+    },
+    {
+      "key": "friday",
+      "title": "Jumat · Buat itu Nyata",
+      "date": "2026-11-27",
+      "file": "friday.md",
+      "readingRefs": [
+        "1 Yohanes 1:8–2"
+      ]
+    }
+  ],
+  "pdfs": [],
+  "illustration": "../../assets/lesson-cover-09.jpg",
+  "illustrationStatus": "available",
+  "relatedResources": []
+}

@@ -1,0 +1,87 @@
+{
+  "id": "lesson-05",
+  "title": "Dusta yang Mematikan",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-30",
+  "discussionDate": "2026-10-31",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Dusta yang Mematikan",
+      "date": "2026-10-24",
+      "file": "sabbath.md",
+      "readingRefs": [
+        "Mazmur 146:4",
+        "Pengkhotbah 9:5"
+      ]
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu · Buat itu Nyata",
+      "date": "2026-10-25",
+      "file": "sunday.md",
+      "readingRefs": [
+        "Kejadian 3:4",
+        "Kejadian 3:1–5",
+        "Mazmur 146:4",
+        "Yesaya 38:18",
+        "Wahyu 16:13–14",
+        "Kejadian 1:26"
+      ]
+    },
+    {
+      "key": "monday",
+      "title": "Senin · Buat itu Nyata",
+      "date": "2026-10-26",
+      "file": "monday.md",
+      "readingRefs": [
+        "Mazmur 146:4"
+      ]
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa · Buat itu Nyata",
+      "date": "2026-10-27",
+      "file": "tuesday.md",
+      "readingRefs": [
+        "Roma 6:23"
+      ]
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu · Buat itu Nyata",
+      "date": "2026-10-28",
+      "file": "wednesday.md",
+      "readingRefs": [
+        "Yohanes 11:1–15",
+        "1 Korintus 15:54"
+      ]
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis · Buat itu Nyata",
+      "date": "2026-10-29",
+      "file": "thursday.md",
+      "readingRefs": [
+        "2 Timotius 3:15–17"
+      ]
+    },
+    {
+      "key": "friday",
+      "title": "Jumat · Buat itu Nyata",
+      "date": "2026-10-30",
+      "file": "friday.md",
+      "readingRefs": [
+        "1 Korintus 15:15–58",
+        "1 Tesalonika 4:13–17",
+        "1 Korintus 15:15–20",
+        "Pengkhotbah 9:5",
+        "Kisah Para Rasul 13:36–37"
+      ]
+    }
+  ],
+  "pdfs": [],
+  "illustration": "../../assets/lesson-cover-05.jpg",
+  "illustrationStatus": "available",
+  "relatedResources": []
+}

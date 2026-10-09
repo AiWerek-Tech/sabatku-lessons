@@ -1,0 +1,89 @@
+{
+  "id": "lesson-11",
+  "title": "Akhir Dunia Seperti yang Kita Kenal",
+  "startDate": "2026-12-05",
+  "endDate": "2026-12-11",
+  "discussionDate": "2026-12-12",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Akhir Dunia Seperti yang Kita Kenal",
+      "date": "2026-12-05",
+      "file": "sabbath.md",
+      "readingRefs": [
+        "Daniel 12:1–2",
+        "2 Petrus 3:9"
+      ]
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu · Buat itu Nyata",
+      "date": "2026-12-06",
+      "file": "sunday.md",
+      "readingRefs": [
+        "Daniel 12:1–2",
+        "Wahyu 1:7",
+        "Wahyu 7:14–17",
+        "1 Tesalonika 4:16–18",
+        "Yohanes 14:1–4",
+        "Mikha 7:8",
+        "Yohanes 15:9–11",
+        "Wahyu 7:14"
+      ]
+    },
+    {
+      "key": "monday",
+      "title": "Senin · Buat itu Nyata",
+      "date": "2026-12-07",
+      "file": "monday.md",
+      "readingRefs": [
+        "Daniel 12:1–2"
+      ]
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa · Buat itu Nyata",
+      "date": "2026-12-08",
+      "file": "tuesday.md",
+      "readingRefs": [
+        "Yohanes 3:16–17"
+      ]
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu · Buat itu Nyata",
+      "date": "2026-12-09",
+      "file": "wednesday.md",
+      "readingRefs": [
+        "Matius 22:36–40",
+        "Galatia 5:22–23",
+        "Matius 24:36–39",
+        "Pengkhotbah 3:11–12",
+        "Yohanes 15:12",
+        "Mikha 6:8"
+      ]
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis · Buat itu Nyata",
+      "date": "2026-12-10",
+      "file": "thursday.md",
+      "readingRefs": [
+        "1 Yohanes 2:3"
+      ]
+    },
+    {
+      "key": "friday",
+      "title": "Jumat · Buat itu Nyata",
+      "date": "2026-12-11",
+      "file": "friday.md",
+      "readingRefs": [
+        "2 Petrus 3:18"
+      ]
+    }
+  ],
+  "pdfs": [],
+  "illustration": "../../assets/lesson-cover-11.jpg",
+  "illustrationStatus": "available",
+  "relatedResources": []
+}

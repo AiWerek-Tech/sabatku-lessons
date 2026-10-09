@@ -1,0 +1,86 @@
+{
+  "id": "lesson-07",
+  "title": "Teroris Paling Berbahaya di Dunia",
+  "startDate": "2026-11-07",
+  "endDate": "2026-11-13",
+  "discussionDate": "2026-11-14",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Teroris Paling Berbahaya di Dunia",
+      "date": "2026-11-07",
+      "file": "sabbath.md",
+      "readingRefs": [
+        "Wahyu 12:17",
+        "Roma 10:9–10"
+      ]
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu · Buat itu Nyata",
+      "date": "2026-11-08",
+      "file": "sunday.md",
+      "readingRefs": [
+        "2 Petrus 3:10–13",
+        "2 Petrus 3:8–18",
+        "2 Timotius 3:1–5"
+      ]
+    },
+    {
+      "key": "monday",
+      "title": "Senin · Buat itu Nyata",
+      "date": "2026-11-09",
+      "file": "monday.md",
+      "readingRefs": [
+        "Wahyu 12:17",
+        "Efesus 6:10–12",
+        "Wahyu 19:10"
+      ]
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa · Buat itu Nyata",
+      "date": "2026-11-10",
+      "file": "tuesday.md",
+      "readingRefs": [
+        "Matius 24:24"
+      ]
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu · Buat itu Nyata",
+      "date": "2026-11-11",
+      "file": "wednesday.md",
+      "readingRefs": [
+        "Yehezkiel 33:31–32",
+        "Imamat 20:8",
+        "1 Korintus 11:1",
+        "Titus 2:15",
+        "Wahyu 22:14"
+      ]
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis · Buat itu Nyata",
+      "date": "2026-11-12",
+      "file": "thursday.md",
+      "readingRefs": [
+        "Filipi 4:12–13"
+      ]
+    },
+    {
+      "key": "friday",
+      "title": "Jumat · Buat itu Nyata",
+      "date": "2026-11-13",
+      "file": "friday.md",
+      "readingRefs": [
+        "Wahyu 12:17",
+        "2 Tawarikh 20:15"
+      ]
+    }
+  ],
+  "pdfs": [],
+  "illustration": "../../assets/lesson-cover-07.jpg",
+  "illustrationStatus": "available",
+  "relatedResources": []
+}

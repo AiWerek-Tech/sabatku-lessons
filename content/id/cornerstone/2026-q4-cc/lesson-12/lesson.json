@@ -1,0 +1,83 @@
+{
+  "id": "lesson-12",
+  "title": "Menghapus Bersih, Memulai Lembaran Baru",
+  "startDate": "2026-12-12",
+  "endDate": "2026-12-18",
+  "discussionDate": "2026-12-19",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Menghapus Bersih, Memulai Lembaran Baru",
+      "date": "2026-12-12",
+      "file": "sabbath.md",
+      "readingRefs": [
+        "2 Petrus 3:10",
+        "Mazmur 86:5"
+      ]
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu · Buat itu Nyata",
+      "date": "2026-12-13",
+      "file": "sunday.md",
+      "readingRefs": [
+        "1 Korintus 6:2",
+        "Maleakhi 3:10"
+      ]
+    },
+    {
+      "key": "monday",
+      "title": "Senin · Buat itu Nyata",
+      "date": "2026-12-14",
+      "file": "monday.md",
+      "readingRefs": [
+        "2 Petrus 3:10"
+      ]
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa · Buat itu Nyata",
+      "date": "2026-12-15",
+      "file": "tuesday.md",
+      "readingRefs": [
+        "Mazmur 7:9",
+        "Mazmur 44:21"
+      ]
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu · Buat itu Nyata",
+      "date": "2026-12-16",
+      "file": "wednesday.md",
+      "readingRefs": [
+        "Maleakhi 3:10",
+        "Ayub 40:1–2",
+        "Mazmur 34:8",
+        "Mazmur 34:4",
+        "Mazmur 32:7"
+      ]
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis · Buat itu Nyata",
+      "date": "2026-12-17",
+      "file": "thursday.md",
+      "readingRefs": [
+        "Matius 24:43–44"
+      ]
+    },
+    {
+      "key": "friday",
+      "title": "Jumat · Buat itu Nyata",
+      "date": "2026-12-18",
+      "file": "friday.md",
+      "readingRefs": [
+        "Mazmur 19:14"
+      ]
+    }
+  ],
+  "pdfs": [],
+  "illustration": "../../assets/lesson-cover-12.jpg",
+  "illustrationStatus": "available",
+  "relatedResources": []
+}

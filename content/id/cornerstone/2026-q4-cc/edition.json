@@ -1,0 +1,131 @@
+{
+  "id": "2026-q4-cc",
+  "programId": "cornerstone",
+  "locale": "id",
+  "title": "Sebuah Buku Terbuka · Cornerstone Connections · Triwulan IV 2026",
+  "description": "Sekolah Sabat Remaja · Usia 15–18 tahun. Publikasi tim penerjemah SabatKu.",
+  "startDate": "2026-09-26",
+  "endDate": "2026-12-25",
+  "cover": "editions/2026-q4-cc/assets/cover.png",
+  "sourceName": "Cornerstone Connections · General Conference of Seventh-day Adventists",
+  "sourceUrl": "https://www.cornerstoneconnections.net/lessons",
+  "attribution": "Terjemahan Bahasa Indonesia oleh tim penerjemah resmi SabatKu.",
+  "rightsStatement": "Materi disediakan untuk akses publik sesuai otorisasi tim penerjemah; hak materi sumber tetap pada pemiliknya.",
+  "publicationStatus": "published",
+  "introductionFile": "introduction/intro.md",
+  "lessonCount": 13,
+  "dayOrder": [
+    "sabbath",
+    "sunday",
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday"
+  ],
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "title": "Mengenal Allah, Mengenal Diri Sendiri",
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-02",
+      "discussionDate": "2026-10-03"
+    },
+    {
+      "id": "lesson-02",
+      "title": "Pintu Tertutup, Kitab-Kitab Terbuka",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-09",
+      "discussionDate": "2026-10-10"
+    },
+    {
+      "id": "lesson-03",
+      "title": "Sindrom Dosa",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-16",
+      "discussionDate": "2026-10-17"
+    },
+    {
+      "id": "lesson-04",
+      "title": "Kebaikan Mengalahkan Kejahatan",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-23",
+      "discussionDate": "2026-10-24"
+    },
+    {
+      "id": "lesson-05",
+      "title": "Dusta yang Mematikan",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-30",
+      "discussionDate": "2026-10-31"
+    },
+    {
+      "id": "lesson-06",
+      "title": "Kuasa Sejati",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-06",
+      "discussionDate": "2026-11-07"
+    },
+    {
+      "id": "lesson-07",
+      "title": "Teroris Paling Berbahaya di Dunia",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-13",
+      "discussionDate": "2026-11-14"
+    },
+    {
+      "id": "lesson-08",
+      "title": "Menemukan Kebiasaan Rohani Sehari-hari",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-20",
+      "discussionDate": "2026-11-21"
+    },
+    {
+      "id": "lesson-09",
+      "title": "Selamatkan Dirimu",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-27",
+      "discussionDate": "2026-11-28"
+    },
+    {
+      "id": "lesson-10",
+      "title": "Masa Kesukaran",
+      "startDate": "2026-11-28",
+      "endDate": "2026-12-04",
+      "discussionDate": "2026-12-05"
+    },
+    {
+      "id": "lesson-11",
+      "title": "Akhir Dunia Seperti yang Kita Kenal",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-11",
+      "discussionDate": "2026-12-12"
+    },
+    {
+      "id": "lesson-12",
+      "title": "Menghapus Bersih, Memulai Lembaran Baru",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-18",
+      "discussionDate": "2026-12-19"
+    },
+    {
+      "id": "lesson-13",
+      "title": "Bumi Diperbarui",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-25",
+      "discussionDate": "2026-12-26"
+    }
+  ],
+  "sectionLabels": {
+    "key-text": "Ayat Inti",
+    "flashlight": "Sekilas Cahaya",
+    "what-do-you-think": "Apakah Pendapatmu?",
+    "into-the-story": "Ke Dalam Cerita",
+    "out-of-the-story": "Keluar Cerita",
+    "punch-lines": "Bagian Pokok",
+    "did-you-know": "Apakah kamu tahu?",
+    "further-insight": "Wawasan Tambahan",
+    "connecting-to-life": "Buat itu Nyata",
+    "weekly-reading": "Bacaan Pekan Ini"
+  }
+}

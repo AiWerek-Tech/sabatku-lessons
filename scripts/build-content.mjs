@@ -1,3 +1,4 @@
+import { buildCornerstone } from './build-cornerstone.mjs';
 import { readFile, readdir, mkdir, rm, writeFile, cp } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -369,7 +370,12 @@ async function main() {
     assetDirectories.push({ source: path.join(editionDir, 'assets'), destination: path.join(outputRoot, 'editions', edition.id, 'assets') });
   }
 
+  const cornerstone = await buildCornerstone(sourceRoot,outputRoot);
+  const cornerstoneEditions = cornerstone.editions;
+  published.push(...cornerstone.published);
+  assetDirectories.push(...cornerstone.assetDirectories);
   const programMetadata = {
+    cornerstone: {audienceCategory: 'children-youth', ageRange: {min:15,max:18,unit:'years'},programRole:'curriculum',audienceLabel:{id:'Remaja',en:'Youth'}},
     'adult-easy-reading': {
       audienceCategory: 'adult', ageRange: null, programRole: 'edition',
       audienceLabel: { id: 'Dewasa', en: 'Adult' }
@@ -385,7 +391,7 @@ async function main() {
   };
   const withAudience = program => ({ ...program, ...programMetadata[program.id] });
   // Keep downloaded edition and lesson documents self-describing, not only the catalog index.
-  for (const edition of [...editions, ...egwEditions, ...inverseEditions]) {
+  for (const edition of [...editions, ...egwEditions, ...inverseEditions, ...cornerstoneEditions]) {
     Object.assign(edition, programMetadata[edition.programId]);
   }
   for (const document of published) {
@@ -398,13 +404,14 @@ async function main() {
     programs: [
       withAudience({ id: 'adult-easy-reading', locale: 'id', title: 'SS Dewasa Mudah Dibaca', editions }),
       ...(egwEditions.length ? [withAudience({ id: 'adult-egw-notes', locale: 'id', title: 'Suplemen EGW Notes', editions: egwEditions })] : []),
-      ...(inverseEditions.length ? [withAudience({ id: 'inverse', locale: 'id', title: 'InVerse · Pemuda Dewasa', editions: inverseEditions })] : [])
+      ...(inverseEditions.length ? [withAudience({ id: 'inverse', locale: 'id', title: 'InVerse · Pemuda Dewasa', editions: inverseEditions })] : []),
+      ...(cornerstoneEditions.length ? [withAudience({id:'cornerstone',locale:'id',title:'Cornerstone Connections · Remaja',editions:cornerstoneEditions})] : [])
     ]
   };
 
   const checkOnly = process.argv.includes('--check');
   if (checkOnly) {
-    console.log(`Valid: ${editions.length + egwEditions.length + inverseEditions.length} published edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length} lesson document(s), ${supplementPublications.resourceCount} published supplement resource(s).`);
+    console.log(`Valid: ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length} published edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length} lesson document(s), ${supplementPublications.resourceCount} published supplement resource(s).`);
     return;
   }
 
@@ -422,7 +429,7 @@ async function main() {
     catch (error) { if (error.code !== 'ENOENT') throw error; }
   }
   await writeFile(path.join(outputRoot, '.nojekyll'), '', 'utf8');
-  console.log(`Built ${editions.length + egwEditions.length + inverseEditions.length} edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length} lesson document(s), and ${supplementPublications.resourceCount} supplement resource(s) into public/.`);
+  console.log(`Built ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length} edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length} lesson document(s), and ${supplementPublications.resourceCount} supplement resource(s) into public/.`);
 }
 
 main().catch(error => { console.error(error.message); process.exitCode = 1; });

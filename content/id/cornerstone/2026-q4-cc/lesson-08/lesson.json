@@ -1,0 +1,86 @@
+{
+  "id": "lesson-08",
+  "title": "Menemukan Kebiasaan Rohani Sehari-hari",
+  "startDate": "2026-11-14",
+  "endDate": "2026-11-20",
+  "discussionDate": "2026-11-21",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Menemukan Kebiasaan Rohani Sehari-hari",
+      "date": "2026-11-14",
+      "file": "sabbath.md",
+      "readingRefs": [
+        "Mazmur 119:9–16",
+        "Yohanes 20:27–29"
+      ]
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu · Buat itu Nyata",
+      "date": "2026-11-15",
+      "file": "sunday.md",
+      "readingRefs": [
+        "Roma 12:1–2",
+        "Daniel 6:3–10",
+        "Keluaran 20:8–11",
+        "Bacalah Daniel 6:10",
+        "Bacalah Keluaran 20:8–11"
+      ]
+    },
+    {
+      "key": "monday",
+      "title": "Senin · Buat itu Nyata",
+      "date": "2026-11-16",
+      "file": "monday.md",
+      "readingRefs": [
+        "Mazmur 119:9–16"
+      ]
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa · Buat itu Nyata",
+      "date": "2026-11-17",
+      "file": "tuesday.md",
+      "readingRefs": [
+        "Ibrani 13:7"
+      ]
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu · Buat itu Nyata",
+      "date": "2026-11-18",
+      "file": "wednesday.md",
+      "readingRefs": [
+        "2 Timotius 4:3–5",
+        "Amsal 3:13–18",
+        "Yeremia 17:7–8",
+        "Efesus 5:15–20",
+        "Amsal 3:13–17"
+      ]
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis · Buat itu Nyata",
+      "date": "2026-11-19",
+      "file": "thursday.md",
+      "readingRefs": [
+        "Kolose 3:2",
+        "Mazmur 119:164",
+        "Daniel 6:10",
+        "Kisah Para Rasul 3:1"
+      ]
+    },
+    {
+      "key": "friday",
+      "title": "Jumat · Buat itu Nyata",
+      "date": "2026-11-20",
+      "file": "friday.md",
+      "readingRefs": []
+    }
+  ],
+  "pdfs": [],
+  "illustration": "../../assets/lesson-cover-08.jpg",
+  "illustrationStatus": "available",
+  "relatedResources": []
+}
