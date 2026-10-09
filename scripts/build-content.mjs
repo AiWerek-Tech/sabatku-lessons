@@ -377,7 +377,7 @@ async function main() {
   const programMetadata = {
     cornerstone: {audienceCategory: 'children-youth', ageRange: {min:15,max:18,unit:'years'},programRole:'curriculum',audienceLabel:{id:'Remaja',en:'Youth'}},
     'adult-easy-reading': {
-      audienceCategory: 'adult', ageRange: null, programRole: 'edition',
+      audienceCategory: 'adult', ageRange: { min: 18, max: null, unit: 'years', plus: true }, programRole: 'edition',
       audienceLabel: { id: 'Dewasa', en: 'Adult' }
     },
     'adult-egw-notes': {
@@ -385,7 +385,7 @@ async function main() {
       audienceLabel: { id: 'Dewasa', en: 'Adult' }
     },
     inverse: {
-      audienceCategory: 'youth-adult', ageRange: { min: 18, max: 35, unit: 'years', plus: true }, programRole: 'curriculum',
+      audienceCategory: 'youth-adult', ageRange: { min: 18, max: null, unit: 'years', plus: true }, programRole: 'curriculum',
       audienceLabel: { id: 'Pemuda Dewasa', en: 'Youth Adult' }
     }
   };
