@@ -33,6 +33,7 @@ async function makePublishedFixture() {
 
   const manifestPath = path.join(quarterDir, 'lesson-13', 'resources.json');
   const manifest = JSON.parse(await readFile(manifestPath, 'utf8'));
+  for (const item of manifest.resources) item.publicationStatus = 'draft';
   const resource = manifest.resources.find(item => item.key === 'teacher-guide');
   resource.publicationStatus = 'published';
   resource.attribution = 'Contoh atribusi untuk pengujian';
@@ -103,4 +104,18 @@ test('draft resources and collections stay out of the public catalog', async () 
   } finally {
     await rm(fixture.temp, { recursive: true, force: true });
   }
+});
+
+
+test('Markdown publication is independent of Windows line endings', async () => {
+  const fixture = await makePublishedFixture();
+  try {
+    const lf = await buildSupplements(fixture.contentRoot);
+    const markdownPath = path.join(path.dirname(fixture.manifestPath), 'teacher-guide', 'content.md');
+    const markdown = await readFile(markdownPath, 'utf8');
+    await writeFile(markdownPath, markdown.replace(/\n/g, '\r\n'));
+    const crlf = await buildSupplements(fixture.contentRoot);
+    assert.deepEqual(crlf.assets, lf.assets);
+    assert.deepEqual(crlf.documents, lf.documents);
+  } finally { await rm(fixture.temp, { recursive: true, force: true }); }
 });

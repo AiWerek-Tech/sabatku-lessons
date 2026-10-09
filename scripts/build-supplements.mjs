@@ -40,7 +40,11 @@ export async function buildSupplements(contentRoot) {
           const formats = [];
           for (const format of resource.formats) {
             const sourceFile = path.join(lessonDir, format.file);
-            const bytes = await readFile(sourceFile);
+            const sourceBytes = await readFile(sourceFile);
+            // Publish identical Markdown bytes on Windows and Linux.
+            const bytes = format.mediaType === 'text/markdown'
+              ? Buffer.from(sourceBytes.toString('utf8').replace(/\r\n?/g, '\n'), 'utf8')
+              : sourceBytes;
             const resourceRelativeFile = format.file.slice(`${resource.key}/`.length);
             const assetUrl = publicUrl('supplements', locale, quarter, lesson.lessonId, resource.key, resourceRelativeFile);
             formats.push({
