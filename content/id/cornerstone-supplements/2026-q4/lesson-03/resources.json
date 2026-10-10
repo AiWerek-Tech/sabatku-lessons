@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "sabatku-supplement-resources-v1",
+  "locale": "id",
+  "studyId": "cornerstone:2026-q4:lesson-03",
+  "resources": [
+    {
+      "id": "cornerstone-supplement:id:2026-q4:lesson-03:teacher-guide",
+      "key": "teacher-guide",
+      "title": "Penuntun Guru · Pelajaran 03 · Sindrom Dosa",
+      "audienceCategory": "children-youth",
+      "programRole": "supplement",
+      "locale": "id",
+      "kind": "teacher-guide",
+      "scope": "weekly",
+      "studyId": "cornerstone:2026-q4:lesson-03",
+      "appliesToPrograms": [
+        "cornerstone"
+      ],
+      "source": {
+        "id": "cornerstone-connections-teacher-guide",
+        "name": "Cornerstone Connections · Teacher’s Guide",
+        "url": "https://www.cornerstoneconnections.net/page1915"
+      },
+      "editorialType": "translation",
+      "translationTeam": "Tim penerjemah resmi SabatKu",
+      "attribution": "Cornerstone Connections · Teacher’s Guide © General Conference of Seventh-day Adventists®. Terjemahan Bahasa Indonesia oleh tim penerjemah resmi SabatKu.",
+      "rightsStatement": "Materi sumber diterjemahkan dengan izin yang diberikan kepada tim penerjemah SabatKu; hak atas materi sumber tetap pada pemiliknya.",
+      "publicationStatus": "published",
+      "revision": 1,
+      "formats": [
+        {
+          "mediaType": "text/markdown",
+          "file": "teacher-guide/content.md"
+        }
+      ]
+    }
+  ]
+}

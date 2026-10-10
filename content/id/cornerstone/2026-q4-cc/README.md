@@ -16,10 +16,10 @@ Tujuh tab hari. Judul utama ditampilkan satu kali. Menu Bahan pekan ini mencari 
 Sampul buku Q4 dan 13 cover pelajaran tersedia. JPG 1–13 dari tim diimpor sebagai lesson-cover-NN.jpg, dengan token lesson-cover pada awal sabbath.md. Metadata illustrationStatus=available. Renderer header bersama berlaku pada Cornerstone dan gambar ikut diunduh untuk offline. PNG duplikat pelajaran 5 tidak disertakan.
 
 ## PDF dan bahasa
-PDF Inggris hanya referensi lokal; tidak disalin ke repository Indonesia. PDF Indonesia per pelajaran nanti melalui lesson.json.pdfs; array kosong menyembunyikan tombol. Sumber English dibuka dari katalog Inggris melalui menu Cornerstone dan hanya resource yang tersedia ditampilkan. Penuntun guru masa depan adalah resource pekanan Cornerstone, tidak terhubung ke Adult/InVerse. Belum ada penuntun guru Indonesia.
+PDF Inggris hanya referensi lokal; tidak disalin ke repository Indonesia. PDF Indonesia per pelajaran nanti melalui lesson.json.pdfs; array kosong menyembunyikan tombol. Sumber English dibuka dari katalog Inggris melalui menu Cornerstone dan hanya resource yang tersedia ditampilkan. Penuntun Guru Indonesia berada dalam koleksi terpisah `content/id/cornerstone-supplements/2026-q4`: 13 bacaan mingguan terhubung lewat nomor pelajaran dan satu pendahuluan cakupan triwulan. Keduanya bukan kelas, hari belajar tambahan, atau progres siswa; materi tersebut tidak ditautkan ke Adult/InVerse.
 
 ## Publikasi dan batas verifikasi
-build-content.mjs mengompilasi 13 lesson JSON dan edition/catalog. GitHub Pages memerlukan push dan workflow sebelum katalog jarak jauh berubah. Kompilasi Kotlin tidak berarti uji visual/perangkat berhasil. Tidak membuat APK pada tahap ini. Sumber asli pada Music tidak diubah.
+build-content.mjs mengompilasi edisi siswa dan katalog suplemen. GitHub Pages memerlukan push dan workflow sebelum katalog jarak jauh berubah. Build statis, validator, dan tes publikasi memeriksa metadata, tautan edisi, berkas Markdown, serta checksum; kompilasi Kotlin tetap tidak menggantikan uji visual/perangkat. Sumber asli pada Music tidak diubah.
 
 ## Lima penyempurnaan pengalaman belajar
 1. Referensi di bagian Ke Dalam Cerita menjadi tombol Baca kisah Alkitab dan membuka rentang ayat dari Alkitab lokal dengan bahasa aktif.
@@ -31,4 +31,4 @@ build-content.mjs mengompilasi 13 lesson JSON dan edition/catalog. GitHub Pages 
 ## Ringkasan jawaban pekanan
 Pintasan ringkasan mengumpulkan jawaban yang sudah ditulis pada kolom pertanyaan, pilihan Apakah Pendapatmu?, dan Refleksi pribadi di seluruh hari dalam pekan Cornerstone. Ringkasan tidak menambah kolom jawaban; draf yang belum tersimpan diberi label Draf dan tetap ditampilkan. Data dikelompokkan dengan label hari dan nomor pertanyaan untuk persiapan diskusi Sabat.
 
-Kompilasi Kotlin berhasil. Tes unit tambahan tidak dijalankan pada giliran implementasi ini. Pemeriksaan visual di perangkat dan uji penyimpanan lintas restart masih perlu dilakukan sebelum menyebut pengalaman final siap rilis.
+Penuntun Guru Cornerstone dapat dibaca dari Sumber Terkait pada tab Indonesia, lalu disimpan untuk akses offline. Uji otomatis tidak menggantikan pemeriksaan tampilan di perangkat; tahap APK/QA perangkat dilakukan terpisah.

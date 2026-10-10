@@ -65,6 +65,51 @@ test('published supplements produce linked static indexes and checksummed files'
   }
 });
 
+test('Cornerstone teacher guides publish as linked weekly and quarter-level resources', async () => {
+  const temp = await mkdtemp(path.join(os.tmpdir(), 'sabatku-cornerstone-supplements-'));
+  const contentRoot = path.join(temp, 'content');
+  const quarterDir = path.join(contentRoot, 'id', 'cornerstone-supplements', '2026-q4');
+  await mkdir(quarterDir, {recursive:true});
+  const collection = {
+    schemaVersion:'sabatku-supplements-v1', id:'cornerstone-supplements:id:2026-q4',
+    title:'Penuntun Guru Cornerstone Connections · Triwulan IV 2026', locale:'id', quarter:'2026-q4',
+    audienceCategory:'children-youth', programRole:'supplement', publicationStatus:'published', revision:1,
+    editionBindings:[{programId:'cornerstone',locale:'id',editionId:'2026-q4-cc',unitIdPattern:'{number:02}'}],
+    lessons:[{lessonId:'lesson-02',manifest:'lesson-02/resources.json'}],
+    quarterResources:[{resourceId:'introduction',manifest:'introduction/resources.json'}]
+  };
+  await writeFile(path.join(quarterDir,'collection.json'),`${JSON.stringify(collection,null,2)}\n`);
+  const addGuide = async (target, scope, studyId, title) => {
+    const targetDir = path.join(quarterDir,target);
+    const markdown = `# ${title}\n\nMateri pengajar.\n`;
+    const resource = {
+      id:`cornerstone-supplement:id:2026-q4:${target}:teacher-guide`, key:'teacher-guide', title,
+      audienceCategory:'children-youth', programRole:'supplement', locale:'id', kind:'teacher-guide', scope, studyId,
+      appliesToPrograms:['cornerstone'], source:{id:'cornerstone-teacher-guide',name:'Cornerstone Connections Teacher’s Guide',url:'https://www.cornerstoneconnections.net/page1915'},
+      editorialType:'translation', translationTeam:'Tim penerjemah resmi SabatKu', attribution:'Cornerstone Connections',
+      rightsStatement:'Diterjemahkan dengan izin tim', publicationStatus:'published', revision:1,
+      formats:[{mediaType:'text/markdown',file:'teacher-guide/content.md'}]
+    };
+    await mkdir(path.join(targetDir,'teacher-guide'),{recursive:true});
+    await writeFile(path.join(targetDir,'teacher-guide','content.md'),markdown);
+    await writeFile(path.join(targetDir,'resources.json'),`${JSON.stringify({schemaVersion:'sabatku-supplement-resources-v1',locale:'id',studyId,resources:[resource]},null,2)}\n`);
+  };
+  await addGuide('lesson-02','weekly','cornerstone:2026-q4:lesson-02','Penuntun Guru · Pelajaran 02');
+  await addGuide('introduction','quarterly','cornerstone:2026-q4:introduction','Pendahuluan Penuntun Guru');
+  try {
+    assert.equal(await validateSupplements(contentRoot),2);
+    const output=await buildSupplements(contentRoot);
+    assert.equal(output.resourceCount,2);
+    assert.deepEqual(output.catalog.collections.map(item=>item.id),['cornerstone-supplements:id:2026-q4']);
+    const collection=output.documents.find(item=>item.path==='supplements/id/cornerstone/2026-q4/index.json').value;
+    assert.equal(collection.lessons[0].lessonId,'lesson-02');
+    assert.equal(collection.quarterResources[0].resourceId,'introduction');
+    assert.equal(collection.lessons[0].resources[0].scope,'weekly');
+    assert.equal(collection.quarterResources[0].resources[0].scope,'quarterly');
+    assert.equal(output.assets.length,2);
+  } finally { await rm(temp,{recursive:true,force:true}); }
+});
+
 test('published resources without a real format are rejected', async () => {
   const fixture = await makePublishedFixture();
   try {
