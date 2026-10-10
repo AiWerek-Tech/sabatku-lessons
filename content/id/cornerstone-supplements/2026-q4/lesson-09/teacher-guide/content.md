@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** Wahyu 18:1–14.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 38.
-**Ayat kunci:** Wahyu 18:4–5.
+**Ayat Inti:** Wahyu 18:4–5.
 
 # Persiapan Mengajar
 
@@ -29,15 +29,24 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ## III. Pendalaman
 
-**Pengalaman Keselamatan — Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 10**
+**Kepercayaan Dasar GMAHK Nomor 10: PENGALAMAN KESELAMATAN**
 
-> Dalam kasih dan kemurahan-Nya yang tidak terbatas, Allah menjadikan Kristus, yang tidak mengenal dosa, sebagai korban karena dosa bagi kita, supaya di dalam Dia kita dibenarkan di hadapan Allah. Dengan tuntunan Roh Kudus, kita menyadari kebutuhan kita akan keselamatan, mengakui keberdosaan kita, bertobat dari pelanggaran-pelanggaran kita, dan beriman kepada Yesus sebagai Juruselamat dan Tuhan, Pengganti dan Teladan kita.
->
-> Iman yang menyelamatkan ini lahir melalui kuasa ilahi dalam firman Allah dan merupakan karunia kasih karunia-Nya. Melalui Kristus kita dibenarkan, diangkat menjadi anak-anak Allah, dan dibebaskan dari kekuasaan dosa. Melalui Roh Kudus kita dilahirkan kembali dan dikuduskan. Roh Kudus memperbarui pikiran kita, menuliskan hukum kasih Allah dalam hati kita, dan memberi kita kuasa untuk menjalani kehidupan yang kudus.
->
-> Dengan tinggal di dalam Kristus, kita mengambil bagian dalam kodrat ilahi dan memiliki kepastian keselamatan, baik sekarang maupun pada saat penghakiman.
+> Dalam kemurahan dan kasih yang tidak terbatas Allah telah membuat Kristus, yang tidak mengenal dosa,
+> menjadi dosa untuk kita, supaya di dalam Dia kita dapat dijadikan kebenaran Allah. Dengan dipimpin
+> oleh Roh Kudus kita merasakan kebutuhan kita mengakui keadaan kita yang berdosa, bertobat dari
+> pelanggaran-pelanggaran kita, dan menghidupkan iman pada Yesus sebagai Tuhan dan Kristus, sebagai
+> Pengganti dan Teladan. Iman yang menerima keselamatan ini berasal dari kuasa Firman Allah dan
+> merupakan karunia dari rahmat Allah. Melalui Kristus kita dibenarkan, diangkat sebagai putra dan
+> putri Allah, dan dilepaskan dari kekuasaan dosa. Melalui Roh Kudus kita dilahirkan kembali dan
+> disucikan; Roh memperbaruii pikiran kita, menuliskan hukum Allah yaitu kasih di dalam hati kita, dan
+> kita memperoleh kuasa untuk menghidupkan suatu kehidupan yang suci. Dengan tinggal dalam Dia kita
+> mengambil bagian dalam sifat Ilahi dan memiliki kepastian keselamatan sekarang dan pada saat
+> penghakiman. (2 Kor. 5:17-21; Yoh. 3:16; Gal. 1:4; 4:4-7; Titus 3:3-7; Yoh. 16:8; Gal. 3:13, 14; 1
+> Ptr. 2:21, 22; Rm. 10:17; Luk. 17:5; Mrk. 9:23 ,24; Ef. 2:5-10; Rm. 3:21-26; Kol. 1:13, 14; Rm.
+> 8:14-17; Gal. 3:26; Yoh. 3:3-8; 1 Ptr. 1:23; Rm. 12:2; Ibr. 8:7-12; Yeh. 36:25-27; 2 Ptr. 1:3, 4;
+> Rm. 8:1-4; 5:6-10.)
 
-**Referensi Alkitab:** Kejadian 3:15; Yesaya 45:22; 53; Yeremia 31:31–34; Yehezkiel 33:11; 36:25–27; Habakuk 2:4; Markus 9:23–24; Yohanes 3:3–8, 16; 16:8; Roma 3:21–26; 8:1–4, 14–17; 5:6–10; 10:17; 12:2; 2 Korintus 5:17–21; Galatia 1:4; 3:13–14, 26; 4:4–7; Efesus 2:4–10; Kolose 1:13–14; Titus 3:3–7; Ibrani 8:7–12; 1 Petrus 1:23; 2:21–22; 2 Petrus 1:3–4; Wahyu 13:8.
+---
 
 # Panduan Mengajar
 
@@ -45,9 +54,9 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ### Kegiatan
 
-Arahkan siswa kepada bagian **Bagaimana Menurutmu? (*What Do You Think?*)** dalam pelajaran mereka. Setelah mereka menyelesaikannya, diskusikan jawaban mereka.
+Arahkan siswa kepada bagian **Apakah Pendapatmu? (*What Do You Think?*)** dalam pelajaran mereka. Setelah mereka menyelesaikannya, diskusikan jawaban mereka.
 
-**Kunci jawaban kegiatan *Bagaimana Menurutmu?* adalah: A–4, B–1, C–2, D–3.**
+**Kunci jawaban kegiatan *Apakah Pendapatmu?* adalah: A–4, B–1, C–2, D–3.**
 
 Tujuan kegiatan ini adalah mengajak siswa memikirkan beberapa peringatan yang pernah Allah berikan kepada manusia dalam Alkitab. Mintalah siswa menceritakan pengalaman ketika mereka mengindahkan suatu peringatan dan kemudian bersyukur karena telah mendengarkannya. Mintalah mereka juga menceritakan pengalaman ketika mereka mengabaikan peringatan dan akhirnya harus menanggung akibatnya.
 
@@ -75,9 +84,9 @@ Jika kita jujur, kita harus mengakui bahwa ancaman badai yang akan datang terasa
 
 Tidak mengherankan jika kita sering memperlakukan peringatan Allah dengan cara yang sama. Gagasan bahwa kita mungkin suatu hari akan mendapat ancaman karena iman kita terasa jauh dari kenyataan, khususnya di negara-negara demokratis di dunia Barat. Kita perlu menyadari bahwa Allah sudah mengetahui masa depan dan melihat berbagai kesulitan yang kelak harus kita hadapi. Karena itulah, Ia telah memberikan peringatan kepada kita agar memisahkan diri dari dunia, supaya kita tidak ikut menerima hukumannya (Wahyu 18:4).
 
-### Menggali Makna Kisah — Untuk Guru
+### Keluar Cerita — Untuk Guru
 
-Setelah membaca bagian **Masuk ke Dalam Kisah (*Into the Story*)** bersama siswa, gunakan panduan berikut dengan kata-kata Anda sendiri untuk membantu mereka mendalami kisah tersebut.
+Setelah membaca bagian **Ke Dalam Cerita (*Into the Story*)** bersama siswa, gunakan panduan berikut dengan kata-kata Anda sendiri untuk membantu mereka mendalami kisah tersebut.
 
 - **Malaikat dalam Wahyu 18 memiliki beberapa ciri khusus.** Malaikat itu mempunyai “kuasa besar” dan menerangi bumi dengan kemuliaannya. Ciri-ciri istimewa ini juga akan tampak dalam kehidupan umat Allah yang sisa pada akhir zaman, ketika mereka menyampaikan pekabaran peringatan terakhir dari Allah.
 
@@ -119,9 +128,9 @@ Bacalah Yesaya 48:20; Yeremia 50:8; dan Yeremia 51:6, 45. *The Seventh-day Adven
 
 Arahkan siswa untuk membuka bagian-bagian lain dalam materi pelajaran mereka.
 
-- **Ayat Hafalan (*Key Text*)** — Undang siswa yang sudah menghafalnya untuk menyampaikan Ayat Hafalan di depan kelas.
-- **Sorotan Inspirasi (*Flashlight*)** — Bacalah pernyataan dalam bagian ini. Jelaskan bahwa kutipannya biasanya berasal dari pembahasan kisah minggu tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka temukan antara pernyataan itu dan hal-hal yang baru mereka diskusikan dalam bagian *Menggali Makna Kisah*.
-- **Ayat-Ayat Pilihan (*Punch Lines*)** — Tunjukkan ayat-ayat dalam pelajaran yang berkaitan dengan kisah minggu ini. Mintalah siswa membagikan ayat yang paling menyentuh mereka dan menjelaskan alasan mereka memilihnya.
+- **Ayat Inti (*Key Text*)** — Undang siswa yang sudah menghafalnya untuk menyampaikan Ayat Inti di depan kelas.
+- **Sekilas Cahaya (*Flashlight*)** — Bacalah pernyataan dalam bagian ini. Jelaskan bahwa kutipannya biasanya berasal dari pembahasan kisah minggu tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka temukan antara pernyataan itu dan hal-hal yang baru mereka diskusikan dalam bagian *Keluar Cerita*.
+- **Bagian Pokok (*Punch Lines*)** — Tunjukkan ayat-ayat dalam pelajaran yang berkaitan dengan kisah minggu ini. Mintalah siswa membagikan ayat yang paling menyentuh mereka dan menjelaskan alasan mereka memilihnya.
 - **Wawasan Tambahan (*Further Insight*)** — Tanyakan bagaimana kutipan dalam bagian ini membantu menyampaikan pesan utama kisah yang dipelajari.
 
 ### Rabbi 101 — Tips Mengajar yang Efektif

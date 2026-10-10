@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** Daniel 12:1–2; Wahyu 1:7; Wahyu 7:14–17; 1 Tesalonika 4:16–18; Yohanes 14:1–4.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 40.
-**Ayat kunci:** Daniel 12:1–2.
+**Ayat Inti:** Daniel 12:1–2.
 
 # Persiapan Mengajar
 
@@ -27,11 +27,17 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ## III. Pendalaman
 
-**Kematian dan Kebangkitan — Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 26**
+**Kepercayaan Dasar GMAHK Nomor 26: KEMATIAN & KABANGKITAN**
 
-> Upah dosa ialah maut. Namun Allah, satu-satunya Pribadi yang memiliki sifat tidak dapat mati, akan mengaruniakan kehidupan kekal kepada umat tebusan-Nya. Sampai hari itu tiba, kematian merupakan keadaan tidak sadar bagi semua manusia. Ketika Kristus, yang adalah hidup kita, menyatakan diri-Nya, orang-orang benar yang dibangkitkan dan orang-orang benar yang masih hidup akan dimuliakan dan diangkat untuk bertemu dengan Tuhan mereka. Kebangkitan kedua, yaitu kebangkitan orang-orang yang tidak benar, akan terjadi seribu tahun kemudian.
+> Upah dosa ialah maut. Tetapi Allah, yang tidak dapat mati, akan memberikan kehidupan kekal kepada
+> orang-orang yang ditebus-Nya. Hingga hari itu kematian adalah keadaan tidak sadar bagi semua orang.
+> Bilamana Kristus, yang adalah kehidupan kita, nampak, orang-orang benar yang telah dibangkitkan dan
+> orang-orang benar yang hidup akan dimuliakan dan bersedia untuk bertemu dengan Tuhan mereka.
+> Kebangkitan kedua, yaitu kebangkitan orang-orang jahat, akan tejadi seribu tahun kemudian. (Rm.
+> 6:23; 1 Tim. 6:15, 16; Pkh. 9:5, 6; Mzm. 146:3, 4; Yoh. 11:11-14; Kol. 3:4; 1 Kor. 15:51-54; 1 Tes.
+> 4:13-17; Yoh. 5:28, 29; Why. 20:1-10).
 
-**Referensi Alkitab:** Ayub 19:25–27; Mazmur 146:3–4; Pengkhotbah 9:5–6, 10; Daniel 12:2, 13; Yesaya 25:8; Yohanes 5:28–29; 11:11–14; Roma 6:23; 16; 1 Korintus 15:51–54; Kolose 3:4; 1 Tesalonika 4:13–17; 1 Timotius 6:15; Wahyu 20:1–10.
+---
 
 # Panduan Mengajar
 
@@ -39,9 +45,9 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ### Kegiatan
 
-Arahkan siswa ke bagian **Bagaimana Menurutmu? (*What Do You Think?*)** dalam pelajaran mereka. Setelah mereka mengerjakannya, diskusikan jawaban mereka.
+Arahkan siswa ke bagian **Apakah Pendapatmu? (*What Do You Think?*)** dalam pelajaran mereka. Setelah mereka mengerjakannya, diskusikan jawaban mereka.
 
-Ajaklah siswa membagikan pemikiran mereka tentang bagian *Bagaimana Menurutmu?* Kemudian mintalah mereka memperhatikan situasi-situasi berikut dan menentukan apakah kedatangan Yesus dapat dikatakan **“segera”** dalam setiap contoh:
+Ajaklah siswa membagikan pemikiran mereka tentang bagian *Apakah Pendapatmu?* Kemudian mintalah mereka memperhatikan situasi-situasi berikut dan menentukan apakah kedatangan Yesus dapat dikatakan **“segera”** dalam setiap contoh:
 
 1. Stefanus dalam kitab Kisah Para Rasul dilempari batu ketika masih muda. Saat menjelang kematiannya, ia melihat Yesus dalam suatu penglihatan.
 2. Seorang pria lanjut usia meninggal secara alami pada umur 75 tahun, setelah sepanjang hidupnya menantikan kedatangan Yesus.
@@ -74,9 +80,9 @@ Kerumunan itu mulai bergumam dan saling memandang. Mereka terperangah, bersorak,
 
 Kadang-kadang kita mengaku percaya kepada Allah dan mengatakan semua hal yang terdengar benar. Namun, ketika tiba saatnya untuk benar-benar mengandalkan Dia, kita justru enggan memercayakan diri kepada-Nya. Kita seperti orang-orang yang menonton Blondin menyeberangi Air Terjun Niagara di atas tali: ketika ditanya apakah kita percaya kepada Allah, kita berseru, “Ya, ya, ya!” Namun, kita belum tentu bersedia melangkah maju dan masuk ke dalam gerobak dorong itu!
 
-### Menggali Makna Kisah untuk Guru
+### Keluar Cerita untuk Guru
 
-Setelah membaca bagian **Masuk ke Dalam Kisah (*Into the Story*)** bersama siswa, gunakan petunjuk berikut untuk membantu mereka mendalami kisah tersebut. Sampaikan dengan kata-kata Anda sendiri.
+Setelah membaca bagian **Ke Dalam Cerita (*Into the Story*)** bersama siswa, gunakan petunjuk berikut untuk membantu mereka mendalami kisah tersebut. Sampaikan dengan kata-kata Anda sendiri.
 
 - Lingkari ayat-ayat yang menggambarkan masa kesukaran.
 - Garisbawahi ayat-ayat yang memuat janji Allah untuk melindungi umat-Nya.
@@ -116,15 +122,15 @@ Salah satu pendekatan yang dapat digunakan ialah **mengizinkan siswa ikut menyus
 
 Arahkan siswa kepada bagian-bagian lain dalam materi pelajaran mereka.
 
-**Ayat Hafalan (*Key Text*)**
+**Ayat Inti (*Key Text*)**
 
 Undang siswa yang telah menghafal ayat tersebut untuk menyampaikannya di depan kelas.
 
-**Sorotan Inspirasi (*Flashlight*)**
+**Sekilas Cahaya (*Flashlight*)**
 
-Bacakan pernyataan di bagian *Sorotan Inspirasi*. Jelaskan bahwa sebagian besar pernyataan dalam bagian ini berasal dari komentar tentang kisah pekan tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka lihat antara pernyataan itu dan hal-hal yang baru saja mereka diskusikan dari bagian *Menggali Makna Kisah*.
+Bacakan pernyataan di bagian *Sekilas Cahaya*. Jelaskan bahwa sebagian besar pernyataan dalam bagian ini berasal dari komentar tentang kisah pekan tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka lihat antara pernyataan itu dan hal-hal yang baru saja mereka diskusikan dari bagian *Keluar Cerita*.
 
-**Ayat-Ayat Pilihan (*Punch Lines*)**
+**Bagian Pokok (*Punch Lines*)**
 
 Arahkan perhatian siswa kepada ayat-ayat dalam pelajaran yang berhubungan dengan kisah minggu ini. Mintalah mereka membagikan ayat yang paling menyentuh hati mereka dan menjelaskan mengapa mereka memilih ayat tersebut.
 
@@ -172,4 +178,4 @@ Bacaan yang berkaitan dengan pelajaran ini adalah **The Great Controversy** (ata
 
 - Ellen G. White, *The Great Controversy*, hlm. 644 — sumber kutipan mengenai kebangkitan orang-orang benar.
 - Sumber dokumen: *Cornerstone Connections*, Penuntun Guru Pelajaran 11, halaman cetak 91–94, 12 Desember 2026.
-- Kutipan Alkitab, Kepercayaan Dasar, dan Ellen G. White dalam file ini diterjemahkan dari teks bahasa Inggris dokumen sumber; tidak dinyatakan sebagai kutipan resmi dari edisi terbitan Indonesia.
+- Kutipan Alkitab dan tulisan Ellen G. White mengikuti dokumen sumber bahasa Inggris; rumusan Kepercayaan Dasar mengikuti naskah 28 doktrin yang disediakan tim.

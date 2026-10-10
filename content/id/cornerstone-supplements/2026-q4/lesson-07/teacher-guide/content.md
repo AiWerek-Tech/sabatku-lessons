@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** Wahyu 12:17; 2 Timotius 3:1–5; 2 Petrus 3.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 36.
-**Ayat kunci:** Wahyu 12:17.
+**Ayat Inti:** Wahyu 12:17.
 
 # Persiapan Mengajar
 
@@ -39,15 +39,19 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ## III. Pendalaman
 
-**Kedatangan Kristus yang Kedua Kali — Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 25**
+**Kepercayaan Dasar GMAHK Nomor 25: KEDATANGAN KRISTUS KEDUA KALI**
 
-> “Kedatangan Kristus yang kedua kali merupakan pengharapan yang penuh berkat bagi gereja, puncak agung dari Injil. Kedatangan Juruselamat itu akan terjadi secara nyata, pribadi, terlihat, dan mencakup seluruh dunia.
->
-> Ketika Ia datang kembali, orang-orang benar yang telah meninggal akan dibangkitkan. Bersama orang-orang benar yang masih hidup, mereka akan dimuliakan dan dibawa ke surga, sedangkan orang-orang yang tidak benar akan mati.
->
-> Penggenapan yang hampir menyeluruh dari sebagian besar rangkaian nubuatan, bersama dengan keadaan dunia sekarang ini, menunjukkan bahwa kedatangan Kristus sudah dekat. Waktu terjadinya peristiwa itu tidak dinyatakan kepada kita. Karena itu, kita dinasihati agar senantiasa siap.”
+> Kedatangan Kristus kedua kali merupakan pengharapan yang berbahagia dari gereja, puncak terbesar
+> dari lnjil. Kedatangan Juruselamat itu literal, personal, dapat dilihat, dan meliputi seluruh dunia.
+> Ketika Ia datang kembali, orang-orang benar yang telah mati akan dibangkitkan dan bersama-sama
+> dengan orang-orang benar yang masih hidup diangkat ke surga, tetapi orang-orang jahat akan mati.
+> Penggenapan yang hampir sempurna dari garis nubuatan, bersamaan dengan keadaan dunia sekarang ini,
+> mengindikasikan bahwa kedatangan Kristus itu sudah dekat. Saat peristiwa itu tidak dinyatakan, dan
+> oleh sebab itu kita didesak untuk bersedia setiap saat. (Tit. 2:13; Ibr. 9:28; Yoh. 14:1-3; Kis.
+> 1:9-11; Mat. 24:14; Why. 1:7; Mat. 24:43, 44; 1 Tes. 4:13-18; 1 Kor. 15:51-54; 2 Tes. 1:7-10; 2:8;
+> Why. 14:14-20; 19:11-21; Mat. 24; Mrk. 13; Luk. 21; 2 Tim. 3:1-5; 1 Tes. 5:1-6)
 
-**Referensi Alkitab:** Matius 24; Markus 13; Lukas 21; Yohanes 14:1–3; Kisah Para Rasul 1:9–11; 1 Korintus 15:51–54; 1 Tesalonika 4:13–18; 5:1–6; 2 Tesalonika 1:7–10; 2:8; 2 Timotius 3:1–5; Titus 2:13; Ibrani 9:28; Wahyu 1:7; 14:14–20; 19:11–21.
+---
 
 # Panduan Mengajar
 
@@ -55,7 +59,7 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ### Kegiatan
 
-Arahkan siswa ke bagian **Bagaimana Menurutmu? (*What Do You Think?*)** dalam pelajaran mereka. Diskusikan cara-cara lain yang mungkin digunakan Setan pada akhir zaman untuk menyesatkan bahkan orang-orang pilihan.
+Arahkan siswa ke bagian **Apakah Pendapatmu? (*What Do You Think?*)** dalam pelajaran mereka. Diskusikan cara-cara lain yang mungkin digunakan Setan pada akhir zaman untuk menyesatkan bahkan orang-orang pilihan.
 
 Sebagai kegiatan alternatif, mintalah siswa menyebutkan situasi-situasi ketika Setan menggoda mereka. Kemudian, ajak mereka mencari cara untuk melawan dan mengalahkan godaan tersebut. Dorong mereka menggunakan contoh-contoh dari kehidupan nyata dan menghubungkannya dengan peristiwa-peristiwa masa kini yang memperlihatkan pertentangan besar antara Allah dan Setan. Ingatkan mereka untuk menggunakan Alkitab, sebagaimana Kristus melakukannya ketika Ia dicobai.
 
@@ -85,15 +89,15 @@ Ternyata Gardner menggunakan strategi sederhana untuk menghadapi teknik angkatan
 
 Jika dipikirkan, strategi Gardner merupakan strategi yang baik, bahkan di luar arena gulat. Lagi pula, sangat mudah bagi kita untuk kehilangan fokus dalam peperangan rohani yang harus kita hadapi. Pertentangan besar antara Allah dan Setan terus berlangsung di seluruh dunia. Setan berusaha membinasakanmu. Namun pada akhirnya, **jika kamu tetap fokus dan terus berpegang kepada Yesus, kamu akan menang.**
 
-### Menggali Makna Kisah — Untuk Guru
+### Keluar Cerita — Untuk Guru
 
-Bandingkan **2 Petrus 3:8–17** dari bagian **Masuk ke Dalam Kisah (*Into the Story*)** dengan **1 Petrus 4:1–11**.
+Bandingkan **2 Petrus 3:8–17** dari bagian **Ke Dalam Cerita (*Into the Story*)** dengan **1 Petrus 4:1–11**.
 
 Rasul Petrus mengatakan bahwa ketika kita melihat “hawa nafsu, keinginan jahat, kemabukan, pesta pora, hidup berfoya-foya, dan penyembahan berhala yang menjijikkan” (1 Petrus 4:3, NIV) di dunia ini, kita dapat mengetahui satu hal: **“Kesudahan segala sesuatu sudah dekat”** (1 Petrus 4:7, NIV).
 
 Yesus akan datang kembali! Kita memang hidup di dunia yang gelap dan penuh kejahatan, tetapi jangan putus asa: Yesus akan datang kembali. Jadi, apa yang harus kita lakukan sambil menantikan kedatangan Kristus yang kedua kali?
 
-Petrus mengajukan pertanyaan itu dalam bagian *Masuk ke Dalam Kisah*:
+Petrus mengajukan pertanyaan itu dalam bagian *Ke Dalam Cerita*:
 
 > “Jika segala sesuatu akan dihancurkan dengan cara demikian, betapa suci dan salehnya kamu harus hidup sambil menantikan dan mempercepat datangnya hari Allah!” (2 Petrus 3:11–12, NIV; terjemahan dari kutipan sumber).
 
@@ -163,15 +167,15 @@ Petrus memberi tahu bahwa Kedatangan Kedua akan mengejutkan banyak orang. Karena
 
 Arahkan siswa kepada bagian-bagian lain dalam bahan pelajaran mereka.
 
-**Ayat Hafalan (*Key Text*)**
+**Ayat Inti (*Key Text*)**
 
-Undang siswa yang sudah menghafal Ayat Hafalan untuk mengucapkannya di depan kelas.
+Undang siswa yang sudah menghafal Ayat Inti untuk mengucapkannya di depan kelas.
 
-**Sorotan Inspirasi (*Flashlight*)**
+**Sekilas Cahaya (*Flashlight*)**
 
-Bacakan pernyataan pada bagian Sorotan Inspirasi. Jelaskan bahwa kutipan ini pada umumnya diambil dari ulasan mengenai kisah pelajaran minggu tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka lihat antara pernyataan itu dan pembahasan yang baru saja dilakukan dalam bagian **Menggali Makna Kisah (*Out of the Story*)**.
+Bacakan pernyataan pada bagian Sekilas Cahaya. Jelaskan bahwa kutipan ini pada umumnya diambil dari ulasan mengenai kisah pelajaran minggu tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka lihat antara pernyataan itu dan pembahasan yang baru saja dilakukan dalam bagian **Keluar Cerita (*Out of the Story*)**.
 
-**Ayat-Ayat Pilihan (*Punch Lines*)**
+**Bagian Pokok (*Punch Lines*)**
 
 Tunjukkan kepada siswa ayat-ayat yang tercantum dalam pelajaran mereka dan berkaitan dengan kisah minggu ini. Mintalah mereka menyampaikan ayat yang paling berbicara secara pribadi kepada mereka, kemudian beri kesempatan untuk menjelaskan alasan mereka memilihnya.
 

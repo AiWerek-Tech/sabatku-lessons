@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** 2 Petrus 3:10; Wahyu 20.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 41.
-**Ayat kunci:** 2 Petrus 3:10.
+**Ayat Inti:** 2 Petrus 3:10.
 
 # Persiapan Mengajar
 
@@ -29,11 +29,19 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ## III. Pendalaman
 
-**Masa Seribu Tahun dan Berakhirnya Dosa — Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 27**
+**Kepercayaan Dasar GMAHK Nomor 27: MILENIUM & BERAKHIRNYA DOSA**
 
-> Masa seribu tahun adalah pemerintahan Kristus bersama orang-orang kudus-Nya di surga selama seribu tahun, di antara kebangkitan pertama dan kebangkitan kedua. Selama masa ini, orang-orang jahat yang telah mati akan dihakimi. Bumi akan benar-benar sunyi dan tandus, tanpa manusia yang hidup, tetapi menjadi tempat Setan dan malaikat-malaikatnya berada. Pada akhir masa itu, Kristus bersama orang-orang kudus-Nya dan Kota Suci akan turun dari surga ke bumi. Kemudian orang-orang mati yang tidak benar akan dibangkitkan. Bersama Setan dan malaikat-malaikatnya, mereka akan mengepung kota itu. Namun, api dari Allah akan menghanguskan mereka dan menyucikan bumi. Dengan demikian, seluruh alam semesta akan terbebas dari dosa dan orang-orang berdosa untuk selama-lamanya.
+> Milenium adalah pemerintahan Kristus selama seribu tahun bersama umat kudus-Nya di surga, antara
+> kebangkitan pertama dan kebangkitan kedua. Selama masa tersebut orang-orang jahat yang mati akan
+> dihakimi; dunia ini akan menjadi sunyi sepi, tanpa penghuni manusia yang hidup, tetapi dihuni oleh
+> Setan dan para malaikatnya. Pada penutupan masa seribu tahun itu Kristus bersama umat kesucian-Nya
+> dan kota suci akan turun dari surga ke bumi. Kemudian orang-orang jahat yang mati akan dibangkitkan,
+> dan bersama Setan dan para malaikatnya akan mengepung kota itu; tetapi api dari Allah akan
+> menghanguskan mereka dan membersihkan dunia. Maka alam semesta akan bebas dari dosa dan orang-orang
+> berdosa selama-lamanya. (Why. 20; 1 Kor. 6:2, 3; Yer. 4:23-26; Why. 21:1-5; Mal. 4:1; Yeh. 28:18,
+> 19).
 
-**Referensi Alkitab:** Yeremia 4:23–26; Yehezkiel 28:18–19; Maleakhi 4:1; 1 Korintus 6:2–3; Wahyu 20; 21:1–5.
+---
 
 # Panduan Mengajar
 
@@ -41,7 +49,7 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ### Kegiatan
 
-Arahkan siswa kepada bagian **Bagaimana Menurutmu? (*What Do You Think?*)** dalam pelajaran mereka. Setelah mereka menyelesaikannya, diskusikan tanggapan mereka.
+Arahkan siswa kepada bagian **Apakah Pendapatmu? (*What Do You Think?*)** dalam pelajaran mereka. Setelah mereka menyelesaikannya, diskusikan tanggapan mereka.
 
 Ambillah sebuah berita terbaru tentang tindak kejahatan yang terjadi di daerah Anda. Perlihatkan berita tersebut kepada siswa, lalu ajukan pertanyaan berikut:
 
@@ -73,9 +81,9 @@ Allah **“tidak menghendaki supaya ada yang binasa”** (2 Petrus 3:9, NKJV). K
 
 Allah tidak menginginkan seorang pun binasa. Pilihan itu ada pada kita sendiri. Kita dapat memilih untuk hidup bersama Allah sepanjang kekekalan, atau menolak Dia dan terpisah dari-Nya untuk selama-lamanya. Nasib kekal kita berkaitan dengan pilihan yang kita buat.
 
-### Menggali Makna Kisah untuk Guru
+### Keluar Cerita untuk Guru
 
-Setelah membaca bagian **Masuk ke Dalam Kisah (*Into the Story*)** bersama siswa, gunakan petunjuk berikut untuk membantu mereka mendalami bacaan tersebut. Sampaikan dengan kata-kata Anda sendiri:
+Setelah membaca bagian **Ke Dalam Cerita (*Into the Story*)** bersama siswa, gunakan petunjuk berikut untuk membantu mereka mendalami bacaan tersebut. Sampaikan dengan kata-kata Anda sendiri:
 
 - Garisbawahi apa yang akan dialami orang-orang yang diselamatkan.
 - Pengharapan apa yang kita temukan di sini bagi orang-orang yang telah memercayai Allah?
@@ -119,15 +127,15 @@ Anda juga harus menepati bagian Anda dalam kesepakatan tersebut, bahkan jika sis
 
 Arahkan siswa kepada bagian-bagian lain dalam materi pelajaran mereka.
 
-**Ayat Hafalan (*Key Text*)**
+**Ayat Inti (*Key Text*)**
 
 Undang siswa yang telah menghafal ayat tersebut untuk membagikannya di depan kelas.
 
-**Sorotan Inspirasi (*Flashlight*)**
+**Sekilas Cahaya (*Flashlight*)**
 
-Bacakan pernyataan dalam bagian *Sorotan Inspirasi*. Jelaskan bahwa sebagian besar kutipan di bagian ini berasal dari komentar tentang kisah pekan tersebut dalam buku *The Great Controversy*. Tanyakan apa hubungan yang mereka lihat antara kutipan tersebut dan hal-hal yang baru saja didiskusikan dalam bagian *Menggali Makna Kisah*.
+Bacakan pernyataan dalam bagian *Sekilas Cahaya*. Jelaskan bahwa sebagian besar kutipan di bagian ini berasal dari komentar tentang kisah pekan tersebut dalam buku *The Great Controversy*. Tanyakan apa hubungan yang mereka lihat antara kutipan tersebut dan hal-hal yang baru saja didiskusikan dalam bagian *Keluar Cerita*.
 
-**Ayat-Ayat Pilihan (*Punch Lines*)**
+**Bagian Pokok (*Punch Lines*)**
 
 Arahkan perhatian siswa kepada ayat-ayat dalam pelajaran mereka yang berhubungan dengan kisah pekan ini. Mintalah mereka membagikan ayat yang paling menyentuh hati mereka dan menjelaskan alasan memilihnya.
 

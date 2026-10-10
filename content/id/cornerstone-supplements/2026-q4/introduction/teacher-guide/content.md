@@ -53,15 +53,15 @@ Firman Allah bukan hanya nyata, melainkan juga dapat diandalkan. Sejak generasi 
 
 Pesan Allah sampai kepada kita melalui kisah orang-orang yang berjumpa dengan-Nya dan kemudian membuat pilihan: mengikuti Dia atau meninggalkan-Nya.
 
-**Kisah Nyata. Landasan Kuat.** Dalam setiap pelajaran, kamu akan menemukan sebuah kisah pada bagian **Masuk ke Dalam Kisah** (*Into the Story*). Bagian **Menggali Makna Kisah** (*Out of the Story*) akan menolongmu menyelidiki kebenaran yang dapat diterapkan dalam hidupmu. Setiap pelajaran juga memuat bagian-bagian berikut:
+**Kisah Nyata. Landasan Kuat.** Dalam setiap pelajaran, kamu akan menemukan sebuah kisah pada bagian **Ke Dalam Cerita** (*Into the Story*). Bagian **Keluar Cerita** (*Out of the Story*) akan menolongmu menyelidiki kebenaran yang dapat diterapkan dalam hidupmu. Setiap pelajaran juga memuat bagian-bagian berikut:
 
-- **Bagaimana Menurutmu? (*What Do You Think?*)** — kegiatan berpikir yang membantu menyiapkan pikiran dan hatimu sebelum membaca kisah berikutnya. Setiap kali kamu mempelajari sebuah kisah Alkitab, kamu membacanya dari sudut pandang pengalaman hidup yang sedang kamu jalani setiap hari.
-- **Tahukah Kamu? (*Did You Know?*)** — statistik singkat atau penjelasan istilah yang menolongmu menggali kisah lebih dalam, atau menyajikan fakta-fakta yang berguna untuk memperkaya pelajaran.
-- **Ayat Hafalan (*Key Text*)** — satu ayat yang menegaskan gagasan penting dari kisah tersebut. Bagian ini juga membantumu menemukan ayat yang dapat dihafalkan dan disimpan dalam ingatan untuk digunakan kelak.
-- **Ayat-Ayat Pilihan (*Punch Lines*)** — beberapa ayat Alkitab lain yang memperkuat gagasan utama pelajaran. Kamu mungkin menemukan hubungan antara ayat-ayat tersebut, kisah Alkitab, dan kehidupanmu sendiri.
-- **Sorotan Inspirasi (*Flashlight*)** — kutipan singkat tentang pandangan Ellen White terhadap kisah yang dipelajari. Sorotan ini membantu menerangi bagian Alkitab dan memberi gambaran tentang bacaan pekanan yang dianjurkan dari ulasan terilham Ellen White atas kisah-kisah tersebut, yaitu seri *Pertentangan Segala Zaman* (*The Conflict of the Ages*).¹
+- **Apakah Pendapatmu? (*What Do You Think?*)** — kegiatan berpikir yang membantu menyiapkan pikiran dan hatimu sebelum membaca kisah berikutnya. Setiap kali kamu mempelajari sebuah kisah Alkitab, kamu membacanya dari sudut pandang pengalaman hidup yang sedang kamu jalani setiap hari.
+- **Apakah kamu tahu? (*Did You Know?*)** — statistik singkat atau penjelasan istilah yang menolongmu menggali kisah lebih dalam, atau menyajikan fakta-fakta yang berguna untuk memperkaya pelajaran.
+- **Ayat Inti (*Key Text*)** — satu ayat yang menegaskan gagasan penting dari kisah tersebut. Bagian ini juga membantumu menemukan ayat yang dapat dihafalkan dan disimpan dalam ingatan untuk digunakan kelak.
+- **Bagian Pokok (*Punch Lines*)** — beberapa ayat Alkitab lain yang memperkuat gagasan utama pelajaran. Kamu mungkin menemukan hubungan antara ayat-ayat tersebut, kisah Alkitab, dan kehidupanmu sendiri.
+- **Sekilas Cahaya (*Flashlight*)** — kutipan singkat tentang pandangan Ellen White terhadap kisah yang dipelajari. Sorotan ini membantu menerangi bagian Alkitab dan memberi gambaran tentang bacaan pekanan yang dianjurkan dari ulasan terilham Ellen White atas kisah-kisah tersebut, yaitu seri *Pertentangan Segala Zaman* (*The Conflict of the Ages*).¹
 - **Wawasan Tambahan (*Further Insight*)** — satu atau dua kutipan yang memberikan wawasan lebih dalam mengenai pesan utama pelajaran.
-- **Menghubungkan dengan Kehidupan (*Connecting to Life*)** — panduan untuk menjadikan kebenaran tentang Allah dalam kisah itu sebagai bagian dari kehidupanmu sendiri. Pelajarilah bahan Alkitab sepanjang pekan sebagai persiapan untuk Sekolah Sabat. Pada hari Sabat, kamu berkesempatan mengulang, mendiskusikan, dan memperdalam apa yang telah dipelajari bersama guru dan teman-teman sekelas. Setiap hari, kamu akan diarahkan untuk menjelajahi salah satu bagian pelajaran, menghubungkannya dengan pengalamanmu, dan menerapkan pesan Firman Allah secara pribadi.
+- **Buat itu Nyata (*Buat itu Nyata*)** — panduan untuk menjadikan kebenaran tentang Allah dalam kisah itu sebagai bagian dari kehidupanmu sendiri. Pelajarilah bahan Alkitab sepanjang pekan sebagai persiapan untuk Sekolah Sabat. Pada hari Sabat, kamu berkesempatan mengulang, mendiskusikan, dan memperdalam apa yang telah dipelajari bersama guru dan teman-teman sekelas. Setiap hari, kamu akan diarahkan untuk menjelajahi salah satu bagian pelajaran, menghubungkannya dengan pengalamanmu, dan menerapkan pesan Firman Allah secara pribadi.
 
 ---
 
@@ -83,7 +83,7 @@ Yesus juga berkata:
 
 Alkitab adalah sarana yang digunakan oleh Sang Guru yang telah dijanjikan, yaitu Roh Kudus. Kita sebagai guru di dunia ini baru dapat mengajar secara efektif apabila terlebih dahulu membiarkan Roh Kudus mengajar kita.
 
-Setiap pelajaran disusun berdasarkan sebuah kisah Alkitab tertentu. Anda akan menuntun siswa **masuk ke dalam kisah** dan menolong mereka **menggali kebenaran dari kisah itu** untuk kehidupan mereka. Permata-permata kebenaran itu tidak disiapkan begitu saja dalam bentuk jawaban yang sudah jadi. Anda dan siswa akan mendapat kesempatan untuk menggalinya sendiri.
+Setiap pelajaran disusun berdasarkan sebuah kisah Alkitab tertentu. Anda akan menuntun siswa **Ke Dalam Cerita** dan menolong mereka **menggali kebenaran dari kisah itu** untuk kehidupan mereka. Permata-permata kebenaran itu tidak disiapkan begitu saja dalam bentuk jawaban yang sudah jadi. Anda dan siswa akan mendapat kesempatan untuk menggalinya sendiri.
 
 Ellen G. White menulis:
 
@@ -103,15 +103,15 @@ Selamat datang di *Cornerstone Connections*.
 
 1. **Mulailah dengan bagian Pendalaman.** Dalam setiap pelajaran Penuntun Guru, terdapat bagian *Explore* (Pendalaman) yang memuat topik-topik terkait kisah pekan itu. Berbagai sumber disediakan untuk membantu Anda mendalami topik pilihan, mulai dari pertanyaan diskusi, ilustrasi, naskah pembacaan peran, sampai kegiatan belajar. **Gunakan sumber di [www.cornerstoneconnections.net](https://www.cornerstoneconnections.net) untuk menyusun kegiatan yang sesuai dengan kelompok Anda.**
 
-2. **Awali waktu belajar dengan aktivitas Bagaimana Menurutmu?**, beserta informasi dalam bagian **Tahukah Kamu?** pada pelajaran siswa. Kegiatan ini dirancang untuk mendorong siswa berpikir, memberikan tanggapan, dan saling berbagi. Diskusi yang tumbuh dari aktivitas itu dapat menjadi pembuka yang sangat baik. Pertanyaan kunci di akhir adalah: **"Mengapa kamu menjawab demikian?"**
+2. **Awali waktu belajar dengan aktivitas Apakah Pendapatmu?**, beserta informasi dalam bagian **Apakah kamu tahu?** pada pelajaran siswa. Kegiatan ini dirancang untuk mendorong siswa berpikir, memberikan tanggapan, dan saling berbagi. Diskusi yang tumbuh dari aktivitas itu dapat menjadi pembuka yang sangat baik. Pertanyaan kunci di akhir adalah: **"Mengapa kamu menjawab demikian?"**
 
 3. Penuntun Guru memberikan ilustrasi dan sebuah gagasan penghubung singkat (*Bridge to the Story*) yang akan membantu Anda **mengarahkan siswa kepada bagian Alkitab yang akan dipelajari**.
 
-4. **Inti pembelajaran adalah membaca bersama bagian Alkitab dalam Masuk ke Dalam Kisah**, kemudian mendiskusikannya dengan bantuan pertanyaan **Menggali Makna Kisah untuk Guru** (*Out of the Story for Teachers*). Kadang-kadang disediakan pula ayat atau bagian Alkitab lain untuk dibandingkan sebagai pendalaman lebih lanjut.
+4. **Inti pembelajaran adalah membaca bersama bagian Alkitab dalam Ke Dalam Cerita**, kemudian mendiskusikannya dengan bantuan pertanyaan **Keluar Cerita untuk Guru** (*Out of the Story for Teachers*). Kadang-kadang disediakan pula ayat atau bagian Alkitab lain untuk dibandingkan sebagai pendalaman lebih lanjut.
 
 5. **Setelah itu, sampaikan informasi tentang konteks dan latar belakang** yang membantu guru dan siswa memahami kisah dengan lebih jelas.
 
-6. Tersedia panduan singkat untuk membantu Anda **membahas bagian-bagian lain dari pelajaran siswa bersama kelas**. (Siswa juga diarahkan untuk mengerjakan sendiri salah satu bagian pelajaran setiap hari dengan mengikuti petunjuk *Connecting to Life*.) Dorong siswa mempelajari bahan Alkitab sepanjang pekan sebelum Sekolah Sabat. Pada hari Sabat, Anda akan mengulang dan membantu mereka memperluas pemahaman. Proses ini akan menumbuhkan rasa tanggung jawab siswa terhadap pembelajaran mereka dan membantu mereka memahami materi rohani secara lebih mendalam.
+6. Tersedia panduan singkat untuk membantu Anda **membahas bagian-bagian lain dari pelajaran siswa bersama kelas**. (Siswa juga diarahkan untuk mengerjakan sendiri salah satu bagian pelajaran setiap hari dengan mengikuti petunjuk *Buat itu Nyata*.) Dorong siswa mempelajari bahan Alkitab sepanjang pekan sebelum Sekolah Sabat. Pada hari Sabat, Anda akan mengulang dan membantu mereka memperluas pemahaman. Proses ini akan menumbuhkan rasa tanggung jawab siswa terhadap pembelajaran mereka dan membantu mereka memahami materi rohani secara lebih mendalam.
 
 7. **Penuntun Guru setiap pekan menyediakan kiat mengajar pada bagian Rabbi 101**, yang dapat disimpan sebagai referensi untuk masa mendatang. Tersedia juga kegiatan penutup dan ringkasan untuk menyatukan pokok-pokok pelajaran serta mengakhirinya.
 

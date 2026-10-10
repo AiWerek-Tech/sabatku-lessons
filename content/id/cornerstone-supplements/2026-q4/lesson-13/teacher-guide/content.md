@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** Wahyu 15:1–4; Wahyu 20:7–15; Wahyu 21; Wahyu 22.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 42.
-**Ayat kunci:** Wahyu 21:2–3.
+**Ayat Inti:** Wahyu 21:2–3.
 
 # Persiapan Mengajar
 
@@ -27,11 +27,17 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ## III. Pendalaman
 
-**Bumi yang Baru — Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 28**
+**Kepercayaan Dasar GMAHK Nomor 28: DUNIA BARU**
 
-> Di bumi yang baru, tempat kebenaran berdiam, Allah akan menyediakan rumah yang kekal bagi umat tebusan dan lingkungan yang sempurna untuk kehidupan, kasih, sukacita, serta pembelajaran yang berlangsung selama-lamanya di hadirat-Nya. Di sana Allah sendiri akan tinggal bersama umat-Nya; penderitaan dan kematian telah berlalu. Pertentangan besar akan berakhir, dan dosa tidak akan ada lagi. Segala sesuatu, baik yang hidup maupun yang tidak hidup, akan menyatakan bahwa Allah adalah kasih; dan Ia akan memerintah selama-lamanya. Amin.
+> Di dunia baru, di mana orang-orang benar akan tinggal, Allah akan menyediakan rumah yang kekal bagi
+> umat tebusan dan suasana sempurna untuk kehidupan kekal, kasih, sukacita, dan belajar di
+> hadirat-Nya. Karena di sini Allah sendiri akan tinggal bersama umat-Nya, dan tidak akan ada lagi
+> penderitaan serta kematian. Pertentangan besar akan berakhir, dan tidak akan ada dosa lagi. Segala
+> sesuatu, baik yang bernyawa maupun yang tidak bernyawa, akan menyatakan bahwa Allah adalah kasih;
+> dan Ia akan memerintah selama-lamanya. Amin. (2 Ptr. 3:13; Yes. 35; 65:17-25; Mat. 5:5; Why. 21:1-7;
+> 22:1-5; 11:15).
 
-**Referensi Alkitab:** Yesaya 35; 65:17–25; Matius 5:5; 2 Petrus 3:13; Wahyu 11:15; 21:1–7; 22:1–5.
+---
 
 # Panduan Mengajar
 
@@ -39,7 +45,7 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ### Kegiatan
 
-Arahkan siswa kepada bagian **Bagaimana Menurutmu? (*What Do You Think?*)** dalam pelajaran mereka. Mintalah mereka menjelaskan alasan yang mendasari jawaban mereka atas pertanyaan-pertanyaan tersebut.
+Arahkan siswa kepada bagian **Apakah Pendapatmu? (*What Do You Think?*)** dalam pelajaran mereka. Mintalah mereka menjelaskan alasan yang mendasari jawaban mereka atas pertanyaan-pertanyaan tersebut.
 
 Sebagai kegiatan alternatif, bungkuslah beberapa hadiah yang berbeda. Bagikan hadiah-hadiah itu, kemudian diskusikan pertanyaan berikut:
 
@@ -87,7 +93,7 @@ Seberapa sering perhatian kita teralihkan oleh barang-barang kecil dan kesenanga
 
 Kenyataannya, hal-hal yang sering memenuhi percakapan kita selama berada di bumi ini tidaklah berarti jika dibandingkan dengan apa yang menanti kita di bumi yang baru. Paulus mengingatkan dalam 1 Korintus 2:9 bahwa apa yang akan datang itu jauh melampaui apa yang kita kenal di dunia ini. Bahkan, kita tidak sanggup membayangkan semua yang telah Allah sediakan bagi kita di surga.
 
-### Menggali Makna Kisah untuk Guru
+### Keluar Cerita untuk Guru
 
 Bagilah kelas menjadi tiga kelompok. Berikan kepada setiap kelompok salah satu pasal berikut beserta tugasnya. **Jika jumlah siswa sedikit**, pilih salah satu tugas saja atau kerjakan ketiganya bersama-sama. Setelah **10 menit** mengerjakan tugas, mintalah setiap kelompok membagikan hasil akhirnya kepada seluruh kelas.
 
@@ -101,7 +107,7 @@ Mintalah kelompok kedua menggambarkan pokok-pokok penting dalam pasal tersebut m
 
 **Kelompok 3 — Wahyu 22**
 
-Kelompok ketiga mendapat tantangan untuk **“mempromosikan” keyakinan bahwa Yesus akan datang kembali**. Dengan memilih frasa dan ayat-ayat kunci dari pasal ini, mintalah mereka menyiapkan sebuah iklan informatif yang membuat para penontonnya merindukan surga.
+Kelompok ketiga mendapat tantangan untuk **“mempromosikan” keyakinan bahwa Yesus akan datang kembali**. Dengan memilih frasa dan ayat-Ayat Inti dari pasal ini, mintalah mereka menyiapkan sebuah iklan informatif yang membuat para penontonnya merindukan surga.
 
 ### Membagikan Konteks dan Latar Belakang
 
@@ -141,15 +147,15 @@ Dalam situs berjudul **“Teaching Tips: Teaching and Learning Activities,”** 
 
 Arahkan siswa kepada bagian-bagian lain dalam materi pelajaran mereka.
 
-**Ayat Hafalan (*Key Text*)**
+**Ayat Inti (*Key Text*)**
 
-Undang siswa yang telah menghafal Ayat Hafalan untuk menyampaikannya di depan kelas.
+Undang siswa yang telah menghafal Ayat Inti untuk menyampaikannya di depan kelas.
 
-**Sorotan Inspirasi (*Flashlight*)**
+**Sekilas Cahaya (*Flashlight*)**
 
-Bacakan pernyataan dalam bagian *Sorotan Inspirasi*. Jelaskan bahwa sebagian besar kutipan di bagian ini berasal dari komentar tentang kisah pekan tersebut dalam buku *The Great Controversy*. Tanyakan apa hubungan yang mereka lihat antara kutipan itu dan hal-hal yang baru saja dibahas dalam bagian *Menggali Makna Kisah*.
+Bacakan pernyataan dalam bagian *Sekilas Cahaya*. Jelaskan bahwa sebagian besar kutipan di bagian ini berasal dari komentar tentang kisah pekan tersebut dalam buku *The Great Controversy*. Tanyakan apa hubungan yang mereka lihat antara kutipan itu dan hal-hal yang baru saja dibahas dalam bagian *Keluar Cerita*.
 
-**Ayat-Ayat Pilihan (*Punch Lines*)**
+**Bagian Pokok (*Punch Lines*)**
 
 Arahkan perhatian siswa kepada ayat-ayat dalam pelajaran mereka yang berhubungan dengan kisah pekan ini. Mintalah mereka membagikan ayat yang paling menyentuh hati mereka dan menjelaskan alasan memilihnya.
 

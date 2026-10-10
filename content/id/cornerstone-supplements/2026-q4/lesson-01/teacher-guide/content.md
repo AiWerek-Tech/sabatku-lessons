@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** 1 Samuel 17.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 27.
-**Ayat Hafalan:** 1 Samuel 17:45.
+**Ayat Inti:** 1 Samuel 17:45.
 
 ---
 
@@ -37,17 +37,25 @@ Setelah mengikuti pelajaran ini, siswa diharapkan:
 
 ## III. Pendalaman
 
-**Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 11: Bertumbuh dalam Kristus**
+**Kepercayaan Dasar GMAHK Nomor 11: BERTUMBUH DI DALAM KRISTUS**
 
-> Melalui kematian-Nya di kayu salib, Yesus telah mengalahkan kekuatan-kekuatan jahat. Dia yang menaklukkan roh-roh jahat selama pelayanan-Nya di bumi telah mematahkan kuasa mereka dan memastikan kehancuran akhir mereka. Kemenangan Yesus memberikan kemenangan kepada kita atas kekuatan-kekuatan jahat yang masih berusaha menguasai kita, ketika kita berjalan bersama-Nya dalam damai sejahtera, sukacita, dan keyakinan akan kasih-Nya.
->
-> Sekarang Roh Kudus tinggal di dalam diri kita dan memberi kita kuasa. Dengan terus menyerahkan diri kepada Yesus sebagai Juruselamat dan Tuhan kita, kita dibebaskan dari beban perbuatan masa lalu. Kita tidak lagi hidup dalam kegelapan, ketakutan terhadap kuasa jahat, ketidaktahuan, dan kehidupan lama yang tidak bermakna.
->
-> Dalam kemerdekaan baru di dalam Yesus ini, kita dipanggil untuk bertumbuh semakin serupa dengan tabiat-Nya. Kita bersekutu dengan-Nya setiap hari melalui doa, memelihara diri dengan firman-Nya, merenungkan firman dan pemeliharaan-Nya, menyanyikan pujian kepada-Nya, berkumpul untuk beribadah, serta mengambil bagian dalam misi gereja.
->
-> Kita juga dipanggil untuk mengikuti teladan Kristus dengan penuh belas kasihan melayani kebutuhan jasmani, mental, sosial, emosional, dan rohani sesama manusia. Ketika kita menyerahkan diri dalam pelayanan penuh kasih kepada orang-orang di sekitar kita dan memberikan kesaksian tentang keselamatan-Nya, kehadiran-Nya yang terus-menerus melalui Roh Kudus mengubah setiap saat dan setiap pekerjaan menjadi sebuah pengalaman rohani.
-
-**Referensi Alkitab:** 1 Tawarikh 29:11; Mazmur 1:1–2; 23:4; 77:11–12; Matius 20:25–28; 25:31–46; Lukas 10:17–20; Yohanes 20:21; Roma 8:38–39; 2 Korintus 3:17–18; Galatia 5:22–25; Efesus 5:19–20; 6:12–18; Filipi 3:7–14; Kolose 1:13–14; 2:6, 14–15; 1 Tesalonika 5:16–18, 23; Ibrani 10:25; Yakobus 1:27; 2 Petrus 2:9; 3:18; 1 Yohanes 4:4.
+> Oleh kematian-Nya di salib Yesus mengalahkan kuasa kejahatan. Ia yang menaklukkan roh-roh iblis
+> selama pelayanan-Nya di dunia telah menghancurkan kuasa mereka dan memastikan kebinasaan mereka yang
+> kekal. Kemenangan Yesus memberikan kepada kita kemenangan atas kuasa-kuasa kejahatan yang masih
+> terus berusaha untuk mengendalikan kita, sementara kita berjalan bersama Dia dalam damai, sukacita,
+> dan jaminan kasih-Nya. Sekarang Roh Kudus tinggal dalam kita dan memberi kita kuasa. Oleh berserah
+> secara terus-menerus kepada Yesus sebagai Juruselamat dan Tuhan kita, kita dibebaskan dari beban
+> perbuatan kita di masa lalu. Kita tidak lagi hidup di dalam kegelapan, takut terhadap kuasa-kuasa
+> kejahatan, kebodohan, dan kesia-siaan jalan hidup kita dahulu. Dalam kebebasan baru dalam Yesus ini,
+> kita dipanggil untuk bertumbuh menjadi serupa dengan tabiat-Nya, bersekutu dengan Dia setiap hari
+> dalam doa, makan dari Firman Allah, merenungkan firman dan pemeliharaan-Nya, menyanyikan lagu-lagu
+> pujian bagi-Nya, berkumpul bersama untuk berbakti, dan ikut serta dalam misi gereja. Sementara kita
+> merelakan diri kita dalam kasih pelayanan kepada orang-orang di sekitar kita dan bersaksi tentang
+> keselamatan yang daripada-Nya, maka kehadiran-Nya yang tetap bersama kita melalui Roh Kudus akan
+> mengubah setiap saat dan setiap tugas menjadi suatu pengalaman rohani. (Mzm. 1:1, 2; 23:4; 77:11,
+> 12; Kol. 1:13, 14; 2:6, 14, 15; Luk. 10:17-20; Ef. 5:19, 20; 6:12-18; 1 Tes. 5:23; 2 Ptr. 2:9; 3:18;
+> 2 Kor. 3:17, 18; Flp. 3:7-14; 1 Tes. 5:16-18; Mat. 20:25-28; Yoh. 20:21; Gal. 5:22-25; Rm. 8:38, 39;
+> 1 Yoh. 4:4; Ibr. 10:25.)
 
 ---
 
@@ -57,7 +65,7 @@ Setelah mengikuti pelajaran ini, siswa diharapkan:
 
 ### Kegiatan
 
-*Arahkan siswa ke bagian **Bagaimana Menurutmu? (What Do You Think?)** dalam pelajaran mereka. Setelah mereka menyelesaikannya, diskusikan tanggapan mereka.*
+*Arahkan siswa ke bagian **Apakah Pendapatmu? (What Do You Think?)** dalam pelajaran mereka. Setelah mereka menyelesaikannya, diskusikan tanggapan mereka.*
 
 Angkat sebuah cermin dan tanyakan kepada kelas mengapa kita bercermin. (Untuk memeriksa rambut, pakaian, riasan wajah, dan sebagainya.) Sebagaimana kita rutin memeriksa penampilan luar kita, kita juga perlu memeriksa keadaan diri kita yang sebenarnya, yaitu keadaan batin kita.
 
@@ -95,9 +103,9 @@ Kamu mengenal Alkitab secukupnya untuk menyadari bahwa masih banyak hal yang bel
 
 Allah tidak ingin kamu berhenti pada keadaan seperti itu! Dia ingin membawamu ke tingkat yang lebih dalam, tempat kamu dapat merasakan sukacita sejati karena mengenal Dia.
 
-### Menggali Makna Kisah untuk Guru
+### Keluar Cerita untuk Guru
 
-*Setelah membaca bagian **Masuk ke Dalam Kisah (Into the Story)** bersama siswa, gunakan pertanyaan berikut dengan kata-kata Anda sendiri untuk mendalami kisah tersebut.*
+*Setelah membaca bagian **Ke Dalam Cerita (Into the Story)** bersama siswa, gunakan pertanyaan berikut dengan kata-kata Anda sendiri untuk mendalami kisah tersebut.*
 
 - Lingkari tokoh-tokoh utama dalam kisah ini.
 - Dalam keadaan seperti apa Daud berada saat itu? Apa yang sedang dialaminya?
@@ -157,15 +165,15 @@ Sebagai alternatif, bagikan potongan-potongan kertas agar siswa dapat menuliskan
 
 *Arahkan siswa kepada bagian-bagian lain dalam pelajaran mereka.*
 
-**Ayat Hafalan (*Key Text*)**
+**Ayat Inti (*Key Text*)**
 
-Undang siswa yang telah menghafal Ayat Hafalan untuk membagikannya kepada seluruh kelas.
+Undang siswa yang telah menghafal Ayat Inti untuk membagikannya kepada seluruh kelas.
 
-**Sorotan Inspirasi (*Flashlight*)**
+**Sekilas Cahaya (*Flashlight*)**
 
-Bacakan pernyataan dalam bagian *Sorotan Inspirasi*. Jelaskan bahwa sebagian besar kutipan dalam bagian tersebut diambil dari penjelasan kisah pekan ini dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka lihat antara pernyataan itu dan hal-hal yang baru saja mereka diskusikan pada bagian *Menggali Makna Kisah*.
+Bacakan pernyataan dalam bagian *Sekilas Cahaya*. Jelaskan bahwa sebagian besar kutipan dalam bagian tersebut diambil dari penjelasan kisah pekan ini dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka lihat antara pernyataan itu dan hal-hal yang baru saja mereka diskusikan pada bagian *Keluar Cerita*.
 
-**Ayat-Ayat Pilihan (*Punch Lines*)**
+**Bagian Pokok (*Punch Lines*)**
 
 Arahkan perhatian siswa kepada ayat-ayat yang tercantum dalam pelajaran dan berkaitan dengan kisah pekan ini. Mintalah mereka membagikan ayat yang paling berbicara kepada mereka dan menjelaskan alasan mereka memilihnya.
 
@@ -179,7 +187,7 @@ Tanyakan bagaimana kutipan dalam bagian *Wawasan Tambahan* menyampaikan inti kis
 
 *Akhiri pelajaran dengan kegiatan berikut, kemudian bahaslah hasilnya dengan kata-kata Anda sendiri.*
 
-Jika suasana kelas cukup aman dan nyaman, mintalah siswa membagikan apa yang mereka tulis untuk bagian **Connecting to Life hari Kamis**.
+Jika suasana kelas cukup aman dan nyaman, mintalah siswa membagikan apa yang mereka tulis untuk bagian **Buat itu Nyata hari Kamis**.
 
 Sediakan waktu sekitar satu menit untuk bagian ini. Beri tahu setiap siswa sebelumnya bahwa mereka hanya perlu memilih satu pertanyaan dan membacakan jawaban yang telah mereka tulis.
 
@@ -218,4 +226,4 @@ Bacaan yang berkaitan dengan pelajaran ini adalah ***The Great Controversy*** (a
 
 **Dokumen sumber:** *Cornerstone Connections*, Penuntun Guru Pelajaran 1, halaman cetak 11–14, 3 Oktober 2026.
 
-**Catatan penerjemahan:** Kutipan Alkitab, pernyataan Kepercayaan Dasar GMAHK, dan kutipan dari literatur berbahasa Inggris di sini merupakan terjemahan berdasarkan dokumen sumber. Teks ini tidak diklaim sebagai kutipan dari edisi bahasa Indonesia resmi.
+**Catatan penerjemahan:** Kutipan Alkitab dan literatur berbahasa Inggris mengikuti dokumen sumber; rumusan Kepercayaan Dasar mengikuti naskah 28 doktrin yang disediakan tim.

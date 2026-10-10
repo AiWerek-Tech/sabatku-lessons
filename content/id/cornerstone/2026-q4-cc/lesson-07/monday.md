@@ -10,7 +10,7 @@ Bacalah kembali **Ayat Inti** pekan ini. Kemudian renungkan kutipan berikut dari
 >
 > “Meskipun dalam bentuk yang berbeda, penyembahan berhala masih ada di dunia Kristen sekarang, sama nyatanya seperti pada zaman Israel dahulu ketika Elia hidup. Allah yang dipuja oleh banyak orang yang dianggap bijaksana—para filsuf, penyair, politikus, wartawan—oleh kalangan terpelajar dan masyarakat yang mengikuti mode, bahkan oleh beberapa lembaga pendidikan teologi, tidak jauh berbeda dari Baal, dewa matahari bangsa Fenisia.”
 
-— Ellen G. White, *The Great Controversy*, hlm. 582–583 (diterjemahkan dari kutipan yang ditampilkan dalam *Connecting to Life*; tanda elipsis mengikuti sumber).
+— Ellen G. White, *The Great Controversy*, hlm. 582–583 (diterjemahkan dari kutipan yang ditampilkan di bagian *Buat itu Nyata*; tanda elipsis mengikuti sumber).
 
 ## Apakah kamu tahu?
 

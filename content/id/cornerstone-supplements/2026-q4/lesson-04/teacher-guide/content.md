@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** Markus 5:1–19.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 31 dan 32.
-**Ayat kunci:** Markus 5:15.
+**Ayat Inti:** Markus 5:15.
 
 # Persiapan Mengajar
 
@@ -31,11 +31,22 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ## III. Pendalaman
 
-**Pertentangan Besar — Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 8**
+**Kepercayaan Dasar GMAHK Nomor 8: PERTENTANGAN BESAR**
 
-> “Seluruh umat manusia kini terlibat dalam suatu pertentangan besar antara Kristus dan Setan mengenai tabiat Allah, hukum-Nya, dan kedaulatan-Nya atas alam semesta.”
+> Seluruh umat manusia sekarang ini terlibat dalam suatu pertentangan besar antara Kristus dan Setan
+> mengenai karakter Allah, hukumNya, dan kekuasaan-Nya atas alam semesta. Konflik tersebut telah
+> dimulaikan di surga ketika salah satu makhluk ciptaan, yang mendapatkan kebebasan memilih, dalam
+> kesombongannya telah menjadi Setan, musuh Allah, dan memimpin sebagian malaikat untuk memberontak.
+> Ia memperkenalkan roh pemberontakan kepada dunia ini ketika ia menuntun Adam dan Hawa untuk berbuat
+> dosa. Dosa manusia ini mengakibatkan rusaknya peta Allah dalam diri umat manusia, kacaunya dunia
+> yang telah diciptakan, dan pada akhimya mengakibatkan kehancuran dunia pada saat air bah melanda
+> seluruh dunia. Seluruh ciptaan menonton dunia ini menjadi arena konflik semesta, di mana kasih Allah
+> pada akhirnya akan terbukti benar. Untuk mendampingi umat-Nya di dalam pertentangan tersebut,
+> Kristus mengutus Roh Kudus dan malaikat-malaikat yang setia untuk menuntun, melindungi, dan
+> memelihara mereka di jalan keselamatan. (Why. 12:4-9; Yes. 14:12-14; Yeh. 28:12-18; Kej. 3; Rm.
+> 1:19-32; 5:12-21; 8:19-22; Kej. 6-8; 2 Ptr 3:6; 1 Kor. 4:9; Ibr. 1:14.)
 
-**Referensi Alkitab:** Kejadian 3; 6–8; Ayub 1:6–12; Yesaya 14:12–14; Yehezkiel 28:12–18; Roma 1:19–32; 3:4; 5:12–21; 8:19–22; 1 Korintus 4:9; Ibrani 1:14; 1 Petrus 5:8; 2 Petrus 3:6; Wahyu 12:4–9.
+---
 
 # Panduan Mengajar
 
@@ -43,7 +54,7 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ### Kegiatan Pembuka
 
-Arahkan siswa untuk mengerjakan bagian **Bagaimana Menurutmu? (*What Do You Think?*)** dalam pelajaran mereka. Setelah selesai, diskusikan jawaban mereka.
+Arahkan siswa untuk mengerjakan bagian **Apakah Pendapatmu? (*What Do You Think?*)** dalam pelajaran mereka. Setelah selesai, diskusikan jawaban mereka.
 
 Ajak siswa memberikan contoh kisah Alkitab ketika Allah mengutus malaikat-malaikat-Nya untuk melindungi atau menyelamatkan umat-Nya. Misalnya, Raja Yosafat dan pasukan Israel tidak perlu berperang melawan musuh karena para malaikat mengalahkan lawan mereka; atau Petrus yang dibebaskan dari penjara oleh seorang malaikat.
 
@@ -78,7 +89,7 @@ Kisah ini mengajarkan kepada kita sedikitnya dua hal. Pertama, Allah melindungi 
 
 Bacalah kisahnya dan jawablah pertanyaan yang tersedia tentang peristiwa luar biasa ini, yang terjadi di suatu wilayah yang sangat membutuhkan seseorang untuk memberi kesaksian tentang kemurahan dan kuasa Allah.
 
-### Menggali Makna Kisah — Untuk Guru
+### Keluar Cerita — Untuk Guru
 
 Gunakan pertanyaan-pertanyaan berikut untuk memimpin diskusi:
 
@@ -150,15 +161,15 @@ Pada awalnya, penduduk daerah itu merasa takut ketika melihat bagaimana Yesus me
 
 *Arahkan siswa kepada bagian-bagian lain dalam buku pelajaran mereka.*
 
-**Ayat Hafalan (*Key Text*)**
+**Ayat Inti (*Key Text*)**
 
-Ajak siswa yang telah menghafalkan ayat kunci untuk membagikannya kepada seluruh kelas.
+Ajak siswa yang telah menghafalkan Ayat Inti untuk membagikannya kepada seluruh kelas.
 
-**Sorotan Inspirasi (*Flashlight*)**
+**Sekilas Cahaya (*Flashlight*)**
 
-Bacakan pernyataan dalam bagian Sorotan Inspirasi. Jelaskan bahwa kutipan tersebut biasanya diambil dari penjelasan mengenai kisah pekan ini dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka lihat antara pernyataan itu dengan hal-hal yang baru saja mereka diskusikan melalui bagian **Menggali Makna Kisah**.
+Bacakan pernyataan dalam bagian Sekilas Cahaya. Jelaskan bahwa kutipan tersebut biasanya diambil dari penjelasan mengenai kisah pekan ini dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka lihat antara pernyataan itu dengan hal-hal yang baru saja mereka diskusikan melalui bagian **Keluar Cerita**.
 
-**Ayat-Ayat Pilihan (*Punch Lines*)**
+**Bagian Pokok (*Punch Lines*)**
 
 Tunjukkan kepada siswa ayat-ayat yang tercantum dalam pelajaran mereka dan berkaitan dengan kisah pekan ini. Minta mereka membagikan ayat yang paling menyentuh atau berbicara langsung kepada mereka, lalu menjelaskan alasan memilih ayat tersebut.
 

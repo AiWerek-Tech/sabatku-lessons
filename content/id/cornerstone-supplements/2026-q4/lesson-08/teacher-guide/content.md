@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** Daniel 6:3–10; Keluaran 20:8–11.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 37.
-**Ayat kunci:** Mazmur 119:9–16.
+**Ayat Inti:** Mazmur 119:9–16.
 
 # Persiapan Mengajar
 
@@ -27,15 +27,22 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ## III. Pendalaman
 
-**Hari Sabat — Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 20**
+**Kepercayaan Dasar GMAHK Nomor 20: SABAT**
 
-> Setelah enam hari penciptaan, Sang Pencipta yang penuh kasih karunia beristirahat pada hari ketujuh dan menetapkan hari Sabat bagi seluruh umat manusia sebagai peringatan akan Penciptaan. Perintah keempat dalam hukum Allah yang tidak berubah menuntut pemeliharaan Sabat hari ketujuh sebagai hari perhentian, peribadatan, dan pelayanan, sesuai dengan ajaran dan teladan Yesus, Tuhan atas hari Sabat.
->
-> Hari Sabat merupakan hari persekutuan yang penuh sukacita bersama Allah dan sesama. Sabat adalah lambang penebusan kita di dalam Kristus, tanda pengudusan kita, bukti kesetiaan kita, dan gambaran awal kehidupan kekal yang menanti kita dalam kerajaan Allah. Sabat adalah tanda yang terus berlaku dari perjanjian kekal antara Allah dan umat-Nya.
->
-> Memelihara waktu kudus ini dengan sukacita, dari petang ke petang, dari matahari terbenam hingga matahari terbenam berikutnya, merupakan perayaan atas karya Allah dalam penciptaan dan penebusan.
+> Pencipta yang berkemurahan, setelah enam hari Penciptaan, berhenti pada hari ketujuh dan mendirikan
+> Sabat untuk semua orang sebagai suatu peringatan Penciptaan. Hukum keempat dari hukum Allah yang
+> tidak terubahkan itu menuntut pengudusan Sabat hari ketujuh ilu sebagai suatu hari perhentian,
+> perbaktian, dan pelayanan yang sesuai dengan ajaran dan kebiasaan Yesus, Tuhan atas hari Sabat.
+> Sabat adalah suatu hari persekutuan yang sangat menyenangkan dengan Allah dan dengan sesama. Itu
+> merupakan suatu lambang penebusan kita di dalam Kristus, suatu lambang pengudusan kita, tanda
+> kesetiaan kita, dan merupakan suatu pendahuluan terhadap masa depan kita yang kekal di dalam
+> kerajaan Allah. Sabat adalah tanda yang terus-menerus dari pejanjian kekal-Nya antara Dia dan
+> umat-Nya. Dengan sukacita menguduskan hari yang suci ini dari petang hingga petang berikutnya, dan
+> masuk matahari hingga masuk matahari, merupakan suatu perayaan dari perbuatan penciptaan dan
+> penebusan Allah. (Kej. 2:1-3; Kel. 20:8-11; Luk. 4:16; Yes. 56:5, 6; 58:13, 14; Mat. 12:1-12; Kel.
+> 31:13-17; Yeh. 20:12, 20; Ul. 5:12-15; Ibr. 4:1-11; Im. 23:32; Markus 1:32).
 
-**Referensi Alkitab:** Kejadian 2:1–3; Keluaran 20:8–11; 31:13–17; Imamat 23:32; Ulangan 5:12–15; Yesaya 56:5–6; 58:13–14; Yehezkiel 20:12, 20; Matius 12:1–12; Markus 1:32; Lukas 4:16; Ibrani 4:1–11.
+---
 
 # Panduan Mengajar
 
@@ -43,7 +50,7 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ### Kegiatan
 
-Arahkan siswa kepada bagian **Bagaimana Menurutmu? (*What Do You Think?*)** dalam pelajaran mereka. Diskusikan jawaban mereka terhadap kegiatan tersebut.
+Arahkan siswa kepada bagian **Apakah Pendapatmu? (*What Do You Think?*)** dalam pelajaran mereka. Diskusikan jawaban mereka terhadap kegiatan tersebut.
 
 Mintalah siswa berpasangan dengan teman mereka. Kemudian jelaskan bahwa Anda akan menguji pasangan mana yang paling mengenal satu sama lain. Mintalah satu orang dari setiap pasangan meninggalkan ruangan. Kepada siswa yang tetap berada di dalam ruangan, tanyakan jawaban apa yang menurut mereka akan diberikan pasangan masing-masing terhadap pertanyaan-pertanyaan berikut:
 
@@ -75,9 +82,9 @@ Banyak dari kita menjalani hidup seolah-olah sedang berada di tengah badai salju
 
 Lalu, ketika masalah dan cobaan tiba-tiba datang tanpa diduga, kita kehilangan arah. Kita membutuhkan seutas tali yang dapat menuntun kita pulang.
 
-### Menggali Makna Kisah — Untuk Guru
+### Keluar Cerita — Untuk Guru
 
-Setelah membaca bagian **Masuk ke Dalam Kisah (*Into the Story*)** bersama siswa, gunakan panduan berikut dengan kata-kata Anda sendiri untuk membantu mereka mendalami kisah tersebut.
+Setelah membaca bagian **Ke Dalam Cerita (*Into the Story*)** bersama siswa, gunakan panduan berikut dengan kata-kata Anda sendiri untuk membantu mereka mendalami kisah tersebut.
 
 - Lingkarilah tokoh-tokoh utama dalam kisah ini.
 - Situasi apa yang sedang dihadapi Daniel? Bagaimana ia sampai berada dalam situasi itu? Apa yang sedang terjadi kepadanya? Apa peran tokoh-tokoh lainnya?
@@ -130,9 +137,9 @@ Berikut beberapa cara untuk melibatkan siswa:
 
 Arahkan siswa untuk membuka bagian-bagian lain dalam materi pelajaran mereka.
 
-- **Ayat Hafalan (*Key Text*)** — Undang siswa yang sudah menghafalnya untuk menyampaikan Ayat Hafalan di depan kelas.
-- **Sorotan Inspirasi (*Flashlight*)** — Bacalah pernyataan dalam bagian ini dan jelaskan bahwa kutipannya biasanya diambil dari pembahasan kisah minggu tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka temukan antara pernyataan itu dengan hal-hal yang baru mereka diskusikan dalam bagian *Menggali Makna Kisah*.
-- **Ayat-Ayat Pilihan (*Punch Lines*)** — Tunjukkan ayat-ayat dalam pelajaran yang berhubungan dengan kisah minggu ini. Mintalah siswa membagikan ayat yang paling menyentuh mereka, lalu beri kesempatan untuk menjelaskan alasan mereka memilihnya.
+- **Ayat Inti (*Key Text*)** — Undang siswa yang sudah menghafalnya untuk menyampaikan Ayat Inti di depan kelas.
+- **Sekilas Cahaya (*Flashlight*)** — Bacalah pernyataan dalam bagian ini dan jelaskan bahwa kutipannya biasanya diambil dari pembahasan kisah minggu tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka temukan antara pernyataan itu dengan hal-hal yang baru mereka diskusikan dalam bagian *Keluar Cerita*.
+- **Bagian Pokok (*Punch Lines*)** — Tunjukkan ayat-ayat dalam pelajaran yang berhubungan dengan kisah minggu ini. Mintalah siswa membagikan ayat yang paling menyentuh mereka, lalu beri kesempatan untuk menjelaskan alasan mereka memilihnya.
 - **Wawasan Tambahan (*Further Insight*)** — Tanyakan bagaimana kutipan dalam bagian ini membantu menyampaikan pesan utama kisah pada pelajaran ini.
 
 ## III. Penutup

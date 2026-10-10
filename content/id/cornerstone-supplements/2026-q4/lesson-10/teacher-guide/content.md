@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** Yohanes 20:1–18.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 39.
-**Ayat kunci:** Daniel 12:1.
+**Ayat Inti:** Daniel 12:1.
 
 # Persiapan Mengajar
 
@@ -31,13 +31,18 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ## III. Pendalaman
 
-**Umat yang Sisa dan Misinya — Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 13**
+**Kepercayaan Dasar GMAHK Nomor 13: GEREJA YANG SISA DAN MISINYA**
 
-> Gereja universal terdiri atas semua orang yang sungguh-sungguh percaya kepada Kristus. Namun, pada akhir zaman, ketika kemurtadan meluas, telah dipanggil suatu umat yang sisa untuk memelihara perintah-perintah Allah dan iman kepada Yesus. Umat yang sisa ini mengumumkan tibanya saat penghakiman, memberitakan keselamatan melalui Kristus, dan menyampaikan kabar bahwa kedatangan-Nya yang kedua kali semakin dekat.
->
-> Pemberitaan ini dilambangkan oleh pekabaran tiga malaikat dalam Wahyu 14. Pekabaran itu berlangsung bersamaan dengan pekerjaan penghakiman di surga dan menghasilkan pertobatan serta pembaruan di bumi. Setiap orang percaya dipanggil untuk mengambil bagian secara pribadi dalam kesaksian yang menjangkau seluruh dunia ini.
+> Gereja universal merupakan gabungan dari semua yang sungguh-sungguh percaya pada Kristus, tetapi di
+> hari-hari terakhir, yaitu saat kemurtadan besar, suatu umat telah dipanggil keluar untuk menuruti
+> hukum-hukum Allah dan iman akan Yesus. Umat sisa ini memaklumkan datangnya saat penghakiman,
+> mengabarkan keselamatan melalui Kristus, dan menyerukan dekatnya kedatangan Yesus kedua kali.
+> Pekabaran ini dilambangkan oleh tiga malaikat di Wahyu 14; pekabaran itu bertepatan dengan pekerjaan
+> penghakiman di surga dan menghasilkan terjadinya pertobatan dan reformasi di dunia. Semua orang
+> percaya dipanggil untuk ambil bagian secara pribadi dalam kesaksian ke seluruh dunia ini. (Why.
+> 12:17; 14:6-12; 18:1-4; 2 Kor. 5:10; Yud. 3, 14; 1 Ptr. 1:16-19; 2 Ptr. 3:10-14; Why. 21:1-14).
 
-**Referensi Alkitab:** Daniel 7:9–14; Yesaya 1:9; 11:11; Yeremia 23:3; Mikha 2:12; 2 Korintus 5:10; 1 Petrus 1:16–19; 4:17; 2 Petrus 3:10–14; Yudas 3, 14; Wahyu 12:17; 14:6–12; 18:1–4.
+---
 
 # Panduan Mengajar
 
@@ -45,9 +50,9 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ### Kegiatan
 
-Arahkan siswa kepada bagian **Bagaimana Menurutmu? (*What Do You Think?*)** dalam pelajaran mereka. Setelah mereka menyelesaikannya, diskusikan jawaban mereka.
+Arahkan siswa kepada bagian **Apakah Pendapatmu? (*What Do You Think?*)** dalam pelajaran mereka. Setelah mereka menyelesaikannya, diskusikan jawaban mereka.
 
-Tinjaulah kembali kegiatan *Bagaimana Menurutmu?* bersama kelas. Kemungkinan besar, Anda maupun siswa memiliki reaksi emosional yang kuat terhadap masa kesukaran. Sulit untuk bersikap netral terhadap sesuatu yang memiliki dampak begitu luas bagi kehidupan seseorang.
+Tinjaulah kembali kegiatan *Apakah Pendapatmu?* bersama kelas. Kemungkinan besar, Anda maupun siswa memiliki reaksi emosional yang kuat terhadap masa kesukaran. Sulit untuk bersikap netral terhadap sesuatu yang memiliki dampak begitu luas bagi kehidupan seseorang.
 
 Mintalah siswa membagikan jawaban mereka. Jelaskan bahwa tidak ada urutan peringkat emosi yang benar atau salah. Tujuan kegiatan ini ialah membantu siswa memeriksa secara sungguh-sungguh apa yang mereka pikirkan mengenai peristiwa-peristiwa akhir zaman, dan apakah reaksi mereka didasarkan pada fakta tentang apa yang akan terjadi sebelum Yesus datang.
 
@@ -55,7 +60,7 @@ Mintalah siswa membagikan jawaban mereka. Jelaskan bahwa tidak ada urutan pering
 
 > Akan tiba suatu saat ketika malaikat Allah diperintahkan untuk berhenti menahan angin kencang kejahatan manusia. Pada waktu itu, umat Allah akan menghadapi ujian terakhir mengenai kesetiaan mereka kepada Yesus. Namun, Allah telah berjanji untuk menyelamatkan umat-Nya selama masa itu (Daniel 12:2) dan mempersingkat masa tersebut demi mereka (Matius 24:22).
 
-Cara lain untuk membahas bagian *Bagaimana Menurutmu?* ialah menuliskan ungkapan **“masa kesukaran”** di papan tulis, kemudian meminta siswa menyebutkan hal pertama yang terlintas dalam pikiran mereka. Kegiatan ini memang tidak terlalu mudah dikendalikan—siapa tahu apa yang akan terlontar dari mulut seorang remaja?—tetapi Anda akan mendapatkan reaksi spontan yang dapat menjadi titik awal yang sangat baik untuk mengajarkan pelajaran ini.
+Cara lain untuk membahas bagian *Apakah Pendapatmu?* ialah menuliskan ungkapan **“masa kesukaran”** di papan tulis, kemudian meminta siswa menyebutkan hal pertama yang terlintas dalam pikiran mereka. Kegiatan ini memang tidak terlalu mudah dikendalikan—siapa tahu apa yang akan terlontar dari mulut seorang remaja?—tetapi Anda akan mendapatkan reaksi spontan yang dapat menjadi titik awal yang sangat baik untuk mengajarkan pelajaran ini.
 
 ### Ilustrasi
 
@@ -83,11 +88,11 @@ Umat Allah pada akhir zaman akan begitu mengasihi-Nya sehingga mereka tidak mau 
 
 Kita perlu mengingat bahwa keteguhan seperti itu tidak muncul begitu saja pada saat krisis. Agar dapat berdiri bagi Allah pada masa kesukaran, seseorang harus terlebih dahulu membiasakan diri berdiri teguh bagi-Nya pada masa damai.
 
-### Menggali Makna Kisah — Untuk Guru
+### Keluar Cerita — Untuk Guru
 
-Setelah membaca bagian **Masuk ke Dalam Kisah (*Into the Story*)** bersama siswa, gunakan panduan berikut dengan kata-kata Anda sendiri untuk membantu mereka mendalaminya.
+Setelah membaca bagian **Ke Dalam Cerita (*Into the Story*)** bersama siswa, gunakan panduan berikut dengan kata-kata Anda sendiri untuk membantu mereka mendalaminya.
 
-Bagian *Masuk ke Dalam Kisah* minggu ini terdiri atas tiga bagian Alkitab. Masing-masing memberikan banyak pelajaran tentang masa kesukaran. Pelajarilah setiap bagian bersama siswa.
+Bagian *Ke Dalam Cerita* minggu ini terdiri atas tiga bagian Alkitab. Masing-masing memberikan banyak pelajaran tentang masa kesukaran. Pelajarilah setiap bagian bersama siswa.
 
 **Wahyu 12:11**
 
@@ -143,9 +148,9 @@ Ketika Allah menciptakan Adam dan Hawa, Ia memberi mereka kebebasan untuk memili
 
 Arahkan siswa untuk membuka bagian-bagian lain dalam materi pelajaran mereka.
 
-- **Ayat Hafalan (*Key Text*)** — Undang siswa yang sudah menghafalnya untuk menyampaikan Ayat Hafalan di depan kelas.
-- **Sorotan Inspirasi (*Flashlight*)** — Bacalah pernyataan dalam bagian ini. Jelaskan bahwa kutipannya biasanya berasal dari pembahasan kisah minggu tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka temukan antara pernyataan itu dan hal-hal yang baru mereka diskusikan dalam bagian *Menggali Makna Kisah*.
-- **Ayat-Ayat Pilihan (*Punch Lines*)** — Tunjukkan ayat-ayat dalam pelajaran yang berkaitan dengan kisah minggu ini. Mintalah siswa membagikan ayat yang paling menyentuh mereka dan menjelaskan alasan mereka memilihnya.
+- **Ayat Inti (*Key Text*)** — Undang siswa yang sudah menghafalnya untuk menyampaikan Ayat Inti di depan kelas.
+- **Sekilas Cahaya (*Flashlight*)** — Bacalah pernyataan dalam bagian ini. Jelaskan bahwa kutipannya biasanya berasal dari pembahasan kisah minggu tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka temukan antara pernyataan itu dan hal-hal yang baru mereka diskusikan dalam bagian *Keluar Cerita*.
+- **Bagian Pokok (*Punch Lines*)** — Tunjukkan ayat-ayat dalam pelajaran yang berkaitan dengan kisah minggu ini. Mintalah siswa membagikan ayat yang paling menyentuh mereka dan menjelaskan alasan mereka memilihnya.
 - **Wawasan Tambahan (*Further Insight*)** — Tanyakan bagaimana kutipan dalam bagian ini membantu menyampaikan pesan utama kisah yang dipelajari.
 
 ### Rabbi 101 — Tips Mengajar yang Efektif

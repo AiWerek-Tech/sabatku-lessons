@@ -12,7 +12,7 @@ Luangkan waktu untuk menuliskan kerangka pembahasan atau daftar ayat itu di bagi
 
 ## Bagian Pokok
 
-> Tidak Apakah kamu tahu bahwa tubuhmu adalah bait Roh Kudus yang ada di dalam dirimu, yang telah kamu terima dari Allah? Kamu bukan milikmu sendiri; kamu telah dibeli dengan suatu harga. Karena itu, muliakanlah Allah dengan tubuhmu.
+> Tidak tahukah kamu bahwa tubuhmu adalah bait Roh Kudus yang ada di dalam dirimu, yang telah kamu terima dari Allah? Kamu bukan milikmu sendiri; kamu telah dibeli dengan suatu harga. Karena itu, muliakanlah Allah dengan tubuhmu.
 
 — **1 Korintus 6:19–20** (NIV; terjemahan dari kutipan dalam materi asli).
 

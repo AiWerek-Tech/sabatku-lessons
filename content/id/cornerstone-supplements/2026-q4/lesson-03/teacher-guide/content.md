@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** Yesaya 14:12–14; Yehezkiel 28:11–17; Wahyu 12:7–9.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 29 dan 30.
-**Ayat kunci:** Wahyu 12:7–9.
+**Ayat Inti:** Wahyu 12:7–9.
 
 # Persiapan Mengajar
 
@@ -29,11 +29,22 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ## III. Pendalaman
 
-**Kodrat Manusia — Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 7**
+**Kepercayaan Dasar GMAHK Nomor 7: KEADAAN MANUSIA**
 
-> “Laki-laki dan perempuan diciptakan menurut gambar Allah, masing-masing dengan kepribadian, kemampuan, serta kebebasan untuk berpikir dan bertindak.”
+> Manusia telah diciptakan menurut peta Allah dan memiliki sifat kepribadian, kuasa dan kebebasan
+> berpikir dan berbuat. Walaupun diciptakan sebagai makhluk yang merdeka, masing-masing adalah
+> kesatuan tubuh, pikiran, dan roh yang tidak terpisahkan, napas hidup dan segalanya bergantung pada
+> Allah. Ketika nenek moyang kita yang pertama tidak setia pada Allah, mereka menyangkal
+> ketergantungan mereka kepada-Nva dan jatuh dari posisi mereka yang tinggi di bawah Allah. Peta Allah
+> dalam diri mereka rusak dan mereka akan mati. Keturunan mereka juga mewarisi sifat yang telah jatuh
+> itu dan segala akibatnya. Mereka dilahirkan dengan kelemahan dan kecenderungan untuk berbuat dosa.
+> Tetapi Allah dalam Kristus mendamaikan dunia kepada Diri-Nya sendiri dan oleh Roh Kudus memulihkan
+> peta Pencipta dalam diri orang berdosa yang menyesal. Diciptakan untuk kemuliaan Allah, mereka
+> dipanggil untuk mengasihi Dia dan sesama, dan memelihara lingkungan mereka. (Kej. 1:26-28; 27; Mzm.
+> 8:4-8; Kisah 17:24-28; Kej. 3; Mzm. 51:5; Rm. 5:12-17; 2 Kor. 5:19, 20; Mzm. 51:10; 1 Yoh. 4:7, 8,
+> 11, 20; Kej. 2:15.)
 
-**Referensi Alkitab:** Kejadian 1:26–28; 2:7, 15; 3; Mazmur 8:4–8; 51:5, 10; 58:3; Yeremia 17:9; Kisah Para Rasul 17:24–28; Roma 5:12–17; 2 Korintus 5:19–20; Efesus 2:3; 1 Tesalonika 5:23; 1 Yohanes 3:4; 4:7–8, 11, 20.
+---
 
 # Panduan Mengajar
 
@@ -41,7 +52,7 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ### Kegiatan Pembuka
 
-Arahkan siswa untuk mengerjakan bagian **Bagaimana Menurutmu? (*What Do You Think?*)** dalam buku pelajaran mereka. Setelah selesai, diskusikan tanggapan masing-masing.
+Arahkan siswa untuk mengerjakan bagian **Apakah Pendapatmu? (*What Do You Think?*)** dalam buku pelajaran mereka. Setelah selesai, diskusikan tanggapan masing-masing.
 
 Pekan ini siswa diajak untuk mempertahankan suatu cara pandang. Kedua pernyataan dalam kegiatan tersebut sama-sama dapat didukung dengan alasan yang masuk akal. Namun, ketika siswa memilih salah satu gagasan untuk diilustrasikan, didukung, atau dijelaskan, mereka ditantang untuk berpikir secara lebih mendalam.
 
@@ -79,7 +90,7 @@ Besar kemungkinan Allah bersedia melakukan “apa pun yang diperlukan” agar ma
 
 Memahami gambaran yang lebih besar membantu kita melihat cara kerja dosa dan betapa pentingnya cara kita memandang Allah. Ketika membaca bagian-bagian Alkitab berikut, perhatikan bagaimana ayat-ayat tersebut menceritakan awal munculnya dosa. Jawablah pertanyaan yang disediakan dan renungkan mengapa rencana Allah dalam menangani persoalan dosa merupakan satu-satunya jalan yang dapat menyelesaikannya.
 
-### Menggali Makna Kisah — Untuk Guru
+### Keluar Cerita — Untuk Guru
 
 Gunakan pertanyaan berikut untuk memimpin diskusi:
 
@@ -137,15 +148,15 @@ Walaupun kisah kejatuhan manusia dalam Kejadian 3 tidak dimasukkan ke dalam rang
 
 Arahkan siswa untuk menggunakan bagian-bagian lain yang tersedia dalam buku pelajaran mereka.
 
-**Ayat Hafalan (*Key Text*)**
+**Ayat Inti (*Key Text*)**
 
-Mintalah siswa yang sudah menghafal ayat kunci untuk membagikannya di depan kelas.
+Mintalah siswa yang sudah menghafal Ayat Inti untuk membagikannya di depan kelas.
 
-**Sorotan Inspirasi (*Flashlight*)**
+**Sekilas Cahaya (*Flashlight*)**
 
-Bacakan pernyataan dalam bagian Sorotan Inspirasi. Jelaskan bahwa kutipan tersebut umumnya diambil dari uraian tentang kisah pelajaran pekan ini dalam buku *The Great Controversy*. Tanyakan hubungan apa yang mereka lihat antara kutipan tersebut dan hal-hal yang baru dibahas melalui bagian Menggali Makna Kisah.
+Bacakan pernyataan dalam bagian Sekilas Cahaya. Jelaskan bahwa kutipan tersebut umumnya diambil dari uraian tentang kisah pelajaran pekan ini dalam buku *The Great Controversy*. Tanyakan hubungan apa yang mereka lihat antara kutipan tersebut dan hal-hal yang baru dibahas melalui bagian Keluar Cerita.
 
-**Ayat-Ayat Pilihan (*Punch Lines*)**
+**Bagian Pokok (*Punch Lines*)**
 
 Tunjukkan ayat-ayat yang tercantum dalam pelajaran siswa dan berkaitan dengan kisah pekan ini. Minta setiap siswa menyampaikan ayat yang paling berbicara secara pribadi kepadanya, lalu beri kesempatan untuk menjelaskan alasannya.
 

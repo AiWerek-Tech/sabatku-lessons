@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** Kejadian 3:1–5; Mazmur 146:4; Yesaya 38:18, 29; Wahyu 16:13–14.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 33 dan 34.
-**Ayat kunci:** Mazmur 146:4.
+**Ayat Inti:** Mazmur 146:4.
 
 # Persiapan Mengajar
 
@@ -31,11 +31,17 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ## III. Pendalaman
 
-**Kitab Suci — Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 1**
+**Kepercayaan Dasar GMAHK Nomor 1: KITAB SUCI**
 
-> “Kitab Suci, Perjanjian Lama dan Perjanjian Baru, adalah Firman Allah yang tertulis, yang diberikan melalui ilham ilahi. Para penulis yang diilhami berbicara dan menulis ketika mereka digerakkan oleh Roh Kudus. Dalam Firman ini, Allah telah mempercayakan kepada umat manusia pengetahuan yang diperlukan untuk keselamatan. Kitab Suci merupakan penyataan kehendak-Nya yang tertinggi, berwibawa, dan tidak dapat salah. Kitab Suci adalah standar tabiat, batu ujian pengalaman, sumber penyingkapan ajaran yang menentukan, dan catatan yang dapat dipercaya tentang tindakan Allah dalam sejarah.”
+> Kitab Suci yang terdiri dari Perjanjian Lama dan Perjanjian Baru, adalah Firman Allah yang tertulis,
+> yang diberikan oleh inspirasi llahi melalui orang-orang kudus Allah yang bericara dan menulis karena
+> mereka digerakkan oleh Roh Kudus. Dalam Firman tertulis ini, Allah telah memberikan kepada manusia
+> pengetahuan yang perlu untuk keselamatan. Kitab Suci adalah pemyataan tentang kehendak Allah yang
+> tidak mungkin salah. Itu merupakan ukuran tabiat, ujian pengalaman, pengungkap doktrin yang sah, dan
+> catatan yang terpercaya perihal tindakan-tindakan Allah dalam sejarah. (2 Ptr. 1:20,21; 2 Tim.
+> 3:16,17; Mzm. 119:105; Ams. 30:5,6; Yes. 8:20; Yoh. 17:17; 1 Tes. 2:13; Ibr. 4:12.)
 
-**Referensi Alkitab:** Mazmur 119:105; Amsal 30:5–6; Yesaya 8:20; Yohanes 17:17; 1 Tesalonika 2:13; 2 Timotius 3:16–17; Ibrani 4:12; 2 Petrus 1:20–21.
+---
 
 # Panduan Mengajar
 
@@ -43,7 +49,7 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ### Kegiatan Pembuka
 
-Arahkan siswa kepada bagian **Bagaimana Menurutmu? (*What Do You Think?*)** dalam pelajaran mereka. Setelah mereka menyelesaikannya, diskusikan jawaban-jawaban mereka.
+Arahkan siswa kepada bagian **Apakah Pendapatmu? (*What Do You Think?*)** dalam pelajaran mereka. Setelah mereka menyelesaikannya, diskusikan jawaban-jawaban mereka.
 
 Gagasan tentang jiwa yang tidak dapat mati terus beredar dalam masyarakat kita saat ini. Kita melihatnya dalam film-film dan mendengarnya dalam musik. Bahkan, sebagian orang yang tidak beragama pun cenderung menerima gagasan tentang jiwa yang kekal karena pandangan itu begitu kuat tertanam dalam pikiran mereka melalui media.
 
@@ -107,15 +113,15 @@ Ajak siswa memikirkan pertanyaan-pertanyaan berikut:
 
 *Arahkan siswa kepada bagian-bagian lain dalam buku pelajaran mereka.*
 
-**Ayat Hafalan (*Key Text*)**
+**Ayat Inti (*Key Text*)**
 
-Ajak siswa yang telah menghafalkan Ayat Hafalan untuk menyampaikannya kepada kelas.
+Ajak siswa yang telah menghafalkan Ayat Inti untuk menyampaikannya kepada kelas.
 
-**Sorotan Inspirasi (*Flashlight*)**
+**Sekilas Cahaya (*Flashlight*)**
 
-Bacakan pernyataan dalam bagian Sorotan Inspirasi. Jelaskan bahwa kutipan itu biasanya diambil dari penjelasan mengenai kisah pekan tersebut dalam buku *The Great Controversy*. Tanyakan hubungan apa yang mereka lihat antara pernyataan itu dan hal-hal yang baru saja dibahas melalui bagian **Menggali Makna Kisah (*Out of the Story*)**.
+Bacakan pernyataan dalam bagian Sekilas Cahaya. Jelaskan bahwa kutipan itu biasanya diambil dari penjelasan mengenai kisah pekan tersebut dalam buku *The Great Controversy*. Tanyakan hubungan apa yang mereka lihat antara pernyataan itu dan hal-hal yang baru saja dibahas melalui bagian **Keluar Cerita (*Out of the Story*)**.
 
-**Ayat-Ayat Pilihan (*Punch Lines*)**
+**Bagian Pokok (*Punch Lines*)**
 
 Tunjukkan kepada siswa ayat-ayat yang tercantum dalam pelajaran mereka dan berkaitan dengan kisah pekan ini. Mintalah mereka membagikan ayat yang paling berbicara secara pribadi kepada mereka, lalu jelaskan mengapa mereka memilihnya.
 

@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** 2 Tesalonika 2:3–4; Wahyu 13.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 35.
-**Ayat kunci:** 2 Tesalonika 2:3–4.
+**Ayat Inti:** 2 Tesalonika 2:3–4.
 
 # Persiapan Mengajar
 
@@ -27,15 +27,23 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ## III. Pendalaman
 
-**Gereja — Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 12**
+**Kepercayaan Dasar GMAHK Nomor 12: GEREJA**
 
-> “Gereja adalah persekutuan orang-orang percaya yang mengakui Yesus Kristus sebagai Tuhan dan Juruselamat. Sebagai kelanjutan umat Allah pada zaman Perjanjian Lama, kita dipanggil keluar dari dunia dan berhimpun untuk beribadah, bersekutu, mempelajari Firman, merayakan Perjamuan Tuhan, melayani sesama manusia, dan memberitakan Injil ke seluruh dunia.
->
-> Gereja memperoleh wewenangnya dari Kristus, Firman yang telah menjadi manusia dan yang dinyatakan dalam Kitab Suci. Gereja adalah keluarga Allah. Sebagai anak-anak yang diangkat oleh-Nya, para anggotanya hidup berdasarkan perjanjian yang baru. Gereja adalah tubuh Kristus, suatu persekutuan iman dengan Kristus sendiri sebagai Kepalanya.
->
-> Gereja adalah mempelai yang untuknya Kristus telah mati supaya Ia dapat menguduskan dan menyucikannya. Pada kedatangan-Nya kembali dalam kemenangan, Ia akan menghadapkan kepada diri-Nya suatu gereja yang mulia, yaitu orang-orang setia dari segala zaman yang telah dibeli dengan darah-Nya, tanpa noda atau kerut, tetapi kudus dan tidak bercela.”
+> Gereja adalah persekutuan orang-orang percaya yang mengakui Yesus Kristus sebagai Tuhan dan
+> Juruselamat. Sebagaimana umat Allah di masa Pejanjian Lama, kita dipanggil keluar dari dunia; dan
+> kita berkumpul untuk berbakti, untuk bersekutu, untuk mendapatkan petunjuk Firman, untuk merayakan
+> Perjamuan Tuhan, untuk pelayanan kepada seluruh umat manusia, dan untuk pengabaran injil keseluruh
+> dunia. Gereja memperoleh wewenangnya dari Kristus, yang adalah Firman yang menjelma, dan dari Kitab
+> Suci, yang merupakan Firman tertulis. Gereja adalah keluarga Allah; karena diangkat-Nya sebagai
+> anak, maka anggota-anggotanya hidup berdasarkan perjanjian baru. Gereja adalah tubuh Kristus, suatu
+> masyarakat iman yang Kristus sendiri merupakan Kepalanya. Gereja adalah pengantin yang baginya
+> Kristus mati agar Ia dapat menguduskan dan menyucikannya. Pada saat Ia datang dalam kemuliaan, Ia
+> akan mempersembahkannya sebagai sebuah gereja yang mulia bagi diri-Nya sendiri, orang-orang setia
+> dari segala zaman, yang telah dibeli dengan darah-Nya, suci dan tanpa cacat, noda atau kerut. (Kej.
+> 12:3; Kisah 7:38; Ef. 4:11-15; 3:8-11; Mat. 28:19, 20; 16:13-20; 18:18; Ef. 2:19-22; 1:22, 23;
+> 5:23-27; Kol. 1:17, 18).
 
-**Referensi Alkitab:** Kejadian 12:1–3; Keluaran 19:3–7; Matius 16:13–20; 18:18; 28:19–20; Kisah Para Rasul 2:38–42; 7:38; 1 Korintus 1:2; Efesus 1:22–23; 2:19–22; 3:8–11; 5:23–27; Kolose 1:17–18; 1 Petrus 2:9.
+---
 
 # Panduan Mengajar
 
@@ -43,7 +51,7 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ### Kegiatan Pembuka
 
-Arahkan siswa kepada bagian **Bagaimana Menurutmu? (*What Do You Think?*)** dalam pelajaran mereka. Diskusikan jawaban-jawaban mereka. Mintalah siswa menyampaikan hasil survei yang mereka lakukan terhadap anggota jemaat.
+Arahkan siswa kepada bagian **Apakah Pendapatmu? (*What Do You Think?*)** dalam pelajaran mereka. Diskusikan jawaban-jawaban mereka. Mintalah siswa menyampaikan hasil survei yang mereka lakukan terhadap anggota jemaat.
 
 Sebagai kegiatan alternatif, mintalah siswa mencari berita tentang peristiwa-peristiwa terkini melalui internet yang dapat membantu mereka memahami peringatan-peringatan Ellen White dalam bab 35 buku *The Great Controversy*.
 
@@ -77,9 +85,9 @@ Sekalipun kisah ini berakhir dengan baik, banyak orang Kristen sepanjang sejarah
 
 Kebebasan beragama adalah sesuatu yang sangat berharga, tetapi banyak orang Kristen di berbagai belahan dunia tidak dapat menikmatinya. Bagaimana kaum muda dapat membagikan kasih Allah di tempat-tempat yang tidak memberikan kebebasan beragama? Apa yang akan kamu lakukan seandainya berada dalam situasi Ernest?
 
-### Menggali Makna Kisah untuk Guru
+### Keluar Cerita untuk Guru
 
-Setelah membaca bagian **Masuk ke Dalam Kisah (*Into the Story*)** bersama siswa, gunakan materi berikut untuk membantu mereka mendalami beberapa konsep dalam Wahyu 13.
+Setelah membaca bagian **Ke Dalam Cerita (*Into the Story*)** bersama siswa, gunakan materi berikut untuk membantu mereka mendalami beberapa konsep dalam Wahyu 13.
 
 Wahyu 13:1–4 memperkenalkan seekor binatang yang muncul dari laut dengan tubuh seperti macan tutul. Dalam kitab-kitab nubuatan Daniel dan Wahyu, binatang melambangkan kekuasaan dunia serta sistem politik atau keagamaan.
 
@@ -127,15 +135,15 @@ Matius 24:14 memberitahukan apa yang harus terjadi sebelum Yesus datang kembali.
 
 Arahkan siswa kepada bagian-bagian lain dalam bahan pelajaran mereka.
 
-**Ayat Hafalan (*Key Text*)**
+**Ayat Inti (*Key Text*)**
 
-Undang siswa yang sudah menghafal Ayat Hafalan untuk mengucapkannya di depan kelas.
+Undang siswa yang sudah menghafal Ayat Inti untuk mengucapkannya di depan kelas.
 
-**Sorotan Inspirasi (*Flashlight*)**
+**Sekilas Cahaya (*Flashlight*)**
 
-Bacakan pernyataan pada bagian Sorotan Inspirasi. Jelaskan bahwa kutipan ini pada umumnya diambil dari ulasan mengenai kisah pelajaran minggu tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka lihat antara pernyataan itu dan pembahasan yang baru saja dilakukan dalam bagian **Menggali Makna Kisah (*Out of the Story*)**.
+Bacakan pernyataan pada bagian Sekilas Cahaya. Jelaskan bahwa kutipan ini pada umumnya diambil dari ulasan mengenai kisah pelajaran minggu tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka lihat antara pernyataan itu dan pembahasan yang baru saja dilakukan dalam bagian **Keluar Cerita (*Out of the Story*)**.
 
-**Ayat-Ayat Pilihan (*Punch Lines*)**
+**Bagian Pokok (*Punch Lines*)**
 
 Tunjukkan kepada siswa ayat-ayat yang tercantum dalam pelajaran mereka dan berkaitan dengan kisah minggu ini. Mintalah mereka menyampaikan ayat yang paling berbicara secara pribadi kepada mereka, kemudian beri kesempatan untuk menjelaskan alasan pilihan tersebut.
 

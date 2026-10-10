@@ -5,7 +5,7 @@
 
 **Kisah Alkitab:** Kejadian 7:6–23.
 **Bacaan pendamping:** *The Great Controversy* (atau *Love Under Fire*), bab 28.
-**Ayat Hafalan:** Kejadian 7:23.
+**Ayat Inti:** Kejadian 7:23.
 
 ---
 
@@ -41,13 +41,27 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ## III. Pendalaman
 
-**Pelayanan Kristus di Bait Suci Surgawi — Kepercayaan Dasar Gereja Masehi Advent Hari Ketujuh, Nomor 24**
+**Kepercayaan Dasar GMAHK Nomor 24: PELAYANAN KRISTUS DI BAIT SURGA**
 
-> Ada sebuah bait suci di surga, yaitu kemah suci yang sejati, yang didirikan oleh Tuhan, bukan oleh manusia. Di sanalah Kristus melayani demi kepentingan kita dan menyediakan bagi orang-orang percaya manfaat dari pengorbanan pendamaian-Nya, yang telah dipersembahkan satu kali untuk selama-lamanya di kayu salib.
-
-**Referensi Alkitab yang dicantumkan dalam sumber:** Imamat 16; Bilangan 14:34; Yehezkiel 4:6; dan seterusnya.
-
-*Catatan: Kutipan Kepercayaan Dasar Nomor 24 dan daftar rujukannya memang dipersingkat dengan tanda elipsis (…) dalam PDF asli. Bagian yang tidak tercetak tidak ditambahkan di sini.*
+> Ada sebuah bait suci di surga, tempat ibadah sejati yang didirikan oleh Allah bukan oleh manusia. Di
+> dalamnya Knstus melayani untuk kepentingan kita, agar orang-orang percaya mendapatkan faedah dan
+> korban penebusan-Nya yang dipersembahkan sekali untuk semua di salib. Ia dilantik sebagai Imam Besar
+> kita yang agung dan memulaikan pelayanan pengantaraan-Nya pada saat Ia naik ke surga. Pada tahun
+> 1844, pada akhir periode nubuatan 2300 hari, Ia memasuki fase kedua dan terakhir dari pelayanan
+> penebusan-Nya. Itu adalah pekerjaan penyelidikan penghakiman yang merupakan bagian dari keputusan
+> akhir bagi semua dosa, ditandai dengan penyucian bait suci orang Ibrani dahulu kala pada hari
+> Grafirat. Dalam pelayanan khusus tersebut bait suci disucikan dengan darah hewan korban, tetapi bait
+> suci surgawi itu disucikan oleh darah korban yang sempurna yaitu Yesus. Penyelidikan penghakiman
+> menyatakan kepada makhluk-makhluk surgawi siapa di antara orang-orang mati yang telah mati di dalam
+> Kristus dan oleh sebab itu, di dalam Dia, mereka dianggap layak untuk mengambil bagian dalam
+> kebangkitan pertama. Itu juga menunjukkan dengan jelas siapa di antara orang-orang hidup yang
+> tinggal di dalam Kristus, memelihara hukum-hukum Allah dan iman akan Yesus, dan oleh sebab itu, di
+> dalam Dia, mereka siap untuk diubahkan dan masuk ke dalam kerajaan-Nya yang kekal. Penghakiman ini
+> membuktikan benarnya keadilan Allah dalam menyelamatkan orang-orang yang percaya kepada Yesus. Itu
+> menyatakan bahwa orang-orang yang tetap setia kepada Allah akan menerima kerajaan itu. Penyelesaian
+> pelayanan Kristus ini akan menandai berakhirnya masa percobaan bagi manusia sebelum Kedatangan-Nya
+> kedua kali. (Ibr. 8:1-5; 4:14-16; 9:11-28; 10:19-22; 1:3; 2:16, 17; Dan.7:9-27; 8:13, 14; 9:24-27;
+> Bil. 14:34; Yeh. 4:6; Im. 16; Why. 14:6, 7; 20:12; 14:12; 22:12).
 
 ---
 
@@ -57,9 +71,9 @@ Setelah mengikuti pelajaran ini, siswa diharapkan dapat:
 
 ### Kegiatan
 
-*Arahkan siswa ke bagian **Bagaimana Menurutmu? (What Do You Think?)** dalam pelajaran mereka. Setelah mereka menyelesaikannya, diskusikan jawaban mereka.*
+*Arahkan siswa ke bagian **Apakah Pendapatmu? (What Do You Think?)** dalam pelajaran mereka. Setelah mereka menyelesaikannya, diskusikan jawaban mereka.*
 
-Kegiatan **Bagaimana Menurutmu?** meminta siswa memilih kata-kata kunci yang berkaitan dengan pekabaran penghakiman Allah atas semua orang yang pernah hidup. Ketika siswa menyebutkan kata-kata yang paling menyentuh atau menarik perhatian mereka, ajak mereka juga mengungkapkan kata-kata yang belum mereka pahami.
+Kegiatan **Apakah Pendapatmu?** meminta siswa memilih kata-kata kunci yang berkaitan dengan pekabaran penghakiman Allah atas semua orang yang pernah hidup. Ketika siswa menyebutkan kata-kata yang paling menyentuh atau menarik perhatian mereka, ajak mereka juga mengungkapkan kata-kata yang belum mereka pahami.
 
 Kemungkinan besar, banyak siswa akan memilih kata-kata seperti **"pengampunan"** atau **"kepastian"**, karena istilah-istilah itu lebih akrab di telinga mereka. Namun, ajaklah mereka menggali lebih jauh apa yang sudah mereka ketahui tentang istilah lainnya dan hal-hal apa yang ingin mereka pahami lebih dalam.
 
@@ -105,7 +119,7 @@ Ketika kita merenungkan kisah Nuh dan Air Bah, pikirkanlah betapa agungnya pekab
 
 Pekabaran tentang penghakiman dan keselamatan yang sama seriusnya juga sedang disampaikan pada masa kini. Bagaimana orang akan menanggapinya? Akankah keadaan mereka seperti pada zaman Nuh, ketika hanya segelintir orang yang memberikan perhatian?
 
-### Menggali Makna Kisah untuk Guru
+### Keluar Cerita untuk Guru
 
 *Gunakan pertanyaan-pertanyaan berikut untuk menolong siswa mendalami kisah Alkitab:*
 
@@ -159,9 +173,9 @@ Anda dapat mempertimbangkan untuk membagi topik ini menjadi tiga bagian, mengiku
 
 *Arahkan perhatian siswa kepada bagian-bagian lain dalam pelajaran mereka:*
 
-- **Ayat Hafalan (*Key Text*):** Undang siswa yang sudah menghafal ayat tersebut untuk menyampaikannya kepada kelas.
-- **Sorotan Inspirasi (*Flashlight*):** Bacakan pernyataan dalam bagian ini. Jelaskan bahwa biasanya pernyataan tersebut diambil dari ulasan mengenai kisah pekan ini yang terdapat dalam buku *The Great Controversy*. Tanyakan kepada siswa apa hubungan pernyataan itu dengan hal-hal yang baru saja mereka bahas dalam **Menggali Makna Kisah (*Out of the Story*)**.
-- **Ayat-Ayat Pilihan (*Punch Lines*):** Tunjukkan ayat-ayat dalam pelajaran siswa yang berkaitan dengan kisah pekan ini. Mintalah mereka membaca ayat-ayat itu dan menyebutkan ayat yang paling berbicara kepada mereka hari ini. Ajak mereka menjelaskan alasan memilih ayat tersebut. Sebagai alternatif, Anda dapat membagi ayat-ayat itu kepada kelompok beranggotakan dua siswa untuk dibaca dengan suara nyaring, kemudian didiskusikan sebelum mereka memilih ayat yang paling relevan.
+- **Ayat Inti (*Key Text*):** Undang siswa yang sudah menghafal ayat tersebut untuk menyampaikannya kepada kelas.
+- **Sekilas Cahaya (*Flashlight*):** Bacakan pernyataan dalam bagian ini. Jelaskan bahwa biasanya pernyataan tersebut diambil dari ulasan mengenai kisah pekan ini yang terdapat dalam buku *The Great Controversy*. Tanyakan kepada siswa apa hubungan pernyataan itu dengan hal-hal yang baru saja mereka bahas dalam **Keluar Cerita (*Out of the Story*)**.
+- **Bagian Pokok (*Punch Lines*):** Tunjukkan ayat-ayat dalam pelajaran siswa yang berkaitan dengan kisah pekan ini. Mintalah mereka membaca ayat-ayat itu dan menyebutkan ayat yang paling berbicara kepada mereka hari ini. Ajak mereka menjelaskan alasan memilih ayat tersebut. Sebagai alternatif, Anda dapat membagi ayat-ayat itu kepada kelompok beranggotakan dua siswa untuk dibaca dengan suara nyaring, kemudian didiskusikan sebelum mereka memilih ayat yang paling relevan.
 - **Wawasan Tambahan (*Further Insight*):** Tanyakan bagaimana kutipan-kutipan dalam bagian tersebut menyampaikan pesan utama kisah yang dipelajari.
 
 ---
