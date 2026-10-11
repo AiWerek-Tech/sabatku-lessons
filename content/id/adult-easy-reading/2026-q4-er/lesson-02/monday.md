@@ -4,7 +4,7 @@ SENIN, 5 OKTOBER 2026
 
 1 Raja-raja 18:19–39
 
-![Ilustrasi dari publikasi edisi](../../assets/image97.png)
+![Ilustrasi dari publikasi edisi](../../assets/image97.jpg)
 
 Elia menghadap Raja Ahab dan menyatakan bahwa hujan tidak akan turun untuk waktu yang lama.
 

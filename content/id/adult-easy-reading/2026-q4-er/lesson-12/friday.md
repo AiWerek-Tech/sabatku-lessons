@@ -4,7 +4,7 @@ JUMAT, 18 DESEMBER 2026
 
 ### ELLEN G. WHITE
 
-![Ilustrasi dari publikasi edisi](../../assets/image7.png)
+![Ilustrasi dari publikasi edisi](../../assets/image7.jpg)
 
 “Di kayu salib, Yesus memadukan belas kasihan dengan kebenaran, serta ketaatan dengan damai sejahtera.”
 

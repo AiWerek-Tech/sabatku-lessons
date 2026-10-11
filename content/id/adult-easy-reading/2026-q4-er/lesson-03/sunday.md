@@ -18,6 +18,6 @@ Mungkin jawabannya terdapat dalam perkataan Elia: “Jawabnya: ‘Aku bekerja se
 
 Pernahkah Anda merasa bahwa Anda belum melakukan tugas dengan baik? Janji-janji Alkitab apa yang dapat Anda percayai untuk menolong Anda pada saat seperti itu?
 
-![Ilustrasi dari publikasi edisi](../../assets/image38.png)
+![Ilustrasi dari publikasi edisi](../../assets/image38.jpg)
 
 Salah satu mukjizat paling dahsyat dalam sejarah Perjanjian Lama terjadi dalam kisah ini: Elia menurunkan api dari langit (1 Raja-raja 18:38)!

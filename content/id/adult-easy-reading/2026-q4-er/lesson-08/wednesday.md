@@ -4,7 +4,7 @@ RABU, 18 NOVEMBER 2026
 
 Lukas 10:25–28; Matius 5:43–48; Lukas 6:27–36
 
-![Ilustrasi dari publikasi edisi](../../assets/image73.png)
+![Ilustrasi dari publikasi edisi](../../assets/image73.jpg)
 
 Alkitab seperti harta yang tidak ada habisnya. Selalu ada hal baru yang dapat diajarkannya kepada kita.
 

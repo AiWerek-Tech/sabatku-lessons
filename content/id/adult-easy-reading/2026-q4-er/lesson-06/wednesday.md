@@ -4,7 +4,7 @@ RABU, 4 NOVEMBER 2026
 
 Pengkhotbah 12:9, 10; 1 Raja-raja 11:41; Lukas 1:1–4; Yudas 14, 15
 
-![Ilustrasi dari publikasi edisi](../../assets/image17.png)
+![Ilustrasi dari publikasi edisi](../../assets/image17.jpg)
 
 Salomo tidak menciptakan sendiri semua ajaran bijaksana dan perkataan penuh hikmat yang ditulisnya.
 

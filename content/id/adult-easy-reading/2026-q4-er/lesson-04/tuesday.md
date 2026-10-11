@@ -18,6 +18,6 @@ Jadi, pekabaran Allah juga mencakup janji-janji yang menguatkan (1 Korintus 14:3
 
 Dalam Wahyu 22:6, Yesus disebut Tuhan Allah para utusan khusus. Ayat ini juga menyatakan bahwa firman Yesus kudus dan benar. Karena itu, kita dapat percaya bahwa perkataan para utusan-Nya pun kudus dan benar. Tidak banyak hal dalam kehidupan ini yang dapat kita percayai. Namun, kita dapat memercayai para utusan Allah dalam Alkitab. Sungguh, Wahyu 22:6 adalah kabar baik!
 
-![Ilustrasi dari publikasi edisi](../../assets/image67.png)
+![Ilustrasi dari publikasi edisi](../../assets/image67.jpg)
 
 Perkataan Yudas dan Silas meneguhkan iman anggota-anggota jemaat (Kisah Para Rasul 15:32).

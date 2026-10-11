@@ -4,7 +4,7 @@ RABU, 21 OKTOBER 2026
 
 Lukas 2:36–38; Kisah Para Rasul 21:9
 
-![Ilustrasi dari publikasi edisi](../../assets/image45.png)
+![Ilustrasi dari publikasi edisi](../../assets/image45.jpg)
 
 Hana adalah perempuan pertama yang disebut sebagai utusan khusus dalam Perjanjian Baru.
 

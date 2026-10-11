@@ -16,6 +16,6 @@ Di bagian lain, Alkitab juga menyebut matahari yang menjadi gelap dan bulan yang
 
 Renungkanlah pekabaran yang telah digenapi tepat seperti janji Alkitab. Mengapa penggenapan itu menolong kita memercayai janji Allah tentang masa depan, termasuk kedatangan Kristus yang kedua?
 
-![Ilustrasi dari publikasi edisi](../../assets/image28.png)
+![Ilustrasi dari publikasi edisi](../../assets/image28.jpg)
 
 Alkitab berbicara tentang matahari yang menjadi gelap dan bulan yang menjadi merah.

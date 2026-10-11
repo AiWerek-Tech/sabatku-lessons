@@ -18,7 +18,7 @@ Albin mengalami banyak penderitaan, tetapi imannya tetap kuat. Ketika ia memilih
 
 Kisah ini diadaptasi dari Encyclopedia of Seventh-day Adventists, tersedia di www.encyclopedia.adventist.org.
 
-![Ilustrasi dari publikasi edisi](../../assets/image55.png)
+![Ilustrasi dari publikasi edisi](../../assets/image55.jpg)
 
 Seorang asing menghentikan Albin.
 

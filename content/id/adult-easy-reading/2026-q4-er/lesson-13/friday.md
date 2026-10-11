@@ -4,7 +4,7 @@ JUMAT, 25 DESEMBER 2026
 
 ### ELLEN G. WHITE
 
-![Ilustrasi dari publikasi edisi](../../assets/image9.png)
+![Ilustrasi dari publikasi edisi](../../assets/image9.jpg)
 
 Dudley dan Cummings menemukan bahwa orang-orang yang membaca tulisan-tulisan Ellen White akan lebih sering beribadah bersama keluarga mereka.
 

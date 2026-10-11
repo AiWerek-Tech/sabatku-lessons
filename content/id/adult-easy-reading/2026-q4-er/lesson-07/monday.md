@@ -4,7 +4,7 @@ SENIN, 9 NOVEMBER 2026
 
 Yeremia 36:20–31
 
-![Ilustrasi dari publikasi edisi](../../assets/image81.png)
+![Ilustrasi dari publikasi edisi](../../assets/image81.jpg)
 
 Allah sangat mengasihi umat-Nya. Karena itu, Dia meminta Yeremia untuk menuliskan pesan peringatan terakhir bagi mereka.
 

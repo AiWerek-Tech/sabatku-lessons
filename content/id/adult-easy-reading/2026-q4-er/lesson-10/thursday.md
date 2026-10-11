@@ -16,6 +16,6 @@ Setelah Daud berzina dengan Batsyeba dan membunuh suaminya, Allah mengutus Natan
 
 Ellen G. White menulis, “Tuhan menghendaki Anda mempelajari Alkitab. Ia tidak memberikan terang baru untuk menggantikan firman-Nya yang tertulis. Alkitab menolong orang yang bingung memahami kebenaran-Nya. Alkitab memberi kita kehidupan, seperti makanan.”—Selected Messages, buku 3, hlm. 29, diadaptasi. Seberapa baik gereja mengikuti nasihat ini?
 
-![Ilustrasi dari publikasi edisi](../../assets/image65.png)
+![Ilustrasi dari publikasi edisi](../../assets/image65.jpg)
 
 Para utusan di zaman modern juga akan menghormati kebenaran Alkitab. Pesan-pesan mereka harus diuji berdasarkan Alkitab.

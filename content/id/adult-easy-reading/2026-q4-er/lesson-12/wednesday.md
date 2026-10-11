@@ -4,7 +4,7 @@ RABU, 16 DESEMBER 2026
 
 Wahyu 12:17; Wahyu 19:10; Wahyu 22:8, 9
 
-![Ilustrasi dari publikasi edisi](../../assets/image90.png)
+![Ilustrasi dari publikasi edisi](../../assets/image90.jpg)
 
 Gereja Yesus pada akhir zaman akan memelihara perintah-perintah-Nya dan memiliki karunia pesan-pesan khusus.
 

@@ -32,7 +32,7 @@ Jacob berkata, “Bu, keputusan Ibu untuk datang ke sini sungguh baik. Aku sanga
 
 Berta mengatakan bahwa ia bahagia. Ia tahu bahwa Allah telah membawanya ke sekolah itu. Ia berkata, “Itulah sebabnya saya berada di sini.” Terima kasih atas persembahan Sekolah Sabat Anda yang mendukung pendidikan Advent di Polandia dan di seluruh dunia.
 
-![Ilustrasi dari publikasi edisi](../../assets/image104.png)
+![Ilustrasi dari publikasi edisi](../../assets/image104.jpg)
 
 Berta berdoa, “Allah, apa yang harus saya lakukan?”
 

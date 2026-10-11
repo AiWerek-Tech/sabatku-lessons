@@ -4,7 +4,7 @@ RABU, 9 DESEMBER 2026
 
 Yesaya 59:1–4; Nehemia 9:30
 
-![Ilustrasi dari publikasi edisi](../../assets/image12.png)
+![Ilustrasi dari publikasi edisi](../../assets/image12.jpg)
 
 Allah terus berusaha menyelamatkan umat dan para pemimpin mereka. Berulang kali, Dia mengutus para utusan-Nya kepada mereka untuk menyampaikan peringatan.
 

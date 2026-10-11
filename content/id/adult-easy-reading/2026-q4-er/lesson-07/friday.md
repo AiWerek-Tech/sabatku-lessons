@@ -4,7 +4,7 @@ JUMAT, 13 NOVEMBER 2026
 
 ### ELLEN G. WHITE
 
-![Ilustrasi dari publikasi edisi](../../assets/image66.png)
+![Ilustrasi dari publikasi edisi](../../assets/image66.jpg)
 
 Terkadang, banyak orang menyaksikan apa yang terjadi pada Ellen White ketika Allah memberinya sebuah mimpi.
 

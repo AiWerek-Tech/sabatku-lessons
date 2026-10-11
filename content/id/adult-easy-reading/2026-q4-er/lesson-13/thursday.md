@@ -14,6 +14,6 @@ Allah ingin semua orang diselamatkan. Namun, mereka terlebih dahulu harus percay
 
 Namun, Allah mengutus Roh Kudus untuk memberi pengharapan. Karunia-karunia Roh menolong gereja bekerja bersama dalam damai dan kasih. Efesus 4:11–15 menyatakan bahwa karunia itu juga menolong gereja melakukan pekerjaan Allah. Paulus menjelaskan, “Dengan demikian kita semua menjadi satu oleh iman yang sama dan pengertian yang sama mengenai Anak Allah. Dan kita menjadi orang-orang yang dewasa yang makin lama makin bertambah sempurna seperti Kristus.” (Efesus 4:13, BIS). Karunia nubuatan berperan penting dalam menolong gereja bekerja bersama dalam damai dan kasih.
 
-![Ilustrasi dari publikasi edisi](../../assets/image113.png)
+![Ilustrasi dari publikasi edisi](../../assets/image113.jpg)
 
 Yesus berdoa dengan sungguh-sungguh agar umat-Nya bekerja sama dalam kasih.

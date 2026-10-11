@@ -30,7 +30,7 @@ Timo bertanya, “Apakah kamu tahu pukul berapa itu terjadi?”
 
 Leena mengetahuinya. Orang itu meninggal tepat ketika Timo terbangun.
 
-![Ilustrasi dari publikasi edisi](../../assets/image100.png)
+![Ilustrasi dari publikasi edisi](../../assets/image100.jpg)
 
 Sosok yang bercahaya itu masuk ke kamarnya, duduk di ujung tempat tidurnya, dan tetap menemaninya hingga pagi.
 

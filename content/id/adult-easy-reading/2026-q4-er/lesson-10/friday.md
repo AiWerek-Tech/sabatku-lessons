@@ -4,7 +4,7 @@ JUMAT, 4 DESEMBER 2026
 
 ### ELLEN G. WHITE
 
-![Ilustrasi dari publikasi edisi](../../assets/image93.png)
+![Ilustrasi dari publikasi edisi](../../assets/image93.jpg)
 
 Dalam pesan-pesan Allah kepada Ellen White, kita melihat pertentangan antara yang baik dan yang jahat. Pertentangan ini dimulai oleh Lucifer di surga.
 

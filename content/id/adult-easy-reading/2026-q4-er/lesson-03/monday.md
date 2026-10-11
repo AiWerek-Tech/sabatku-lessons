@@ -4,7 +4,7 @@ SENIN, 12 OKTOBER 2026
 
 1 Raja-raja 22:1–14; 1 Samuel 9:3–14
 
-![Ilustrasi dari publikasi edisi](../../assets/image115.png)
+![Ilustrasi dari publikasi edisi](../../assets/image115.jpg)
 
 Raja Ahab membenci Mikha. Mikha adalah utusan Allah.
 

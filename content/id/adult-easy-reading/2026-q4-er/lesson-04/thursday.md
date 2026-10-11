@@ -18,6 +18,6 @@ Bagaimana kita dapat melindungi diri dari tipu daya Iblis? Bacalah Efesus 6:10�
 
 Kita harus mengenakan perlengkapan senjata Allah. Perlengkapan itu melindungi kita dari tipu daya Iblis. Kita juga harus meminta Roh Kudus memimpin hidup kita dan mempelajari Alkitab. Semua ini akan melindungi kita serta menjaga kita tetap dekat kepada Yesus.
 
-![Ilustrasi dari publikasi edisi](../../assets/image86.png)
+![Ilustrasi dari publikasi edisi](../../assets/image86.jpg)
 
 Dalam Perjanjian Baru, para utusan palsu diibaratkan seperti serigala lapar yang berpura-pura menjadi seperti “domba” (Matius 7:15).

@@ -1,8 +1,8 @@
 SABAT, 12 DESEMBER 2026
 
-![lesson-cover](../../assets/lesson-cover-12.png)
+![lesson-cover](../../assets/lesson-cover-12.jpg)
 
-![Ilustrasi dari publikasi edisi](../../assets/image48.png)
+![Ilustrasi dari publikasi edisi](../../assets/image48.jpg)
 
 ### BACAAN PEKAN INI
 

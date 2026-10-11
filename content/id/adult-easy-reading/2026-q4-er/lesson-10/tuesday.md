@@ -20,6 +20,6 @@ Pada zaman Alkitab, bahan untuk menulis mahal dan banyak orang tidak dapat memba
 
 Kebenaran Alkitab dapat menyentuh hati. Dengan pertolongan Roh Kudus, kebenaran Allah menyadarkan kita akan dosa, mengubah hidup menjadi lebih baik, dan memperbarui kita. Alkitab meminta kita berhenti berdosa dan menaati Allah (Kisah Para Rasul 5:29; bacalah juga Ibrani 4:12). Itulah sebabnya banyak orang menolaknya. Mereka tidak ingin Alkitab mengatur kehidupan mereka.
 
-![Ilustrasi dari publikasi edisi](../../assets/image94.png)
+![Ilustrasi dari publikasi edisi](../../assets/image94.jpg)
 
 Alkitab adalah pedoman bagi iman dan perilaku kita.

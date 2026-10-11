@@ -4,7 +4,7 @@ RABU, 25 NOVEMBER 2026
 
 Matius 7:20; Yunus 1:1–3; Kisah Para Rasul 15:36–39; Galatia 2:11–14
 
-![Ilustrasi dari publikasi edisi](../../assets/image70.png)
+![Ilustrasi dari publikasi edisi](../../assets/image70.jpg)
 
 Banyak utusan mengalami kehidupan yang penuh kesulitan. Musa memimpin bangsa Israel melewati padang gurun (Ulangan 34:10-12).
 

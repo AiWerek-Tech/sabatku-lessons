@@ -16,6 +16,6 @@ Sekarang, Yesus memberikan pekabaran kepada gereja kita untuk disampaikan kepada
 
 Bagaimana Anda mempertahankan iman dan kepercayaan kepada Allah pada masa-masa seperti ini?
 
-![Ilustrasi dari publikasi edisi](../../assets/image64.png)
+![Ilustrasi dari publikasi edisi](../../assets/image64.jpg)
 
 Tugas Yohanes ialah memperkenalkan Yesus sebagai Anak Domba Allah.

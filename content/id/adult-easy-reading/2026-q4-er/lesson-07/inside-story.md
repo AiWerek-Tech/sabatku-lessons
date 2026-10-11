@@ -28,7 +28,7 @@ Naum berkata, “Hal pertama yang ingin saya ajarkan kepada para murid ialah ten
 
 Pada tahun 2017, Persembahan Sabat Ketiga Belas Anda membantu pembangunan gedung yang sangat dibutuhkan di Sekolah Advent Maruševec, Kroasia. Triwulan ini, persembahan Anda akan membantu membangun sebuah gereja baru di ibu kota Zagreb. Gereja ini akan menggantikan sebuah gereja besar yang sangat tua dan rusak akibat gempa bumi pada tahun 2020. Gedung baru itu akan menjadi tempat ibadah bagi anggota jemaat sekaligus pusat pembelajaran bagi masyarakat Zagreb. Di dalamnya akan tersedia ruang kelas, dapur, dan ruang makan besar. Gereja itu akan melayani kebutuhan masyarakat sekitarnya.
 
-![Ilustrasi dari publikasi edisi](../../assets/image22.png)
+![Ilustrasi dari publikasi edisi](../../assets/image22.jpg)
 
 “Kami menawarkan pekerjaan ini kepada Anda karena Anda jujur.”
 

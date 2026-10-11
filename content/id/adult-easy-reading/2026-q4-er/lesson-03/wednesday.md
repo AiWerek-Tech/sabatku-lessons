@@ -4,7 +4,7 @@ RABU, 14 OKTOBER 2026
 
 Keluaran 15:20; Hakim-hakim 4:4; 2 Raja-raja 22:14; Nehemia 6:14
 
-![Ilustrasi dari publikasi edisi](../../assets/image3.png)
+![Ilustrasi dari publikasi edisi](../../assets/image3.jpg)
 
 Miryam menyanyikan sebuah nyanyian khusus untuk memuliakan Allah setelah bangsa Israel menyeberangi Laut Merah (Keluaran 15:20, 21).
 

@@ -16,6 +16,6 @@ Ketika Roh Kudus membawa Yesus ke padang gurun (Matius 4:1–11; Lukas 4:1–13)
 
 Jika ingin memahami suatu kata atau ayat, kita harus terlebih dahulu memahami ayat-ayat di sekitarnya, serta kisah atau pasal tempat ayat itu berada. Mengapa nasihat ini begitu penting?
 
-![Ilustrasi dari publikasi edisi](../../assets/image79.png)
+![Ilustrasi dari publikasi edisi](../../assets/image79.jpg)
 
 Dalam percakapannya dengan Yesus, Setan mengubah makna firman Allah dalam Mazmur 91:11, 12.

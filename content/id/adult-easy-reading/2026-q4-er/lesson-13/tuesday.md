@@ -16,6 +16,6 @@ Namun, bagi orang yang mengasihi kebenaran Alkitab, Yesus berjanji, “Kamu akan
 
 Hal ini menolong kita memahami mengapa terdapat begitu banyak kelompok dan ajaran Kristen. Jika memercayai kebenaran Alkitab, kita akan menghormati Sabat. Kita juga akan menolak ajaran keliru bahwa orang mati sudah berada di surga atau sedang dibakar di neraka. Dengan demikian, sekitar 99,5 persen gereja tidak lagi menjadi pilihan kita, bukan? Lalu, ke mana lagi kita pergi selain ke Gereja Masehi Advent Hari Ketujuh?
 
-![Ilustrasi dari publikasi edisi](../../assets/image51.png)
+![Ilustrasi dari publikasi edisi](../../assets/image51.jpg)
 
 Setan bahkan mencoba menipu Yesus (Matius 4:1-11). Namun, Yesus menghadapi kebohongan Setan dengan kebenaran Alkitab (Matius 4:4).

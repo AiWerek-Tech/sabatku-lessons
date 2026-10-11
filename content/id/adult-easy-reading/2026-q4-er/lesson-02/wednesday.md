@@ -4,7 +4,7 @@ RABU, 7 OKTOBER 2026
 
 Daniel 2:46–48
 
-![Ilustrasi dari publikasi edisi](../../assets/image4.png)
+![Ilustrasi dari publikasi edisi](../../assets/image4.jpg)
 
 Kaki dan jari-jari patung itu menggambarkan negara-negara Eropa pada zaman kita.
 

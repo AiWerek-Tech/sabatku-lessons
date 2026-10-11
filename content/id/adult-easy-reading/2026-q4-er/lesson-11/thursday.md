@@ -16,6 +16,6 @@ Berulang kali Yesus memerintahkan Yohanes menuliskan apa yang dilihatnya dan mem
 
 Pikirkan semua kebenaran Alkitab yang telah Allah berikan. Apa yang Ia minta kita lakukan dengan seluruh terang itu?
 
-![Ilustrasi dari publikasi edisi](../../assets/image30.png)
+![Ilustrasi dari publikasi edisi](../../assets/image30.jpg)
 
 Yesus menunjukkan kepada Yohanes hal-hal yang akan terjadi pada akhir zaman.

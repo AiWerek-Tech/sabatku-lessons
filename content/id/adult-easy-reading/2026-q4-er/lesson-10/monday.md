@@ -4,7 +4,7 @@ SENIN, 30 NOVEMBER 2026
 
 Matius 21:23–27; Yohanes 17:2
 
-![Ilustrasi dari publikasi edisi](../../assets/image84.png)
+![Ilustrasi dari publikasi edisi](../../assets/image84.jpg)
 
 Yesus membangkitkan orang-orang dari kematian.
 

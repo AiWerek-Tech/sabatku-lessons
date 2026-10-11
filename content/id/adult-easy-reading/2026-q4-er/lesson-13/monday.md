@@ -4,7 +4,7 @@ SENIN, 21 DESEMBER 2026
 
 2 Timotius 3:16, 17; Lukas 24:27
 
-![Ilustrasi dari publikasi edisi](../../assets/image101.png)
+![Ilustrasi dari publikasi edisi](../../assets/image101.jpg)
 
 Yesus adalah Firman Allah. Yesus menghormati Alkitab (Yohanes 7:38).
 

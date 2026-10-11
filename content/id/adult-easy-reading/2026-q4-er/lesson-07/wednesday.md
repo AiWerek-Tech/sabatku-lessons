@@ -4,7 +4,7 @@ RABU, 11 NOVEMBER 2026
 
 Matius 23:30–35
 
-![Ilustrasi dari publikasi edisi](../../assets/image50.png)
+![Ilustrasi dari publikasi edisi](../../assets/image50.jpg)
 
 Ketika para pemimpin memperindah kuburan-kuburan itu, mereka mengira bahwa dengan demikian mereka menunjukkan kepada semua orang bahwa mereka tidak akan pernah membunuh para utusan Allah, seperti yang dilakukan para pemimpin pada masa lalu.
 

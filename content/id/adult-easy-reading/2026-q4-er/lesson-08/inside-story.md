@@ -14,7 +14,7 @@ Pada tahun 1908, penyakit memaksa Andross dan keluarganya kembali ke Amerika Ser
 
 Kisah ini diadaptasi dari Encyclopedia of Seventh-day Adventists, tersedia di www.encyclopedia.adventist.org.
 
-![Ilustrasi dari publikasi edisi](../../assets/image32.png)
+![Ilustrasi dari publikasi edisi](../../assets/image32.jpg)
 
 “Sesungguhnya, malaikat-malaikat Allah telah mendahului kami dan menjamah hati orang-orang.”
 

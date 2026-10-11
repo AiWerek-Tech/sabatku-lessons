@@ -26,7 +26,7 @@ Kini Timo berumur 45 tahun dan menjadi direktur komunikasi Gereja Advent Hari Ke
 
 Timo berkata, “Pertentangan ini berlangsung di sekeliling kita. Yesus sudah menang, jadi kita tidak perlu takut. Yesus akan melindungi kita. Iblis tidak dapat menyakiti kita ketika kita percaya kepada Yesus.”
 
-![Ilustrasi dari publikasi edisi](../../assets/image57.png)
+![Ilustrasi dari publikasi edisi](../../assets/image57.jpg)
 
 Pendeta itu meminta pria tersebut untuk tidak mengakhiri hidupnya.
 

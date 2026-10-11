@@ -18,6 +18,6 @@ Allah selalu bersungguh-sungguh dengan apa yang dikatakan-Nya. Firman-Nya kekal 
 
 Pikirkan tokoh-tokoh Alkitab yang melawan Allah atau tidak memercayai pekabaran-Nya. Pelajaran apa yang Anda peroleh dari kisah mereka? Bagaimana kisah-kisah itu menolong Anda tidak mengulangi kesalahan yang sama?
 
-![Ilustrasi dari publikasi edisi](../../assets/image110.png)
+![Ilustrasi dari publikasi edisi](../../assets/image110.jpg)
 
 Paulus mengatakan bahwa kita harus belajar dari pengalaman bangsa Israel pada zaman dahulu, baik yang baik maupun yang buruk.

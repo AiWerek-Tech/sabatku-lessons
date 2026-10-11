@@ -28,7 +28,7 @@ Tepat saat itu, bola lampu di atas kepalanya mulai berkedip-kedip. Aneh sekali! 
 
 Marek percaya bahwa Allah memakai lampu itu untuk menjawab pertanyaannya. Untuk pertama kalinya, ia merasakan kasih Allah. Marek berlutut dan berkata, “Tuhan, jika Engkau begitu mengasihi, aku ingin melayani-Mu.”
 
-![Ilustrasi dari publikasi edisi](../../assets/image98.png)
+![Ilustrasi dari publikasi edisi](../../assets/image98.jpg)
 
 Lampu itu berhenti berkedip dan kembali bersinar terang.
 

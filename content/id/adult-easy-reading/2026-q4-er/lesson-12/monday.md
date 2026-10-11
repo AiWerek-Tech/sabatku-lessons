@@ -4,7 +4,7 @@ SENIN, 14 DESEMBER 2026
 
 Kisah Para Rasul 2:1–21
 
-![Ilustrasi dari publikasi edisi](../../assets/image44.png)
+![Ilustrasi dari publikasi edisi](../../assets/image44.jpg)
 
 Yohanes Pembaptis memperingatkan orang-orang untuk berhenti berbuat dosa.
 

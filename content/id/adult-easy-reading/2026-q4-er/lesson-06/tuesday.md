@@ -14,6 +14,6 @@ Paulus sering memakai pembantu penulis. Pada akhir suratnya kepada jemaat Kolose
 
 Sebagian orang bertanya mengapa bahasa dalam surat-surat Paulus begitu beragam. Mereka berpendapat bahwa hal itu terjadi karena Paulus memakai pembantu penulis yang berbeda. Masing-masing memiliki gaya berbeda dalam menyampaikan gagasan Paulus. Pendapat serupa juga dikemukakan mengenai dua surat Petrus. “Memang, bahasa dalam 2 Petrus berbeda dari bahasa dalam 1 Petrus. Perbedaan itu dapat dijelaskan. Kami berpendapat bahwa Petrus memakai seorang pembantu penulis untuk menuliskan suratnya dalam bahasa Yunani. Tentu saja para pembantu yang berbahasa Yunani ini memilih kata-kata untuk menolong Paulus dan Petrus menyampaikan pekabaran mereka. Pilihan kata para pembantu penulis yang berbeda membantu menjelaskan mengapa bahasa dalam surat-surat itu sering berbeda.”—The SDA Bible Commentary, jilid 5, hlm. 186, diadaptasi. Jadi, kemampuan para pembantu penulis yang berbeda menolong kita memahami perbedaan antarsurat. Ingatlah pula bahwa Roh Allah menyampaikan pemikiran-Nya, sedangkan para utusan memilih kata-katanya.
 
-![Ilustrasi dari publikasi edisi](../../assets/image26.png)
+![Ilustrasi dari publikasi edisi](../../assets/image26.jpg)
 
 Paulus tahu bahwa beberapa orang mungkin mengira surat itu sama sekali bukan berasal darinya. Karena itu, Paulus menambahkan catatan dengan tulisan tangannya sendiri di bagian akhir surat tersebut.

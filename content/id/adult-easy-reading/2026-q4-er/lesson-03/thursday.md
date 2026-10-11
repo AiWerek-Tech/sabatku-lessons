@@ -18,6 +18,6 @@ Mikha menghadapi tekanan yang sama beratnya untuk berdusta seperti yang dihadapi
 
 Mengikuti pandangan atau tindakan yang disukai banyak orang selalu terasa mudah. Mengapa menjadikan hal itu sebagai pegangan bukanlah pilihan yang baik?
 
-![Ilustrasi dari publikasi edisi](../../assets/image106.png)
+![Ilustrasi dari publikasi edisi](../../assets/image106.jpg)
 
 Setan menggunakan para utusan ini untuk mencoba menghancurkan pekerjaan Allah dan umat-Nya.

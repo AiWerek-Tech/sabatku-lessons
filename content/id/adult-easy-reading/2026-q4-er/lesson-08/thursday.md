@@ -16,6 +16,6 @@ Pengalaman ini mengajarkan beberapa hal penting. Pertama, membaca sebuah pasal t
 
 Terkadang kita membutuhkan bantuan untuk memahami Alkitab. Namun, mengapa kita tetap harus mengetahui sendiri apa yang kita percayai?
 
-![Ilustrasi dari publikasi edisi](../../assets/image33.png)
+![Ilustrasi dari publikasi edisi](../../assets/image33.jpg)
 
 Pengetahuan Filipus tentang Alkitab menolong orang Etiopia itu untuk dibaptiskan (Kisah Para Rasul 8:35-39; bandingkan dengan Mazmur 51:12).

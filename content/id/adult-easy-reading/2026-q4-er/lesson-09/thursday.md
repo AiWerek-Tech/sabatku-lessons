@@ -18,6 +18,6 @@ Apa yang terjadi sering bergantung pada pilihan umat ketika mendengar peringatan
 
 Mengapa penting memahami bahwa hukuman Allah berkaitan dengan tanggapan kita terhadap peringatan-Nya? Bagaimana prinsip ini menolong kita memahami kebenaran Alkitab dengan lebih baik?
 
-![Ilustrasi dari publikasi edisi](../../assets/image5.png)
+![Ilustrasi dari publikasi edisi](../../assets/image5.jpg)
 
 Penduduk Niniwe menaati peringatan Yunus. Mereka mengubah hidup mereka. Oleh karena itu, Allah tidak memusnahkan mereka (Yunus 3:10).

@@ -4,7 +4,7 @@ RABU, 23 DESEMBER 2026
 
 Matius 11:28, 29; Yesaya 40:1–5; 2 Korintus 1:3, 4
 
-![Ilustrasi dari publikasi edisi](../../assets/image96.png)
+![Ilustrasi dari publikasi edisi](../../assets/image96.jpg)
 
 Sebelum Allah menciptakan Adam dan Hawa, Dia telah menyiapkan tempat tinggal yang sempurna bagi mereka agar mereka bahagia (Kejadian 1).
 

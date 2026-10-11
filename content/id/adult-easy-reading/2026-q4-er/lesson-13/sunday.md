@@ -20,6 +20,6 @@ Yesus telah ada sebelum segala sesuatu diciptakan. Ia datang ke bumi sebagai bay
 
 Renungkan luasnya alam semesta dengan seluruh planet dan bintangnya. Yesus menciptakan semuanya. Yesus yang sama mati bagi kita. Pengharapan indah apa yang diberikan kebenaran ini kepada Anda?
 
-![Ilustrasi dari publikasi edisi](../../assets/image75.png)
+![Ilustrasi dari publikasi edisi](../../assets/image75.jpg)
 
 Yesus sudah ada sebelum segala sesuatu diciptakan. Yesus datang ke dunia ini sebagai seorang bayi.

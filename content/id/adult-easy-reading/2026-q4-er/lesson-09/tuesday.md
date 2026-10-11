@@ -18,6 +18,6 @@ Utusan sejati tidak berusaha mengumpulkan pengikut bagi dirinya dan ajarannya se
 
 Yesus sepenuhnya Allah dan sepenuhnya manusia. Ia mati karena dosa-dosa kita. Mengapa keyakinan ini begitu penting bagi iman kita? Apa yang hilang jika kita menolak ajaran tersebut?
 
-![Ilustrasi dari publikasi edisi](../../assets/image43.png)
+![Ilustrasi dari publikasi edisi](../../assets/image43.jpg)
 
 Seorang utusan yang sejati akan menolong orang-orang memiliki hubungan yang menyelamatkan dengan Yesus.

@@ -1,8 +1,8 @@
 SABAT, 10 OKTOBER 2026
 
-![lesson-cover](../../assets/lesson-cover-03.png)
+![lesson-cover](../../assets/lesson-cover-03.jpg)
 
-![Ilustrasi dari publikasi edisi](../../assets/image49.png)
+![Ilustrasi dari publikasi edisi](../../assets/image49.jpg)
 
 Pada zaman dahulu, Allah menggunakan para utusan atau nabi-Nya untuk membantu umat-Nya menemukan jalan menuju surga.
 

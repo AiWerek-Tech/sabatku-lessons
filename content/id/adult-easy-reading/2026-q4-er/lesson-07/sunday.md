@@ -16,6 +16,6 @@ Bangsa Israel takut berperang untuk memasuki Tanah Perjanjian. “Ketika manusia
 
 Tentu mudah memercayai Allah ketika semuanya berjalan baik. Namun, bagaimana ketika bencana datang? Bagaimana jika percaya kepada-Nya berarti harus menderita karena iman? Seberapa besar kepercayaan kita kepada Allah pada saat itu?
 
-![Ilustrasi dari publikasi edisi](../../assets/image71.png)
+![Ilustrasi dari publikasi edisi](../../assets/image71.jpg)
 
 Yosua dan Kaleb mengoyakkan pakaian mereka. Mereka meminta bangsa itu untuk tetap percaya kepada Allah, meskipun mereka merasa takut.

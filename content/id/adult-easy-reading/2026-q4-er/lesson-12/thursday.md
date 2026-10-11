@@ -16,6 +16,6 @@ Seperti yang kita lihat dalam Yoel 2:28–31, Allah akan mencurahkan karunia pek
 
 Seberapa besar rasa syukur Anda atas karunia tulisan Ellen G. White bagi gereja kita?
 
-![Ilustrasi dari publikasi edisi](../../assets/image15.png)
+![Ilustrasi dari publikasi edisi](../../assets/image15.jpg)
 
 Roh Kudus memberikan kuasa kepada Petrus untuk memberitakan tentang Yesus. Khotbah Petrus membuat 3.000 orang menyerahkan hati mereka kepada Yesus dan dibaptiskan.

@@ -4,7 +4,7 @@ JUMAT, 27 NOVEMBER 2026
 
 ### ELLEN G. WHITE
 
-![Ilustrasi dari publikasi edisi](../../assets/image46.png)
+![Ilustrasi dari publikasi edisi](../../assets/image46.jpg)
 
 Dalam lebih dari satu pengalaman, Ellen White menunjukkan kekuatan yang melampaui kemampuan manusia.
 

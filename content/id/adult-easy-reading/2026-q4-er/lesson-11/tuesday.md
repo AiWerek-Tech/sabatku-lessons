@@ -28,6 +28,6 @@ seperti mata air yang tidak pernah kering.” (VMD).
 
 Sebagai orang berdosa, kita memiliki kecenderungan untuk melakukan yang salah dan jahat. Pilihan apa yang perlu dibuat agar kita tidak menyerah kepada kejahatan dalam hati?
 
-![Ilustrasi dari publikasi edisi](../../assets/image80.png)
+![Ilustrasi dari publikasi edisi](../../assets/image80.jpg)
 
 Api turun dari langit. Pesan Elia yang penuh kuasa menyentuh hati orang-orang.

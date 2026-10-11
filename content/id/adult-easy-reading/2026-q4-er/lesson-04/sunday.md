@@ -20,6 +20,6 @@ Sampai saat itu tiba, Yesus menawarkan hidup kekal kepada kita. Pertanyaan yang 
 
 Renungkanlah bagaimana Yesus menciptakan bumi, langit, dan segala yang baik di dalamnya (Yohanes 1:1–3). Yesus yang sama mati di kayu salib karena dosa-dosa Anda. Apa yang ditunjukkan kebenaran Alkitab yang menakjubkan ini tentang kasih Allah kepada kita?
 
-![Ilustrasi dari publikasi edisi](../../assets/image61.png)
+![Ilustrasi dari publikasi edisi](../../assets/image61.jpg)
 
 Firman menciptakan semua planet dan segala sesuatu yang ada di langit dan di bumi.

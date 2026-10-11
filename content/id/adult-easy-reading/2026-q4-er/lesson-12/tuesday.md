@@ -26,6 +26,6 @@ Perhatikan beberapa kebenaran Alkitab tentang para utusan Allah berikut ini.
 
 7. Iblis selalu berusaha meniru pekerjaan Allah, termasuk karunia nubuatan. Pada akhir zaman akan ada utusan-utusan palsu (Matius 24:24; 2 Petrus 2:1).
 
-![Ilustrasi dari publikasi edisi](../../assets/image18.png)
+![Ilustrasi dari publikasi edisi](../../assets/image18.jpg)
 
 Karunia-karunia rohani membantu gereja bertumbuh dan memberitakan kebenaran Alkitab. Paulus memasukkan karunia pesan-pesan khusus dalam keempat daftar tersebut.

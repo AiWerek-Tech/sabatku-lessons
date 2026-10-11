@@ -20,7 +20,7 @@ Apakah Anda juga tertarik melayani dalam pekerjaan penginjilan? Jika ya, lihatla
 
 Kisah ini diadaptasi dari situs TED News: https://ted.adventist.org/news/a-missionary-at-last/.
 
-![Ilustrasi dari publikasi edisi](../../assets/image92.png)
+![Ilustrasi dari publikasi edisi](../../assets/image92.jpg)
 
 No question, this teaching
 

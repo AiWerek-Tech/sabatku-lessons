@@ -4,7 +4,7 @@ JUMAT, 30 OKTOBER 2026
 
 ### ELLEN G. WHITE
 
-![Ilustrasi dari publikasi edisi](../../assets/image99.png)
+![Ilustrasi dari publikasi edisi](../../assets/image99.jpg)
 
 Allah menggunakan berbagai cara untuk membantu para utusan-Nya memahami pesan-pesan-Nya. Dia menunjukkan kepada mereka gambaran-gambaran dalam pikiran mereka.
 

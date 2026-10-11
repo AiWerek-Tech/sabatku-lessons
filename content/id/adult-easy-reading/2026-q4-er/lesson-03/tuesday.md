@@ -14,6 +14,6 @@ Banyak utusan Allah juga bekerja bersama para pemimpin agama Israel. Musa adalah
 
 Para utusan Allah juga menjadi pengajar (2 Tawarikh 34). Mereka menyampaikan pekabaran-Nya kepada para pemimpin agama dan raja (Yeremia 5:31; Yehezkiel 22:26). Terkadang mereka juga memberitahukan rencana Allah kepada para pemimpin bangsa lain. Beberapa pekabaran ini dapat kita baca dalam Perjanjian Lama (Yesaya 60:1–3; Yesaya 62:1, 2). Ada kalanya Allah meminta para utusan-Nya menuliskan pekabaran-Nya (2 Tawarikh 13:22). Mereka adalah pria dan wanita yang tekun berdoa. Mereka menaati perintah Allah serta melayani Dia dan umat-Nya dengan sepenuh hati (Yeremia 42:4; 2 Raja-raja 22:15–17).
 
-![Ilustrasi dari publikasi edisi](../../assets/image40.png)
+![Ilustrasi dari publikasi edisi](../../assets/image40.jpg)
 
 Terkadang Allah meminta para utusan-Nya untuk menuliskan pesan-pesan-Nya (2 Tawarikh 13:22).

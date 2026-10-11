@@ -28,7 +28,7 @@ Marek berdiri. Ia tidak dapat terus duduk. Jantungnya berdebar kencang ketika ia
 
 Kini Marek bersyukur karena telah memutuskan menyerahkan hidupnya kepada Yesus. Sekarang ia melayani sebagai pemimpin jemaat di Polandia. Ia terus membagikan imannya kepada orang lain.
 
-![Ilustrasi dari publikasi edisi](../../assets/image87.png)
+![Ilustrasi dari publikasi edisi](../../assets/image87.jpg)
 
 Jantung Marek berdebar kencang saat ia berjalan ke depan.
 

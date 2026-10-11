@@ -4,7 +4,7 @@ SENIN, 2 NOVEMBER 2026
 
 Yesaya 13:1; Yesaya 17:7
 
-![Ilustrasi dari publikasi edisi](../../assets/image20.png)
+![Ilustrasi dari publikasi edisi](../../assets/image20.jpg)
 
 Terkadang, mimpi yang Allah berikan kepada para utusan-Nya disebut sebagai “pesan” atau “firman Tuhan.”
 

@@ -16,6 +16,6 @@ Bagaimana dengan Yesus? Alkitab mengatakan bahwa Ia “menulis dengan jari-Nya d
 
 Ada utusan-utusan Allah yang tidak menulis bagian mana pun dari Alkitab. Mengapa kita dapat percaya bahwa pekabaran mereka berasal dari Allah?
 
-![Ilustrasi dari publikasi edisi](../../assets/image52.png)
+![Ilustrasi dari publikasi edisi](../../assets/image52.jpg)
 
 Nuh tidak menulis bagian mana pun dari Alkitab. Namun, ia memberitakan pesan Allah kepada orang-orang yang hidup sebelum Air Bah.

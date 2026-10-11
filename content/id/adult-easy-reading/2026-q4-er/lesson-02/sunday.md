@@ -18,6 +18,6 @@ Kisah Abraham menolong kita memahami keadaan pada zaman kita. Sama seperti pada 
 
 Alkitab mengatakan, “Abram percaya kepada TUHAN, dan karena itu TUHAN menerima dia sebagai orang yang menyenangkan hati-Nya.” (Kejadian 15:6, BIS). Di manakah janji kabar baik dalam ayat ini? Pengharapan apa yang diberikan janji tersebut kepada kita?
 
-![Ilustrasi dari publikasi edisi](../../assets/image91.png)
+![Ilustrasi dari publikasi edisi](../../assets/image91.jpg)
 
 Allah meminta Abraham mempersembahkan anaknya, Ishak, kepada-Nya (Kejadian 22:1–17).

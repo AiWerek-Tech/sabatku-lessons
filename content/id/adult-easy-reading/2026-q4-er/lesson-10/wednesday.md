@@ -4,7 +4,7 @@ RABU, 2 DESEMBER 2026
 
 Hosea 12:14; Kisah Para Rasul 6:1–7; 1 Korintus 5:1–5; 1 Korintus 7:10–16; Titus 1:5
 
-![Ilustrasi dari publikasi edisi](../../assets/image82.png)
+![Ilustrasi dari publikasi edisi](../../assets/image82.jpg)
 
 Pada masa perang atau kesulitan, para utusan menyampaikan nasihat Allah kepada umat-Nya.
 

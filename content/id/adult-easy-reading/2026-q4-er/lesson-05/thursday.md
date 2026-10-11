@@ -18,6 +18,6 @@ Pengalaman Yehezkiel dan Hosea mengejutkan kita. Memang itulah tujuannya, bukan 
 
 Menurut Anda, tindakan apa yang dapat dilakukan seseorang sekarang untuk memperingatkan kita tentang bahaya tidak mengikuti Allah? Bacalah Wahyu 3:14–18.
 
-![Ilustrasi dari publikasi edisi](../../assets/image118.png)
+![Ilustrasi dari publikasi edisi](../../assets/image118.jpg)
 
 Bagian-bagian yang berbeda dari patung itu menunjukkan kepada kita kerajaan-kerajaan dan kekuasaan-kekuasaan yang akan menguasai bumi, satu demi satu.

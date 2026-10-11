@@ -4,7 +4,7 @@ JUMAT, 6 NOVEMBER 2026
 
 ### ELLEN G. WHITE
 
-![Ilustrasi dari publikasi edisi](../../assets/image2.png)
+![Ilustrasi dari publikasi edisi](../../assets/image2.jpg)
 
 Sekretaris Ellen White membantunya mempersiapkan tulisannya untuk dicetak.
 

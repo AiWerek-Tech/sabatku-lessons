@@ -16,6 +16,6 @@ Ya, alam menunjukkan kuasa dan kasih Allah. Namun, alam juga memperlihatkan beke
 
 Alkitab juga mencatat pekabaran Allah bagi kita. Alkitab menjelaskan mengapa kita ada di dunia ini dan bagaimana Allah mengatasi masalah dosa. Kita dapat memercayai Alkitab karena ayat-ayatnya adalah firman Allah bagi kita (bacalah 2 Timotius 3:16; 2 Petrus 1:19–21).
 
-![Ilustrasi dari publikasi edisi](../../assets/image29.png)
+![Ilustrasi dari publikasi edisi](../../assets/image29.jpg)
 
 Yesus adalah Firman Allah yang hidup. Alkitab adalah Firman Allah yang tertulis.

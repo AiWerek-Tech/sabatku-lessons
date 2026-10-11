@@ -4,7 +4,7 @@ SENIN, 7 DESEMBER 2026
 
 Hakim-hakim 4:4–16; Hakim-hakim 5:1–5
 
-![Ilustrasi dari publikasi edisi](../../assets/image116.png)
+![Ilustrasi dari publikasi edisi](../../assets/image116.jpg)
 
 Bersama-sama, Debora dan Barak memimpin bangsa Israel dalam peperangan.
 

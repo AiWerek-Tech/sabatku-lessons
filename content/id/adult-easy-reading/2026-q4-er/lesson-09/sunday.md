@@ -18,6 +18,6 @@ Mukjizat, tanda, dan keajaiban menunjukkan adanya kuasa yang melebihi kemampuan 
 
 Di beberapa negara, mukjizat dan tanda lebih sering terjadi daripada di tempat lain. Mengapa kita harus berhati-hati ketika menentukan apakah sesuatu benar-benar berasal dari Allah?
 
-![Ilustrasi dari publikasi edisi](../../assets/image72.png)
+![Ilustrasi dari publikasi edisi](../../assets/image72.jpg)
 
 Daniel kehilangan kekuatannya ketika Allah menampakkan diri kepadanya. Kemudian, sepanjang pengalaman itu, ia perlu bergantung kepada Allah.

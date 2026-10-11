@@ -18,6 +18,6 @@ Musa menyadari kesalahan-kesalahannya pada masa lalu. Ia mengingat pertemuan ter
 
 Anda mungkin bukan utusan khusus. Namun, apa yang Allah minta Anda lakukan bagi-Nya melalui kehidupan Anda? Bagaimana cara terbaik mempersiapkan diri? Jika Anda sudah menjalankannya, bagaimana cara terbaik melanjutkan tugas itu?
 
-![Ilustrasi dari publikasi edisi](../../assets/image34.png)
+![Ilustrasi dari publikasi edisi](../../assets/image34.jpg)
 
 Musa akan berbicara atas nama Allah. Jadi, sebelum Musa dapat membantu Allah memimpin bangsa Israel keluar dari Mesir, Musa perlu mengenal Allah dengan lebih baik.

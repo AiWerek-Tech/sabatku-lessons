@@ -18,6 +18,6 @@ Sayangnya, umat Yehuda menolak janji keselamatan Allah. Raja dan para pemimpin m
 
 Raja dan para pemimpin menertawakan firman Allah. Tentu kita tidak akan melakukan hal yang sama sekarang, bukan? Ataukah mungkin kita juga melakukannya?
 
-![Ilustrasi dari publikasi edisi](../../assets/image14.png)
+![Ilustrasi dari publikasi edisi](../../assets/image14.jpg)
 
 Raja Yoyakim membakar pesan Allah. Raja itu berharap api tersebut akan menghancurkan peringatan Allah untuk selamanya.

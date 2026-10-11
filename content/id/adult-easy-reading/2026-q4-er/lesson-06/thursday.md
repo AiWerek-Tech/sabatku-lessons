@@ -18,6 +18,6 @@ Mungkin kita tidak dapat menyelesaikan setiap kesulitan dalam memahami Alkitab. 
 
 Menurut Anda, mengapa Allah memilih manusia yang lemah untuk menulis Alkitab dan menjadi utusan-Nya? Mengapa Ia tidak memilih malaikat-malaikat yang kudus?
 
-![Ilustrasi dari publikasi edisi](../../assets/image105.png)
+![Ilustrasi dari publikasi edisi](../../assets/image105.jpg)
 
 Hal-hal kecil yang mengganggu kita ketika membaca tidaklah penting dibandingkan dengan pesan kebenaran Alkitab.

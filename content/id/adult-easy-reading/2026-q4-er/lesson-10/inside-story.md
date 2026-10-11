@@ -16,7 +16,7 @@ Elsa meninggal pada tahun 1996. Sepanjang hidupnya, ia menuntun 700 orang kepada
 
 Kisah ini diadaptasi dari Encyclopedia of Seventh-day Adventists, tersedia di www.encyclopedia.adventist.org.
 
-![Ilustrasi dari publikasi edisi](../../assets/image68.png)
+![Ilustrasi dari publikasi edisi](../../assets/image68.jpg)
 
 “Aku mengasihi semua anak miskin di Finlandia seolah-olah aku adalah ibu mereka.”
 

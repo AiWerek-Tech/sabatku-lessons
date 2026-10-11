@@ -4,7 +4,7 @@ JUMAT, 23 OKTOBER 2026
 
 ### ELLEN G. WHITE
 
-![Ilustrasi dari publikasi edisi](../../assets/image59.png)
+![Ilustrasi dari publikasi edisi](../../assets/image59.jpg)
 
 Ellen White membandingkan tulisannya dengan cahaya kecil dan Alkitab dengan cahaya besar.
 

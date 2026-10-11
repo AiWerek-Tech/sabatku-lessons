@@ -4,7 +4,7 @@ JUMAT, 11 DESEMBER 2026
 
 ### ELLEN G. WHITE
 
-![Ilustrasi dari publikasi edisi](../../assets/image47.png)
+![Ilustrasi dari publikasi edisi](../../assets/image47.jpg)
 
 Sekarang umat Advent perlu menjadi gereja yang mendunia agar dapat menyampaikan pekabaran tiga malaikat dengan kuasa.
 

@@ -4,7 +4,7 @@ JUMAT, 9 OKTOBER 2026
 
 ### ELLEN G. WHITE
 
-![Ilustrasi dari publikasi edisi](../../assets/image103.png)
+![Ilustrasi dari publikasi edisi](../../assets/image103.jpg)
 
 “Selama mereka terus memandang Yesus, mereka aman.”
 

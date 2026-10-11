@@ -20,7 +20,7 @@ Saya tidak memahami mengapa Allah mengambil suami saya begitu cepat setelah saya
 
 Tidak lama kemudian, saya mulai bekerja di sekolah Alkitab gereja. Sekarang saya menolong orang-orang yang mengalami penderitaan seperti yang pernah saya alami. Di gereja, saya bertemu seorang pria yang baik dan kami menikah. Allah memberi kami pekerjaan untuk dilakukan bersama bagi-Nya. Sementara itu, Greg di Australia kembali kepada Tuhan. Sungguh, Allah bekerja dengan cara yang menakjubkan!
 
-![Ilustrasi dari publikasi edisi](../../assets/image39.png)
+![Ilustrasi dari publikasi edisi](../../assets/image39.jpg)
 
 Saya menemukan jawaban atas pertanyaan-pertanyaan saya dan memiliki hubungan yang lebih dekat dengan Allah.
 

@@ -18,6 +18,6 @@ Tugas Yesaya tidak mudah. Orang-orang menertawakan peringatannya. Sekarang pun o
 
 Bacalah kembali Yesaya 53. Tuliskan semua yang Yesus lakukan bagi kita. Pengharapan apa yang diberikan pekabaran Yesaya kepada Anda?
 
-![Ilustrasi dari publikasi edisi](../../assets/image63.png)
+![Ilustrasi dari publikasi edisi](../../assets/image63.jpg)
 
 Malaikat itu menyentuhkan bara api ke bibir Yesaya.

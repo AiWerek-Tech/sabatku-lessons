@@ -40,7 +40,7 @@ Namun, Allah mempunyai rencana lain bagi Naum. Bacalah kelanjutan kisahnya pekan
 
 Terima kasih karena Anda mendukung pekerjaan Allah di Maruševec, Kroasia.
 
-![Ilustrasi dari publikasi edisi](../../assets/image16.png)
+![Ilustrasi dari publikasi edisi](../../assets/image16.jpg)
 
 Naum berdoa dengan doa yang sederhana.
 

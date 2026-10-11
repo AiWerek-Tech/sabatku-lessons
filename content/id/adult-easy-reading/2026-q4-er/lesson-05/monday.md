@@ -4,7 +4,7 @@ SENIN, 26 OKTOBER 2026
 
 2 Timotius 3:15–17; Yakobus 1:17
 
-![Ilustrasi dari publikasi edisi](../../assets/image78.png)
+![Ilustrasi dari publikasi edisi](../../assets/image78.jpg)
 
 Roh Kudus menyampaikan gagasan dan pemikiran kepada pikiran manusia.
 

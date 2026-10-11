@@ -1,8 +1,8 @@
 SABAT, 19 DESEMBER 2026
 
-![lesson-cover](../../assets/lesson-cover-13.png)
+![lesson-cover](../../assets/lesson-cover-13.jpg)
 
-![Ilustrasi dari publikasi edisi](../../assets/image37.png)
+![Ilustrasi dari publikasi edisi](../../assets/image37.jpg)
 
 ### BACAAN PEKAN INI
 

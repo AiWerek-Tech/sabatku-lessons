@@ -18,6 +18,6 @@ Allah juga memilih orang untuk menuliskan ajaran Yesus. Ia memercayakan kepada p
 
 Bagaimana jika seseorang berkata kepada Anda, “Kita tidak dapat memercayai Alkitab karena kita tidak memiliki naskah pertama yang ditulis para penulisnya”? Mengapa itu merupakan alasan yang lemah untuk menolak Alkitab?
 
-![Ilustrasi dari publikasi edisi](../../assets/image117.png)
+![Ilustrasi dari publikasi edisi](../../assets/image117.jpg)
 
 Cara pertama yang Allah pilih untuk menyampaikan pesan-pesan-Nya kepada manusia adalah melalui suara, mimpi, atau malaikat.

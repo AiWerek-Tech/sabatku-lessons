@@ -18,6 +18,6 @@ Allah memberitahukan Air Bah kepada Nuh dan menyelamatkan dia beserta keluargany
 
 Saat Anda melihat pelangi lagi, ingatlah janji Allah kepada Nuh. Mengapa janji itu seharusnya memberi Anda pengharapan?
 
-![Ilustrasi dari publikasi edisi](../../assets/image25.png)
+![Ilustrasi dari publikasi edisi](../../assets/image25.jpg)
 
 Allah menghukum orang-orang berdosa dengan air bah. Dia menyelamatkan semua orang yang menerima undangan-Nya untuk masuk ke dalam bahtera.

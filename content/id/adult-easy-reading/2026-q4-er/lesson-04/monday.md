@@ -4,7 +4,7 @@ SENIN, 19 OKTOBER 2026
 
 Efesus 2:20; Efesus 3:5
 
-![Ilustrasi dari publikasi edisi](../../assets/image85.png)
+![Ilustrasi dari publikasi edisi](../../assets/image85.jpg)
 
 Para penulis Perjanjian Baru ini menulis tentang kehidupan dan kematian Yesus.
 

@@ -4,7 +4,7 @@ JUMAT, 20 NOVEMBER 2026
 
 ### ELLEN G. WHITE
 
-![Ilustrasi dari publikasi edisi](../../assets/image53.png)
+![Ilustrasi dari publikasi edisi](../../assets/image53.jpg)
 
 Bagaimana seharusnya kita membaca dan memahami tulisan-tulisan Ellen G. White? Pertama, mulailah dengan doa.
 

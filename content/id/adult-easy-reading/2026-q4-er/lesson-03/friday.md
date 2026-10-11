@@ -4,7 +4,7 @@ JUMAT, 16 OKTOBER 2026
 
 ### ELLEN G. WHITE
 
-![Ilustrasi dari publikasi edisi](../../assets/image19.png)
+![Ilustrasi dari publikasi edisi](../../assets/image19.jpg)
 
 Roh Kudus menolong Ellen G. White untuk menuliskan pesan-pesan Allah.
 

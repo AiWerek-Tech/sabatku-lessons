@@ -18,6 +18,6 @@ Ada kalanya Allah memberikan pekabaran bertahun-tahun sebelum peristiwanya terja
 
 Apakah Anda percaya bahwa Alkitab adalah firman Allah yang tertulis? Mengapa jawaban Anda begitu penting ketika mempelajari Alkitab? Mengapa kita harus percaya bahwa Alkitab adalah firman Allah?
 
-![Ilustrasi dari publikasi edisi](../../assets/image89.png)
+![Ilustrasi dari publikasi edisi](../../assets/image89.jpg)
 
 Dalam Daniel 2, kita membaca tentang mimpi yang dialami Raja Nebukadnezar (Daniel 2:31-35). Kemudian, kita membaca penjelasan Daniel tentang mimpi tersebut (Daniel 2:36-45).

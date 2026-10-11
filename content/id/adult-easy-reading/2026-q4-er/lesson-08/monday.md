@@ -4,7 +4,7 @@ SENIN, 16 NOVEMBER 2026
 
 Yesaya 65:17–20; 1 Korintus 16:20
 
-![Ilustrasi dari publikasi edisi](../../assets/image23.png)
+![Ilustrasi dari publikasi edisi](../../assets/image23.jpg)
 
 Paulus membantu kita memahami bahwa orang Kristen harus saling menyapa dengan hangat.
 

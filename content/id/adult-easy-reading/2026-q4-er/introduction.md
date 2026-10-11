@@ -1,6 +1,6 @@
 # PENDAHULUAN
 
-![Ilustrasi dari publikasi edisi](assets/image10.png)
+![Ilustrasi dari publikasi edisi](assets/image10.jpg)
 
 KARUNIA PESAN KHUSUS
 

@@ -4,7 +4,7 @@ SENIN, 23 NOVEMBER 2026
 
 Yesaya 8:20; 2 Petrus 1:19–21; Roma 15:4; Yakobus 1:17
 
-![Ilustrasi dari publikasi edisi](../../assets/image111.png)
+![Ilustrasi dari publikasi edisi](../../assets/image111.jpg)
 
 Para utusan yang baru tidak bertentangan dengan prinsip-prinsip dasar atau ajaran yang telah Allah berikan dalam Alkitab.
 

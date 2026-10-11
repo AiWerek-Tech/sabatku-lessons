@@ -4,7 +4,7 @@ RABU, 28 OKTOBER 2026
 
 Keluaran 17:14; Yohanes 20:30, 31; 1 Korintus 10:11; Wahyu 1:19
 
-![Ilustrasi dari publikasi edisi](../../assets/image60.png)
+![Ilustrasi dari publikasi edisi](../../assets/image60.jpg)
 
 Empat kitab pertama Perjanjian Baru memuat banyak khotbah dan ajaran Yesus.
 
