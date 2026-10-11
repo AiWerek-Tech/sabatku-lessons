@@ -1,6 +1,6 @@
 # Catatan EGW — Pelajaran 12: Wahyu Nubuat Akhir Zaman
 
-![Ilustrasi EGW Notes Pelajaran 12](../../assets/illustration-12.webp)
+![Ilustrasi EGW Notes Pelajaran 12](../../assets/illustration-12.jpg)
 
 ## Sabat Petang, 12 Desember
 

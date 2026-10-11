@@ -1,6 +1,6 @@
 SABAT, 21 NOVEMBER 2026
 
-![lesson-cover](../../assets/lesson-cover-09.jpg)
+![lesson-cover](../../assets/lesson-cover-09-2026-q4.jpg)
 
 ![Ilustrasi dari publikasi edisi](../../assets/image36.jpg)
 

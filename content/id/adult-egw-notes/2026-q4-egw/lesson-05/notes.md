@@ -1,6 +1,6 @@
 # Catatan EGW — Pelajaran 05: Wahyu dan Inspirasi
 
-![Ilustrasi EGW Notes Pelajaran 05](../../assets/illustration-05.webp)
+![Ilustrasi EGW Notes Pelajaran 05](../../assets/illustration-05.jpg)
 
 ## Sabat Petang, 24 Oktober
 

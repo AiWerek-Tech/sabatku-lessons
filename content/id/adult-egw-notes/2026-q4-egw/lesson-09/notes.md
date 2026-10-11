@@ -1,6 +1,6 @@
 # Catatan EGW — Pelajaran 09: Menguji Para Nabi
 
-![Ilustrasi EGW Notes Pelajaran 09](../../assets/illustration-09.webp)
+![Ilustrasi EGW Notes Pelajaran 09](../../assets/illustration-09.jpg)
 
 ## Sabat Petang, 21 November
 

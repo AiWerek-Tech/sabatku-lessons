@@ -1,6 +1,6 @@
 SABAT PETANG, 26 SEPTEMBER 2026
 
-![lesson-cover](../../assets/lesson-cover-01.jpg)
+![lesson-cover](../../assets/lesson-cover-01-2026-q4.jpg)
 
 ![Ilustrasi dari publikasi edisi](../../assets/image83.jpg)
 

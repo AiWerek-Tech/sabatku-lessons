@@ -1,6 +1,6 @@
 # Catatan EGW — Pelajaran 07: Dengarkanlah Ini!
 
-![Ilustrasi EGW Notes Pelajaran 07](../../assets/illustration-07.webp)
+![Ilustrasi EGW Notes Pelajaran 07](../../assets/illustration-07.jpg)
 
 ## Sabat Petang, 7 November
 

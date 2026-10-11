@@ -1,6 +1,6 @@
 # Catatan EGW — Pelajaran 08: Menafsirkan Tulisan-Tulisan Nubuatan
 
-![Ilustrasi EGW Notes Pelajaran 08](../../assets/illustration-08.webp)
+![Ilustrasi EGW Notes Pelajaran 08](../../assets/illustration-08.jpg)
 
 ## Sabat Petang, 14 November
 

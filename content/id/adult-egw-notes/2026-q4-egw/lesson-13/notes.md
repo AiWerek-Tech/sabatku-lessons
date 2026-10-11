@@ -2,7 +2,7 @@
 
 ## Sabat Petang, 19 Desember
 
-![Ilustrasi EGW Notes Pelajaran 13](../../assets/illustration-13.webp)
+![Ilustrasi EGW Notes Pelajaran 13](../../assets/illustration-13.jpg)
 
 Pekabaran ini [Wahyu 14:6, 7] dinyatakan sebagai bagian dari “Injil yang kekal.” Pekerjaan memberitakan Injil tidak dipercayakan kepada para malaikat, melainkan kepada manusia. Malaikat-malaikat kudus telah dilibatkan dalam mengarahkan pekerjaan ini; mereka mengambil bagian dalam gerakan-gerakan besar bagi keselamatan manusia. Namun pemberitaan Injil secara langsung dilaksanakan oleh hamba-hamba Kristus di bumi.
 

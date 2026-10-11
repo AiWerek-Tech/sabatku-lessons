@@ -1,6 +1,6 @@
 SABAT, 12 DESEMBER 2026
 
-![lesson-cover](../../assets/lesson-cover-12.jpg)
+![lesson-cover](../../assets/lesson-cover-12-2026-q4.jpg)
 
 ![Ilustrasi dari publikasi edisi](../../assets/image48.jpg)
 

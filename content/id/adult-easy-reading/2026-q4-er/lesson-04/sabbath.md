@@ -1,6 +1,6 @@
 SABAT, 17 OKTOBER 2026
 
-![lesson-cover](../../assets/lesson-cover-04.jpg)
+![lesson-cover](../../assets/lesson-cover-04-2026-q4.jpg)
 
 ![Ilustrasi dari publikasi edisi](../../assets/image108.jpg)
 

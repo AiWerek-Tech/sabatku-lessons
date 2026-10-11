@@ -1,6 +1,6 @@
 # Catatan EGW — Pelajaran 10: Otoritas dan Relevansi Kenabian
 
-![Ilustrasi EGW Notes Pelajaran 10](../../assets/illustration-10.webp)
+![Ilustrasi EGW Notes Pelajaran 10](../../assets/illustration-10.jpg)
 
 ## Sabat Petang, 28 November
 

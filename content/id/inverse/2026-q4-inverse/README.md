@@ -9,7 +9,7 @@ Edisi berstatus `published` dan masuk katalog InVerse Indonesia. Materi harian m
 - `edition.json`: metadata edisi dan jadwal 13 pelajaran.
 - `lesson-NN/lesson.json`: judul, tanggal, bacaan utama pekan ini, ilustrasi, dan tujuh hari.
 - `lesson-NN/<hari>.md`: isi bacaan yang diekstrak dari HTML digital yang diberikan.
-- `assets/cover-inverse.png`: cover edisi Indonesia; `assets/adventech-cover-NN.png`: cover pelajaran dari Adventech untuk pelajaran 01–13.
+- `assets/cover-inverse.jpg`: cover edisi Indonesia terkompresi; `assets/adventech-cover-NN.png`: cover pelajaran dari Adventech untuk pelajaran 01–13.
 
 `npm run validate` memeriksa kelengkapan 13 × 7 bacaan, judul harian, serta memastikan label bagian InVerse dari hari lain tidak tersisa sebagai penanda di isi file.
 

@@ -1,6 +1,6 @@
 SABAT, 31 OKTOBER 2026
 
-![lesson-cover](../../assets/lesson-cover-06.jpg)
+![lesson-cover](../../assets/lesson-cover-06-2026-q4.jpg)
 
 ![Ilustrasi dari publikasi edisi](../../assets/image31.jpg)
 

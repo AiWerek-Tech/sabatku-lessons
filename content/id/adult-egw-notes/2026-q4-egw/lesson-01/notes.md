@@ -1,6 +1,6 @@
 # Catatan EGW — Pelajaran 01: Sang Pencipta Berbicara
 
-![Ilustrasi EGW Notes Pelajaran 01](../../assets/illustration-01.webp)
+![Ilustrasi EGW Notes Pelajaran 01](../../assets/illustration-01.jpg)
 
 ## Sabat Petang, 26 September
 

@@ -1,6 +1,6 @@
 # Catatan EGW — Pelajaran 06: Tulisan-tulisan Nubuatan
 
-![Ilustrasi EGW Notes Pelajaran 06](../../assets/illustration-06.webp)
+![Ilustrasi EGW Notes Pelajaran 06](../../assets/illustration-06.jpg)
 
 ## Sabat Petang, 31 Oktober
 

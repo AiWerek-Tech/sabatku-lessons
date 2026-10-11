@@ -1,6 +1,6 @@
 # Catatan EGW — Pelajaran 11: Manifestasi Nubuat di Saat-Saat Krusial
 
-![Ilustrasi EGW Notes Pelajaran 11](../../assets/illustration-11.webp)
+![Ilustrasi EGW Notes Pelajaran 11](../../assets/illustration-11.jpg)
 
 ## Sabat Petang, 5 Desember
 

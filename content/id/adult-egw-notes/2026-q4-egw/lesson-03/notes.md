@@ -1,6 +1,6 @@
 # Catatan EGW — Pelajaran 03: Nabi-Nabi Perjanjian Lama
 
-![Ilustrasi EGW Notes Pelajaran 03](../../assets/illustration-03.webp)
+![Ilustrasi EGW Notes Pelajaran 03](../../assets/illustration-03.jpg)
 
 ## Sabat Petang, 10 Oktober
 

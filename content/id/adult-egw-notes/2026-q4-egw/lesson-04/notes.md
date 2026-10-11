@@ -1,6 +1,6 @@
 # Catatan EGW — Pelajaran 04: Nabi-Nabi Perjanjian Baru
 
-![Ilustrasi EGW Notes Pelajaran 04](../../assets/illustration-04.webp)
+![Ilustrasi EGW Notes Pelajaran 04](../../assets/illustration-04.jpg)
 
 ## Sabat Petang, 17 Oktober
 

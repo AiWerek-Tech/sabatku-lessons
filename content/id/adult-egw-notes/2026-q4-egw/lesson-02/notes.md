@@ -1,6 +1,6 @@
 # Catatan EGW — Pelajaran 02: Panggilan Seorang Nabi
 
-![Ilustrasi EGW Notes Pelajaran 02](../../assets/illustration-02.webp)
+![Ilustrasi EGW Notes Pelajaran 02](../../assets/illustration-02.jpg)
 
 ## Sabat Petang, 3 Oktober
 
