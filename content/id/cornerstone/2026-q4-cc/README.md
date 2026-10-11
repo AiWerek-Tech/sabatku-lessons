@@ -1,7 +1,7 @@
 # Cornerstone Connections Indonesia — Q4 2026
 
 ## Identitas
-Program cornerstone; kategori children-youth; usia rekomendasi 15–18. Kurikulum mandiri. Edisi siswa 2026-q4-cc, 13 pekan dan 91 bacaan. Markdown tim menjadi sumber, JSON menjadi format pembaca Android. Editor khusus Studio belum dibuat; registry dan profile sudah diaudit.
+Program cornerstone; kategori children-youth; usia rekomendasi 15–18. Kurikulum mandiri. Edisi siswa 2026-q4-cc, 13 pekan dan 91 bacaan. Markdown tim menjadi sumber, JSON menjadi format pembaca Android. Editor khusus Studio belum menjadi jalur penerbitan; integrasi tersebut ditunda karena anggaran hosting/server belum tersedia. Registry dan profile sudah diaudit.
 
 ## Kalender
 Pekan belajar Sabat–Jumat. Pelajaran 01: 26 September–2 Oktober; diskusi Sabat 3 Oktober. Pelajaran 13: 19–25 Desember; diskusi 26 Desember. discussionDate berbeda dari tanggal bacaan. Dasar: pendahuluan resmi mengarahkan belajar sepanjang pekan sebelum diskusi Sabat.

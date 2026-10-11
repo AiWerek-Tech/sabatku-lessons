@@ -24,8 +24,7 @@
         "Roma 12:1–2",
         "Daniel 6:3–10",
         "Keluaran 20:8–11",
-        "Bacalah Daniel 6:10",
-        "Bacalah Keluaran 20:8–11"
+        "Bacalah Daniel 6:10"
       ]
     },
     {
@@ -76,7 +75,9 @@
       "title": "Jumat · Buat itu Nyata",
       "date": "2026-11-20",
       "file": "friday.md",
-      "readingRefs": []
+      "readingRefs": [
+        "Mazmur 119"
+      ]
     }
   ],
   "pdfs": [],

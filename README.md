@@ -1,6 +1,8 @@
 # SabatKu Lessons
 
-Repositori materi Sekolah Sabat yang diterbitkan SabatKu. Versi awal difokuskan pada program **Dewasa Mudah Dibaca** (`adult-easy-reading`) berbahasa Indonesia.
+Repositori materi Sekolah Sabat yang diterbitkan SabatKu. Materi terbit mencakup beberapa program/audiens, termasuk **Dewasa Mudah Dibaca** (`adult-easy-reading`) berbahasa Indonesia; ketersediaan kelas, edisi, dan kuartal berbeda-beda.
+
+Jalur terbit saat ini menggunakan GitHub Pages: sumber yang disetujui dibangun menjadi katalog statis untuk Android. SabatKu Studio adalah target jangka panjang, tetapi hosting dan penerbitan Studio ditunda, bukan dibatalkan, karena anggaran server belum tersedia; belum ada tanggal mulai kembali. Untuk status semua repo lihat [status implementasi SabatKu](https://github.com/AiWerek-Tech/sabatku-docs/blob/main/implementation/current-status.md).
 
 Katalog mengikuti tiga kelompok: Dewasa, Pemuda Dewasa, serta Anak-anak dan Pemuda. Edisi Standar dan Mudah Dibaca adalah edisi untuk kelompok Dewasa; EGW Notes merupakan suplemen; InVerse termasuk Pemuda Dewasa. Rentang usia hanya rekomendasi, bukan batas akses. Lihat [taksonomi kelas Sekolah Sabat](https://github.com/AiWerek-Tech/sabatku-docs/blob/main/architecture/sabbath-school-audience-taxonomy.md).
 

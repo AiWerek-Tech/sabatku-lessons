@@ -39,9 +39,13 @@ function validateCornerstoneActivity(body,context) {
   }
 
   if(/\bCocokkan\b/i.test(activityText) && /Kolom\s+A/i.test(activityText) && /Kolom\s+B/i.test(activityText)) {
-    const columns=activityText.split(/Kolom\s+B/i);
+    const columnA=activityText.match(/^\s*Kolom\s+A\b.*$/im);
+    const columnB=activityText.match(/^\s*Kolom\s+B\b.*$/im);
     const listCount=text=>[...text.matchAll(/^\s*(?:[-*+]\s+|\d+[.)]\s+)\S.+$/gm)].length;
-    assert(columns.length===2 && listCount(columns[0])>=2 && listCount(columns[1])>=2,`${context}: matching activity needs at least two entries in each column`);
+    assert(columnA && columnB && columnB.index>columnA.index &&
+      listCount(activityText.slice(columnA.index+columnA[0].length,columnB.index))>=2 &&
+      listCount(activityText.slice(columnB.index+columnB[0].length))>=2,
+      `${context}: matching activity needs at least two entries in each column`);
   }
 
   if(/\bUrutkan\b/i.test(activityText)) assert(checkboxItems.length>=2,`${context}: ranking activity needs at least two selectable items`);
