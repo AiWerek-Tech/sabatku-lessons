@@ -2,6 +2,7 @@ import { buildCornerstone } from './build-cornerstone.mjs';
 import { readFile, readdir, mkdir, rm, writeFile, cp } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { createHash } from 'node:crypto';
 import { validateSupplements } from './validate-supplements.mjs';
 import { buildSupplements } from './build-supplements.mjs';
 
@@ -11,6 +12,16 @@ const outputRoot = path.join(root, 'public');
 const dayOrder = ['sabbath', 'sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday'];
 const datePattern = /^\d{4}-\d{2}-\d{2}$/;
 const idPattern = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+const sha256 = value => createHash('sha256').update(value, 'utf8').digest('hex');
+function lessonContentRevision(document) {
+  const fields = ['readings'];
+  for (const reading of document.readings ?? []) fields.push(reading.key ?? '', reading.format ?? '', reading.content ?? '');
+  fields.push('supplementaryReadings');
+  for (const reading of document.supplementaryReadings ?? []) fields.push(reading.key ?? '', reading.format ?? '', reading.content ?? '');
+  fields.push('pdfs');
+  for (const pdf of document.pdfs ?? []) fields.push(pdf.id ?? '', pdf.src ?? '');
+  return sha256(fields.join('\0'));
+}
 
 function assert(condition, message) {
   if (!condition) throw new Error(message);
@@ -408,6 +419,21 @@ async function main() {
       ...(cornerstoneEditions.length ? [withAudience({id:'cornerstone',locale:'id',title:'Cornerstone Connections · Remaja',editions:cornerstoneEditions})] : [])
     ]
   };
+
+  // Keep metadata changes separate from reading-content revisions. Titles and dates
+  // are published in this small manifest, so they can change without re-downloading text.
+  const publishedByPath = new Map(published.map(document => [document.path, document]));
+  for (const document of published) {
+    if (!/^editions\/[^/]+\/index\.json$/.test(document.path) || !Array.isArray(document.value.lessons)) continue;
+    for (const lesson of document.value.lessons) {
+      const detail = publishedByPath.get(lesson.url);
+      assert(detail, `${document.path}: published lesson ${lesson.id} has no detail document`);
+      lesson.revision = lessonContentRevision(detail.value);
+      lesson.readings = (detail.value.readings ?? []).map(({ key, title, date }) => ({ key, title, date }));
+      lesson.supplementaryReadings = (detail.value.supplementaryReadings ?? []).map(({ key, title }) => ({ key, title }));
+      lesson.pdfs = (detail.value.pdfs ?? []).map(({ id, title }) => ({ id, title }));
+    }
+  }
 
   const checkOnly = process.argv.includes('--check');
   if (checkOnly) {
