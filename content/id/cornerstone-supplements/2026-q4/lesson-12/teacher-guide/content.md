@@ -1,4 +1,4 @@
-# Penuntun Guru — Pelajaran 12: Menghapus Bersih, Memulai Lembaran Baru
+# Penuntun Guru — Pelajaran 12: Menghapus Hingga Bersih
 
 **Cornerstone Connections — 19 Desember 2026**
 **Judul asli:** *Wiping the Slate Clean*

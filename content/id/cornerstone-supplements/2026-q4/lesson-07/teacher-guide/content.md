@@ -1,4 +1,4 @@
-# Penuntun Guru — Pelajaran 7: Teroris Paling Berbahaya di Dunia
+# Penuntun Guru — Pelajaran 7: Teroris Dunia Terburuk
 
 **Cornerstone Connections — 14 November 2026**
 **Judul asli:** *The World's Worst Terrorist*

@@ -1,4 +1,4 @@
-# Penuntun Guru — Pelajaran 8: Menemukan Kebiasaan Rohani Sehari-hari
+# Penuntun Guru — Pelajaran 8: Menemukan Disiplin Setiap Hari
 
 **Cornerstone Connections — 21 November 2026**
 **Judul asli:** *Discovering Daily Disciplines*

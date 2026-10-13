@@ -1,4 +1,4 @@
-# Penuntun Guru — Pelajaran 4: Kebaikan Mengalahkan Kejahatan
+# Penuntun Guru — Pelajaran 4: Antara Malaikat dan Iblis
 
 **Cornerstone Connections — 24 Oktober 2026**
 **Judul asli:** *Good Over Evil*

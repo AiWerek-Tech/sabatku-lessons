@@ -1,4 +1,4 @@
-# Penuntun Guru — Pelajaran 5: Dusta yang Mematikan
+# Penuntun Guru — Pelajaran 5: Kebohongan yang Mematikan
 
 **Cornerstone Connections — 31 Oktober 2026**
 **Judul asli:** *The Deadly Lie*

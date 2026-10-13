@@ -1,4 +1,4 @@
-# Penuntun Guru — Pelajaran 1: Mengenal Allah, Mengenal Diri Sendiri
+# Penuntun Guru — Pelajaran 1: Kenal Dirimu, Kenal Tuhan
 
 **Cornerstone Connections — 3 Oktober 2026**
 **Judul asli:** *Know God, Know Yourself*

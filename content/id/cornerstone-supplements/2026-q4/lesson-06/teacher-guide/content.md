@@ -1,4 +1,4 @@
-# Penuntun Guru — Pelajaran 6: Kuasa Sejati
+# Penuntun Guru — Pelajaran 6: Kehilangan Kekuatan
 
 **Cornerstone Connections — 7 November 2026**
 **Judul asli:** *True Power*

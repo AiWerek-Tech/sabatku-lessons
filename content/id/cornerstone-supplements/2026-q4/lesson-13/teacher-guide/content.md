@@ -1,4 +1,4 @@
-# Penuntun Guru — Pelajaran 13: Bumi Diperbarui
+# Penuntun Guru — Pelajaran 13: Pemulihan Ekstrem Edisi Surga
 
 **Cornerstone Connections — 26 Desember 2026**
 **Judul asli:** *Earth's Makeover*

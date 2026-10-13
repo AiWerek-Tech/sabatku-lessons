@@ -1,4 +1,4 @@
-# Penuntun Guru — Pelajaran 3: Sindrom Dosa
+# Penuntun Guru — Pelajaran 3: SINdrom
 
 **Cornerstone Connections — 17 Oktober 2026**
 **Judul asli:** *The SINdrome*

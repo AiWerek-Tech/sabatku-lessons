@@ -1,4 +1,4 @@
-# Penuntun Guru — Pelajaran 9: Selamatkan Dirimu
+# Penuntun Guru — Pelajaran 9: Lari untuk Hidupmu
 
 **Cornerstone Connections — 28 November 2026**
 **Judul asli:** *Run for Your Life*

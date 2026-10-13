@@ -1,13 +1,13 @@
 {
   "id": "lesson-03",
-  "title": "Sindrom Dosa",
+  "title": "SINdrom",
   "startDate": "2026-10-10",
   "endDate": "2026-10-16",
   "discussionDate": "2026-10-17",
   "readings": [
     {
       "key": "sabbath",
-      "title": "Sindrom Dosa",
+      "title": "SINdrom",
       "date": "2026-10-10",
       "file": "sabbath.md",
       "readingRefs": [

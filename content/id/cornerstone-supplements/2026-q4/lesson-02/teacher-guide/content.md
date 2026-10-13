@@ -1,4 +1,4 @@
-# Penuntun Guru — Pelajaran 2: Pintu Tertutup, Kitab-Kitab Terbuka
+# Penuntun Guru — Pelajaran 2: Tutup Pintu, Buka Buku?
 
 **Cornerstone Connections — 10 Oktober 2026**
 **Judul asli:** *Shut Door. Open Books.*

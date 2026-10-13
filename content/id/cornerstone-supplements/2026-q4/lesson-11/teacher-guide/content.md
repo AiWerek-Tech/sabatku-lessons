@@ -1,4 +1,4 @@
-# Penuntun Guru — Pelajaran 11: Akhir Dunia Seperti yang Kita Kenal
+# Penuntun Guru — Pelajaran 11: Akhir Dunia Seperti yang Kita Tahu
 
 **Cornerstone Connections — 12 Desember 2026**
 **Judul asli:** *The End of the World as We Know It*

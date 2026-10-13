@@ -264,19 +264,19 @@ Daftar berikut menerjemahkan judul tiap pelajaran dan nama kitab Alkitab, sambil
 
 | No. | Judul pelajaran | Kisah Alkitab | Bacaan pendamping |
 |---:|---|---|---|
-| 1 | **Mengenal Allah, Mengenal Diri Sendiri** (*Know God, Know Yourself*) | 1 Samuel 17 | *The Great Controversy*, bab 27 |
-| 2 | **Pintu Tertutup, Kitab-Kitab Terbuka** (*Shut Door. Open Books.*) | Kejadian 7:6–23 | *The Great Controversy*, bab 28 |
-| 3 | **Sindrom Dosa** (*The SINdrome*) | Yesaya 14:12–14; Yehezkiel 28:11–17; Wahyu 12:7–9 | *The Great Controversy*, bab 29–30 |
-| 4 | **Kebaikan Mengalahkan Kejahatan** (*Good Over Evil*) | Markus 5:1–19 | *The Great Controversy*, bab 31–32 |
-| 5 | **Dusta yang Mematikan** (*The Deadly Lie*) | Kejadian 3:1–5; Mazmur 146:4; Yesaya 38:18–19; Wahyu 16:13–14 | *The Great Controversy*, bab 33–34 |
-| 6 | **Kuasa Sejati** (*True Power*) | 2 Tesalonika 2:3–4; Wahyu 13 | *The Great Controversy*, bab 35 |
-| 7 | **Teroris Paling Berbahaya di Dunia** (*The World’s Worst Terrorist*) | Wahyu 12:17; 2 Timotius 3:1–5; 2 Petrus 3 | *The Great Controversy*, bab 36 |
-| 8 | **Menemukan Kebiasaan Rohani Sehari-hari** (*Discovering Daily Disciplines*) | Daniel 6:3–10; Keluaran 20:8–11 | *The Great Controversy*, bab 37 |
-| 9 | **Selamatkan Dirimu** (*Run for Your Life*) | Wahyu 18:1–14 | *The Great Controversy*, bab 38 |
+| 1 | **Kenal Dirimu, Kenal Tuhan** (*Know God, Know Yourself*) | 1 Samuel 17 | *The Great Controversy*, bab 27 |
+| 2 | **Tutup Pintu, Buka Buku?** (*Shut Door. Open Books.*) | Kejadian 7:6–23 | *The Great Controversy*, bab 28 |
+| 3 | **SINdrom** (*The SINdrome*) | Yesaya 14:12–14; Yehezkiel 28:11–17; Wahyu 12:7–9 | *The Great Controversy*, bab 29–30 |
+| 4 | **Antara Malaikat dan Iblis** (*Good Over Evil*) | Markus 5:1–19 | *The Great Controversy*, bab 31–32 |
+| 5 | **Kebohongan yang Mematikan** (*The Deadly Lie*) | Kejadian 3:1–5; Mazmur 146:4; Yesaya 38:18–19; Wahyu 16:13–14 | *The Great Controversy*, bab 33–34 |
+| 6 | **Kehilangan Kekuatan** (*True Power*) | 2 Tesalonika 2:3–4; Wahyu 13 | *The Great Controversy*, bab 35 |
+| 7 | **Teroris Dunia Terburuk** (*The World’s Worst Terrorist*) | Wahyu 12:17; 2 Timotius 3:1–5; 2 Petrus 3 | *The Great Controversy*, bab 36 |
+| 8 | **Menemukan Disiplin Setiap Hari** (*Discovering Daily Disciplines*) | Daniel 6:3–10; Keluaran 20:8–11 | *The Great Controversy*, bab 37 |
+| 9 | **Lari untuk Hidupmu** (*Run for Your Life*) | Wahyu 18:1–14 | *The Great Controversy*, bab 38 |
 | 10 | **Masa Kesukaran** (*The Time of Trouble*) | Yohanes 20:1–18 | *The Great Controversy*, bab 39 |
-| 11 | **Akhir Dunia Seperti yang Kita Kenal** (*The End of the World as We Know It*) | Daniel 12:1–2; Wahyu 1:7; Wahyu 7; Wahyu 14–17; 1 Tesalonika 4:16–18; Yohanes 14:1–4 | *The Great Controversy*, bab 40 |
-| 12 | **Menghapus Bersih, Memulai Lembaran Baru** (*Wiping the Slate Clean*) | 2 Petrus 3:10; Wahyu 20 | *The Great Controversy*, bab 41 |
-| 13 | **Bumi Diperbarui** (*Earth’s Makeover*) | Wahyu 15:1–4; Wahyu 20:7–15; Wahyu 21–22 | *The Great Controversy*, bab 42 |
+| 11 | **Akhir Dunia Seperti yang Kita Tahu** (*The End of the World as We Know It*) | Daniel 12:1–2; Wahyu 1:7; Wahyu 7; Wahyu 14–17; 1 Tesalonika 4:16–18; Yohanes 14:1–4 | *The Great Controversy*, bab 40 |
+| 12 | **Menghapus Hingga Bersih** (*Wiping the Slate Clean*) | 2 Petrus 3:10; Wahyu 20 | *The Great Controversy*, bab 41 |
+| 13 | **Pemulihan Ekstrem Edisi Surga** (*Earth’s Makeover*) | Wahyu 15:1–4; Wahyu 20:7–15; Wahyu 21–22 | *The Great Controversy*, bab 42 |
 
 **Catatan kesetiaan sumber:** Rujukan Alkitab pada tabel di atas mengikuti daftar *Scope & Sequence* dalam pendahuluan, termasuk jika ada perbedaan dengan halaman pelajaran individual. Perbedaan itu tidak diubah atau diselaraskan tanpa sumber tambahan.
 
@@ -288,31 +288,31 @@ Daftar berikut menerjemahkan judul tiap pelajaran dan nama kitab Alkitab, sambil
 
 ## Oktober
 
-### 3 Oktober — Pelajaran 1: Mengenal Allah, Mengenal Diri Sendiri
+### 3 Oktober — Pelajaran 1: Kenal Dirimu, Kenal Tuhan
 
 *Know God, Know Yourself* — hlm. 11
 
 Hanya ketika kita mengenal diri sendiri dan memahami pribadi seperti apa kita sedang dibentuk melalui pekerjaan Kristus dalam diri kita, barulah kita dapat menjadikan kehidupan kita sebagai berkat bagi keluarga, sahabat, rekan kerja, dan masyarakat di sekitar kita.
 
-### 10 Oktober — Pelajaran 2: Pintu Tertutup, Kitab-Kitab Terbuka
+### 10 Oktober — Pelajaran 2: Tutup Pintu, Buka Buku?
 
 *Shut Door. Open Books.* — hlm. 19
 
 Allah akan menyatakan "tidak bersalah" kepada setiap orang yang mengakui dosanya dan bersandar pada darah Kristus bagi hidupnya. Diampuni. Diberi pengampunan. Dipulihkan. Namun, sekaranglah saatnya untuk mengambil keputusan itu.
 
-### 17 Oktober — Pelajaran 3: Sindrom Dosa
+### 17 Oktober — Pelajaran 3: SINdrom
 
 *The SINdrome* — hlm. 27
 
 Salah satu misteri terbesar dalam sejarah umat manusia adalah memahami asal-usul kejahatan. Pada akhirnya, apa yang dipikirkan manusia tentang Allah menjadi pemikiran terpenting yang pernah dimiliki siapa pun.
 
-### 24 Oktober — Pelajaran 4: Kebaikan Mengalahkan Kejahatan
+### 24 Oktober — Pelajaran 4: Antara Malaikat dan Iblis
 
 *Good Over Evil* — hlm. 35
 
 Peperangan rohani sedang berlangsung—peperangan yang tidak dapat dilihat oleh mata manusia. Karena itu, pertanyaannya tetap sama: bagaimana kuasa Allah atas kejahatan diwujudkan melalui kehidupan umat-Nya pada zaman kita sekarang?
 
-### 31 Oktober — Pelajaran 5: Dusta yang Mematikan
+### 31 Oktober — Pelajaran 5: Kebohongan yang Mematikan
 
 *The Deadly Lie* — hlm. 43
 
@@ -320,25 +320,25 @@ Topik kematian merupakan salah satu persoalan paling diperdebatkan di kalangan g
 
 ## November
 
-### 7 November — Pelajaran 6: Kuasa Sejati
+### 7 November — Pelajaran 6: Kehilangan Kekuatan
 
 *True Power* — hlm. 51
 
 Berita-berita dipenuhi kisah tentang korupsi dan penyalahgunaan kekuasaan. Bagaimana umat Advent dapat hidup dan menyampaikan pesan dengan keyakinan yang teguh, tanpa berkompromi, kepada generasi ini?
 
-### 14 November — Pelajaran 7: Teroris Paling Berbahaya di Dunia
+### 14 November — Pelajaran 7: Teroris Dunia Terburuk
 
 *The World’s Worst Terrorist* — hlm. 59
 
 Si jahat telah melancarkan serangan besar-besaran untuk menghancurkan sebanyak mungkin manusia. Apakah kamu sudah siap menghadapinya?
 
-### 21 November — Pelajaran 8: Menemukan Kebiasaan Rohani Sehari-hari
+### 21 November — Pelajaran 8: Menemukan Disiplin Setiap Hari
 
 *Discovering Daily Disciplines* — hlm. 67
 
 Hanya sedikit orang yang secara sadar akan menolak hubungan yang bertahan lama dan bermakna dengan Allah. Namun, apa yang bersedia kita lakukan untuk mewujudkan hubungan itu?
 
-### 28 November — Pelajaran 9: Selamatkan Dirimu
+### 28 November — Pelajaran 9: Lari untuk Hidupmu
 
 *Run for Your Life* — hlm. 75
 
@@ -352,19 +352,19 @@ Bertentangan dengan berbagai dugaan manusia, dunia ini tidak sedang menuju keada
 
 Istilah *masa kesukaran* sering menimbulkan rasa gentar di hati umat Advent maupun orang lain yang menantikan kedatangan Yesus. Namun, meskipun masa-masa sulit masih akan terjadi, Allah telah berjanji bahwa para pengikut-Nya yang setia akan bertahan sampai akhir.
 
-### 12 Desember — Pelajaran 11: Akhir Dunia Seperti yang Kita Kenal
+### 12 Desember — Pelajaran 11: Akhir Dunia Seperti yang Kita Tahu
 
 *The End of the World as We Know It* — hlm. 91
 
 Kita sering terlalu berfokus pada kesulitan menjelang akhir zaman sampai melupakan kuasa Allah yang sanggup menyelamatkan kita. Kita perlu mengingat bahwa kita tidak sendirian, dan kita sungguh aman bersama Allah!
 
-### 19 Desember — Pelajaran 12: Menghapus Bersih, Memulai Lembaran Baru
+### 19 Desember — Pelajaran 12: Menghapus Hingga Bersih
 
 *Wiping the Slate Clean* — hlm. 99
 
 Gambaran Allah membinasakan orang-orang jahat bukanlah hal yang mudah untuk diterima. Namun, kita akan mendapat kesempatan mengajukan pertanyaan-pertanyaan kita, memahami alasan di balik tindakan Allah, dan membiarkan Dia memperlihatkan kebaikan-Nya kepada seluruh alam semesta.
 
-### 26 Desember — Pelajaran 13: Bumi Diperbarui
+### 26 Desember — Pelajaran 13: Pemulihan Ekstrem Edisi Surga
 
 *Earth’s Makeover* — hlm. 107
 
