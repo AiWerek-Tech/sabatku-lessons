@@ -2,15 +2,15 @@
 
 ## Ayat Inti
 
-> “Engkau mendatangi aku dengan pedang, tombak, dan lembing, tetapi aku mendatangi engkau dalam nama TUHAN Yang Mahakuasa, Allah bala tentara Israel, yang telah engkau tantang.”
+> “Tetapi Daud berkata kepada orang Filistin itu: ‘Engkau mendatangi aku dengan pedang dan tombak dan lembing, tetapi aku mendatangi engkau dengan nama TUHAN semesta alam, Allah segala barisan Israel yang kautantang itu.’”
 
-**1 Samuel 17:45** (diterjemahkan dari NIV).
+**1 Samuel 17:45**
 
 ## Sekilas Cahaya
 
-> “Walaupun kehidupan seorang Kristen ditandai oleh kerendahan hati, hidupnya tidak seharusnya dipenuhi kesedihan dan sikap merendahkan diri sendiri. Setiap orang memiliki kesempatan istimewa untuk menjalani kehidupan yang diperkenan dan diberkati Allah. Bapa kita yang di surga tidak menghendaki kita terus-menerus hidup dalam perasaan terhukum dan kegelapan. Menundukkan kepala dan memenuhi hati dengan pikiran yang hanya berpusat pada diri sendiri bukanlah bukti kerendahan hati yang sejati. Kita dapat datang kepada Yesus, disucikan, dan berdiri di hadapan hukum Allah tanpa rasa malu dan penyesalan.”
+> “Sementara kehidupan Kristen akan ditandai oleh kerendahan hati, tetapi tidak mesti ditandai oleh kesedihan dan rendah diri. Adalah kesempatan setiap orang untuk hidup sedemikian rupa sehingga Allah berkenan kepadanya dan memberkatinya. Bukanlah kehendak Bapa surgawi kita agar kita tetap di bawah hukum kegelapan. Kepala yang selalu tertunduk dan hati yang dipenuhi dengan pemikiran diri sendiri bukanlah bukti kerendahan hati yang sejati. Kita boleh datang kepada Yesus dan dibasuh, dan berdiri di hadapan hukum tanpa malu dan perasaan bersalah yang mendalam.”
 
-— Ellen G. White, *The Great Controversy*, hlm. 477 (terjemahan dari teks Inggris dalam PDF).
+— Ellen G. White, *Alfa dan Omega*, jilid 8, hlm. 499.
 
 ### Bacaan Alkitab
 
@@ -20,25 +20,23 @@
 
 ### Buat itu Nyata
 
-Perhatikan pernyataan-pernyataan dalam bagian *Apakah Pendapatmu?*. Pernyataan mana yang paling sesuai dengan apa yang kamu rasakan? Dari mana, atau dari siapa, kamu menerima pesan-pesan tersebut?
+Pertimbangkan pernyataan-pernyataan yang terdapat pada bagian *Apakah Pendapatmu?*. Yang manakah paling menggemakan dirimu? Dari mana (siapa) pesan itu berasal?
 
-Seiring bertambahnya usia, kita menerima banyak pesan dari orang tua, guru, dan teman-teman. Bahkan hasil dari pilihan yang kita buat juga dapat menjadi semacam pesan bagi kita. Pesan-pesan itu bisa bersifat positif, seperti, “Kamu tetap diinginkan dan disayangi meskipun kamu gagal dalam ujian aljabar.” Namun, pesan itu juga bisa negatif, seperti, “Aku tidak bisa datang lagi untuk menonton pertandingan atau pertunjukanmu. Pekerjaan lebih penting daripada hubunganku denganmu.”
+Seiring pertumbuhan kita, kita menerima banyak pesan dari orang tua, guru, dan teman kita; bahkan hasil dari pilihan-pilihan kita merupakan jenis pesan yang masuk kepada kita. Pesan itu bisa jadi positif, misalnya, “Kamu tetap diharapkan dan dikasihi meskipun kamu gagal dalam ujian aljabar,” atau bisa jadi negatif, misalnya, “Saya tidak bisa melihat pertandingan kamu. Pekerjaan lebih penting daripada hubungan saya dengan kamu.”
 
-**Pesan apa yang sedang Allah sampaikan kepadamu melalui bacaan Alkitab hari ini?**
+Bacalah **Efesus 3:17–19; Lukas 15:11–20; Yohanes 15:15**. Pesan apakah yang Tuhan kirimkan kepadamu?
 
 ### Apakah Pendapatmu?
 
-Bacalah pernyataan-pernyataan berikut:
+Baca pernyataan berikut:
 
-- Aku adalah pribadi yang unik.
-- Aku berharga di mata Allah.
-- Yesus sangat mengasihiku.
-- Nilai diriku tidak ditentukan oleh kecerdasan, kekayaan, atau penampilan fisikku, melainkan oleh siapa diriku: seorang anak Allah.
-- Bapa di surga menilai betapa berharganya diriku melalui pengorbanan Yesus untuk menyelamatkanku.
+- Saya bersalah.
+- Saya membebani.
+- Saya bodoh.
+- Saya tidak berharga.
+- Saya tidak diizinkan melakukan kesalahan.
+- Saya tidak berhak untuk merasakan kebahagiaan dan kesenangan.
+- Saya tidak berhak untuk membela diri dan mengatakan apa yang saya rasakan.
+- Saya dinilai berdasarkan kecerdasan, kekayaan, dan apa yang saya lakukan, dan bukan berdasarkan siapa saya.
 
-**Adakah pernyataan di atas yang benar-benar menggambarkan apa yang kamu rasakan atau alami?**
-
-## Bacaan Pekan Ini
-
-*The Great Controversy* (atau *Love Under Fire*), **bab 27**.
-
+Mungkinkah kamu terhubung dengan salah satu atau tidak sama sekali dengan pernyataan-pernyataan di atas?

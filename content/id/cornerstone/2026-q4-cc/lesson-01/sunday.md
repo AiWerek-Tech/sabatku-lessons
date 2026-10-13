@@ -1,12 +1,12 @@
-## Bacaan Alkitab
+### Bacaan Alkitab
 
 **Efesus 4:29**
 
-## Buat itu Nyata
+### Buat itu Nyata
 
-Bacalah bagian *Ke Dalam Cerita* dan jawablah pertanyaan-pertanyaan dalam *Keluar Cerita*.
+Bacalah bagian *Ke Dalam Cerita* dan lengkapi tugas yang terdapat pada bagian *Keluar Cerita*.
 
-Bayangkan kamu berada di posisi Daud dan mendengar perkataan-perkataan negatif seperti yang diterimanya. Bagaimana perasaanmu? Apa yang akan kamu rasakan terhadap orang-orang yang mengatakannya? Dalam hal apa tanggapanmu mungkin sama dengan tanggapan Daud, dan dalam hal apa berbeda? Mengapa?
+Jika kamu adalah Daud dan mendengar pesan negatif ini, bagaimanakah perasaan kamu? Apakah yang kamu rasakan kepada mereka yang menyatakan pesan itu? Dalam cara seperti apakah tanggapan kamu berbeda atau sama dengan tanggapan Daud, dan mengapa?
 
 ## Ke Dalam Cerita
 
@@ -14,16 +14,16 @@ Bayangkan kamu berada di posisi Daud dan mendengar perkataan-perkataan negatif s
 
 ## Keluar Cerita
 
-Dengan kata-katamu sendiri, jelaskan keberatan, keluhan, dan maksud tersirat di balik perkataan yang didengar Daud dari orang-orang berikut:
+Dengan menggunakan kata-katamu sendiri, gambarkan keberatan-keberatan dan keluhan-keluhan serta makna tersirat di balik kata-kata yang Daud dengar dari orang-orang berikut:
 
-1. **Keluarganya** — kakak Daud (ayat 28). Apa sebenarnya yang ingin disampaikan melalui perkataannya?
-2. **Saul, sang raja** (ayat 33 dan 38). Apa keraguan atau keberatan yang disampaikannya?
-3. **Goliat, si penindas** (ayat 41–44). Apa yang tersirat dalam perkataan dan sikapnya?
+1. **Keluarganya** (ayat 28)
+2. **Saul** (ayat 33, 38)
+3. **Goliat** (ayat 41–44)
 
-Daud memiliki pendirian dan identitas diri yang kuat. Ia tahu siapa dirinya dan tidak membiarkan pendapat orang banyak atau keinginannya untuk diterima menguasai dirinya. Berdasarkan kisah ini, dalam hal apa Daud tetap menjadi dirinya sendiri dan tidak membiarkan tekanan serta kecemasan yang ditimbulkan orang lain mengendalikannya?
+Daud sangat berbeda. Dia mengenal siapa dirinya dan tidak terbawa arus pendapat umum atau kebutuhan untuk diterima. Dari ayat ini, dalam cara seperti apakah Daud tetap benar dan tidak mengizinkan tekanan dan iri hati dari orang lain mengendalikannya?
 
-Dalam ayat 45, Daud dengan penuh keyakinan berkata:
+Pada ayat 45 Daud dengan percaya diri menyatakan: “Engkau mendatangi aku dengan pedang dan tombak dan lembing, tetapi aku mendatangi engkau dengan nama TUHAN semesta alam.” Mengapa dia begitu yakin mendapat dukungan Allah? Temukan bukti-bukti Alkitab untuk mendukung pemikiran kamu.
 
-> “Engkau mendatangi aku dengan pedang, tombak, dan lembing, tetapi aku mendatangi engkau dalam nama TUHAN Yang Mahakuasa.”
+### Bacaan Alkitab
 
-**Mengapa Daud begitu yakin akan pertolongan Allah? Carilah bukti dari Alkitab untuk mendukung pendapatmu.**
+**1 Samuel 17:26–45**

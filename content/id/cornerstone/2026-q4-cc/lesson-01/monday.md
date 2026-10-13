@@ -1,11 +1,11 @@
-## Bacaan Alkitab
+### Bacaan Alkitab
 
 **1 Samuel 17:45**
 
-## Buat itu Nyata
+### Buat itu Nyata
 
-Bacalah *Ayat Inti* minggu ini. Daud menunjukkan keyakinan yang besar bahwa Allah sanggup mengalahkan musuh. Menurutmu, bagaimana Daud bisa memiliki keyakinan sebesar itu kepada Allah?
+Bacalah *Ayat Inti*. Daud menunjukkan rasa percaya yang tinggi dalam kemampuan Allah untuk menaklukkan musuh. Bagaimanakah menurut kamu Daud dapat menerima rasa percaya seperti itu dalam Tuhan?
 
-Daud mampu tetap menjadi dirinya sendiri, sekaligus menjaga hubungan yang dekat dengan orang-orang yang penting baginya. Ia dapat memilih untuk melakukan apa yang benar tanpa harus dikendalikan oleh persetujuan atau penolakan orang lain.
+Daud mampu mempertahankan kebenaran siapa dirinya sebenarnya, sementara tetap dekat dengan orang yang penting baginya. Dia mampu memilih melakukan apa yang benar tanpa dikendalikan oleh diterima atau tidak diterima oleh orang lain.
 
-Pernahkah kamu merasa takut sampai mengurungkan niat untuk melakukan sesuatu, atau mencoba “memakai baju zirah” yang sebenarnya tidak cocok untukmu? Tekanan dari keadaan atau dari orang-orang seperti apa yang membuatmu bertindak demikian?
+Apakah ada saat ketika engkau surut dalam rasa takut atau “mengenakan pakaian perang” yang terlalu besar untukmu? Jenis tekanan dari keadaan atau kekuatan seperti apakah dari orang yang memengaruhi kamu untuk bertindak demikian?

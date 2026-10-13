@@ -1,17 +1,17 @@
-## Bacaan Alkitab
+### Bacaan Alkitab
 
 **Titus 3:1–2**
 
-## Buat itu Nyata
+### Buat itu Nyata
 
-Sediakan waktu untuk menjawab pertanyaan-pertanyaan berikut:
+Ambillah waktu untuk menjawab pertanyaan-pertanyaan berikut:
 
-1. Apa yang membuatmu marah?
-2. Apa yang membuatmu sedih?
-3. Apa yang kamu takuti?
-4. Apa yang kamu sukai?
-5. Apa, atau siapa, yang kamu kasihi?
-6. Apa yang membuatmu terkejut?
-7. Apa yang membuatmu merasa jijik atau muak?
+1. Apakah yang membuat kamu marah?
+2. Apakah yang membuat kamu sedih?
+3. Apakah yang kamu takuti?
+4. Apakah yang kamu senangi?
+5. Apakah atau siapakah yang kamu sayangi?
+6. Apakah yang mengejutkan bagimu?
+7. Apakah yang menjijikkan bagimu?
 
-Mungkin kamu bisa menjawab semuanya, mungkin juga tidak. Bisa jadi kamu memiliki lebih banyak hal untuk dikatakan tentang satu atau dua pertanyaan daripada pertanyaan yang lain. Jika demikian, luangkan waktu untuk memikirkan dan menyelesaikan jawaban pertanyaan tersebut selama yang kamu perlukan.
+Kamu mungkin bisa atau tidak mampu menjawab semua pertanyaan. Kamu juga mungkin mempunyai lebih banyak lagi yang perlu disampaikan pada satu atau dua pertanyaan dibandingkan dengan yang lainnya. Jika hal itu terjadi, tetaplah pada pertanyaan itu sampai kamu bisa menyelesaikannya.

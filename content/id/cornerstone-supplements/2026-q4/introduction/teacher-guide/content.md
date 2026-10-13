@@ -2,7 +2,7 @@
 
 **Kisah Nyata. Landasan Kuat.** (*Real. Solid. Stories.*)
 
-## Sebuah Buku Terbuka
+## Buku yang Terbuka
 
 **Triwulan 4 Tahun 2026**
 **Penuntun Guru Sekolah Sabat Remaja**
@@ -28,7 +28,7 @@ Berikut beberapa bagian yang disediakan untuk membantu Anda:
 
 **Cornerstone Connections — Penuntun Guru**
 **Kisah Nyata. Landasan Kuat.**
-**Triwulan 4 Tahun 2026 — Sebuah Buku Terbuka**
+**Triwulan 4 Tahun 2026 — Buku yang Terbuka**
 
 - **Direktur Sekolah Sabat Sedunia:** Daniel Ebenezer.
 - **Penasihat General Conference:** Ted N. C. Wilson.
@@ -284,7 +284,7 @@ Daftar berikut menerjemahkan judul tiap pelajaran dan nama kitab Alkitab, sambil
 
 # Ikhtisar Pelajaran Triwulan 4 Tahun 2026
 
-*Cornerstone Connections — Sebuah Buku Terbuka*
+*Cornerstone Connections — Buku yang Terbuka*
 
 ## Oktober
 
@@ -411,7 +411,7 @@ Keterangan lisensi dan versi berikut diterjemahkan dari dokumen penerbit. Nama r
 
 **Cornerstone Connections**
 **Kisah Nyata. Landasan Kuat.**
-**Sebuah Buku Terbuka**
+**Buku yang Terbuka**
 Triwulan 4 Tahun 2026
 **Penuntun Guru Sekolah Sabat Remaja**
 

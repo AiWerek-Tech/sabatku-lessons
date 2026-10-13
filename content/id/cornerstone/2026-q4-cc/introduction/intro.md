@@ -1,4 +1,4 @@
-# Sebuah Buku Terbuka
+# Buku yang Terbuka
 
 **Cornerstone Connections — Triwulan 4 Tahun 2026**  
 *Panduan Pendalaman Alkitab Sekolah Sabat Remaja*  
