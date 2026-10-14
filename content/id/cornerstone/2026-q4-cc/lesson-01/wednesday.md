@@ -30,7 +30,7 @@ Murray Bowen, penemu teori sistem keluarga modern, menciptakan istilah baru: dif
 
 Bowen menciptakan skala diferensiasi. Orang yang berada di ujung bawah skala membutuhkan penegasan dan pembenaran lanjutan dari orang lain karena mereka tidak memiliki kesadaran yang jelas mengenai siapa mereka. Mereka memperoleh nilai dan identitas mereka sendiri dari apa yang orang lain pikirkan dan rasakan. Mereka juga mungkin menghindari dekat dengan orang lain karena takut kehilangan identitas mereka sendiri. Di bawah tekanan, mereka memiliki sedikit kemampuan untuk membedakan antara perasaan dan pikiran mereka.
 
-### Wawasan Tambahan
+### Pandangan Lain
 
 **Pandangan lain**
 

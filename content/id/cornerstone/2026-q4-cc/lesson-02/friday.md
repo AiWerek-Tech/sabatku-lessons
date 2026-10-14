@@ -8,7 +8,7 @@ Renungkan dan bayangkan bagaimanakah adegan penghakiman di surga kelihatannya se
 
 Dapatkah kamu memikirkan sesuatu yang lebih penting sekarang ini daripada membuat keputusanmu sehubungan dengan siapa yang mewakilimu dalam penghakiman? Bagaimanakah keputusan itu mengubah pola hidupmu? Akankah kamu berubah?
 
-## Wawasan Tambahan
+## Pandangan Lain
 
 > “Banyak orang yang berencana mencari Tuhan pada jam sebelas meninggal pada jam 10.30.”
 >

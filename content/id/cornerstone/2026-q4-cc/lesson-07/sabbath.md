@@ -1,57 +1,45 @@
 ![lesson-cover](../../assets/lesson-cover-07.jpg)
 
+**Cerita Alkitab:** Wahyu 12:17; 2 Timotius 3:1–5; 2 Petrus 3.
+
+**Komentar:** *Alfa dan Omega*, jilid 8, pasal 36.
+
 ## Ayat Inti
 
-> “Maka marahlah naga itu kepada perempuan tersebut, lalu pergi memerangi keturunannya yang lain, yaitu mereka yang menuruti perintah-perintah Allah dan berpegang teguh pada kesaksian tentang Yesus.”
+> “Maka marahlah naga itu kepada perempuan itu, lalu pergi memerangi keturunannya yang lain, yang menuruti hukum-hukum Allah dan memiliki kesaksian Yesus.”
 
-— **Wahyu 12:17** (diterjemahkan dari NIV).
+— **Wahyu 12:17**.
 
 ## Sekilas Cahaya
 
-> “Cara yang digunakan Setan dalam pertentangan terakhir melawan umat Allah sama seperti yang digunakannya pada awal pertentangan besar di surga. Ia mengaku ingin menjaga kestabilan pemerintahan Allah, padahal diam-diam ia mengerahkan segala upaya untuk menggulingkannya. ... Sementara Setan berusaha membinasakan orang-orang yang menghormati hukum Allah, ia akan membuat mereka dituduh sebagai pelanggar hukum, sebagai orang-orang yang tidak menghormati Allah dan mendatangkan hukuman atas dunia.”
+> “Kebijakan Setan dalam pertentangan terakhir dengan umat Allah adalah sama dengan yang digunakannya dalam permulaan pertentangan besar itu di surga. Ia mengaku berusaha untuk meningkatkan kestabilan pemerintahan Ilahi, sementara secara diam-diam mengerahkan seluruh usaha untuk menggulingkannya. ... Sementara Setan berusaha membinasakan mereka yang menghormati hukum Allah, ia akan membuat mereka dituduh sebagai pelanggar-pelanggar hukum, sebagai orang-orang yang menghina Allah, dan mendatangkan penghukuman ke atas dunia ini.”
 
-— Ellen G. White, *The Great Controversy*, hlm. 591 (diterjemahkan dari kutipan sumber bahasa Inggris; tanda elipsis mengikuti sumber).
+— Ellen G. White, *Alfa dan Omega*, jilid 8, hlm. 621–622.
 
-### Bacaan Alkitab
+## Bacaan Alkitab
 
-**Roma 10:9–10**
-
-### Buat itu Nyata
-
-Diskusikan pertanyaan-pertanyaan berikut bersama teman-temanmu:
-
-Apa saja bentuk penyesatan lain yang tidak disebutkan Ellen White, tetapi kamu lihat sedang digunakan Setan untuk menjebak orang Kristen pada masa kini?
-
-Kalau kamu berada di posisi Iblis, bagaimana kamu akan menyerang umat Allah pada akhir zaman?
-
-Apa yang dapat kamu lakukan untuk memastikan keselamatanmu?
+**Wahyu 12:17; 2 Timotius 3:1–5; 2 Petrus 3**
 
 ## Apakah Pendapatmu?
 
-Ellen White membahas beberapa cara Setan akan menyesatkan manusia pada akhir zaman (lihat *The Great Controversy*, bab 36). Pada akhirnya, Setan akan memperlihatkan jati dirinya sebagai teroris paling berbahaya di dunia. Untuk setiap cara yang disebutkan Ellen White di bawah ini, cobalah menemukan contoh yang terjadi pada masa kini. Kamu dapat mencarinya di internet, membaca majalah dan surat kabar, atau berbincang dengan teman dan anggota keluargamu. Tuliskan contoh yang kamu temukan untuk setiap pernyataan.
+Ellen White menyinggung sejumlah cara yang digunakan Setan untuk menipu orang pada hari-hari terakhir (lihat *Alfa dan Omega*, jilid 8, pasal 36). Pada akhirnya, Setan akan mengungkapkan jati dirinya sebagai teroris dunia terburuk. Di samping setiap cara yang disebutkan Ellen White, temukan contoh yang sedang terjadi dengan mencari informasi daring, membaca majalah atau surat kabar, dan berbicara dengan teman serta anggota keluargamu. Tuliskan contoh yang kamu temukan.
 
-1. > “Pers memublikasikan rincian perbuatan-perbuatan jahat yang menjijikkan.”
-   >
-   > — *The Great Controversy*, hlm. 586.
+1. Media masa menampilkan rincian yang memuakkan mengenai perbuatan jahat.
+2. Melalui dua kesalahan besar—kekekalan jiwa dan kekudusan hari Minggu—Iblis akan membawa manusia di bawah penipuannya.
+3. Melalui spiritualisme.
+4. Setan juga bekerja melalui unsur-unsur alam untuk mengumpulkan panen jiwa yang tidak siap.
+5. Dia akan membawa bencana dan penyakit.
 
-2. > “Melalui dua kesalahan besar, yaitu kepercayaan bahwa jiwa tidak dapat mati dan pengudusan hari Minggu, Setan akan membawa manusia ke dalam penyesatannya.”
-   >
-   > — *The Great Controversy*, hlm. 588.
+## Buat itu Nyata
 
-3. > “Melalui spiritisme.”
-   >
-   > — *The Great Controversy*, hlm. 589.
+Diskusikan pertanyaan-pertanyaan berikut bersama teman-temanmu:
 
-4. > “Setan juga bekerja melalui kekuatan-kekuatan alam untuk mengumpulkan orang-orang yang belum siap menjadi mangsanya.”
-   >
-   > — *The Great Controversy*, hlm. 589.
-
-5. > “Ia akan mendatangkan penyakit dan bencana.”
-   >
-   > — *The Great Controversy*, hlm. 589.
+- Penipuan lain apa yang digunakan Setan untuk menjerat orang Kristen saat ini?
+- Jika kamu berada di pihak Setan, bagaimana kamu akan menyerang umat Allah pada akhir zaman?
+- Apa yang dapat kamu lakukan untuk memastikan keselamatanmu?
 
 ## Bacaan Pekan Ini
 
-**Ellen G. White, *The Great Controversy* (atau *Love Under Fire*), bab 36.**
+**Ellen G. White, *Alfa dan Omega*, jilid 8, pasal 36.**
 
-*Catatan sumber:* *Love Under Fire* adalah adaptasi khusus dari *The Great Controversy* yang dibuat untuk pembaca muda oleh Ellen G. White Estate dan Pacific Press. Informasi lebih lanjut tersedia di [Cornerstone Connections](http://www.cornerstoneconnections.net/article/191/about-us/conflict-of-the-ages-companion-books#.URlhF1rBO9s). Dengan mengikuti rencana bacaan mingguan, kamu akan membaca setidaknya satu buku dari seri *Conflict of the Ages* setiap tahun.
+Penyesuaian khusus dari *Alfa dan Omega*, jilid 8, disiapkan bagi pembaca muda oleh Ellen G. White Estate dan Pacific Press. Dengan mengikuti rencana ini, kamu akan membaca setidaknya satu buku dari seri *Alfa dan Omega* setiap tahun.

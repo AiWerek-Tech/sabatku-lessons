@@ -160,9 +160,9 @@ Bacakan pernyataan dalam bagian Sekilas Cahaya. Jelaskan bahwa kutipan tersebut 
 
 Tunjukkan ayat-ayat yang tercantum dalam pelajaran siswa dan berkaitan dengan kisah pekan ini. Minta setiap siswa menyampaikan ayat yang paling berbicara secara pribadi kepadanya, lalu beri kesempatan untuk menjelaskan alasannya.
 
-**Wawasan Tambahan (*Further Insight*)**
+**Pandangan Lain (*Further Insight*)**
 
-Tanyakan bagaimana kutipan pada bagian Wawasan Tambahan membantu menyampaikan pesan utama kisah dalam pelajaran ini.
+Tanyakan bagaimana kutipan pada bagian Pandangan Lain membantu menyampaikan pesan utama kisah dalam pelajaran ini.
 
 ## III. Menutup Pelajaran
 

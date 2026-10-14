@@ -28,7 +28,7 @@ Pesan Allah sampai kepada kita melalui kisah orang-orang yang bertemu dengan-Nya
 
 - **Sekilas Cahaya (*Flashlight*)** — Kutipan singkat yang memperlihatkan pandangan Ellen G. White mengenai kisah tersebut. Sorotan ini membantu menerangi bagian Alkitab yang sedang dipelajari sekaligus memberi gambaran tentang bacaan mingguan yang disarankan dari ulasannya yang diilhami tentang kisah-kisah tersebut, yaitu seri *Conflict of the Ages* (Pertentangan Segala Zaman).¹
 
-- **Wawasan Tambahan (*Further Insight*)** — Satu atau dua kutipan yang memberi pemahaman lebih mendalam tentang pesan utama pelajaran.
+- **Pandangan Lain (*Further Insight*)** — Satu atau dua kutipan yang memberi pemahaman lebih mendalam tentang pesan utama pelajaran.
 
 - **Buat itu Nyata (*Connecting to Life*)** — Panduan untuk menjadikan kebenaran tentang Allah dalam kisah tersebut sebagai bagian dari kehidupanmu sendiri. Pelajarilah bahan Alkitab sepanjang minggu sebagai persiapan untuk Sekolah Sabat. Pada hari Sabat, kamu berkesempatan mengulang, mendiskusikan, dan memperdalam apa yang telah dipelajari bersama guru dan teman-teman di kelas Sekolah Sabat. Setiap hari, kamu akan diajak menjelajahi salah satu bagian pelajaran, menghubungkannya dengan kisah hidupmu sendiri, dan menerapkan pesan Allah secara pribadi.
 

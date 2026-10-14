@@ -14,7 +14,7 @@ Apa yang dikatakan malaikat kepada Daniel tentang hal-hal yang telah diperlihatk
 
 **Mengapa?** (**Habakuk 2:3**)
 
-## Wawasan Tambahan
+## Pandangan Lain
 
 > "Demikianlah pengalaman umat Allah dalam pergumulan terakhir mereka melawan kuasa-kuasa kejahatan. ... Mereka akan sangat menyadari kekurangan-kekurangan mereka, dan ketika meninjau kembali kehidupan mereka, harapan mereka akan merosot."
 >

@@ -41,7 +41,7 @@ Pertimbangkan beberapa penemuan baru yang melaporkan persentase orang dewasa yan
 
 — Van Morris, Mount Washington, Kentucky; sumber: Alejandro Gonzalez, “Angels and God,” *USA Today* (18 September 2008), berdasarkan survei tahun 2007 terhadap 1.700 orang dewasa Amerika oleh The Institute for Studies of Religion, Baylor University.
 
-## Wawasan Tambahan
+## Pandangan Lain
 
 > “Jika manusia tidak meningkat kepada malaikat, bergantung kepada hal itu, dia akan tenggelam ke bawah menjadi Iblis.”
 

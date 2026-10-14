@@ -4,18 +4,12 @@
 
 ## Buat itu Nyata
 
-Bagaimana persahabatanmu dengan Yesus sedang mengubah karaktermu sehingga semakin menyerupai karakter-Nya?
+- Apakah yang pelajaran ini ajarkan kepada saya mengenai politik?
+- Apakah yang pelajaran ini ajarkan kepada saya mengenai keyakinan pribadi saya?
+- Apakah yang pelajaran ini ajarkan kepada saya mengenai peribadatan?
 
-Apa yang diajarkan pelajaran minggu ini kepadaku tentang keyakinan yang kupegang secara pribadi?
+## Bacaan Pekan Ini
 
-Apa yang diajarkan pelajaran minggu ini kepadaku tentang penyembahan?
+*Alfa dan Omega*, jilid 8, pasal 35.
 
-## Wawasan Tambahan
-
-> “Kepada mereka yang dengan rendah hati mencari tuntunan ilahi, malaikat-malaikat Allah datang mendekat. Roh Kudus diberikan untuk membukakan bagi mereka kekayaan kebenaran yang berlimpah.”
-
-— Ellen G. White, *Christ’s Object Lessons*, hlm. 59 (terjemahan dari kutipan sumber bahasa Inggris).
-
-> “Allah dapat memberikan kelepasan melalui sedikit orang maupun melalui banyak orang. Ia dihormati bukan terutama karena banyaknya jumlah mereka, melainkan karena karakter orang-orang yang melayani-Nya.”
-
-— Ellen G. White, *Patriarchs and Prophets*, hlm. 550 (terjemahan dari kutipan sumber bahasa Inggris).
+*Penyesuaian khusus terhadap seri* Alfa dan Omega *telah dibuat bagi pembaca muda oleh Ellen G. White Estate dan Pacific Press. Dengan mengikuti rencana ini, kamu akan membaca setidaknya satu buku dari seri* Alfa dan Omega *setiap tahun.*

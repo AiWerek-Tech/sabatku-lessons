@@ -16,7 +16,7 @@ Ada orang-orang yang mengatur kegiatan harian mereka dengan berpatokan pada wakt
 
 Dengan menyediakan waktu untuk berdoa secara berkala sepanjang hari, kita mengundang Allah hadir bukan hanya dalam satu waktu khusus pada pagi atau malam hari, melainkan untuk memenuhi **seluruh kegiatan kita** dengan kehadiran-Nya yang kudus.
 
-## Wawasan Tambahan
+## Pandangan Lain
 
 > “Doa yang tiada putusnya adalah hubungan jiwa dengan Allah yang tidak terputus, sehingga kehidupan dari Allah mengalir ke dalam kehidupan kita; dan dari kehidupan kita, kemurnian serta kekudusan mengalir kembali kepada Allah.”
 >

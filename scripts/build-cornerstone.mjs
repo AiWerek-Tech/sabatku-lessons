@@ -67,7 +67,7 @@ export async function buildCornerstone(sourceRoot,outputRoot) {
     'out-of-the-story':'Keluar Cerita',
     'punch-lines':'Bagian Pokok',
     'did-you-know':'Apakah kamu tahu?',
-    'further-insight':'Wawasan Tambahan',
+    'further-insight':'Pandangan Lain',
     'connecting-to-life':'Buat itu Nyata',
     'weekly-reading':'Bacaan Pekan Ini'
   };

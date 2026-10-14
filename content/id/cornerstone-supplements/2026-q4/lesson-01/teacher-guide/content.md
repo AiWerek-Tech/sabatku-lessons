@@ -177,9 +177,9 @@ Bacakan pernyataan dalam bagian *Sekilas Cahaya*. Jelaskan bahwa sebagian besar 
 
 Arahkan perhatian siswa kepada ayat-ayat yang tercantum dalam pelajaran dan berkaitan dengan kisah pekan ini. Mintalah mereka membagikan ayat yang paling berbicara kepada mereka dan menjelaskan alasan mereka memilihnya.
 
-**Wawasan Tambahan (*Further Insight*)**
+**Pandangan Lain (*Further Insight*)**
 
-Tanyakan bagaimana kutipan dalam bagian *Wawasan Tambahan* menyampaikan inti kisah yang dipelajari pekan ini.
+Tanyakan bagaimana kutipan dalam bagian *Pandangan Lain* menyampaikan inti kisah yang dipelajari pekan ini.
 
 ## III. Penutup
 

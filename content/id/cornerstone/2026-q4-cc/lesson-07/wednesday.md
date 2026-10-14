@@ -1,59 +1,59 @@
 ## Bacaan Alkitab
 
-Bacalah ayat-ayat dalam bagian **Bagian Pokok** di bawah ini.
+Bacalah ayat-ayat pada bagian **Bagian Pokok**.
 
 ## Buat itu Nyata
 
-Setelah membaca **Bagian Pokok**, renungkan surat berikut yang ditulis oleh **Karen Watson**, seorang misionaris di Irak. Surat itu bertanggal **7 Maret 2003**. Karen terbunuh bersama empat misionaris lainnya pada **15 Maret 2004**.
+Setelah membaca **Bagian Pokok**, renungkan surat berikut yang ditulis oleh **Karen Watson**, seorang penginjil Southern Baptist untuk Irak. Surat ini bertanggal **7 Maret 2003**. Karen terbunuh bersama empat penginjil lainnya pada **15 Maret 2004**.
 
-> **Untuk Pendeta Phil dan Pendeta Roger yang terkasih,**
+> **Kepada Pendeta Phil dan Pendeta Roger yang terkasih,**
 >
-> Kalian seharusnya baru membuka surat ini jika aku telah meninggal.
+> Anda harus membuka surat saya pada peristiwa kematian saya.
 >
-> Ketika Allah memanggil, tidak ada penyesalan. ... Aku tidak dipanggil ke suatu tempat. Aku dipanggil kepada-Nya. Tujuanku adalah taat; penderitaan adalah sesuatu yang sudah kuperkirakan; kemuliaan-Nya adalah upahku, kemuliaan-Nya adalah upahku.
+> Ketika Tuhan memanggil, di sana tidak ada penyesalan. ... Saya tidak dipanggil ke suatu tempat. Saya dipanggil kepada-Nya. Taat adalah tujuan saya; penderitaan adalah yang saya harapkan; kemuliaan-Nya adalah upah saya, kemuliaan-Nya adalah upah saya.
 >
-> Salah satu hal terpenting yang perlu diingat saat ini ialah menjaga agar pekerjaan pelayanan tetap berjalan. ...
+> Salah satu hal yang paling penting untuk diingat sekarang ini adalah memelihara pekerjaan ini. ...
 >
-> Terima kasih banyak atas semua doa dan dukungan kalian. Sungguh, upah kalian di surga akan besar. Terima kasih karena sudah berinvestasi dalam hidup dan pertumbuhan rohaniku. Teruslah mengutus misionaris. Teruslah membina para pendeta muda yang baik.
+> Saya berterima kasih atas doa dan dukungan Anda. Tentunya upah Anda besar di surga. Terima kasih karena telah berinvestasi dalam hidup dan kesejahteraan rohani saya. Tetaplah mengirimkan penginjil. Teruslah membina pendeta-pendeta muda.
 >
-> Dalam setiap pelayanan, jagalah agar semuanya tetap sederhana dan tidak berlebihan. Ya, sesederhana ini: beritakan saja Injil. ... Beranilah dan beritakan Injil yang menyelamatkan hidup, mengubah hidup, dan membawa kehidupan kekal. Berikan kemuliaan dan hormat kepada Bapa kita.
+> Sehubungan dengan beberapa pelayanan, jagalah agar tetap kecil dan sederhana. Ya, sederhana: kabarkan Injil. ... Saksikan dan kabarkan keselamatan jiwa, perubahan hidup, dan Injil yang kekal. Berilah pujian dan kehormatan hanya kepada Bapa.
 >
-> **Hati Seorang Misionaris:**
+> **Hati seorang penginjil:**
 >
-> Pedulilah lebih besar daripada yang menurut sebagian orang bijaksana.
+> Lebih kepada peduli daripada bijaksana.
 >
-> Beranilah mengambil risiko lebih besar daripada yang menurut sebagian orang aman.
+> Lebih kepada mengambil risiko daripada mencari aman.
 >
-> Bermimpilah lebih besar daripada yang menurut sebagian orang realistis.
+> Lebih kepada bermimpi daripada sesuatu yang praktis.
 >
-> Berharaplah lebih besar daripada yang menurut sebagian orang mungkin.
+> Lebih kepada berharap daripada sesuatu yang masuk akal.
 >
-> Aku tidak dipanggil untuk mencari kenyamanan atau kesuksesan, melainkan untuk taat. ... Tidak ada sukacita di luar mengenal Yesus dan melayani-Nya. Aku mengasihi kalian berdua dan keluarga jemaatku.
+> Saya dipanggil bukan untuk merasa nyaman atau sukses, melainkan untuk taat. ... Tidak ada sukacita di luar mengenal Yesus dan melayani Dia. Saya mengasihi Anda berdua dan keluarga gereja saya.
 >
-> Dalam pemeliharaan-Nya,
+> **Dalam kasih-Nya,**
 >
 > **Karen.**
 
-*Sumber surat:* “Keep Sending Missionaries,” *Baptist Press*, 24 Maret 2004. Elipsis dan pengulangan frasa dipertahankan sesuai kutipan dalam dokumen pelajaran.
+*Sumber surat:* “Keep Sending Missionaries,” *Baptist Press*, 24 Maret 2004. Bagian yang tidak ditampilkan dalam kutipan ditandai dengan elipsis.
 
 ## Bagian Pokok
 
-> “Umat-Ku datang kepadamu seperti biasanya. Mereka duduk di hadapanmu untuk mendengarkan perkataanmu, tetapi tidak melakukannya. Mulut mereka berbicara tentang kasih, tetapi hati mereka serakah mengejar keuntungan yang tidak benar. Bagi mereka, engkau tidak lebih daripada seseorang yang menyanyikan lagu-lagu cinta dengan suara indah dan memainkan alat musik dengan baik. Mereka mendengar perkataanmu, tetapi tidak melakukannya.”
+> “Dan mereka datang kepadamu seperti rakyat berkerumun dan duduk di hadapanmu sebagai umat-Ku; mereka mendengar apa yang kauucapkan, tetapi mereka tidak melakukannya; mulut mereka penuh dengan kata-kata cinta kasih, tetapi hati mereka mengejar keuntungan yang haram. Sungguh, engkau bagi mereka seperti seorang yang melagukan syair cinta kasih dengan suara merdu dan pandai memainkan kecapi. Mereka mendengar apa yang kauucapkan, tetapi sama sekali tidak melakukannya.”
 
-— **Yehezkiel 33:31–32** (diterjemahkan dari NIV).
+— **Yehezkiel 33:31–32**.
 
-> “Taatilah ketetapan-ketetapan-Ku dan lakukanlah semuanya. Akulah TUHAN yang menguduskan kamu.”
+> “Kamu harus berpegang pada ketetapan-Ku dan melakukannya; Akulah TUHAN yang menguduskan kamu.”
 
-— **Imamat 20:8** (diterjemahkan dari NIV).
+— **Imamat 20:8**.
 
-> “Ikutilah teladanku, sama seperti aku mengikuti teladan Kristus.”
+> “Jadilah pengikutku, sama seperti aku juga menjadi pengikut Kristus.”
 
-— **1 Korintus 11:1** (diterjemahkan dari NIV).
+— **1 Korintus 11:1**.
 
-> “Ajarkanlah hal-hal ini. Berilah dorongan dan teguran dengan penuh wibawa. Jangan biarkan seorang pun meremehkanmu.”
+> “Beritakanlah semuanya itu, nasihatilah dan yakinkanlah orang dengan segala kewibawaanmu. Janganlah ada orang yang menganggap engkau rendah.”
 
-— **Titus 2:15** (diterjemahkan dari NIV).
+— **Titus 2:15**.
 
-> “Berbahagialah mereka yang mencuci jubahnya, supaya mereka memperoleh hak atas pohon kehidupan dan dapat masuk melalui pintu-pintu gerbang ke dalam kota itu.”
+> “Berbahagialah mereka yang membasuh jubahnya. Mereka akan memperoleh hak atas pohon-pohon kehidupan dan masuk melalui pintu-pintu gerbang ke dalam kota itu.”
 
-— **Wahyu 22:14** (diterjemahkan dari NIV).
+— **Wahyu 22:14**.

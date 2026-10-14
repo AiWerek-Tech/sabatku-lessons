@@ -7,7 +7,7 @@ Program cornerstone; kategori children-youth; usia rekomendasi 15–18. Kurikulu
 Pekan belajar Sabat–Jumat. Pelajaran 01: 26 September–2 Oktober; diskusi Sabat 3 Oktober. Pelajaran 13: 19–25 Desember; diskusi 26 Desember. discussionDate berbeda dari tanggal bacaan. Dasar: pendahuluan resmi mengarahkan belajar sepanjang pekan sebelum diskusi Sabat.
 
 ## Penamaan resmi
-Key Text: Ayat Inti; Flashlight: Sekilas Cahaya; What Do You Think?: Apakah Pendapatmu?; Into the Story: Ke Dalam Cerita; Out of the Story: Keluar Cerita; Punch Lines: Bagian Pokok; Did You Know?: Apakah kamu tahu?; Further Insight: Wawasan Tambahan; Connecting to Life: Buat itu Nyata; This Week’s Reading: Bacaan Pekan Ini.
+Key Text: Ayat Inti; Flashlight: Sekilas Cahaya; What Do You Think?: Apakah Pendapatmu?; Into the Story: Ke Dalam Cerita; Out of the Story: Keluar Cerita; Punch Lines: Bagian Pokok; Did You Know?: Apakah kamu tahu?; Further Insight: Pandangan Lain; Connecting to Life: Buat itu Nyata; This Week’s Reading: Bacaan Pekan Ini.
 
 ## Pembaca dan bahan pekanan
 Tujuh tab hari. Judul utama ditampilkan satu kali. Menu Bahan pekan ini mencari bagian di seluruh pekan dan membukanya dalam modal. Ayat kisah, kutipan, dan pertanyaan menggunakan pembaca Alkitab yang ada. Pertanyaan bernomor memiliki jawaban lokal masing-masing; A/NS/D berupa pilihan chip tanpa penilaian benar/salah. Identitas catatan mencakup program, bahasa, edisi, pelajaran, hari, blok. Bacaan harian mengikuti tanggal pengguna. Provider mendukung online dan unduhan offline.

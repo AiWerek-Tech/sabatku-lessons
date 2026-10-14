@@ -12,9 +12,9 @@ Ellen White pernah menulis:
 
 Berdasarkan pernyataan Ellen White itu, **mungkinkah kita merasakan surga sejak sekarang?** Jika mungkin, bagaimana caranya?
 
-Lihat juga bagian *Wawasan Tambahan* di bawah ini.
+Lihat juga bagian *Pandangan Lain* di bawah ini.
 
-## Wawasan Tambahan
+## Pandangan Lain
 
 > “Dalam kehidupan kita di dunia ini, meskipun masih dibatasi oleh dosa, sukacita terbesar dan pendidikan tertinggi ditemukan dalam pelayanan. Dan dalam kehidupan yang akan datang, ketika kita tidak lagi dibatasi oleh kelemahan manusia yang berdosa, dalam pelayananlah kita akan menemukan sukacita terbesar dan pendidikan tertinggi.”
 

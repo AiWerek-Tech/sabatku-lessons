@@ -29,7 +29,7 @@ Buatlah daftar pertanyaan yang selama ini sulit kamu pahami, lalu mulailah berdo
 7. Apakah pahala hidup kekal tampak **“terlalu indah”** bagi orang-orang benar? Mengapa atau mengapa tidak?
 8. Menurutmu, siapakah yang hendak diyakinkan melalui proses pengadilan ini?
 
-## Wawasan Tambahan
+## Pandangan Lain
 
 > “Melalui kehidupan yang penuh pemberontakan, Setan dan semua orang yang bergabung dengannya menempatkan diri mereka dalam keadaan yang begitu bertentangan dengan Allah, sehingga kehadiran-Nya sendiri menjadi api yang menghanguskan bagi mereka. Kemuliaan Dia yang adalah kasih akan membinasakan mereka.”
 

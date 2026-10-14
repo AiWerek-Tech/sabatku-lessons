@@ -60,7 +60,7 @@ Pesan Allah sampai kepada kita melalui kisah orang-orang yang berjumpa dengan-Ny
 - **Ayat Inti (*Key Text*)** — satu ayat yang menegaskan gagasan penting dari kisah tersebut. Bagian ini juga membantumu menemukan ayat yang dapat dihafalkan dan disimpan dalam ingatan untuk digunakan kelak.
 - **Bagian Pokok (*Punch Lines*)** — beberapa ayat Alkitab lain yang memperkuat gagasan utama pelajaran. Kamu mungkin menemukan hubungan antara ayat-ayat tersebut, kisah Alkitab, dan kehidupanmu sendiri.
 - **Sekilas Cahaya (*Flashlight*)** — kutipan singkat tentang pandangan Ellen White terhadap kisah yang dipelajari. Sorotan ini membantu menerangi bagian Alkitab dan memberi gambaran tentang bacaan pekanan yang dianjurkan dari ulasan terilham Ellen White atas kisah-kisah tersebut, yaitu seri *Pertentangan Segala Zaman* (*The Conflict of the Ages*).¹
-- **Wawasan Tambahan (*Further Insight*)** — satu atau dua kutipan yang memberikan wawasan lebih dalam mengenai pesan utama pelajaran.
+- **Pandangan Lain (*Further Insight*)** — satu atau dua kutipan yang memberikan wawasan lebih dalam mengenai pesan utama pelajaran.
 - **Buat itu Nyata (*Buat itu Nyata*)** — panduan untuk menjadikan kebenaran tentang Allah dalam kisah itu sebagai bagian dari kehidupanmu sendiri. Pelajarilah bahan Alkitab sepanjang pekan sebagai persiapan untuk Sekolah Sabat. Pada hari Sabat, kamu berkesempatan mengulang, mendiskusikan, dan memperdalam apa yang telah dipelajari bersama guru dan teman-teman sekelas. Setiap hari, kamu akan diarahkan untuk menjelajahi salah satu bagian pelajaran, menghubungkannya dengan pengalamanmu, dan menerapkan pesan Firman Allah secara pribadi.
 
 ---

@@ -32,7 +32,7 @@ Dalam bacaan hari ini, kita melihat gambaran tentang panen itu. Mengapa Allah in
 
 > “Berjaga-jagalah, berdirilah teguh dalam iman, bersikaplah berani, dan jadilah kuat.”
 
-## Wawasan Tambahan
+## Pandangan Lain
 
 > “Karena itu, para pengikut Kristus harus memancarkan terang ke dalam kegelapan dunia. Melalui Roh Kudus, firman Allah menjadi terang yang membawa kuasa perubahan dalam kehidupan orang yang menerimanya.”
 >

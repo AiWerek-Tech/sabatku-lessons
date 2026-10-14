@@ -176,7 +176,7 @@ Anda dapat mempertimbangkan untuk membagi topik ini menjadi tiga bagian, mengiku
 - **Ayat Inti (*Key Text*):** Undang siswa yang sudah menghafal ayat tersebut untuk menyampaikannya kepada kelas.
 - **Sekilas Cahaya (*Flashlight*):** Bacakan pernyataan dalam bagian ini. Jelaskan bahwa biasanya pernyataan tersebut diambil dari ulasan mengenai kisah pekan ini yang terdapat dalam buku *The Great Controversy*. Tanyakan kepada siswa apa hubungan pernyataan itu dengan hal-hal yang baru saja mereka bahas dalam **Keluar Cerita (*Out of the Story*)**.
 - **Bagian Pokok (*Punch Lines*):** Tunjukkan ayat-ayat dalam pelajaran siswa yang berkaitan dengan kisah pekan ini. Mintalah mereka membaca ayat-ayat itu dan menyebutkan ayat yang paling berbicara kepada mereka hari ini. Ajak mereka menjelaskan alasan memilih ayat tersebut. Sebagai alternatif, Anda dapat membagi ayat-ayat itu kepada kelompok beranggotakan dua siswa untuk dibaca dengan suara nyaring, kemudian didiskusikan sebelum mereka memilih ayat yang paling relevan.
-- **Wawasan Tambahan (*Further Insight*):** Tanyakan bagaimana kutipan-kutipan dalam bagian tersebut menyampaikan pesan utama kisah yang dipelajari.
+- **Pandangan Lain (*Further Insight*):** Tanyakan bagaimana kutipan-kutipan dalam bagian tersebut menyampaikan pesan utama kisah yang dipelajari.
 
 ---
 

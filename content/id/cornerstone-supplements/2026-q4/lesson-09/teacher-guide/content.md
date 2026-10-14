@@ -131,7 +131,7 @@ Arahkan siswa untuk membuka bagian-bagian lain dalam materi pelajaran mereka.
 - **Ayat Inti (*Key Text*)** — Undang siswa yang sudah menghafalnya untuk menyampaikan Ayat Inti di depan kelas.
 - **Sekilas Cahaya (*Flashlight*)** — Bacalah pernyataan dalam bagian ini. Jelaskan bahwa kutipannya biasanya berasal dari pembahasan kisah minggu tersebut dalam buku *The Great Controversy*. Tanyakan hubungan yang mereka temukan antara pernyataan itu dan hal-hal yang baru mereka diskusikan dalam bagian *Keluar Cerita*.
 - **Bagian Pokok (*Punch Lines*)** — Tunjukkan ayat-ayat dalam pelajaran yang berkaitan dengan kisah minggu ini. Mintalah siswa membagikan ayat yang paling menyentuh mereka dan menjelaskan alasan mereka memilihnya.
-- **Wawasan Tambahan (*Further Insight*)** — Tanyakan bagaimana kutipan dalam bagian ini membantu menyampaikan pesan utama kisah yang dipelajari.
+- **Pandangan Lain (*Further Insight*)** — Tanyakan bagaimana kutipan dalam bagian ini membantu menyampaikan pesan utama kisah yang dipelajari.
 
 ### Rabbi 101 — Tips Mengajar yang Efektif
 

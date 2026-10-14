@@ -73,7 +73,7 @@ Ide kekekalan jiwa berasal dari filsuf Yunani—atau paling tidak, melalui merek
 
 Dr. Emile Brunner, seorang profesor teologi sistematis dan praktis, mengatakannya dengan jelas: “Menurut ajaran Plato: Tubuh itu fana, jiwa itu kekal. Wadah fana membungkus esensi yang kekal yang ketika mati membebaskannya dari cangkang luarnya. ... Tetapi solusi ini untuk masalah kematian berdiri dalam oposisi tak terdamaikan dengan pemikiran Kristen.”
 
-## Wawasan Tambahan
+## Pandangan Lain
 
 Pandangan lain:
 

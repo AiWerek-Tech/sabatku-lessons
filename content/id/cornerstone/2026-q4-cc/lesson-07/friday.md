@@ -4,8 +4,6 @@
 
 ## Buat itu Nyata
 
-Alkitab memperingatkan bahwa pada akhir zaman si jahat akan **“memerangi umat yang sisa”** (Wahyu 12:17, diterjemahkan dari KJV). Apakah kamu melihat dampak peperangan rohani di dunia saat ini?
+Alkitab mengingatkan bahwa pada hari-hari terakhir si jahat akan **“pergi memerangi keturunannya yang lain”** (**Wahyu 12:17**). Apakah kamu melihat pengaruh peperangan itu di dunia sekarang ini? Bagaimana pengaruhnya dalam kehidupanmu secara pribadi?
 
-Bagaimana dengan kehidupanmu sendiri? Apakah kamu juga merasakannya? Jika ya, dalam hal apa?
-
-Apa cara terbaik untuk menghadapi peperangan rohani (lihat **2 Tawarikh 20:15**)?
+Bagaimana cara terbaik untuk berperang dalam peperangan rohani? Lihat **2 Tawarikh 20:15**.

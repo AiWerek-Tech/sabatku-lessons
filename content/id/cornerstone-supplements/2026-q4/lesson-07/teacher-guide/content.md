@@ -179,9 +179,9 @@ Bacakan pernyataan pada bagian Sekilas Cahaya. Jelaskan bahwa kutipan ini pada u
 
 Tunjukkan kepada siswa ayat-ayat yang tercantum dalam pelajaran mereka dan berkaitan dengan kisah minggu ini. Mintalah mereka menyampaikan ayat yang paling berbicara secara pribadi kepada mereka, kemudian beri kesempatan untuk menjelaskan alasan mereka memilihnya.
 
-**Wawasan Tambahan (*Further Insight*)**
+**Pandangan Lain (*Further Insight*)**
 
-Tanyakan bagaimana kutipan-kutipan dalam Wawasan Tambahan menyampaikan pesan utama kisah dalam pelajaran ini.
+Tanyakan bagaimana kutipan-kutipan dalam Pandangan Lain menyampaikan pesan utama kisah dalam pelajaran ini.
 
 ### Rabbi 101 — Tips Mengajar yang Efektif
 

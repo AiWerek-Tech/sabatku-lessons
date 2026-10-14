@@ -60,7 +60,7 @@ Jika Tuhan berbicara kepadamu melalui gambaran kisah kelahiran dosa ini, pekabar
 
 Kamus menjelaskan sindrom sebagai kumpulan tanda dan gejala suatu penyakit atau gangguan, atau kumpulan peristiwa yang membentuk pola yang dapat dikenali, biasanya pola yang tidak diinginkan. Gabungan kata itu menggambarkan keadaan ketika kita melakukan sesuatu yang salah, salah sasaran, lalu menimbulkan kerusakan yang terus berkembang seperti penyakit.
 
-## Wawasan Tambahan
+## Pandangan Lain
 
 **Pandangan Lain — Martin Luther**
 

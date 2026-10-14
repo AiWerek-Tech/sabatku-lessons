@@ -4,6 +4,4 @@
 
 ## Buat itu Nyata
 
-Bacalah kembali **Ayat Inti** pelajaran minggu ini.
-
-Bagaimana kita dapat melindungi diri dari berbagai tipu daya si jahat?
+Bacalah **Ayat Inti**. Bagaimanakah kita bisa membentengi diri kita dari penipuan Iblis?

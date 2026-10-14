@@ -1,37 +1,21 @@
 ## Bacaan Alkitab
 
-**1 Petrus 2:5, 9; Kisah Para Rasul 5:12–29; 2 Korintus 5:20**
+- **Lukas 20:25**
+- **1 Petrus 2:5**
+- **1 Petrus 2:9**
+- **Roma 13:1–7**
+- **Filipi 2:12**
 
 ## Buat itu Nyata
 
-Bacalah ayat-ayat Alkitab di atas, lalu renungkan apa maknanya bagimu.
+Bacalah tambahan **Bagian Pokok** dan kutipan W. A. Criswell berikut, kemudian renungkan pertanyaannya.
 
-Menurutmu, apa tantangan terbesar ketika pemerintah dan gereja saling terlibat terlalu jauh dalam urusan satu sama lain?
+**Tambahan Bagian Pokok:** Lukas 20:25; 1 Petrus 2:5, 9; Roma 13:1–7.
 
-Apa kewajiban kita sebagai orang Kristen, apa pun keadaan yang kita hadapi, bahkan ketika mengalami penganiayaan?
+> “Salah satu pemberian Gereja Baptis terbesar kepada warisan Pembaruan adalah kewaspadaan penuh bagi pribadi pendeta yang percaya (1 Petrus 2:5, 9) untuk ‘kerjakan keselamatanmu dengan takut dan gentar’ (Filipi 2:12); mereka tidak boleh terhambat oleh intervensi pemerintah.”
 
-## Bagian Pokok
+— W. A. Criswell.
 
-> “Sebab pada waktu kesesakan Ia akan melindungi aku di tempat kediaman-Nya; Ia akan menyembunyikan aku di tempat perlindungan kemah-Nya yang kudus dan menempatkan aku tinggi di atas gunung batu.”
-
-— **Mazmur 27:5** (diterjemahkan dari NIV).
-
-> “Tetapi orang yang bertahan sampai akhir akan diselamatkan.”
-
-— **Matius 24:13** (diterjemahkan dari NIV).
-
-> “Kemudian mereka berkumpul mengelilingi Dia dan bertanya, ‘Tuhan, apakah sekarang Engkau akan memulihkan kerajaan bagi Israel?’”
-
-— **Kisah Para Rasul 1:6** (diterjemahkan dari NIV).
-
-> “Ia berkata kepada mereka, ‘Kamu tidak perlu mengetahui waktu atau masa yang telah ditetapkan Bapa dengan kuasa-Nya sendiri.’”
-
-— **Kisah Para Rasul 1:7** (diterjemahkan dari NIV).
-
-> “Lalu aku melihat orang-orang mati, besar dan kecil, berdiri di hadapan takhta itu. Kitab-kitab dibuka. Kemudian dibuka juga sebuah kitab lain, yaitu kitab kehidupan. Orang-orang mati dihakimi menurut perbuatan mereka, sebagaimana tercatat dalam kitab-kitab itu.”
-
-— **Wahyu 20:12** (diterjemahkan dari NIV).
-
-> “Sebab Roh nubuatlah yang memberikan kesaksian tentang Yesus.”
-
-— **Wahyu 19:10** (diterjemahkan dari NIV).
+- Setelah membaca pasal 35 dalam *Alfa dan Omega*, jilid 8, bagaimanakah menurut kamu Ellen White menanggapi pemikiran Criswell mengenai kebebasan?
+- Apakah yang kamu lihat sebagai tantangan utama ketika pemerintah dan gereja saling terlibat?
+- Apakah memisahkan gereja dengan negara berarti umat Kristen seharusnya tidak memiliki kewarganegaraan? Mengapa ya atau mengapa tidak?

@@ -4,14 +4,8 @@
 
 ## Buat itu Nyata
 
-Bacalah kembali **Ayat Inti** pekan ini. Kemudian renungkan kutipan berikut dari *The Great Controversy*, halaman 582–583.
+Bacalah kembali **Ayat Inti**. Pertimbangkan komentar berikut dari *Life Application Bible*:
 
-> “Firman Allah yang kudus, yang diwariskan kepada kita melalui begitu banyak penderitaan dan pertumpahan darah, justru hanya sedikit dihargai. ...
->
-> “Meskipun dalam bentuk yang berbeda, penyembahan berhala masih ada di dunia Kristen sekarang, sama nyatanya seperti pada zaman Israel dahulu ketika Elia hidup. Allah yang dipuja oleh banyak orang yang dianggap bijaksana—para filsuf, penyair, politikus, wartawan—oleh kalangan terpelajar dan masyarakat yang mengikuti mode, bahkan oleh beberapa lembaga pendidikan teologi, tidak jauh berbeda dari Baal, dewa matahari bangsa Fenisia.”
+> “Rasul Paulus mengatakan kepada kita bahwa kita sekarang berada dalam pertempuran (Efesus 6:10–12). Yohanes berkata bahwa perang itu masih berlangsung, tetapi hasilnya telah ditentukan. Setan dan pengikutnya telah dikalahkan dan akan dihancurkan. Namun, Setan berjuang setiap hari untuk membawa lebih banyak orang ke dalam barisannya dan mempertahankan barisannya sendiri agar tidak berpindah ke pihak Allah. Tuhan tidak akan kalah dalam peperangan ini, tetapi kita harus memastikan bahwa kita tidak kalah dalam pertempuran bagi jiwa kita sendiri. Jangan goyah dalam komitmenmu kepada Kristus. Sebuah peperangan rohani yang besar sedang berkecamuk, dan tidak ada waktu untuk bingung.”
 
-— Ellen G. White, *The Great Controversy*, hlm. 582–583 (diterjemahkan dari kutipan yang ditampilkan di bagian *Buat itu Nyata*; tanda elipsis mengikuti sumber).
-
-## Apakah kamu tahu?
-
-Dalam **Wahyu 12:17**, para pengikut Allah yang setia digambarkan sebagai orang-orang yang memelihara perintah-perintah-Nya dan **“berpegang teguh pada kesaksian tentang Yesus.”** Menurut **Wahyu 19:10**, “kesaksian tentang Yesus” ini adalah **“roh nubuat”**. Artinya, Yesus berkomunikasi dengan umat-Nya melalui karunia bernubuat.
+Renungkan pesan tersebut. Bagaimana kamu dapat tetap teguh dalam komitmen kepada Kristus di tengah peperangan rohani?
