@@ -1,0 +1,64 @@
+{
+  "id": "lesson-11",
+  "title": "Perubahan Rencana",
+  "startDate": "2026-12-05",
+  "endDate": "2026-12-11",
+  "discussionDate": "2026-12-12",
+  "teacherGuideAvailable": true,
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Perubahan Rencana",
+      "date": "2026-12-05",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-12-06",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-12-07",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-12-08",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-12-09",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-12-10",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-12-11",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "english-student",
+      "title": "English · Student · Lesson 11",
+      "src": "https://www.juniorpowerpoints.org/assets/juniors/Lessons/2026/Q4/English/Student/PP-26-Q4-L11.pdf"
+    },
+    {
+      "id": "english-teacher",
+      "title": "English · Teacher’s Guide · Lesson 11",
+      "src": "https://www.juniorpowerpoints.org/assets/juniors/Lessons/2026/Q4/English/Teacher/PP-26-Q4-L11-T.pdf"
+    }
+  ]
+}

@@ -8,6 +8,7 @@ const json = async file => JSON.parse(await readFile(file, 'utf8'));
 const publicationStatuses = new Set(['draft', 'published']);
 
 const collectionTypes = {
+  'powerpoints-supplements': { audience: 'children-youth', programs: ['powerpoints'], studyPrefix: 'powerpoints', resourcePrefix: 'powerpoints-supplement' },
   'adult-supplements': { audience: 'adult', programs: ['adult-standard', 'adult-easy-reading'], studyPrefix: 'adult', resourcePrefix: 'adult-supplement' },
   'cornerstone-supplements': { audience: 'children-youth', programs: ['cornerstone'], studyPrefix: 'cornerstone', resourcePrefix: 'cornerstone-supplement' },
 };

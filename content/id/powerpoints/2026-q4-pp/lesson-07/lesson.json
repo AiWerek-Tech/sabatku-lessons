@@ -1,0 +1,64 @@
+{
+  "id": "lesson-07",
+  "title": "Rencana Pembangunan",
+  "startDate": "2026-11-07",
+  "endDate": "2026-11-13",
+  "discussionDate": "2026-11-14",
+  "teacherGuideAvailable": true,
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Rencana Pembangunan",
+      "date": "2026-11-07",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-11-08",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-11-09",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-11-10",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-11-11",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-11-12",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-11-13",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "english-student",
+      "title": "English · Student · Lesson 07",
+      "src": "https://www.juniorpowerpoints.org/assets/juniors/Lessons/2026/Q4/English/Student/PP-26-Q4-L07.pdf"
+    },
+    {
+      "id": "english-teacher",
+      "title": "English · Teacher’s Guide · Lesson 07",
+      "src": "https://www.juniorpowerpoints.org/assets/juniors/Lessons/2026/Q4/English/Teacher/PP-26-Q4-L07-T.pdf"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "lesson-03",
+  "title": "Janji yang Ditepati",
+  "startDate": "2026-10-10",
+  "endDate": "2026-10-16",
+  "discussionDate": "2026-10-17",
+  "teacherGuideAvailable": true,
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Janji yang Ditepati",
+      "date": "2026-10-10",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-10-11",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-10-12",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-10-13",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-10-14",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-10-15",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-10-16",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "english-student",
+      "title": "English · Student · Lesson 03",
+      "src": "https://www.juniorpowerpoints.org/assets/juniors/Lessons/2026/Q4/English/Student/PP-26-Q4-L03.pdf"
+    },
+    {
+      "id": "english-teacher",
+      "title": "English · Teacher’s Guide · Lesson 03",
+      "src": "https://www.juniorpowerpoints.org/assets/juniors/Lessons/2026/Q4/English/Teacher/PP-26-Q4-L03-T.pdf"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "lesson-05",
+  "title": "Berlari Bersama Allah",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-30",
+  "discussionDate": "2026-10-31",
+  "teacherGuideAvailable": true,
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Berlari Bersama Allah",
+      "date": "2026-10-24",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-10-25",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-10-26",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-10-27",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-10-28",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-10-29",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-10-30",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "english-student",
+      "title": "English · Student · Lesson 05",
+      "src": "https://www.juniorpowerpoints.org/assets/juniors/Lessons/2026/Q4/English/Student/PP-26-Q4-L05.pdf"
+    },
+    {
+      "id": "english-teacher",
+      "title": "English · Teacher’s Guide · Lesson 05",
+      "src": "https://www.juniorpowerpoints.org/assets/juniors/Lessons/2026/Q4/English/Teacher/PP-26-Q4-L05-T.pdf"
+    }
+  ]
+}

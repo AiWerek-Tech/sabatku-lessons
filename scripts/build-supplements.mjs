@@ -8,7 +8,7 @@ function publicUrl(...segments) {
   return segments.join('/').replace(/^\/+|\/+$/g, '');
 }
 
-const collectionFolders = ['adult-supplements', 'cornerstone-supplements'];
+const collectionFolders = ['adult-supplements', 'cornerstone-supplements', 'powerpoints-supplements'];
 
 /** Build Android-consumable static indexes for weekly and quarter-level supplements. */
 export async function buildSupplements(contentRoot) {

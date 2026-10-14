@@ -1,0 +1,64 @@
+{
+  "id": "lesson-08",
+  "title": "Pertempuran Allah",
+  "startDate": "2026-11-14",
+  "endDate": "2026-11-20",
+  "discussionDate": "2026-11-21",
+  "teacherGuideAvailable": true,
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Pertempuran Allah",
+      "date": "2026-11-14",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-11-15",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-11-16",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-11-17",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-11-18",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-11-19",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-11-20",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "english-student",
+      "title": "English · Student · Lesson 08",
+      "src": "https://www.juniorpowerpoints.org/assets/juniors/Lessons/2026/Q4/English/Student/PP-26-Q4-L08.pdf"
+    },
+    {
+      "id": "english-teacher",
+      "title": "English · Teacher’s Guide · Lesson 08",
+      "src": "https://www.juniorpowerpoints.org/assets/juniors/Lessons/2026/Q4/English/Teacher/PP-26-Q4-L08-T.pdf"
+    }
+  ]
+}
