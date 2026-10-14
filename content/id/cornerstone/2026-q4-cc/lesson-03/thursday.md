@@ -4,18 +4,14 @@
 
 ## Buat itu Nyata
 
-Dalam bacaan hari ini, Paulus berkata:
-
-> “Allah, sumber damai sejahtera, akan segera menghancurkan Setan di bawah kakimu. Kasih karunia Tuhan kita Yesus Kristus menyertai kamu. Amin.”
+> “Semoga Allah, sumber damai sejahtera, segera akan menghancurkan Iblis di bawah kakimu. Kasih karunia Yesus, Tuhan kita, menyertai kamu!”
 >
-> **Roma 16:20** — diterjemahkan dari NKJV.
+> **Roma 16:20**
 
-Bagaimana hal itu bisa terjadi? Dalam hal apa cara kita menjalani hidup dapat ikut **“menghancurkan” Setan**?
+Bagaimana hal ini dapat terjadi? Dalam cara apa kehidupan kita dapat “menghancurkan” Iblis?
 
-Bagaimana tindakan kasih, kebaikan hati, belas kasihan, dan keadilan yang kita lakukan dapat menjadi pukulan telak bagi kerajaan kejahatan?
+Bagaimana tindakan kasih, kebaikan, kemurahan, dan keadilan dapat menjadi pukulan terhadap kerajaan Iblis? Dapatkah tindakan yang menunjukkan kasih Allah menghapus pandangan keliru dan kebohongan tentang Allah?
 
-Apakah tindakan-tindakan yang mencerminkan kasih Allah itu dapat menghapus pandangan keliru dan kebohongan yang disebarkan Setan tentang Allah?
+Saat melayani pekan ini, ingatlah bahwa salah satu senjata Iblis yang paling mematikan adalah membuat orang percaya pada hal yang salah tentang Allah. Senjata utamanya adalah penipuan.
 
-Saat kamu melayani Allah sepanjang pekan ini, ingatlah bahwa salah satu senjata Setan yang paling mematikan adalah membuat orang percaya pada sesuatu yang keliru tentang Allah. Senjata utamanya adalah **penipuan**.
-
-**Apa saja yang dapat kamu lakukan untuk menyampaikan kebenaran tentang karakter Allah kepada orang lain?**
+**Apa yang dapat kamu lakukan untuk menyampaikan kebenaran tentang karakter Allah?**

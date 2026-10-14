@@ -1,11 +1,9 @@
-## Bacaan Alkitab
+### Bacaan Alkitab
 
 **Kejadian 7:23; Wahyu 22:10–11**
 
 ## Buat itu Nyata
 
-Ayat Inti pekan ini mungkin terdengar keras. Namun, ketika Alkitab mengatakan bahwa hanya Nuh dan keluarganya yang selamat di dalam bahtera, kisah itu menunjukkan orang-orang yang telah memilih untuk tetap setia kepada Allah.
+Ayat Inti dalam Kejadian 7:23 kelihatannya kejam. Namun, ketika Alkitab mengatakan bahwa hanya Nuh dan keluarganya yang diselamatkan di dalam bahtera, hal itu menggambarkan sebuah garis bagi mereka yang berada di dalam dan mereka yang berada di luar.
 
-Bandingkan ayat dalam kitab Kejadian dengan ayat dalam kitab Wahyu. Keduanya menggambarkan sebuah penghakiman ketika Allah menetapkan batas antara mereka yang berada di dalam dan mereka yang berada di luar. Setiap orang mempunyai pilihan untuk menentukan di pihak mana mereka akan berada. Dalam situasi yang begitu serius, bagaimana kamu melihat sifat Allah yang penuh kasih?
-
-Bagaimana kamu akan menjawab pertanyaan ini: **"Bagaimana Allah tetap dapat dipandang sebagai Allah yang penuh kasih di tengah penghakiman?"**
+Setiap orang memiliki pilihan untuk menentukan di sisi mana mereka berdiri. Bagaimanakah kamu melihat karakter Allah yang penuh kasih ditunjukkan melalui pengaturan yang tegas ini? Bagaimanakah kamu menjawab pertanyaan, “Bagaimanakah Tuhan dilihat sebagai pengasih dalam adegan penghakiman?”

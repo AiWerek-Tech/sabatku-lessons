@@ -1,23 +1,12 @@
 ## Bacaan Alkitab
 
-**Yohanes 11:1–15**
+- **Yohanes 11:1–15**
+- **1 Korintus 15:54**
 
 ## Buat itu Nyata
 
-Pemahaman bahwa kematian adalah keadaan seperti tidur bukan hanya dianut oleh umat Advent. Martin Luther, seorang tokoh Reformasi Protestan pada abad ke-16, pernah berkata:
+Ide mengenai jiwa yang tidur adalah keyakinan yang dipegang oleh lebih banyak orang selain umat Advent. Martin Luther, seorang pembaru Protestan pada abad ke-16, mengatakan hal ini:
 
-> "Kita perlu belajar memandang kematian dengan cara yang benar agar kita tidak menjadi takut seperti orang yang tidak percaya. Sebab, di dalam Kristus, kematian sesungguhnya bukanlah kematian, melainkan tidur yang indah, tenang, dan singkat. Tidur itu membebaskan kita dari lembah air mata ini, dari dosa, dari ketakutan dan kedahsyatan kematian yang sesungguhnya, serta dari segala kesusahan hidup. Kita akan beristirahat dengan aman, tanpa kekhawatiran, tidur dengan manis dan tenang untuk sesaat, seolah-olah berbaring di sofa, sampai tiba waktunya ketika Dia memanggil dan membangunkan kita bersama semua anak-Nya yang dikasihi untuk menerima kemuliaan dan sukacita-Nya yang kekal. Karena kita menyebutnya tidur, kita tahu bahwa kita tidak akan tetap berada di dalamnya, melainkan akan dibangunkan kembali dan hidup. Waktu selama kita tertidur pun akan terasa tidak lebih lama daripada saat kita baru saja terlelap."
+> “Kita harus belajar untuk melihat kematian dalam terang yang tepat, sehingga kita tidak perlu khawatir seperti orang-orang yang tidak percaya. Karena di dalam Kristus memang tidak ada kematian, tetapi tidur nyenyak, yang manis dan singkat, yang membawa kita terlepas dari lembah air mata, dari dosa dan dari rasa takut dan kengerian kematian yang sesungguhnya dan dari semua kemalangan hidup ini. Kita pasti aman dan tanpa beban perasaan, beristirahat dengan manis dan tenang untuk sesaat, seperti di sofa, sampai saat Ia akan memanggil dan membangunkan kita bersama-sama dengan semua anak-anak-Nya untuk kemuliaan dan sukacita-Nya yang kekal. Sebab kita menyebutnya tidur, kita tahu bahwa kita tidak akan tetap dalam kubur, tetapi akan kembali terbangun dan hidup, dan bahwa waktu yang berlalu selama kita tidur tidak akan terasa lagi seolah-olah kita baru saja tertidur.”
 
-— Martin Luther, dikutip dalam *A Compend of Luther's Theology*, disunting oleh Hugh Thomson Ker, Jr., hlm. 242 (terjemahan dari kutipan sumber).
-
-## Apakah kamu tahu?
-
-Gagasan tentang jiwa yang tidak dapat mati berasal dari para filsuf Yunani penyembah berhala—atau setidaknya, melalui pemikiran merekalah gagasan itu akhirnya masuk ke dalam teologi Kristen.
-
-> "Alkitab menyatakan bahwa orang mati tidak mengetahui apa-apa, bahwa pikiran mereka telah lenyap. Mereka tidak lagi mengambil bagian dalam apa pun yang terjadi di bawah matahari. Mereka tidak mengetahui sukacita maupun kesedihan orang-orang yang dahulu paling mereka kasihi di dunia."
-
-— Ellen G. White, *The Great Controversy*, hlm. 556 (terjemahan dari kutipan sumber).
-
-> "Tetapi kematian bukanlah akhir perjalanan. Kubur bukanlah malam yang gelap tanpa pagi. Orang Kristen tidak pernah mengucapkan selamat tinggal untuk yang terakhir kalinya, karena akan ada pertemuan kembali yang penuh kemuliaan pada pagi kebangkitan. ... Pada hari itu, segalanya akan mencapai kemenangan akhir, 'ketika maut ditelan dalam kemenangan' (**1 Korintus 15:54**)."
-
-— Mark Finley, *Solid Ground*, hlm. 325, 226 (nomor halaman mengikuti yang tercetak pada PDF sumber; terjemahan dari kutipan sumber).
+— *A Compend of Luther’s Theology*, disunting oleh Hugh Thomson Ker, Jr., hlm. 242.

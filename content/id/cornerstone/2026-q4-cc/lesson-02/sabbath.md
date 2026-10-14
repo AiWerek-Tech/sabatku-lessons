@@ -2,48 +2,40 @@
 
 ## Ayat Inti
 
-> "Segala makhluk hidup di muka bumi dilenyapkan: manusia, binatang, makhluk yang bergerak di atas tanah, dan burung-burung. Semuanya lenyap dari bumi. Hanya Nuh yang tersisa, bersama mereka yang ada dengannya di dalam bahtera."
+> “Demikianlah dihapuskan Allah segala yang ada, segala yang di muka bumi, baik manusia maupun hewan dan binatang melata dan burung-burung di udara, sehingga semuanya itu dihapuskan dari atas bumi; hanya Nuh yang tinggal hidup dan semua yang bersama-sama dengan dia dalam bahtera itu.”
 >
-> **Kejadian 7:23** — diterjemahkan dari NIV.
+> **Kejadian 7:23**
 
 ## Sekilas Cahaya
 
-> "Semua orang yang benar-benar telah bertobat dari dosa dan dengan iman menerima darah Kristus sebagai korban pendamaian bagi mereka, telah mendapat catatan pengampunan di samping nama mereka dalam kitab-kitab surga. Karena mereka telah mengambil bagian dalam kebenaran Kristus dan tabiat mereka didapati selaras dengan hukum Allah, dosa-dosa mereka akan dihapuskan, dan mereka sendiri akan dinyatakan layak menerima kehidupan kekal."
+> “Semua orang yang telah bertobat dari dosa dengan sungguh-sungguh, dan oleh iman mengambil darah Kristus sebagai korban pendamaian mereka ... mereka telah memperoleh bagian dalam kebenaran Kristus, dan tabiat-tabiat mereka didapati selaras dengan hukum Allah, maka dosa-dosa mereka akan dihapuskan dan mereka akan dianggap layak menerima hidup kekal.”
 >
-> — Ellen G. White, *The Great Controversy*, hlm. 483.
+> — Ellen G. White, *Alfa dan Omega*, jilid 8, hlm. 505.
+
+## Apakah Pendapatmu?
+
+Berikut ini merupakan daftar kata-kata yang menggambarkan aspek pekabaran penghakiman zaman akhir kepada dunia. Tiga kata yang manakah paling menggema bagimu? Kata yang manakah masih asing bagimu?
+
+- Perantaraan
+- Pendamaian
+- Pengampunan
+- Pertobatan
+- Pemulihan
+- Jaminan
+- Pembenaran
+- Penghakiman dosa
+- Penghakiman kebenaran
+- Penggantian
+- Penebusan dosa
+
+Mengapakah menurutmu kata-kata tertentu menggema bagimu? Apakah pertanyaan-pertanyaan yang muncul bagimu terhadap kata-kata yang terasa asing?
 
 ### Bacaan Alkitab
 
 **Matius 7:21–23**
 
-### Buat itu Nyata
+## Buat itu Nyata
 
-Baca dan kerjakan aktivitas **Apakah Pendapatmu?** dalam pelajaran pekan ini. Kata-kata mana yang paling menarik perhatianmu atau terasa dekat denganmu? Mengapa?
+Baca dan tanggapi tugas yang terdapat pada bagian *Apakah Pendapatmu?* untuk pelajaran pekan ini. Kata yang manakah paling menggema bagimu? Mengapa?
 
-Dalam bacaan hari ini, Yesus menggambarkan suatu peristiwa pada akhir zaman. Ada orang-orang yang yakin bahwa mereka akan masuk surga, tetapi kemudian diberi tahu bahwa mereka tidak akan masuk. Apa pengaruh perkataan Yesus ini terhadap dirimu?
-
-Apa yang membuat orang-orang dalam kisah Yesus itu merasa bahwa mereka sudah siap masuk surga? Atas dasar apa kamu bisa yakin bahwa ketika Allah menghakimimu, Dia menyatakanmu **"tidak bersalah"**?
-
-## Apakah Pendapatmu?
-
-Berikut ini beberapa istilah yang menggambarkan berbagai aspek pekabaran tentang penghakiman pada akhir zaman kepada dunia.
-
-**Tiga istilah mana yang langsung terasa bermakna bagimu?** Istilah mana yang masih asing atau belum kamu pahami?
-
-- Pengantaraan
-- Pendamaian atau pemulihan hubungan
-- Pengampunan
-- Pertobatan
-- Pemulihan
-- Kepastian
-- Kebenaran
-- Penghakiman atas dosa
-- Penghakiman atas orang benar
-- Penggantian
-- Penebusan dosa
-
-## Bacaan Pekan Ini
-
-*The Great Controversy* (atau *Love Under Fire*), **bab 28**.
-
-*Catatan:* *Love Under Fire* adalah adaptasi khusus dari *The Great Controversy* yang disiapkan bagi pembaca muda oleh Ellen G. White Estate dan Pacific Press. Informasi lebih lanjut tersedia di situs [Cornerstone Connections](http://www.cornerstoneconnections.net/article/191/about-us/conflict-of-the-ages-companion-books#.URlhF1rBO9s). Dengan mengikuti rencana bacaan mingguan, kamu akan membaca setidaknya satu buku dari seri *Conflict of the Ages* setiap tahun.
+Dalam Matius 7:21–23, Yesus menggambarkan sebuah adegan pada hari terakhir ketika banyak orang merasa yakin bahwa mereka akan masuk surga, tetapi kenyataannya tidak. Bagaimanakah ayat ini memengaruhimu? Atas hal apakah manusia—seperti yang Yesus sebutkan—mendasarkan kesiapan mereka untuk masuk surga? Atas dasar apakah kamu dapat merasa yakin bahwa ketika Tuhan menghakimimu, Dia menyatakan kamu “tidak bersalah”?

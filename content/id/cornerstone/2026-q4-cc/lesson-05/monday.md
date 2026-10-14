@@ -1,9 +1,10 @@
 ## Bacaan Alkitab
 
-**Mazmur 146:4**
+- **Mazmur 146:4**
+- **Pengkhotbah 9:5**
 
 ## Buat itu Nyata
 
-Ayat Inti minggu ini dan bacaan hari ini menjelaskan bahwa ketika seseorang meninggal, semua rencananya berakhir. Apa artinya hal itu menurutmu?
+Ayat Inti berbicara mengenai bagaimana jika seseorang meninggal, lenyaplah maksud-maksudnya. Apakah maksud hal ini?
 
-Setelah kamu memahami bahwa orang mati sedang "tidur", tidak sadar, dan tidak dapat diajak berkomunikasi, dari tipu daya apa saja yang sering ditemui kamu menjadi terlindungi? Mengapa pemahaman yang benar tentang hal ini begitu penting?
+Ketika kamu memahami bahwa orang yang meninggal sementara sedang “tidur”, tidak sadar, dan tidak bisa berkomunikasi, dari jenis penipuan seperti apakah kamu terlindungi? Mengapakah pemahaman yang jelas mengenai topik ini begitu penting?

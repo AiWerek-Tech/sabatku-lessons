@@ -1,17 +1,15 @@
 ## Bacaan Alkitab
 
-**Yohanes 10:9–10**
+**Wahyu 12:7–9**
 
 ## Buat itu Nyata
 
-Pikirkan bagaimana pandanganmu tentang Allah berubah dari tahun ke tahun. Apa yang kamu ketahui tentang Dia ketika kamu masih kecil?
+Renungkan bagaimana pandanganmu tentang Allah berubah dari tahun ke tahun. Apa yang kamu ketahui tentang Dia ketika masih kecil? Bagaimana pemahamanmu tentang siapa Allah dan rencana-Nya bagi hidupmu berubah seiring waktu?
 
-Bagaimana pemahamanmu tentang siapa Allah itu dan tentang rencana-Nya bagi hidupmu telah berubah seiring waktu?
+Seberapa penting memahami karakter Allah agar dosa tidak muncul kembali setelah Yesus mengakhirinya?
 
-Mengapa pemahaman kita tentang karakter Allah penting agar dosa tidak mungkin muncul kembali setelah Kristus mengakhirinya untuk selama-lamanya?
+## Bacaan Pekan Ini
 
-## Wawasan Tambahan
+*Alfa dan Omega*, jilid 8, pasal 29 dan 30.
 
-> “Pada pelaksanaan penghakiman yang terakhir, akan terlihat bahwa tidak ada alasan apa pun yang dapat membenarkan adanya dosa.”
->
-> — Ellen G. White, *The Great Controversy*, hlm. 503 (terjemahan dari teks sumber).
+Penyesuaian khusus terhadap *Alfa dan Omega*, jilid 8, telah dibuat untuk kamu oleh Ellen G. White Estate dan Pacific Press. Informasi lebih lanjut tersedia di cornerstoneconnections.net. Dengan mengikuti rencana ini, kamu akan membaca setidaknya satu buku dari seri *Alfa dan Omega* setiap tahun.

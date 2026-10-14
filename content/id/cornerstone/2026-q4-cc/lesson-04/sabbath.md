@@ -1,37 +1,41 @@
 ![lesson-cover](../../assets/lesson-cover-04.jpg)
 
+**Cerita Alkitab:** Markus 5:1–19
+
+**Komentar:** *Alfa dan Omega*, jilid 8, pasal 31 dan 32.
+
 ## Ayat Inti
 
-> Kemudian mereka datang kepada Yesus dan melihat orang yang sebelumnya kerasukan setan—yang dirasuki Legion—sedang duduk, sudah berpakaian, dan berpikiran sehat. Mereka pun ketakutan.
+> Mereka datang kepada Yesus dan melihat orang yang kerasukan itu duduk, sudah berpakaian dan sudah waras, orang yang tadinya kerasukan Legion itu. Maka takutlah mereka.
 
-— **Markus 5:15** (NKJV; terjemahan dari kutipan dalam materi asli).
+— **Markus 5:15**
 
 ## Sekilas Cahaya
 
-> Bukankah Kristus dan para rasul-Nya telah melakukan mukjizat? Juruselamat yang penuh belas kasihan itu masih hidup hingga hari ini. Ia tetap bersedia mendengarkan doa yang disampaikan dengan iman, sama seperti ketika Ia berjalan di tengah-tengah manusia. Yang alami bekerja sama dengan yang adikodrati. Salah satu bagian dari rencana Allah adalah memberikan kepada kita, sebagai jawaban atas doa yang penuh iman, sesuatu yang tidak akan Ia berikan jika kita tidak memintanya demikian.
+> Bukankah mukjizat-mukjizat dilakukan oleh Kristus dan rasul-rasul-Nya? Juruselamat yang berbelaskasihan yang sama itu hidup sekarang, dan Ia tetap mau mendengar doa iman sebagaimana pada waktu Ia tampak berjalan di antara manusia. Yang alami bekerja sama dengan yang adikodrati. Adalah bagian dari rencana Allah untuk mengaruniakan kepada kita, dalam jawaban kepada doa iman kita, yang Ia tidak akan berikan jika kita tidak memintanya.
 
-— Ellen G. White, *The Great Controversy*, hlm. 525.
+— Ellen G. White, *Alfa dan Omega*, jilid 8, hlm. 552.
 
-### Bacaan Alkitab
+## Bacaan Alkitab
 
-**Efesus 6:10–12**
+**Markus 5:15; Efesus 6:10–12**
 
-### Buat itu Nyata
+## Buat itu Nyata
 
-Baca dan kerjakan aktivitas pada bagian **Apakah Pendapatmu?** dalam pelajaran minggu ini.
+Bacalah dan selesaikan tugas yang terdapat pada bagian **Apakah Pendapatmu?** untuk pelajaran pekan ini. Apakah menurut kamu alasan terbesar kamu tidak dapat melihat kerasukan Iblis seperti yang tertulis dalam Injil?
 
-Menurutmu, apa alasan terbesar kita tidak melihat peristiwa kerasukan setan seperti yang diceritakan dalam kitab-kitab Injil? Di satu sisi, dunia tempat kita hidup tampaknya begitu terbiasa dengan gagasan bahwa ada kekuatan adikodrati yang bekerja dalam kehidupan manusia. Namun, di sisi lain, kita sepertinya belum benar-benar menyadari betapa seriusnya peperangan yang sedang berlangsung di luar jangkauan mata manusia.
+Di satu sisi, kita hidup di dunia yang tampaknya terlalu nyaman dengan gagasan bahwa mungkin ada kekuatan gaib yang sedang bekerja dalam hubungan kemanusiaan. Di sisi lain, ada rasa tidak hormat yang sehat atas perang yang sedang berkecamuk di luar apa yang mata manusia bisa lihat. Bacalah Efesus 6:10–12 dan perhatikan bagaimana sebenarnya pergumulan antara yang baik dan yang jahat itu.
 
-Dari bacaan Alkitab hari ini, perhatikan betapa nyatanya pertentangan antara kebaikan dan kejahatan. Pertanyaannya, **seberapa pentingkah pertentangan itu?** Seberapa berbeda kehidupanmu sehari-hari seandainya tirai yang menutupi peperangan rohani itu disingkapkan dan kamu dapat melihat apa yang sebenarnya sedang terjadi?
+Pertanyaannya adalah, seberapa pentingkah itu? Seberapa besarkah perbedaan dalam kehidupan sehari-hari kamu jika tirai peperangan rohani dibuka dan kamu bisa melihat apa yang sebenarnya sedang terjadi?
 
 ## Apakah Pendapatmu?
 
-Menurutmu, apakah banyak orang sekarang menyadari keberadaan malaikat yang diutus untuk menolong, membimbing, dan melindungi anak-anak Allah?
+Mengapakah menurut kamu kerasukan Iblis lebih menonjol pada era Perjanjian Baru daripada sekarang ini? Nilailah jawaban berikut ini.
 
-Bukti apa yang kamu ketahui dalam Alkitab yang menunjukkan bahwa Allah mengutus malaikat-malaikat-Nya untuk menolong kita?
+1. Manusia kurang awas terhadap kehadiran malaikat dan Iblis.
+2. Iblis memilih bentuk kendali yang lebih halus—apatis.
+3. Manusia sekarang begitu terbenam dalam supernatural melalui media dan hiburan sehingga tidak peka terhadap agen malaikat baik dan jahat.
+4. Setelah salib, kekuatan Iblis atas manusia telah berubah.
+5. Yang lainnya.
 
-## Bacaan Pekan Ini
-
-*The Great Controversy* (atau *Love Under Fire*), **bab 31 dan 32**.
-
-*Catatan sumber:* *Love Under Fire* merupakan adaptasi khusus dari *The Great Controversy* bagi pembaca muda, yang disusun oleh Ellen G. White Estate dan Pacific Press. Informasi tambahan tersedia pada [halaman buku pendamping Conflict of the Ages di Cornerstone Connections](http://www.cornerstoneconnections.net/article/191/about-us/conflict-of-the-ages-companion-books). Dengan mengikuti rencana bacaan mingguan ini, kamu akan membaca sedikitnya satu buku dari seri *Conflict of the Ages* setiap tahun.
+Apakah menurut kamu manusia zaman ini lebih peka terhadap malaikat Iblis, yang adalah musuh, daripada terhadap para malaikat yang dikirim untuk membantu, menuntun, dan melindungi anak-anak Allah? Mengapakah menurut kamu demikian? Bukti apakah yang kamu ketahui dari Alkitab yang menyampaikan gagasan bahwa Allah mengirimkan malaikat-Nya untuk membantu kita?

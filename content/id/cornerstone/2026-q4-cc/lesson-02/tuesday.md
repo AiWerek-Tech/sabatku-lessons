@@ -1,15 +1,9 @@
-## Bacaan Alkitab
+### Bacaan Alkitab
 
 **Wahyu 3:5**
 
 ## Buat itu Nyata
 
-Bacalah kutipan luar biasa dari *The Great Controversy* pada bagian **Sekilas Cahaya** pekan ini. Kutipan itu menunjukkan kasih karunia Allah dalam penghakiman-Nya atas manusia.
+Bacalah kutipan yang mengagumkan dari *Alfa dan Omega*, jilid 8, yang menunjukkan kasih karunia Allah dalam penghakiman-Nya kepada manusia. Apakah kamu ingin namamu tertulis dalam buku surga? Berdasarkan pernyataan Ellen White, bagaimanakah kamu siap atau “layak untuk kehidupan kekal”?
 
-Apakah kamu ingin namamu tertulis dalam kitab-kitab surga? Menurut pernyataan Ellen White tersebut, bagaimana kamu dapat menjadi siap atau dinyatakan **"layak menerima kehidupan kekal"**?
-
-Luangkan waktu untuk menuliskan doa kepada Allah, memohon agar Ia mencatat namamu dalam kitab kehidupan. Berdasarkan kutipan itu, hal-hal apa saja yang perlu kamu sampaikan dalam doamu?
-
-Pikirkan apa artinya bertobat dan mengakui bahwa semua perbuatan baikmu tidak akan pernah dapat membuatmu layak masuk surga. Pikirkan juga apa artinya ketika semua perbuatan benar Kristus diperhitungkan bagimu.
-
-Apa artinya bagimu bahwa Kristus bukan hanya **mati untukmu**, tetapi juga **menjalani kehidupan yang sempurna untukmu**?
+Ambillah waktu sejenak dan tuliskan sebuah doa kepada Tuhan, meminta kepada-Nya untuk menuliskan namamu dalam buku kehidupan. Menurut kutipan ini, apakah sesuatu yang harus kamu katakan? Pikirkan mengenai arti bertobat dan mengakui bahwa segala perbuatan baikmu tidak pernah melayakkanmu untuk surga. Pikirkan juga mengenai arti menerima semua perbuatan baik yang Yesus lakukan untukmu. Apakah artinya bagimu mengingat bahwa Yesus tidak hanya mati bagimu, tetapi juga menghidupkan kehidupan yang sempurna bagimu?

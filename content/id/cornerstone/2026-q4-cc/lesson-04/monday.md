@@ -4,6 +4,6 @@
 
 ## Buat itu Nyata
 
-Apa yang ayat ini ajarkan kepada kita tentang orang-orang yang mungkin dianggap oleh gereja atau masyarakat sebagai orang yang sudah tidak bisa ditolong lagi, karena masalah mereka begitu berat sehingga sepertinya mustahil untuk dipulihkan?
+Ayat Inti untuk pelajaran pekan ini terdapat dalam Markus 5:15. Apakah yang ayat ini katakan kepada kita tentang orang-orang yang dianggap tidak mungkin lagi dipulihkan?
 
-Siapa yang kamu kenal di gereja atau lingkunganmu yang tidak pernah menyerah terhadap orang-orang yang sedang tertindas oleh peperangan rohani yang dibahas dalam pelajaran ini? Bagaimana mereka berinteraksi dengan dan berusaha menolong orang-orang yang tampaknya sudah sangat jauh terjerumus ke dalam kejahatan?
+Siapakah yang kamu ketahui di gereja atau masyarakat yang tidak pernah menyerah kepada mereka yang tertekan oleh peperangan rohani yang dibahas dalam pelajaran ini? Bagaimanakah mereka berinteraksi dan bekerja untuk menolong orang-orang yang tampaknya dibelokkan oleh petunjuk Iblis?

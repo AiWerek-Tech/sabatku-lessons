@@ -1,29 +1,29 @@
 ## Bacaan Alkitab
 
-Bacalah keempat bagian Alkitab dalam **Bagian Pokok** di bawah ini, sebagaimana diarahkan dalam Buat itu Nyata.
+Bacalah keempat bagian Alkitab dalam **Bagian Pokok** untuk pelajaran pekan ini.
 
 ## Buat itu Nyata
 
-Bacalah ayat-ayat dalam bagian **Bagian Pokok** pada pelajaran minggu ini. Susunlah keempat bacaan itu dalam urutan yang menurutmu paling tepat, seolah-olah kamu sedang menyiapkan khotbah atau menggunakannya untuk pendalaman Alkitab tentang peperangan rohani yang melibatkan malaikat, roh-roh jahat, dan manusia.
+Susunlah keempat ayat tersebut sesuai urutan yang kamu inginkan jika kamu mengkhotbahkannya atau menggunakannya untuk belajar Alkitab mengenai peperangan rohani yang melibatkan malaikat, Setan, dan manusia.
 
-Kisah lain apa yang ingin kamu tambahkan? Ayat-ayat apa yang kamu ingat dan mungkin berguna untuk menjelaskan apa yang dikatakan Alkitab tentang kuasa kebaikan dan kejahatan?
+Cerita lain apa yang dapat kamu tambahkan, atau ayat apa yang kamu ingat yang mungkin dapat membantu dalam membagikan apa yang Alkitab katakan mengenai agen kebaikan dan kejahatan?
 
-Luangkan waktu untuk menuliskan kerangka pembahasan atau daftar ayat itu di bagian belakang Alkitabmu. Berdoalah agar kamu mendapat kesempatan untuk membagikan apa yang sedang kamu doakan, atau bahkan memberikan pendalaman Alkitab dalam minggu mendatang kepada seseorang yang sedang menghadapi pergumulan rohani. Bersiaplah melihat bagaimana Allah menjawab doamu.
+Ambillah waktu untuk menulis garis besar atau daftar ayat-ayat di bagian belakang Alkitabmu dan berdoalah agar kamu mendapat kesempatan untuk membagikan apa yang kamu doakan atau bahkan melakukan belajar Alkitab pada pekan yang akan datang bersama seseorang yang sedang bergumul dengan peperangan rohani. Bersiaplah bila Allah menjawab doamu.
 
 ## Bagian Pokok
 
-> Tidak tahukah kamu bahwa tubuhmu adalah bait Roh Kudus yang ada di dalam dirimu, yang telah kamu terima dari Allah? Kamu bukan milikmu sendiri; kamu telah dibeli dengan suatu harga. Karena itu, muliakanlah Allah dengan tubuhmu.
+> Atau tidak tahukah kamu, bahwa tubuhmu adalah bait Roh Kudus yang diam di dalam kamu, Roh Kudus yang kamu peroleh dari Allah, —dan bahwa kamu bukan milik kamu sendiri? Sebab kamu telah dibeli dan harganya telah lunas dibayar: Karena itu muliakanlah Allah dengan tubuhmu!
 
-— **1 Korintus 6:19–20** (NIV; terjemahan dari kutipan dalam materi asli).
+— **1 Korintus 6:19–20**
 
-> Ketika roh najis keluar dari seseorang, roh itu mengembara melalui tempat-tempat yang kering untuk mencari perhentian, tetapi tidak menemukannya. Lalu ia berkata, ‘Aku akan kembali ke rumah yang telah kutinggalkan.’ Ketika tiba, ia mendapati rumah itu kosong, sudah disapu bersih dan ditata rapi. Kemudian ia pergi mengajak tujuh roh lain yang lebih jahat darinya. Mereka masuk dan tinggal di sana. Akhirnya, keadaan orang itu menjadi lebih buruk daripada sebelumnya. Demikianlah yang akan terjadi pada angkatan yang jahat ini.
+> Apabila roh jahat keluar dari manusia, ia pun mengembara ke tempat-tempat yang tandus mencari perhentian. Tetapi ia tidak mendapatnya. Lalu ia berkata: Aku akan kembali ke rumah yang telah kutinggalkan itu. Maka pergilah ia dan mendapati rumah itu kosong, bersih tersapu dan rapi teratur. Lalu ia keluar dan mengajak tujuh roh lain yang lebih jahat daripadanya dan mereka masuk dan berdiam di situ. Maka akhirnya keadaan orang itu lebih buruk daripada keadaan semula. Demikian juga akan berlaku atas angkatan yang jahat ini.
 
-— **Matius 12:43–45** (NIV; terjemahan dari kutipan dalam materi asli).
+— **Matius 12:43–45**
 
-> Jadi, aku menemukan hukum ini bekerja dalam diriku: meskipun aku ingin melakukan yang baik, kejahatan selalu ada di dekatku. Sebab dalam batinku aku bersukacita atas hukum Allah, tetapi aku melihat hukum lain bekerja dalam diriku, berperang melawan hukum akal budiku dan menjadikan aku tawanan hukum dosa yang bekerja di dalam diriku.
+> Demikianlah aku dapati hukum ini: jika aku menghendaki berbuat apa yang baik, yang jahat itu ada padaku. Sebab di dalam batinku aku suka akan hukum Allah, tetapi di dalam anggota-anggota tubuhku aku melihat hukum lain yang berjuang melawan hukum akal budiku dan membuat aku menjadi tawanan hukum dosa yang ada di dalam anggota-anggota tubuhku.
 
-— **Roma 7:21–23** (NIV; terjemahan dari kutipan dalam materi asli).
+— **Roma 7:21–23**
 
-> Jadi, aku berkata: Hiduplah menurut Roh, maka kamu tidak akan menuruti keinginan daging. Sebab keinginan daging bertentangan dengan Roh, dan keinginan Roh bertentangan dengan daging. Keduanya saling berlawanan sehingga kamu tidak melakukan apa yang kamu kehendaki.
+> Maksudku ialah: hiduplah oleh Roh, maka kamu tidak akan menuruti keinginan daging. Sebab keinginan daging berlawanan dengan keinginan Roh dan keinginan Roh berlawanan dengan keinginan daging—karena keduanya bertentangan—sehingga kamu setiap kali tidak melakukan apa yang kamu kehendaki.
 
-— **Galatia 5:16–17** (NKJV; terjemahan dari kutipan dalam materi asli).
+— **Galatia 5:16–17**

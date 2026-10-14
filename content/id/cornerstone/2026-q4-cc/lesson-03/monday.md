@@ -4,17 +4,15 @@
 
 ## Buat itu Nyata
 
-Ayat Inti pekan ini dan bacaan hari ini memperlihatkan sebuah peperangan yang bermula di surga. Pemberontakan itu terjadi di hadapan takhta Allah sendiri, lalu dampaknya sampai ke bumi kita.
+Ayat Inti pekan ini menceritakan peperangan yang bermula di surga. Pemberontakan di hadapan takhta Allah berakhir di bumi.
 
-**Ungkapan mana dari kisah ini yang paling menyentuhmu?**
+**Ungkapan mana yang paling berkesan bagimu?**
 
-- “Terjadilah peperangan di surga.”
-- “Mikhael dan malaikat-malaikatnya berperang melawan naga itu.”
-- “Naga itu beserta malaikat-malaikatnya melawan, tetapi mereka tidak menang.”
-- “Tidak ada lagi tempat bagi mereka di surga.”
-- “Naga besar itu dilemparkan ke luar.”
-- “Ular tua yang disebut Iblis atau Setan, yang menyesatkan seluruh dunia.”
+- Maka timbullah peperangan di sorga.
+- Mikhael dan malaikat-malaikatnya berperang melawan naga itu.
+- Naga itu dan malaikat-malaikatnya berperang, tetapi mereka tidak dapat bertahan.
+- Mereka tidak mendapat tempat lagi di sorga.
+- Naga besar itu dilemparkan ke bawah.
+- Ular tua, yang disebut Iblis atau Satan, menyesatkan seluruh dunia dan dilemparkan ke bumi bersama-sama dengan malaikat-malaikatnya.
 
-Pikirkan orang-orang percaya yang benar-benar memahami bagaimana dosa bermula dan ke mana arahnya. Siapa yang kamu kenal yang menjalani hidup dengan keyakinan bahwa **Allah sudah menang dan Setan sudah kalah**?
-
-Bagaimana keyakinan itu terlihat dalam kehidupan mereka?
+Pikirkan orang-orang percaya yang memahami bagaimana dosa bermula dan ke mana arahnya. Siapa yang kamu kenal yang hidup dengan keyakinan bahwa Allah telah menang dan Iblis telah kalah? Bagaimana keyakinan itu terlihat dalam kehidupannya?

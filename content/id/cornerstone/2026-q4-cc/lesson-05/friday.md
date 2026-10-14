@@ -1,22 +1,14 @@
 ## Bacaan Alkitab
 
-- **1 Korintus 15:15–58**
+- **1 Korintus 15:51–58**
 - **1 Tesalonika 4:13–17**
 
 ## Buat itu Nyata
 
-Sering kali kita memikirkan kematian. Hal itu wajar karena kematian merupakan kenyataan dalam kehidupan. Apa yang pertama kali terlintas di benakmu ketika memikirkan kematian? Apakah hal itu membuatmu takut? Bagaimana bacaan hari ini memberimu penguatan saat memikirkan kematian?
+Sering kali kita mendapati diri kita memikirkan mengenai kematian. Itu adalah fakta alami mengenai hidup. Apakah hal pertama yang kamu bayangkan ketika pemikiran mengenai kematian memasuki pikiran kamu? Apakah ide itu membuat kamu takut? Bacalah **1 Korintus 15:51–58** dan **1 Tesalonika 4:13–17**. Bagaimanakah ayat-ayat ini memberikan kepada kamu keberanian?
 
-## Bagian Pokok
+## Bacaan Pekan Ini
 
-> "Lebih dari itu, ternyata kami menjadi saksi palsu tentang Allah, sebab kami telah bersaksi bahwa Allah membangkitkan Kristus dari antara orang mati. Padahal, jika benar orang mati tidak dibangkitkan, berarti Allah tidak membangkitkan Kristus. Jika orang mati tidak dibangkitkan, Kristus pun tidak dibangkitkan. Dan jika Kristus tidak dibangkitkan, imanmu sia-sia dan kamu masih hidup dalam dosa-dosamu. Berarti, orang-orang yang telah meninggal dalam Kristus juga binasa. Jika pengharapan kita kepada Kristus hanya berlaku untuk kehidupan sekarang, kita adalah orang-orang yang paling patut dikasihani. Tetapi sesungguhnya Kristus telah dibangkitkan dari antara orang mati. Dialah yang pertama bangkit di antara mereka yang telah meninggal."
+*Alfa dan Omega*, jilid 8, pasal 33 dan 34.
 
-— **1 Korintus 15:15–20**, terjemahan dari kutipan NIV dalam sumber.
-
-> "Orang yang hidup tahu bahwa mereka akan mati, tetapi orang yang sudah mati tidak mengetahui apa-apa."
-
-— **Pengkhotbah 9:5**, terjemahan dari kutipan NIV dalam sumber.
-
-> "Setelah Daud melayani kehendak Allah pada zamannya, ia meninggal. Ia dikuburkan bersama nenek moyangnya, dan tubuhnya mengalami kebinasaan. Tetapi Dia yang dibangkitkan Allah dari antara orang mati tidak mengalami kebinasaan."
-
-— **Kisah Para Rasul 13:36–37**, terjemahan dari kutipan NIV dalam sumber.
+*Penyesuaian khusus terhadap seri* Alfa dan Omega *telah dibuat bagi kamu oleh Ellen G. White Estate dan Pacific Press. Dengan mengikuti rencana ini, kamu akan membaca setidaknya satu buku dari seri* Alfa dan Omega *setiap tahun.*

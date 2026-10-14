@@ -21,11 +21,13 @@
       "date": "2026-10-25",
       "file": "sunday.md",
       "readingRefs": [
-        "Kejadian 3:4",
         "Kejadian 3:1–5",
         "Mazmur 146:4",
+        "Pengkhotbah 9:5",
         "Yesaya 38:18",
         "Wahyu 16:13–14",
+        "1 Korintus 15:15–20",
+        "Kisah Para Rasul 13:36–37",
         "Kejadian 1:26"
       ]
     },
@@ -35,7 +37,8 @@
       "date": "2026-10-26",
       "file": "monday.md",
       "readingRefs": [
-        "Mazmur 146:4"
+        "Mazmur 146:4",
+        "Pengkhotbah 9:5"
       ]
     },
     {
@@ -44,7 +47,7 @@
       "date": "2026-10-27",
       "file": "tuesday.md",
       "readingRefs": [
-        "Roma 6:23"
+        "Kejadian 3:1–6"
       ]
     },
     {
@@ -63,7 +66,8 @@
       "date": "2026-10-29",
       "file": "thursday.md",
       "readingRefs": [
-        "2 Timotius 3:15–17"
+        "Yohanes 11:11–14",
+        "1 Tesalonika 4:13–17"
       ]
     },
     {
@@ -72,11 +76,8 @@
       "date": "2026-10-30",
       "file": "friday.md",
       "readingRefs": [
-        "1 Korintus 15:15–58",
-        "1 Tesalonika 4:13–17",
-        "1 Korintus 15:15–20",
-        "Pengkhotbah 9:5",
-        "Kisah Para Rasul 13:36–37"
+        "1 Korintus 15:51–58",
+        "1 Tesalonika 4:13–17"
       ]
     }
   ],

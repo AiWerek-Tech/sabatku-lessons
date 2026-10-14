@@ -1,9 +1,10 @@
 ## Bacaan Alkitab
 
-**2 Timotius 3:15–17**
+- **Yohanes 11:11–14**
+- **1 Tesalonika 4:13–17**
 
 ## Buat itu Nyata
 
-Banyak orang yang belum pernah membaca Alkitab—bahkan sebagian yang sudah membacanya—percaya bahwa anggota keluarga mereka yang telah meninggal sedang memandang mereka dari surga. Apa bahayanya mempercayai gagasan tersebut? Bagaimana kebenaran tentang keadaan manusia setelah meninggal dapat menghibur orang-orang yang kehilangan orang yang mereka kasihi?
+Banyak orang yang tidak pernah membaca Alkitab (dan beberapa orang yang sementara memilikinya) yakin bahwa sanak keluarga mereka yang meninggal sedang memperhatikan mereka dari surga. Apakah bahayanya percaya kepada konsep ini? Bagaimanakah kebenaran mengenai ke mana kita pergi ketika kita meninggal memberi rasa nyaman kepada mereka yang telah kehilangan orang yang mereka kasihi?
 
-Bagaimana pemahaman tentang apa yang terjadi ketika kita meninggal memengaruhi hubunganku dengan Yesus dan dengan orang lain?
+Bagaimanakah konsep mengenai apa yang terjadi ketika kita meninggal memengaruhi hubungan saya dengan Yesus dan dengan orang lain?

@@ -1,47 +1,45 @@
 ![lesson-cover](../../assets/lesson-cover-03.jpg)
 
+**Cerita Alkitab:** Yesaya 14:12–14; Yehezkiel 28:11–17; Wahyu 12:7–9
+
+**Komentar:** *Alfa dan Omega*, jilid 8, pasal 29 dan 30.
+
 ## Ayat Inti
 
-> "Lalu terjadilah peperangan di surga: Mikhael dan malaikat-malaikatnya berperang melawan naga itu. ... Maka naga besar itu dilemparkan ke luar, yaitu ular tua yang disebut Iblis atau Setan, yang menyesatkan seluruh dunia. Ia dilemparkan ke bumi, dan malaikat-malaikatnya dilemparkan bersama-sama dengannya."
+> “Maka timbullah peperangan di sorga. Mikhael dan malaikat-malaikatnya berperang melawan naga itu, ... Dan naga besar itu, si ular tua, yang disebut Iblis atau Satan, yang menyesatkan seluruh dunia, dilemparkan ke bawah; ia dilemparkan ke bumi, bersama-sama dengan malaikat-malaikatnya.”
 >
-> **Wahyu 12:7–9** — diterjemahkan dari NKJV; bagian yang dihilangkan mengikuti kutipan asli.
+> **Wahyu 12:7–9**
 
 ## Sekilas Cahaya
 
-> "Bahkan ketika diputuskan bahwa ia tidak dapat lagi tinggal di surga, Hikmat yang Tak Terbatas tidak langsung membinasakan Setan. ... Penghuni surga dan dunia-dunia lain saat itu belum siap memahami sifat maupun akibat dosa. Karena itu, mereka belum dapat melihat keadilan dan belas kasihan Allah seandainya Setan dibinasakan. Jika Setan langsung dilenyapkan, mereka akan melayani Allah karena takut, bukan karena kasih. Pengaruh si penipu belum akan sepenuhnya dihancurkan, dan semangat pemberontakan pun belum akan dicabut sampai ke akarnya. Kejahatan harus dibiarkan berkembang hingga sifatnya terlihat sepenuhnya."
+> “Bahkan pada waktu diputuskan bahwa ia tidak boleh lagi tinggal di surga, Yang Mahabijaksana itu tidak membinasakan Setan. ... Penghuni surga dan dunia-dunia yang lain, karena belum siap untuk mengerti sifat atau akibat-akibat dosa, belum dapat melihat keadilan dan kemurahan Allah dalam membinasakan Setan. Seandainya Setan segera dihapuskan dari keberadaannya, mereka akan melayani Allah dengan ketakutan, bukan dengan kasih. Pengaruh penipu tidak akan seluruhnya dibinasakan, atau roh pemberontakan seluruhnya diberantas. Kejahatan harus dibiarkan menjadi matang.”
 >
-> — Ellen G. White, *The Great Controversy*, hlm. 498–499 (terjemahan dari teks sumber).
+> — Ellen G. White, *Alfa dan Omega*, jilid 8, hlm. 522.
 
 ### Bacaan Alkitab
 
 **Kejadian 3:14–15**
 
-### Buat itu Nyata
+## Buat itu Nyata
 
-Baca dan tanggapi aktivitas memilih salah satu dari dua pernyataan pada bagian **Apakah Pendapatmu?** dalam pelajaran pekan ini. Menurutmu, mana yang lebih jelas memperlihatkan kenyataan bahwa kebaikan dan kejahatan itu benar-benar ada?
+Baca dan jawablah tugas memilih pada bagian **Apakah Pendapatmu?** Manakah pernyataan yang lebih efektif mengungkapkan kebenaran tentang kebaikan atau kejahatan? Jelas ada dua sisi.
 
-Jelas bahwa ada dua pihak yang saling bertentangan. Dalam bacaan hari ini, Allah menunjukkan batas yang tegas dan memperhadapkan kedua pihak itu. Adam dan Hawa, bersama semua anak Allah, berada di pihak yang berlawanan dengan Setan dalam pertentangan antara yang baik dan yang jahat. Ada permusuhan. Ada pertentangan. Ada perlawanan.
+Dalam Kejadian 3:14–15, Tuhan menggambarkan sebuah garis pemisah dan menghadapkan kedua sisi yang saling berlawanan. Adam dan Hawa serta semua anak Allah berada di pihak yang menentang Setan dalam pertentangan antara yang baik dan yang jahat. Permusuhan. Kebencian. Pertentangan.
 
-**Apa yang Allah janjikan tentang bagaimana pertentangan ini akan berakhir?**
+Pertimbangkan pernyataan-pernyataan dalam bagian **Apakah Pendapatmu?** Mana yang paling menggema dalam dirimu? Dari mana atau dari siapa pesan itu berasal? Seiring pertumbuhan kita, kita menerima banyak pesan dari orang tua, guru, teman, bahkan dari pilihan-pilihan kita sendiri. Pesan-pesan itu bisa positif, seperti, “Kamu tetap diharapkan dan dikasihi meskipun gagal dalam ujian aljabar,” atau negatif, seperti, “Saya tidak bisa melihat pertandinganmu. Pekerjaan lebih penting daripada hubungan saya denganmu.”
+
+**Apa janji Allah tentang bagaimana pertentangan ini akan berakhir?**
 
 ## Apakah Pendapatmu?
 
-Pilih **salah satu** pernyataan berikut yang ingin kamu dukung, lalu jelaskan alasan pilihanmu.
-
-Menurutmu, pernyataan mana yang lebih mudah digambarkan, didukung dengan bukti, atau dijelaskan?
+Baca kedua pernyataan berikut. Pilih salah satu untuk kamu pertahankan, lalu jelaskan alasanmu.
 
 **Pilihan A**
 
-Tindakan yang sangat jahat, yang dilakukan oleh orang-orang biasa, merupakan bukti kuat bahwa ada pertentangan adikodrati antara Kristus dan Setan.
+Sebuah tindakan yang luar biasa jahat yang dilakukan oleh manusia biasa adalah bukti yang kuat akan pertentangan supernatural antara Kristus dan Setan.
 
-**Atau, Pilihan B**
+**Pilihan B**
 
-Tindakan yang sangat baik, yang dilakukan oleh orang-orang biasa, merupakan bukti kuat bahwa ada pertentangan adikodrati antara Kristus dan Setan.
+Perbuatan yang luar biasa baik yang dilakukan oleh manusia biasa merupakan bukti kuat akan pertentangan supernatural antara Kristus dengan Setan.
 
-**Menurutmu, pilihan mana yang lebih jelas menjawab pertanyaan orang-orang tentang kebaikan Allah dan asal mula kejahatan?**
-
-## Bacaan Pekan Ini
-
-*The Great Controversy* (atau *Love Under Fire*), **bab 29 dan 30**.
-
-*Catatan:* *Love Under Fire* adalah adaptasi khusus dari *The Great Controversy* yang dibuat untuk pembaca muda oleh Ellen G. White Estate dan Pacific Press. Informasi lebih lanjut tersedia di situs [Cornerstone Connections](http://www.cornerstoneconnections.net/article/191/about-us/conflict-of-the-ages-companion-books#.URlhF1rBO9s). Dengan mengikuti rencana bacaan mingguan, setiap tahun kamu akan membaca setidaknya satu buku dari seri *Conflict of the Ages*.
+**Manakah tanggapan yang lebih jelas terhadap pertanyaan orang tentang kebaikan Allah dan asal mula dosa?**

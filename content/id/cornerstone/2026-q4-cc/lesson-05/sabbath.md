@@ -1,40 +1,38 @@
 ![lesson-cover](../../assets/lesson-cover-05.jpg)
 
+**Cerita Alkitab:** Kejadian 3:1–5; Mazmur 146:4; Yesaya 38:18; Wahyu 16:13–14.
+
+**Komentar:** *Alfa dan Omega*, jilid 8, pasal 33 dan 34.
+
 ## Ayat Inti
 
-> "Ketika napas hidup meninggalkan mereka, mereka kembali ke tanah; pada hari itu juga segala rencana mereka berakhir."
+> “Apabila nyawanya melayang, ia kembali ke tanah; pada hari itu juga lenyaplah maksud-maksudnya.”
 
-**Mazmur 146:4** (terjemahan dari kutipan NIV dalam materi asli).
+**Mazmur 146:4**
 
 ## Sekilas Cahaya
 
-> "Kehidupan yang tidak dapat binasa, yang dijanjikan kepada manusia dengan syarat ketaatan, telah hilang karena pelanggaran. Adam tidak dapat mewariskan kepada keturunannya sesuatu yang tidak lagi dimilikinya. Tidak akan ada harapan bagi umat manusia yang telah jatuh dalam dosa seandainya Allah, melalui pengorbanan Anak-Nya, tidak membuka kembali kesempatan bagi mereka untuk memperoleh hidup yang tidak dapat binasa."
+> “Kekekalan, yang dijanjikan kepada manusia dengan syarat penurutan, telah hilang lenyap oleh pelanggaran. Adam tidak dapat meneruskan kepada keturunannya apa yang tidak ia miliki, dan tentu saja tidak ada pengharapan bagi umat manusia kalau saja Allah tidak membuat kekekalan itu dapat dijangkau mereka oleh pengorbanan Anak-Nya.”
 
-— Ellen G. White, *The Great Controversy*, hlm. 533 (terjemahan dari kutipan sumber).
+— *Alfa dan Omega*, jilid 8, hlm. 560.
 
-### Bacaan Alkitab
+## Bacaan Alkitab
 
-**Pengkhotbah 9:5**
+- **Mazmur 146:4**
+- **Pengkhotbah 9:5**
 
-### Buat itu Nyata
+## Buat itu Nyata
 
-Banyak orang percaya bahwa kematian hanyalah awal dari perjalanan lain bagi jiwa yang tidak dapat mati. Namun, Alkitab menjelaskan bahwa ketika seseorang meninggal, pikirannya tidak lagi dapat berpikir.
+Banyak orang percaya bahwa kematian hanyalah permulaan dari perjalanan kekal lainnya bagi jiwa. Namun, Alkitab dengan jelas mengatakan bahwa pada waktu seseorang meninggal, pikirannya tidak terus bekerja—lihat **Pengkhotbah 9:5**.
 
-Menurutmu, mengapa persoalan apakah jiwa manusia dapat mati atau tidak menjadi topik yang begitu sering diperdebatkan di antara berbagai denominasi Kristen?
+Mengapakah persoalan kekekalan jiwa melawan kefanaan jiwa menjadi topik perdebatan yang hangat di antara denominasi-denominasi Kristen?
 
-### Apakah Pendapatmu?
+## Apakah Pendapatmu?
 
-Mempercayai bahwa manusia mempunyai jiwa yang tidak dapat mati berarti menganggap bahwa ketika tubuh meninggal, jiwa dan kesadarannya tetap hidup, lalu pergi ke surga, neraka, atau tempat lain. Namun, Alkitab menyatakan bahwa ketika dosa masuk ke dunia, hukumannya adalah kematian. Saat kita meninggal, kehidupan kita berhenti dan pikiran kita pun berakhir.
-
-**Carilah dan tuliskan lima ayat Alkitab** yang menjelaskan tentang kematian dan kapan manusia akan menerima kehidupan yang tidak dapat binasa.
+Memiliki jiwa yang kekal berarti bahwa bahkan jika tubuh mati, jiwa dan kesadaran seseorang masih hidup sementara melayang ke surga atau ke neraka atau ke tempat yang lain. Sebutkan lima alasan tertinggi yang menurut kamu mengapa kepercayaan ini bisa muncul. Lakukan penelitianmu sendiri untuk menemukan jawabannya.
 
 1. ______________________________
 2. ______________________________
 3. ______________________________
 4. ______________________________
 5. ______________________________
-
-## Bacaan Pekan Ini
-
-*The Great Controversy* (atau *Love Under Fire*), **bab 33 dan 34**.
-
