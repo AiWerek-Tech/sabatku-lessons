@@ -72,14 +72,18 @@ PDF dan gambar cetakan **tidak diubah**. Tiga penyesuaian hanya berlaku pada per
 
 ### Kontrak, perubahan dan identitas jawaban
 
-`scripts/study-activities.mjs` memvalidasi aktivitas dan menerbitkan rencana harian sebagai string JSON pada `interactiveContent`, dengan versi dokumen `1`. Field `format` berisi `text/markdown; interactive-sha256=<sha256>`; hash dihitung atas string JSON persis yang dikirim. Dengan demikian perubahan aktivitas ikut mengubah revisi pelajaran pada perhitungan checksum v1 yang sudah digunakan. Android memeriksa hash sebelum menerima rencana. Field `content` tetap berisi Markdown lengkap untuk kompatibilitas.
+`scripts/study-activities.mjs` memvalidasi aktivitas dan menerbitkan rencana harian sebagai string JSON pada `interactiveContent`, dengan versi dokumen `1`. Field `format` berisi `text/markdown; interactive-sha256=<sha256>`; hash dihitung atas string JSON persis yang dikirim. Dengan demikian perubahan aktivitas ikut mengubah revisi pelajaran yang diterbitkan. Android memeriksa hash sebelum menerima rencana. Field `content` tetap berisi Markdown lengkap untuk kompatibilitas.
 
 `sourceReadings` pada berkas sumber menyimpan checksum tujuh bacaan Markdown dengan akhir baris LF. Publisher menolak rencana interaktif yang belum ditinjau ulang setelah Markdown berubah; perbarui rencana dan checksum ini bersama hasil tinjauan `source-review.json`.
+
+Metadata setiap bacaan interaktif di indeks pelajaran memiliki `interactiveVersion: 1`. Android memakai penanda ini untuk memulihkan aktivitas dari unduhan yang dibuat oleh aplikasi lama, termasuk ketika checksum sumbernya sama. Bacaan tanpa penanda tetap mengikuti alur pembaruan biasa.
 
 Blok rencana berisi tepat satu dari `markdown` atau `activity`. Aktivitas memakai `id`, `answerVersion`, `kind`, `title`, `instruction`, dan data soal/kisi sesuai jenisnya. Identitas tidak boleh mengikuti nomor urut blok atau redaksi judul. Jawaban memakai kunci `lesson-answer:<day-id>:activity:<activity-id>:v<answerVersion>:<field-id>`. Penyunting harus mempertahankan ID soal saat hanya mengubah redaksi; naikkan `answerVersion` jika arti/kunci soal berubah sehingga jawaban lama tidak lagi berlaku. Simpan soal baru dengan ID baru, tanpa menggeser ID soal lama.
 
 Publisher menolak kunci pilihan yang hilang, ID ganda, lintasan di luar kisi, lintasan kata yang tidak bersebelahan, labirin terputus, sandi tidak lengkap, dan kumpulan huruf kolom yang tidak sesuai solusi. Pengujian Android mencakup seluruh 93 aktivitas, normalisasi isian, pilihan jamak, anggaran, kedua arah cari kata, identitas jawaban stabil, serta pemuatan feed dan pemulihan snapshot offline. Pengujian visual pada perangkat fisik masih diperlukan sebelum rilis.
 
 Android memakai pembaca harian yang sama, menyimpan teks edisi untuk penggunaan offline, dan menampilkan PDF siswa sebagai lampiran pada pelajaran. PDF dapat dibuka dan disimpan offline melalui fitur PDF aplikasi.
+
+Revisi setiap pelajaran juga mencakup checksum `interactiveContent` dan berkas edisi lokal yang dirujuk bacaan, termasuk gambar dan PDF. Pemeriksaan pembaruan membandingkan revisi dari indeks edisi dengan revisi yang tersimpan sehingga detail hanya diambil untuk pelajaran yang berubah. Saat URL gambar tetap sama, Android memeriksa checksum berkas lokal dan mengganti cache hanya jika isinya berubah. Edisi lama tetap dapat dibaca melalui validasi checksum format sebelumnya; pembaruan selanjutnya berpindah ke revisi baru.
 
 Terjemahan diterbitkan tim SabatKu dengan izin resmi. Hak materi sumber tetap pada General Conference of Seventh-day Adventists®.

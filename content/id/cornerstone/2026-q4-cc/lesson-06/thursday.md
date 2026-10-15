@@ -4,4 +4,4 @@
 
 ## Buat itu Nyata
 
-Dalam cara seperti apakah Setan menggoda saya untuk menyalahgunakan kekuasaan?
+Renungkan pernyataan Ellen White berikut: “Keindahan kekudusan, yaitu roh yang lemah lembut dan tenang, sangat berharga di mata Allah” (*Kemenangan Akhir*, hlm. 567).

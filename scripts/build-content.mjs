@@ -15,14 +15,65 @@ const dayOrder = ['sabbath', 'sunday', 'monday', 'tuesday', 'wednesday', 'thursd
 const datePattern = /^\d{4}-\d{2}-\d{2}$/;
 const idPattern = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const sha256 = value => createHash('sha256').update(value, 'utf8').digest('hex');
+const sha256Bytes = value => createHash('sha256').update(value).digest('hex');
+const publishedRoot = new URL('https://aiwerek-tech.github.io/sabatku-lessons/');
 function lessonContentRevision(document) {
   const fields = ['readings'];
-  for (const reading of document.readings ?? []) fields.push(reading.key ?? '', reading.format ?? '', reading.content ?? '');
+  for (const reading of document.readings ?? []) fields.push(reading.key ?? '', reading.format ?? '', reading.content ?? '', reading.interactiveContent ?? '');
   fields.push('supplementaryReadings');
   for (const reading of document.supplementaryReadings ?? []) fields.push(reading.key ?? '', reading.format ?? '', reading.content ?? '');
   fields.push('pdfs');
   for (const pdf of document.pdfs ?? []) fields.push(pdf.id ?? '', pdf.src ?? '');
+  fields.push('assetRevisions');
+  for (const [asset, revision] of Object.entries(document.assetRevisions ?? {}).sort(([a], [b]) => a.localeCompare(b))) fields.push(asset, revision);
   return sha256(fields.join('\0'));
+}
+
+function addMarkdownAssetReferences(references, markdown) {
+  for (const match of markdown.matchAll(/!\[[^\]]*\]\(([^)\s]+)(?:\s+[^)]*)?\)/g)) references.add(match[1]);
+}
+
+async function documentAssetRevisions(document, assetDirectories) {
+  const value = document.value;
+  const editionId = value.editionId ?? value.id;
+  if (!editionId || !document.path.startsWith(`editions/${editionId}/`)) return {};
+  const references = new Set();
+  if (typeof value.cover === 'string') references.add(value.cover);
+  if (typeof value.lesson?.illustration === 'string') references.add(value.lesson.illustration);
+  for (const reading of value.readings ?? []) {
+    addMarkdownAssetReferences(references, reading.content ?? '');
+    if (reading.interactiveContent) {
+      try {
+        const interactive = JSON.parse(reading.interactiveContent);
+        for (const block of interactive.blocks ?? []) addMarkdownAssetReferences(references, block.markdown ?? '');
+      } catch (error) {
+        throw new Error(`${document.path}: invalid interactive reading JSON: ${error.message}`);
+      }
+    }
+  }
+  for (const reading of value.supplementaryReadings ?? []) addMarkdownAssetReferences(references, reading.content ?? '');
+  for (const pdf of value.pdfs ?? []) if (typeof pdf.src === 'string') references.add(pdf.src);
+
+  const assetDirectory = assetDirectories.find(asset => path.resolve(asset.destination) === path.resolve(outputRoot, 'editions', editionId, 'assets'));
+  const revisions = new Map();
+  for (const reference of references) {
+    const url = reference.startsWith('editions/') ? new URL(reference, publishedRoot) : new URL(reference, new URL(document.path, publishedRoot));
+    if (url.origin !== publishedRoot.origin) continue;
+    const pathname = decodeURIComponent(url.pathname);
+    const assetPrefix = `/sabatku-lessons/editions/${editionId}/assets/`;
+    if (!pathname.startsWith(assetPrefix)) continue;
+    const relativeAsset = path.posix.normalize(pathname.slice(assetPrefix.length));
+    assert(relativeAsset && relativeAsset !== '.' && !relativeAsset.startsWith('../') && !path.posix.isAbsolute(relativeAsset), `${document.path}: asset path escapes the edition`);
+    assert(assetDirectory, `${document.path}: no source asset directory is registered for ${editionId}`);
+    const sourceFile = path.resolve(assetDirectory.source, ...relativeAsset.split('/'));
+    const relativeToAssets = path.relative(path.resolve(assetDirectory.source), sourceFile);
+    assert(relativeToAssets && !relativeToAssets.startsWith('..') && !path.isAbsolute(relativeToAssets), `${document.path}: asset path escapes the edition`);
+    let bytes;
+    try { bytes = await readFile(sourceFile); }
+    catch { throw new Error(`${document.path}: missing referenced asset ${relativeAsset}`); }
+    revisions.set(`editions/${editionId}/assets/${relativeAsset}`, sha256Bytes(bytes));
+  }
+  return Object.fromEntries([...revisions].sort(([a], [b]) => a.localeCompare(b)));
 }
 
 function assert(condition, message) {
@@ -437,13 +488,14 @@ async function main() {
   // Keep metadata changes separate from reading-content revisions. Titles and dates
   // are published in this small manifest, so they can change without re-downloading text.
   const publishedByPath = new Map(published.map(document => [document.path, document]));
+  for (const document of published) document.value.assetRevisions = await documentAssetRevisions(document, assetDirectories);
   for (const document of published) {
     if (!/^editions\/[^/]+\/index\.json$/.test(document.path) || !Array.isArray(document.value.lessons)) continue;
     for (const lesson of document.value.lessons) {
       const detail = publishedByPath.get(lesson.url);
       assert(detail, `${document.path}: published lesson ${lesson.id} has no detail document`);
       lesson.revision = lessonContentRevision(detail.value);
-      lesson.readings = (detail.value.readings ?? []).map(({ key, title, date }) => ({ key, title, date }));
+      lesson.readings = (detail.value.readings ?? []).map(({ key, title, date, interactiveContent }) => ({ key, title, date, ...(interactiveContent ? { interactiveVersion: 1 } : {}) }));
       lesson.supplementaryReadings = (detail.value.supplementaryReadings ?? []).map(({ key, title }) => ({ key, title }));
       lesson.pdfs = (detail.value.pdfs ?? []).map(({ id, title }) => ({ id, title }));
     }
