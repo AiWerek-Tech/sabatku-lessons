@@ -1,3 +1,5 @@
+![lesson-cover](../../assets/lesson-cover-13.jpg)
+
 *Junior PowerPoints · Tahun C · Triwulan 4 · 2026*
 
 ## Ayat Hafalan

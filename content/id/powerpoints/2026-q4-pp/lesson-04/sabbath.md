@@ -1,3 +1,5 @@
+![lesson-cover](../../assets/lesson-cover-04.jpg)
+
 **Tema: Kasih Karunia (Grace)** — Allah menolong kita memahami kasih karunia.  
 **Judul sumber:** *Running From God*
 

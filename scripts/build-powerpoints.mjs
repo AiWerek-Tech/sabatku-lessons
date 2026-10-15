@@ -22,6 +22,9 @@ export async function buildPowerpoints(sourceRoot,outputRoot) {
       assert(entry.id===`lesson-${String(number+1).padStart(2,'0')}`,'Invalid PowerPoints lesson sequence');
       const lessonDir=path.join(dir,entry.id),lesson=await json(path.join(lessonDir,'lesson.json'));
       assert(lesson.id===entry.id && lesson.readings.map(item=>item.key).join()===keys.join(),'PowerPoints needs seven ordered days');
+      const expectedCover=`lesson-cover-${String(number+1).padStart(2,'0')}.jpg`;
+      assert(lesson.illustration===`../../assets/${expectedCover}` && lesson.illustrationStatus==='available','PowerPoints lesson cover metadata is missing or mismatched');
+      await readFile(path.join(dir,'assets',expectedCover));
       assert(typeof entry.teacherGuideAvailable==='boolean' && lesson.teacherGuideAvailable===entry.teacherGuideAvailable,'PowerPoints guide availability mismatch');
       assert(new Date(lesson.startDate+'T00:00:00Z').getUTCDay()===6,'PowerPoints week must start Saturday');
       assert(lesson.endDate===addDays(lesson.startDate,6) && lesson.discussionDate===addDays(lesson.startDate,7),'Invalid PowerPoints calendar');
@@ -31,6 +34,7 @@ export async function buildPowerpoints(sourceRoot,outputRoot) {
         assert(reading.date===addDays(lesson.startDate,index) && reading.file===`${keys[index]}.md`,'Invalid PowerPoints daily calendar/file');
         const content=(await readFile(path.join(lessonDir,reading.file),'utf8')).trim();
         assert(content && !content.includes('PERLU DITINJAU'),'Empty or editorial-only PowerPoints reading');
+        if(reading.key==='sabbath') assert(content.startsWith(`![lesson-cover](../../assets/${expectedCover})`),`${entry.id}: Sabbath reading must begin with its numbered lesson cover`);
         for(const match of content.matchAll(/!\[[^\]]*\]\(([^)]+)\)/g)) {
           assert(/^\.\.\/\.\.\/assets\/[\w.-]+$/.test(match[1]),'Unsafe PowerPoints image path');
           await readFile(path.join(dir,'assets',path.basename(match[1])));
@@ -50,7 +54,7 @@ export async function buildPowerpoints(sourceRoot,outputRoot) {
       assert(pdfs.length===new Set(pdfs.map(pdf=>pdf.id)).size,'Duplicate PowerPoints PDF role');
       const url=`editions/${edition.id}/lessons/${entry.id}/index.json`;
       lessons.push({...entry,url});
-      published.push({path:url,value:{schemaVersion:'sabatku-lessons-v1',editionId:edition.id,programId:'powerpoints',locale:'id',lesson:{...entry},readings,pdfs,supplementaryReadings:[]}});
+      published.push({path:url,value:{schemaVersion:'sabatku-lessons-v1',editionId:edition.id,programId:'powerpoints',locale:'id',lesson:{...entry,illustration:lesson.illustration,illustrationStatus:lesson.illustrationStatus},readings,pdfs,supplementaryReadings:[]}});
     }
     assert(edition.endDate===lessons.at(-1).endDate,'Invalid PowerPoints edition end date');
     const value={...edition,schemaVersion:'sabatku-lessons-v1',lessons};

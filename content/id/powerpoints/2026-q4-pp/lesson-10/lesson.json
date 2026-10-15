@@ -5,6 +5,8 @@
   "endDate": "2026-12-04",
   "discussionDate": "2026-12-05",
   "teacherGuideAvailable": true,
+  "illustration": "../../assets/lesson-cover-10.jpg",
+  "illustrationStatus": "available",
   "readings": [
     {
       "key": "sabbath",

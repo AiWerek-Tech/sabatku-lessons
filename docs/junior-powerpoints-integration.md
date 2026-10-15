@@ -26,7 +26,7 @@ Tab Indonesia memuat teks siswa dan panduan guru Indonesia. Tab English menyedia
 
 PDF dapat dibuka dalam pembaca tanpa menyimpannya sebagai unduhan permanen. Pengguna dapat memilih Unduh untuk menyimpan salinan offline. Teks Indonesia dan aset pendukung menggunakan alur Baca Online atau Unduh edisi; panduan guru Indonesia ikut disiapkan melalui pengelola bahan terkait saat mengunduh edisi. Status online/offline memakai mekanisme pembaca yang sudah ada.
 
-PDF Indonesia menunggu berkas dari tim. Cover buku menggunakan `assets/cover.jpg` dari berkas tim `Kurikulum PowerPoints_ Kasih Karunia Allah.jpg`; metadata katalog dan edisi menunjuk aset yang sama dan pengunduh Android menyimpannya untuk penggunaan offline. Logo program tetap dipakai pada pemilih kelas. Ilustrasi dan cover per pelajaran belum disediakan sebagai aset tersendiri sehingga daftar pekan menggunakan nomor pelajaran. Gambar teka-teki sumber tetap berlabel bahasa Inggris dan tidak dipakai sebagai cover.
+PDF Indonesia menunggu berkas dari tim. Cover buku menggunakan `assets/cover.jpg` dari berkas tim `Kurikulum PowerPoints_ Kasih Karunia Allah.jpg`; cover ini disediakan melalui metadata katalog dan edisi. Tiga belas cover pelajaran dari folder `Cover Pelajaran` disimpan di aset edisi sebagai `lesson-cover-01.jpg` hingga `lesson-cover-13.jpg`, lalu tampil pada kartu pekan dan header Sabat Petang. Keduanya ikut tersimpan saat pengguna mengunduh edisi untuk offline. Logo program tetap dipakai pada pemilih kelas. Gambar teka-teki sumber tetap berlabel bahasa Inggris dan tidak dipakai sebagai cover.
 
 ## Publikasi dan pemeriksaan
 

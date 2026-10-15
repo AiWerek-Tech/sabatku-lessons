@@ -1,3 +1,5 @@
+![lesson-cover](../../assets/lesson-cover-01.jpg)
+
 *Junior PowerPoints · Tahun C · Triwulan 4, 2026*
 
 **Judul sumber:** *Thinking of You*  

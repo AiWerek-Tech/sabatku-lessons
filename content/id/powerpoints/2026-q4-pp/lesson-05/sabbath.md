@@ -1,3 +1,5 @@
+![lesson-cover](../../assets/lesson-cover-05.jpg)
+
 **Program:** Junior PowerPoints · Tahun C · Triwulan 4 · 2026  
 **Judul asli:** *Running With God*  
 **Tema dalam edisi siswa:** Kasih Karunia (Grace)

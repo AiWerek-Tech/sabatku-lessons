@@ -1,3 +1,5 @@
+![lesson-cover](../../assets/lesson-cover-10.jpg)
+
 **Judul asli:** *God’s Choice*  
 **Tema:** Penyembahan — Kita memuji Allah atas pemberian-Nya yang terbesar.
 

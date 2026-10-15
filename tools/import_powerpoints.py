@@ -8,6 +8,7 @@ SOURCE = Path(r'C:\Users\ADMIN\Music\Junior Powerpoints')
 EDITION = '2026-q4-pp'
 DEST = ROOT / 'content/id/powerpoints' / EDITION
 SUPPLEMENTS = ROOT / 'content/id/powerpoints-supplements/2026-q4'
+LESSON_COVERS = SOURCE / 'Cover Pelajaran'
 DAYS = [('sabbath','Sabat Petang'),('sunday','Minggu'),('monday','Senin'),('tuesday','Selasa'),('wednesday','Rabu'),('thursday','Kamis'),('friday','Jumat')]
 def write_json(file, value):
     file.parent.mkdir(parents=True, exist_ok=True)
@@ -58,6 +59,8 @@ def main():
     (DEST/'assets').mkdir(parents=True, exist_ok=True)
     shutil.copyfile(SOURCE/'Kurikulum PowerPoints_ Kasih Karunia Allah.jpg', DEST/'assets/cover.jpg')
     for number in range(1,14):
+        cover_name=f'lesson-cover-{number:02}.jpg'
+        shutil.copyfile(LESSON_COVERS/f'{number}.jpg', DEST/'assets'/cover_name)
         package = next(SOURCE.glob(f'Junior_PowerPoints_2026_T4_Pelajaran_{number:02}_*'))
         student = next(p for p in package.iterdir() if p.is_dir() and p.name.startswith(f'Pelajaran {number:02} - '))
         title=student.name.split(' - ',1)[1]
@@ -79,11 +82,13 @@ def main():
                 asset=f'puzzle-{number:02}.png'
                 shutil.copyfile(image,DEST/'assets'/asset)
                 text=re.sub(r'!\[([^\]]*)\]\([^\n]+\)',f'![Teka-teki sumber bahasa Inggris](../../assets/{asset})\n\n*Teka-teki sumber bahasa Inggris.*',text)
+            if key=='sabbath':
+                text=f'![lesson-cover](../../assets/{cover_name})\n\n{text}'
             (directory/f'{key}.md').write_text(text,encoding='utf-8')
             readings.append(dict(key=key,title=title if key=='sabbath' else label,date=str(start+timedelta(days=offset)),file=f'{key}.md'))
         base='https://www.juniorpowerpoints.org/assets/juniors/Lessons/2026/Q4/English'
         pdfs=[dict(id='english-student',title=f'English · Student · Lesson {number:02}',src=f'{base}/Student/PP-26-Q4-L{number:02}.pdf'),dict(id='english-teacher',title=f'English · Teacher’s Guide · Lesson {number:02}',src=f'{base}/Teacher/PP-26-Q4-L{number:02}-T.pdf')]
-        write_json(directory/'lesson.json',{**entry,'readings':readings,'pdfs':pdfs})
+        write_json(directory/'lesson.json',{**entry,'illustration':f'../../assets/{cover_name}','illustrationStatus':'available','readings':readings,'pdfs':pdfs})
         if guide is not None:
             folder=SUPPLEMENTS/lesson_id/'teacher-guide'; folder.mkdir(parents=True,exist_ok=True)
             (folder/'content.md').write_text(clean(guide.read_text(encoding='utf-8-sig'),guide),encoding='utf-8')

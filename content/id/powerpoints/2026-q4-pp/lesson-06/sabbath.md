@@ -1,3 +1,5 @@
+![lesson-cover](../../assets/lesson-cover-06.jpg)
+
 **Tema: Pelayanan — Kita menyatakan kasih Allah melalui pelayanan.**
 
 ## Ayat Hafalan

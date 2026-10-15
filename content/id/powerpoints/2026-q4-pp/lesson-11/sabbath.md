@@ -1,3 +1,5 @@
+![lesson-cover](../../assets/lesson-cover-11.jpg)
+
 *Junior PowerPoints — Tahun C, Triwulan 4, 2026*
 
 **Judul asli:** *A Change of Plans*

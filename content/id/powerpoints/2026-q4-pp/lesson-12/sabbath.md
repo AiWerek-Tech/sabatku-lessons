@@ -1,3 +1,5 @@
+![lesson-cover](../../assets/lesson-cover-12.jpg)
+
 *Junior PowerPoints · Tahun C · Triwulan 4 · 2026 · Materi siswa*
 
 ## Tema: Penyembahan

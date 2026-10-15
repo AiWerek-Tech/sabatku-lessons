@@ -1,3 +1,5 @@
+![lesson-cover](../../assets/lesson-cover-08.jpg)
+
 *Junior PowerPoints — Tahun C, Triwulan 4 Tahun 2026*
 
 **Judul asli:** *God’s Fight*  

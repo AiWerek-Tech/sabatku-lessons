@@ -1,3 +1,5 @@
+![lesson-cover](../../assets/lesson-cover-09.jpg)
+
 **Judul asli:** *Giving God the Credit*  
 **Tema:** Pelayanan — Kita menyatakan kasih Allah melalui pelayanan.
 

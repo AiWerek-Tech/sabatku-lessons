@@ -1,3 +1,5 @@
+![lesson-cover](../../assets/lesson-cover-03.jpg)
+
 ## Ayat Hafalan
 
 > “Tuhan tidak lambat menepati janji-Nya, seperti yang dianggap sebagian orang. Sebaliknya, Ia sabar terhadap kamu; Ia tidak menghendaki seorang pun binasa, melainkan supaya semua orang bertobat.” (2 Petrus 3:9)

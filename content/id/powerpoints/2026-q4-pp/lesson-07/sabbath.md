@@ -1,3 +1,5 @@
+![lesson-cover](../../assets/lesson-cover-07.jpg)
+
 **Judul asli:** *Building Plans*  
 **Tema:** Pelayanan (*Service*) — Kita menyatakan kasih Allah melalui pelayanan.
 
