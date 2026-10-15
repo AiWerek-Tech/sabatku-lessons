@@ -1,0 +1,624 @@
+{
+  "schemaVersion": "sabatku-study-activities-v1",
+  "days": {
+    "sabbath": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Kisah Pekan Ini"
+        },
+        {
+          "markdown": "### LATIHAN SALIB"
+        },
+        {
+          "markdown": "Sebagai seorang anak saya melihat pohon jeruk keprok tumbuh dengan proporsi yang mengerikan. Pohon jeruk kami tidak hanya besar dalam ukuran, tetapi juga membuat keluarga dan teman-teman kami kewalahan dengan panen buah yang membuat orang takjub. Kebanggaan saya pada pohon meningkat dari musim ke musim, sedemikian rupa sehingga saya pikir keajaiban menanam pohon buah-buahan hanya bersifat genetik. Saya pasti akan melakukan hal yang sama ketika saya sudah dewasa. Ketika tiba saatnya bagi saya untuk menanam pohon buah-buahan saya sendiri di halaman belakang rumah saya sendiri, saya memilih pohon jeruk keprok untuk mengulang kesuksesan masa kecil saya. Saya melakukan segalanya yang diajarkan kepada saya. Tanam, pupuk, mulsa, lindungi, doakan. Setelah menanam pohon di tanah, saya melanjutkan ritual minggu demi minggu. Saya bahkan berbicara dengan ramah dan lembut kepada pohon saat saya bekerja di halaman. Pada suatu kesempatan saya bernyanyi untuk pohon itu. Tetapi pohon itu gagal tumbuh. Kesabaran saya habis, dan saya mulai mencemooh pohon itu. “Rumput kerdil konyol! Ada apa denganmu?” aku mencaci. “Setiap pohon lain di halaman baik-baik saja. Kamu ternyata sangat mengecewakan! ” Saya sedang menyapu beberapa daun di halaman dekat pangkal pohon jeruk keprok ketika penggaruk itu menempel pada label di pangkal pohon. Saya mengulurkan tangan untuk melepaskan kaitan garpu penggaruk dan menemukan tanda pohon jeruk keprok masih menempel. Aku melirik labelnya, dan dengan ngeri aku membaca, \"Jeruk Keprok(Kerdil).\" Saya mencoba untuk mengambil kembali semua hal mengerikan yang saya katakan. Saya melihat ke pohon kecil itu dan meminta maaf sambil berkata, “Maafkan saya! Saya tidak menyadari bahwa Anda tidak pernah dimaksudkan untuk tumbuh.” Pohon kerdil tidak ditakdirkan untuk pertumbuhan yang luar biasa. Tetapi tidak demikian halnya dengan Anda dan saya. Menurut Kristus, kita ditakdirkan untuk perkembangan yang tak terbayangkan. Kita harus memastikan bahwa kita memberikan pertumbuhan rohani kita perhatian yang sama seperti yang saya berikan pada pohon kecil itu. Kita membutuhkan perhatian dan latihan—olahraga rohani. Latihan Salib. —Pastor Troy"
+        },
+        {
+          "markdown": "## Untuk Dipelajari"
+        },
+        {
+          "markdown": "Ayat Hafalan: “Akulah pokok anggur dan kamulah ranting-rantingnya. Barangsiapa tinggal di dalam Aku dan Aku di dalam dia, ia berbuah banyak, sebab di luar Aku kamu tidak dapat berbuat apa-apa” (Yohanes 15: 5)."
+        },
+        {
+          "markdown": "Kepercayaan Kita No. 11, Bertumbuh dalam Kristus: “Dalam kebebasan baru di dalam Yesus ini, kita dipanggil untuk bertumbuh menjadi serupa dengan karakter-Nya, berkomunikasi dengan-Nya setiap hari dalam doa, memakan Firman-Nya, merenungkannya dan pemeliharaan-Nya, menyanyikan puji-pujian-Nya, berkumpul bersama untuk beribadah, dan berpartisipasi dalam misi gereja.”"
+        },
+        {
+          "markdown": "Ellen G. White, Thoughts From the Mount of Blessing, hlm. 19"
+        },
+        {
+          "activity": {
+            "id": "l01-sabbath-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Ada apa denganmu?” aku mencaci."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merespons"
+        },
+        {
+          "markdown": "Baca Yohanes 15: 1-17."
+        },
+        {
+          "markdown": "Jeff membuat keputusan untuk memperdalam hubungannya dengan Tuhan dengan mencoba konsisten dengan doa dan pelajaran Alkitabnya. Untuk pekan pertama dia konsisten, tetapi agak terpeleset di pekan kedua. Dia kecewa karena dia bahkan tidak bisa mempertahankannya selama lebih daripada sepekan."
+        },
+        {
+          "markdown": "Jika Anda dapat mendorongnya dengan sesuatu yang bermanfaat bagi Anda dalam pelajaran ini, apa yang akan Anda katakan kepada Jeff? Menurut Anda apa yang ingin Tuhan katakan kepadanya?"
+        },
+        {
+          "activity": {
+            "id": "l01-sunday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Jika Anda dapat mendorongnya dengan sesuatu yang bermanfaat bagi Anda dalam pelajaran ini, apa yang akan Anda katakan kepada Jeff?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Menurut Anda apa yang ingin Tuhan katakan kepadanya?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "monday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## JAWABAN ALKITAB TENTANG BERTUMBUH DALAM KRISTUS"
+        },
+        {
+          "markdown": "Baca Mazmur 1: 1, 2; Matius 20: 25-28; 25: 31-40; Galatia 5:22-25; Efesus 6: 12-18; Ibrani 10: 25; Yakobus 1: 27. Apa yang Alkitab ajarkan, berdasarkan ayat-ayat ini, tentang apa artinya bertumbuh di dalam Kristus?"
+        },
+        {
+          "markdown": "Saat kita tetap terhubung dengan Kristus melalui doa setiap hari, mempelajari Firman-Nya, dan melayani secara Kristen, kita dapat bertumbuh dalam keserupaan dengan Juruselamat kita, dan Dia akan memampukan kita untuk menjalani kehidupan yang berbuah. “Seperti kita membutuhkan makanan untuk menopang kekuatan fisik kita, demikian juga kita membutuhkan Kristus, Roti dari surga, untuk menopang kehidupan rohani dan memberikan kekuatan untuk mengerjakan pekerjaan Tuhan. Sebagaimana tubuh terus-menerus menerima makanan yang menopang kehidupan dan kekuatan, demikian pula jiwa harus terus-menerus berkomunikasi dengan Kristus, tunduk kepada-Nya dan bergantung sepenuhnya kepada-Nya” (Ellen G. White, Thoughts From the Mount of Blessing, hlm. 19). ”Sebagaimana bunga mengarah kepada matahari,... jadi kita harus beralih ke Matahari Kebenaran,... agar karakter kita dapat dikembangkan menjadi serupa dengan Kristus” (Ellen G. White, Steps to Christ, hlm. 68)."
+        },
+        {
+          "markdown": "Agar tanaman tumbuh, mereka membutuhkan tujuh hal. Dapatkah Anda menyebutkannya?"
+        },
+        {
+          "markdown": "1. T __ __ __ __ untuk bertumbuh"
+        },
+        {
+          "markdown": "2. S __ __ __ yang tepat"
+        },
+        {
+          "markdown": "3. C __ __ __ __ a"
+        },
+        {
+          "markdown": "4. U __ __ __ a"
+        },
+        {
+          "markdown": "5. A __ r"
+        },
+        {
+          "markdown": "6. P __ __ __ k (atau makanan)"
+        },
+        {
+          "markdown": "7. W __ __ __ u"
+        },
+        {
+          "markdown": "Jawab pertanyaan berikut."
+        },
+        {
+          "markdown": "1. Menurut Alkitab, apakah “terang” kita (Mazmur 27: 1; 119: 105; Yohanes 9: 5)? Bagaimana orang Kristen dapat menggunakan terang yang telah mereka terima?"
+        },
+        {
+          "markdown": "2. Apa yang dilambangkan oleh “Air Kehidupan” bagi seorang Kristen (Yohanes 4: 13-15)?"
+        },
+        {
+          "markdown": "3. Bagaimana makan membantu kita tumbuh? Dalam Matius 5: 6 Yesus berkata, “Berbahagialah orang yang lapar dan haus akan kebenaran, karena mereka akan dipuaskan.” Apa artinya ini bagi Anda?"
+        },
+        {
+          "markdown": "4. Baca Yohanes 6: 35 dan jelaskan arti dari ayat ini."
+        },
+        {
+          "markdown": "5. Bagaimana Anda dapat menerapkan prinsip-prinsip ini dalam kehidupan sehari-hari Anda? Bersiaplah untuk membagikan pemikiran Anda di Sekolah Sabat."
+        },
+        {
+          "activity": {
+            "id": "l01-monday-fill",
+            "answerVersion": 1,
+            "kind": "fill",
+            "title": "Tujuh Kebutuhan untuk Bertumbuh",
+            "instruction": "Lengkapi kata berdasarkan huruf petunjuk dalam pelajaran. Tulis kata lengkap, termasuk huruf petunjuknya.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "T ___ untuk bertumbuh",
+                "blanks": [
+                  [
+                    "tanah"
+                  ]
+                ]
+              },
+              {
+                "id": "q02",
+                "prompt": "S ___ yang tepat",
+                "blanks": [
+                  [
+                    "suhu"
+                  ]
+                ]
+              },
+              {
+                "id": "q03",
+                "prompt": "C ___ a",
+                "blanks": [
+                  [
+                    "cahaya"
+                  ]
+                ]
+              },
+              {
+                "id": "q04",
+                "prompt": "U ___ a",
+                "blanks": [
+                  [
+                    "udara"
+                  ]
+                ]
+              },
+              {
+                "id": "q05",
+                "prompt": "A ___ r",
+                "blanks": [
+                  [
+                    "air"
+                  ]
+                ]
+              },
+              {
+                "id": "q06",
+                "prompt": "P ___ k (atau makanan)",
+                "blanks": [
+                  [
+                    "pupuk"
+                  ]
+                ]
+              },
+              {
+                "id": "q07",
+                "prompt": "W ___ u",
+                "blanks": [
+                  [
+                    "waktu"
+                  ]
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "activity": {
+            "id": "l01-monday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Apa yang Alkitab ajarkan, berdasarkan ayat-ayat ini, tentang apa artinya bertumbuh di dalam Kristus?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Dapatkah Anda menyebutkannya?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Menurut Alkitab, apakah “terang” kita (Mazmur 27: 1; 119: 105; Yohanes 9: 5)?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Bagaimana orang Kristen dapat menggunakan terang yang telah mereka terima?"
+              },
+              {
+                "id": "q05",
+                "prompt": "Apa yang dilambangkan oleh “Air Kehidupan” bagi seorang Kristen (Yohanes 4: 13-15)?"
+              },
+              {
+                "id": "q06",
+                "prompt": "Bagaimana makan membantu kita tumbuh?"
+              },
+              {
+                "id": "q07",
+                "prompt": "Dalam Matius 5: 6 Yesus berkata, “Berbahagialah orang yang lapar dan haus akan kebenaran, karena mereka akan dipuaskan.” Apa artinya ini bagi Anda?"
+              },
+              {
+                "id": "q08",
+                "prompt": "Bagaimana Anda dapat menerapkan prinsip-prinsip ini dalam kehidupan sehari-hari Anda?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merenungkan"
+        },
+        {
+          "markdown": "Resolusi Tahun Baru sangat mirip dengan latihan kehidupan rohani. Dalam momen keyakinan, kita mengungkapkan kita kami dalam bentuk keputusan untuk mengubah satu atau lain cara. Namun komitmen kita seperti “tali pasir”, seperti yang dikatakan Ellen White dalam Steps to Christ. Niat baik hanya akan membawa Anda ke tempat di mana Anda membuat janji. Ketika janji dilanggar dan Anda gagal menepatinya, rasanya seluruh hubungan Anda dengan Tuhan gagal. Tetapi cara untuk bertumbuh bukanlah melalui janji, tetapi melalui praktik untuk tetap terbuka pada Roh Tuhan. Pekerjaan untuk semakin dekat dengan Tuhan bukanlah pekerjaan berusaha dengan sungguh-sungguh—ini adalah pekerjaan melatih hati dan pikiran untuk tetap terhubung dengan-Nya. Jika Anda menginginkan otot, Anda harus mengangkat beban—tidak hanya sekali, tetapi berulang kali. Jika Anda ingin bermain piano, Anda berjalan dengan susah payah melalui buku 1, kemudian melalui buku 2, dan saat Anda melanjutkan, Anda belajar dan menjadi lebih mahir. Anda ingin bisa berlari sejauh 15 kilometer? Mulai latihan. Jika Anda terpeleset, tersandung, atau berjuang, Anda dapat bersukacita bahwa Anda adalah manusia seperti orang lain. Satu-satunya cara Anda bertahan adalah dengan menyerah sepenuhnya pada Tuhan. Mari kita lihat apa yang Tuhan katakan tentang perjalanan rohani kita."
+        },
+        {
+          "markdown": "Pertama, ingatlah bahwa Tuhan memberikan kasih karunia yang menjadikan Anda anggota kerajaan-Nya—bebas dan jelas! Lihat Efesus 2: 8."
+        },
+        {
+          "markdown": "Kedua, kita bisa berlatih dengan latihan yang membuat hubungan kita dengan Tuhan semakin kuat. Lihat 2 Petrus 1: 3-8."
+        },
+        {
+          "markdown": "Ketiga, jika dalam latihan Anda terkadang tersandung dan terguncang, jangan menyerah. Jangan lupa bahwa Anda adalah anak Raja. Jangan kehilangan tempat Anda dalam keluarga-Nya. Ingatlah Golgota dan ingat bagaimana Anda memulai perjalanan ini, dan dengan kasih karunia Tuhan, lanjutkan di tempat Anda tinggalkan. Lihat 1 Petrus 1: 8, 9."
+        },
+        {
+          "markdown": "Hanya pikiran lain. Alkitab adalah cara Allah berkomunikasi dengan kita. Sungguh membesarkan hati mengetahui bahwa Dia selalu siap membantu kita dan menjaga kita agar tidak jatuh. Lihat Yudas 24, 25."
+        },
+        {
+          "markdown": "Jagalah hati Anda dan percaya pada janji Tuhan."
+        },
+        {
+          "activity": {
+            "id": "l01-tuesday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Anda ingin bisa berlari sejauh 15 kilometer?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Konsep Alkitab"
+        },
+        {
+          "activity": {
+            "id": "l01-wednesday-matching",
+            "answerVersion": 1,
+            "kind": "matching",
+            "title": "Pasangkan Ayat dan Frasa",
+            "instruction": "Baca setiap bagian lalu pilih pasangannya. Anda dapat mengubah pilihan sebelum memeriksa jawaban.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "“Akulah pokok anggur.”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Kolose 2:6, 7"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Kolose 3:16, 17"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Kolose 1:3–6"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Kolose 1:9–12"
+                  },
+                  {
+                    "id": "4",
+                    "label": "2 Petrus 1:3–8"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Yohanes 15:16"
+                  },
+                  {
+                    "id": "6",
+                    "label": "Yohanes 15:5–8"
+                  }
+                ],
+                "correct": [
+                  "6"
+                ]
+              },
+              {
+                "id": "q02",
+                "prompt": "“... Hendaklah kamu berakar di dalam Dia dan dibangun di atas Dia...”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Kolose 2:6, 7"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Kolose 3:16, 17"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Kolose 1:3–6"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Kolose 1:9–12"
+                  },
+                  {
+                    "id": "4",
+                    "label": "2 Petrus 1:3–8"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Yohanes 15:16"
+                  },
+                  {
+                    "id": "6",
+                    "label": "Yohanes 15:5–8"
+                  }
+                ],
+                "correct": [
+                  "0"
+                ]
+              },
+              {
+                "id": "q03",
+                "prompt": "“Bukan kamu yang memilih Aku...”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Kolose 2:6, 7"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Kolose 3:16, 17"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Kolose 1:3–6"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Kolose 1:9–12"
+                  },
+                  {
+                    "id": "4",
+                    "label": "2 Petrus 1:3–8"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Yohanes 15:16"
+                  },
+                  {
+                    "id": "6",
+                    "label": "Yohanes 15:5–8"
+                  }
+                ],
+                "correct": [
+                  "5"
+                ]
+              },
+              {
+                "id": "q04",
+                "prompt": "“Dan segala sesuatu yang kamu lakukan dengan perkataan atau perbuatan, lakukanlah semuanya itu dalam nama Tuhan Yesus.”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Kolose 2:6, 7"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Kolose 3:16, 17"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Kolose 1:3–6"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Kolose 1:9–12"
+                  },
+                  {
+                    "id": "4",
+                    "label": "2 Petrus 1:3–8"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Yohanes 15:16"
+                  },
+                  {
+                    "id": "6",
+                    "label": "Yohanes 15:5–8"
+                  }
+                ],
+                "correct": [
+                  "1"
+                ]
+              },
+              {
+                "id": "q05",
+                "prompt": "“Karena kuasa ilahi-Nya telah menganugerahkan kepada kita...”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Kolose 2:6, 7"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Kolose 3:16, 17"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Kolose 1:3–6"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Kolose 1:9–12"
+                  },
+                  {
+                    "id": "4",
+                    "label": "2 Petrus 1:3–8"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Yohanes 15:16"
+                  },
+                  {
+                    "id": "6",
+                    "label": "Yohanes 15:5–8"
+                  }
+                ],
+                "correct": [
+                  "4"
+                ]
+              },
+              {
+                "id": "q06",
+                "prompt": "“... karena kami telah mendengar tentang imanmu dalam Kristus Yesus..”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Kolose 2:6, 7"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Kolose 3:16, 17"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Kolose 1:3–6"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Kolose 1:9–12"
+                  },
+                  {
+                    "id": "4",
+                    "label": "2 Petrus 1:3–8"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Yohanes 15:16"
+                  },
+                  {
+                    "id": "6",
+                    "label": "Yohanes 15:5–8"
+                  }
+                ],
+                "correct": [
+                  "2"
+                ]
+              },
+              {
+                "id": "q07",
+                "prompt": "“... bertumbuh dalam pengetahuan yang benar tentang Allah...”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Kolose 2:6, 7"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Kolose 3:16, 17"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Kolose 1:3–6"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Kolose 1:9–12"
+                  },
+                  {
+                    "id": "4",
+                    "label": "2 Petrus 1:3–8"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Yohanes 15:16"
+                  },
+                  {
+                    "id": "6",
+                    "label": "Yohanes 15:5–8"
+                  }
+                ],
+                "correct": [
+                  "3"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menghubungkan"
+        },
+        {
+          "markdown": "Pikirkan betapa canggungnya jika Anda membaca Alkitab dan berdoa di pagi hari, kemudian melihat ke cermin untuk melihat apakah ada perubahan yang terlihat. Anda akan seperti anak kecil yang menanam benih jagung di tanah dan setiap hari setelah itu menggali benih untuk melihat apakah benih itu tumbuh. Benih tidak akan tumbuh jika kita terus menggalinya. Matahari dan hujan dan tanah menumbuhkan benih dari waktu ke waktu. Hal yang sama berlaku untuk pertumbuhan rohani kita. Disiplin atau latihan spiritual memperkuat Anda untuk pelayanan, tetapi itu tidak membuat Anda cocok untuk surga. Satu-satunya hal yang cocok bagi Anda untuk masuk surga adalah percaya sepenuhnya pada pekerjaan Kristus yang telah selesai di Golgota (lihat Yohanes 1: 10–12). Siapa pun yang dilahirkan kembali ditakdirkan untuk tumbuh jika mereka tetap terhubung dengan Allah melalui Roh-Nya (lihat Yohanes 15: 16)."
+        }
+      ]
+    },
+    "friday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menerapkan"
+        },
+        {
+          "markdown": "Pelajaran hari Selasa menjelaskan bagaimana keselamatan kita adalah anugerah dari kasih karunia Tuhan. Rencanakan latihan Anda selama sepekan sebagai eksperimen. Luangkan waktu di awal dan akhir pekan untuk merenungkan karunia kasih karunia Tuhan yang cuma-cuma bagi Anda. Di tengah salib ada lintasan untuk latihan. Di suatu tempat di sekitar trek, tulislah beberapa latihan kehidupan rohani yang ingin Anda lakukan pekan ini. Anda mungkin ingin membaca satu bagian dari Kitab Suci atau menghabiskan waktu sendirian dengan Tuhan dalam saat teduh. Anda mungkin ingin melakukan tindakan pelayanan yang baik untuk seseorang. Buat rencana Anda dan lihat apakah Anda dapat menindaklanjutinya."
+        },
+        {
+          "activity": {
+            "id": "l01-friday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Penerapan Saya",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Latihan rohani yang ingin saya lakukan pekan ini"
+              },
+              {
+                "id": "q02",
+                "prompt": "Waktu dan rencana saya untuk melakukannya"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "sourceReadings": {
+    "sabbath": "1647dc8041b61e5478b261f7e5e56e8d37490f7dc8d5223207f6384816940738",
+    "sunday": "5242cdd0ed9d4a831042d08970c19d8a8ac9ed4635b5c3fe6e913360f96f1ed8",
+    "monday": "3bac3a87026c39508a8409af2819d1f3e2472b22f1a8f9973ffad9f80bc65a20",
+    "tuesday": "fd223391488abd78a1951f5252dc637f884a831781ea04e92dced042bb9f0652",
+    "wednesday": "b5e148390680ea758515781af8ccc1909cfca4fd5acc9b21ca54dc6b6450394a",
+    "thursday": "37198acfdd7fea971afceb375c9e6bd6256350e1dd9838b38bce2a8e71b62078",
+    "friday": "6c0f593177e088c5e23b5362cdec42c498c20049382505004ee6b39086d9fe45"
+  }
+}

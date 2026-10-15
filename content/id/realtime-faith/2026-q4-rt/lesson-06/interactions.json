@@ -1,0 +1,574 @@
+{
+  "schemaVersion": "sabatku-study-activities-v1",
+  "days": {
+    "sabbath": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Kisah Pekan Ini"
+        },
+        {
+          "markdown": "### OPERASI TERSELUBUNG"
+        },
+        {
+          "markdown": "Seniman bernama Herkomer lahir di Black Forest di Eropa. Sementara Herkomer adalah seorang seniman berbakat, ayahnya hanya seorang penebang kayu sederhana. Ketika ketenaran Herkomer semakin meluas, dia pindah ke London dan terus bekerja. Dan dia segera memanggil ayahnya untuk tinggal bersamanya. Ayahnya sangat bangga dengan bakat yang dimiliki putranya. Dengan bercanda, dia sering mengaitkan kesuksesan putranya dengan genetik. Orang tua itu mencoba membuat artefak dari tanah liat, dan meskipun sering kali cukup bagus, itu bukanlah kualitas pekerjaan putranya. Meski begitu, ayah dan anak itu bekerja sama dan mencari nafkah sebagai pengrajin di daerah London. Seiring berjalannya waktu, kemampuan orang tua itu menurun, dan kualitas pekerjaannya pun berkurang. Terkadang terlihat jelas di wajahnya betapa kecewanya dia pada dirinya sendiri dan pada kualitas pekerjaannya. Herkomer merasa sedih dengan kondisi ayahnya yang sudah lanjut usia dan sering kali menyadari kekurangan hasil karyanya dan ingin melakukan sesuatu untuk membantunya. Jadi, ketika ayahnya naik ke atas untuk tidur, Herkomer akan begadang dan memulai operasi rahasianya. Dia akan membentuk dan membuat artefak yang cacat sampai sempurna. Dia kemudian akan tersenyum ketika dia istirahat, mengetahui bahwa hari berikutnya ayahnya akan mendengar orang-orang berkomentar tentang kualitas pekerjaannya. Dan ketika orang berkomentar, lelaki tua yang tidak curiga itu akan memancarkan rasa menghargai. Herkomer tahu bahwa martabat dan kebanggaan ayahnya adalah apa yang dia miliki di masa tuanya, dan dia tidak akan membiarkan itu diambil."
+        },
+        {
+          "markdown": "## Untuk Dipelajari"
+        },
+        {
+          "markdown": "Ayat Hafalan “Jadi apabila engkau memberi sedekah, janganlah engkau mencanangkan hal itu, seperti yang dilakukan orang munafik di rumahrumah ibadat dan di lorong-lorong, supaya mereka dipuji orang. Aku berkata kepadamu: Sesungguhnya mereka sudah mendapat upahnya. Tetapi jika engkau memberi sedekah, janganlah diketahui tangan kirimu apa yang diperbuat tangan kananmu. Hendaklah sedekahmu itu diberikan dengan tersembunyi, maka Bapamu yang melihat yang tersembunyi akan membalasnya kepadamu.” (Matius 6: 2–4)."
+        },
+        {
+          "markdown": "Kepercayaan Kita no. 12, Gereja: “Gereja memperoleh otoritasnya dari Kristus, yang adalah Firman yang berinkarnasi yang dinyatakan dalam Kitab Suci. Gereja adalah keluarga Allah; diadopsi oleh-Nya sebagai anak-anak, para anggotanya hidup berdasarkan perjanjian baru. Gereja adalah tubuh Kristus, komunitas iman di mana Kristus sendiri adalah Kepalanya.”"
+        },
+        {
+          "markdown": "Ellen G. White, Thoughts From the Mount of Blessing, hlm. 80-83"
+        }
+      ]
+    },
+    "sunday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merespons"
+        },
+        {
+          "markdown": "Baca Kisah Para Rasul 2: 44, 45."
+        },
+        {
+          "markdown": "Brenda diam-diam membuat sepiring kue untuk seorang pria yang tinggal di jalan rumahnya. Dia tampak tua dan kesepian; dia berpikir bahwa mengetahui ada seorang yang peduli mungkin akan menghiburnya. Dia meninggalkan piring di depan pintunya dengan catatan yang menguatkan dan pergi dengan diam-diam. Hari berikutnya dia menerima sepotong kecil roti yang baru dipanggang di terasnya dengan sebuah catatan. Dia berpikir, Dia pasti melihatku meninggalkan kue, dan sekarang dia tahu itu aku. Kemudian dia membaca bagian bawah catatan itu, yang berbunyi, “PS: Saya melihat betapa baik Anda terhadap pria itu dan hanya ingin Anda tahu bahwa itu berdampak pada saya. Tetapi aku juga tidak memberitahumu siapa aku.” Kerahasiaan berlanjut di sekitar lingkungan."
+        },
+        {
+          "markdown": "Mana yang lebih penting, kerahasiaan atau tindakan kebaikan? Bagian mana dari pengalaman yang berdampak pada pemberi? Yang memiliki dampak pada penerima? Apa hal paling baik yang dilakukan seseorang untuk Anda secara rahasia? Bagaimana itu membuat Anda merasa tidak perlu tahu siapa itu?"
+        },
+        {
+          "activity": {
+            "id": "l06-sunday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Mana yang lebih penting, kerahasiaan atau tindakan kebaikan?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Bagian mana dari pengalaman yang berdampak pada pemberi?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Yang memiliki dampak pada penerima?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Apa hal paling baik yang dilakukan seseorang untuk Anda secara rahasia?"
+              },
+              {
+                "id": "q05",
+                "prompt": "Bagaimana itu membuat Anda merasa tidak perlu tahu siapa itu?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "monday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## JAWABAN ALKITAB TENTANG GEREJA"
+        },
+        {
+          "markdown": "Baca Kisah Para Rasul 2:44-47; 5:23-26; Kolose 1:17, 18; 1 Petrus 2:9."
+        },
+        {
+          "markdown": "Salah satu ciri khas gereja adalah pelayanan Kristen terhadap kebutuhan masyarakat. Kita harus melayani dalam pelayanan yang penuh kasih kepada orang-orang di sekitar kita, dengan memperhatikan kebutuhan jasmani dan rohani mereka. “Ketulusan tujuan, kebaikan hati yang sejati, adalah motif yang dihargai Surga. Jiwa yang tulus dalam kasih, sepenuh hati dalam pelayanan, Tuhan anggap lebih berharga daripada emas Ophir. Kita tidak memikirkan imbalan, tetapi tentang pelayanan; namun kebaikan yang ditunjukkan dalam roh ini tidak akan gagal dari balasannya” (Ellen G. White, Thoughts From the Mount of Blessing, hlm. 81)."
+        },
+        {
+          "markdown": "Baca Mazmur 139:1-3 dalam berbagai versi Alkitab dan tuliskan favorit Anda."
+        },
+        {
+          "activity": {
+            "id": "l06-monday-maze",
+            "answerVersion": 1,
+            "kind": "maze",
+            "title": "Labirin Ayat",
+            "instruction": "Mulai dari huruf Y di kiri atas. Ketuk huruf yang bersebelahan untuk menyusun ayat, termasuk arah diagonal. Ketuk huruf terakhir sekali lagi untuk mundur.",
+            "grid": [
+              "Y#############KN",
+              "#OU##########U#O",
+              "##HA#######YO##W",
+              "###VE#####ME##W#",
+              "####SEA##OW##H##",
+              "######RUKN##E###",
+              "#####C#O####N###",
+              "####EH#YD##I#TAN",
+              "####D##AN###SI#D",
+              "###M##RD#EC###W#",
+              "###ELO##I#RE#H##",
+              "#AF#####V##P#EN#",
+              "R#AM###E###UO##I",
+              "#Y#O#S##M###Y#R#",
+              "#O#RF#T##Y##E#I#",
+              "##U####H##T##S##",
+              "#ID##Y##G#H#####",
+              "S###MGO#UO######",
+              "CE#N##I####TA#YL",
+              "##R####N##U#NM#Y",
+              "####MA##GO##D#I#",
+              "#A##I#F#######N#",
+              "R#IL##E##YN##G##",
+              "#W##H##R#O#W#D##",
+              "##IT#A#AU###O###",
+              "#####L###WA#####",
+              "######LMY##YS###"
+            ],
+            "solution": [
+              0,
+              17,
+              18,
+              34,
+              35,
+              51,
+              52,
+              68,
+              69,
+              70,
+              86,
+              101,
+              117,
+              116,
+              132,
+              147,
+              163,
+              164,
+              165,
+              150,
+              151,
+              135,
+              136,
+              120,
+              119,
+              103,
+              87,
+              88,
+              89,
+              73,
+              74,
+              58,
+              59,
+              43,
+              44,
+              29,
+              14,
+              15,
+              31,
+              47,
+              62,
+              77,
+              92,
+              108,
+              123,
+              140,
+              141,
+              125,
+              126,
+              127,
+              143,
+              158,
+              173,
+              189,
+              190,
+              207,
+              222,
+              238,
+              253,
+              236,
+              220,
+              204,
+              203,
+              187,
+              171,
+              170,
+              154,
+              153,
+              168,
+              184,
+              199,
+              216,
+              233,
+              250,
+              266,
+              281,
+              280,
+              264,
+              247,
+              230,
+              213,
+              228,
+              227,
+              211,
+              195,
+              194,
+              178,
+              177,
+              192,
+              209,
+              225,
+              242,
+              258,
+              257,
+              272,
+              288,
+              289,
+              306,
+              291,
+              276,
+              261,
+              277,
+              278,
+              294,
+              311,
+              328,
+              329,
+              314,
+              299,
+              300,
+              316,
+              332,
+              317,
+              302,
+              303,
+              319,
+              334,
+              350,
+              365,
+              381,
+              396,
+              379,
+              362,
+              361,
+              377,
+              392,
+              391,
+              375,
+              358,
+              342,
+              325,
+              324,
+              340,
+              355,
+              354,
+              337,
+              352,
+              369,
+              386,
+              387,
+              372,
+              389,
+              405,
+              422,
+              423,
+              424,
+              409,
+              410,
+              427,
+              428
+            ],
+            "reference": "Mazmur 139:1–3",
+            "verse": "YOU HAVE SEARCHED ME LORD AND YOU KNOW ME YOU KNOW WHEN I SIT AND WHEN I RISE YOU PERCEIVE MY THOUGHTS FROM AFAR YOU DISCERN MY GOING OUT AND MY LYING DOWN YOU ARE FAMILIAR WITH ALL MY WAYS"
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merenungkan"
+        },
+        {
+          "markdown": "Baca Matius 10:8."
+        },
+        {
+          "markdown": "“Kristus telah menghubungkan minat-Nya dengan minat umat manusia, dan Dia meminta kita untuk menjadi satu dengan-Nya demi penyelamatan umat manusia” (Ellen G. White, The Desire of Ages, hlm. 504)."
+        },
+        {
+          "markdown": "Memperlakukan orang lain dengan kebaikan, tanpa pamrih, adalah apa yang Tuhan ingin kita lakukan untuk orang lain."
+        },
+        {
+          "markdown": "Berikan kesempatan bagi kebaikan rahasia untuk membentuk bagaimana hidup Anda setiap hari."
+        },
+        {
+          "markdown": "Mereka yang ingin lari maraton harus berlatih. Pelatihan dalam kehidupan spiritual tidak jauh berbeda. Tuhan tidak mengklaim bahwa cara hidup yang disiplin ini mudah. Tetapi Dia berjanji bahwa itu dapat dilakukan. Dia menjamin bahwa hidup Anda akan menyenangkan. Tetapi itu butuh latihan. Jadi ambillah langkah-langkah kecil hari ini untuk menindaklanjuti tindakan kebaikan, dan lihat sendiri betapa berharganya hidup bagi Yesus saat Anda melayani orang lain. Anda akan mendapatkan lebih banyak lagi."
+        }
+      ]
+    },
+    "wednesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Konsep Alkitab"
+        },
+        {
+          "activity": {
+            "id": "l06-wednesday-fill",
+            "answerVersion": 1,
+            "kind": "fill",
+            "title": "Lengkapi Ayat",
+            "instruction": "Lengkapi tiap bagian dengan kata atau frasa dari ayat. Ejaan huruf besar, tanda baca, dan tanda hubung tidak memengaruhi pemeriksaan.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "“Aku, TUHAN, yang ___ hati, yang ___ batin, untuk memberi balasan kepada setiap orang setimpal dengan tingkah langkahnya, setimpal dengan ___ perbuatannya” Yeremia 17: 10 (Yeremia 17:10).",
+                "blanks": [
+                  [
+                    "menyelidiki"
+                  ],
+                  [
+                    "menguji"
+                  ],
+                  [
+                    "hasil"
+                  ]
+                ],
+                "reference": "Yeremia 17:10"
+              },
+              {
+                "id": "q02",
+                "prompt": "“___ dengan ___ memadamkan marah, dan hadiah yang dirahasiakan ___ kegeraman yang hebat” (Amsal 21: 14).",
+                "blanks": [
+                  [
+                    "pemberian"
+                  ],
+                  [
+                    "sembunyisembunyi"
+                  ],
+                  [
+                    "meredakan"
+                  ]
+                ],
+                "reference": "Amsal 21: 14"
+              },
+              {
+                "id": "q03",
+                "prompt": "“___ juga yang kamu perbuat, perbuatlah dengan segenap hatimu seperti untuk ___ dan bukan untuk manusia. Kamu tahu, bahwa dari Tuhanlah kamu akan menerima bagian yang ditentukan bagimu sebagai upah. Kristus adalah ___ dan ___ hamba-Nya” (Kolose 3: 23, 24).",
+                "blanks": [
+                  [
+                    "apa pun"
+                  ],
+                  [
+                    "tuhan"
+                  ],
+                  [
+                    "tuan"
+                  ],
+                  [
+                    "kamu"
+                  ]
+                ],
+                "reference": "Kolose 3: 23, 24"
+              },
+              {
+                "id": "q04",
+                "prompt": "“Dan semua orang yang telah menjadi percaya tetap ___, dan segala ___ mereka adalah kepunyaan bersama, dan selalu ada dari mereka yang menjual ___ miliknya, lalu ___ kepada semua orang sesuai dengan ___ masing-masing” (Kisah Para Rasul 2: 44, 45).",
+                "blanks": [
+                  [
+                    "bersatu"
+                  ],
+                  [
+                    "kepunyaan"
+                  ],
+                  [
+                    "harta"
+                  ],
+                  [
+                    "membagibagikannya"
+                  ],
+                  [
+                    "keperluan"
+                  ]
+                ],
+                "reference": "Kisah Para Rasul 2: 44, 45"
+              },
+              {
+                "id": "q05",
+                "prompt": "“Apakah gunanya, saudara-saudaraku, jika seorang mengatakan, bahwa ia mempunyai ___, padahal ia tidak mempunyai perbuatan? Dapatkah iman itu menyelamatkan dia? Jika seorang saudara atau saudari tidak ___ pakaian dan kekurangan makanan sehari-hari, dan seorang dari antara kamu berkata: “Selamat jalan, ___ kain panas dan ___ sampai kenyang!”, tetapi ia tidak ___ kepadanya apa yang perlu bagi tubuhnya, apakah gunanya itu? Demikian juga halnya dengan iman: Jika iman itu tidak disertai ___, maka iman itu pada hakekatnya adalah mati” (Yakobus 2: 14–17).\n",
+                "blanks": [
+                  [
+                    "iman"
+                  ],
+                  [
+                    "mempunyai"
+                  ],
+                  [
+                    "kenakanlah"
+                  ],
+                  [
+                    "makanlah"
+                  ],
+                  [
+                    "memberikan"
+                  ],
+                  [
+                    "perbuatan"
+                  ]
+                ],
+                "reference": "Yakobus 2: 14–17"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menghubungkan"
+        },
+        {
+          "markdown": "Tinjau kembali ayat hafalan."
+        },
+        {
+          "markdown": "“Tindakan kebaikan yang dilakukan secara rahasia akan mengikat hati bersama, dan akan menarik mereka lebih dekat ke hati Dia yang darinya setiap dorongan murah hati muncul” (Ellen G. White, Thoughts From the Mount of Blessing, hlm."
+        },
+        {
+          "markdown": "82)."
+        },
+        {
+          "markdown": "Tuhan memiliki banyak pemberian untuk diberikan kepada Anda—kasih anggota keluarga, kesuksesan, bahkan beberapa momen kesedihan untuk mengingatkan Anda akan dunia yang lebih baik yang akan datang. Ketika kita melakukan pelayanan yang tidak mementingkan diri sendiri kepada orang lain, kita mendapatkan “perhatian tanpa kita ketahui” tentang bagaimana perasaan Tuhan ketika Dia memberi kepada kita. Tidak mementingkan diri sendiri adalah karakteristik Tuhan yang luar biasa, dan itu menarik orang lain kepada Kristus. Tetapi bagaimana seseorang dapat melihat sekilas ketidakegoisan Tuhan selain melalui kita, anak-anak-Nya? Pikirkan tentang itu."
+        },
+        {
+          "markdown": "Tidak, sebenarnya, kebanyakan orang sudah memikirkannya. Pikirkanlah tentang hal itu. Cobalah."
+        },
+        {
+          "markdown": "Pikirkan tentang jawaban Anda atas pertanyaan-pertanyaan ini:"
+        },
+        {
+          "markdown": "1. Sebutkan beberapa karunia yang Tuhan berikan kepada Anda."
+        },
+        {
+          "markdown": "2. Apa saja cara Anda dapat menunjukkan kebaikan kepada orang lain? (Apa rencanamu?)"
+        },
+        {
+          "markdown": "3. Saat Anda mencoba menunjukkan kebaikan kepada seseorang, apa yang paling penting untuk diingat: merahasiakannya, atau hanya berbuat baik untuk seseorang? Jelaskan."
+        },
+        {
+          "markdown": "4. Mengapa disarankan agar kita “berbuat baik” secara sembunyi-sembunyi?"
+        },
+        {
+          "activity": {
+            "id": "l06-thursday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Tetapi bagaimana seseorang dapat melihat sekilas ketidakegoisan Tuhan selain melalui kita, anak-anak-Nya?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Apa saja cara Anda dapat menunjukkan kebaikan kepada orang lain?"
+              },
+              {
+                "id": "q03",
+                "prompt": "(Apa rencanamu?)"
+              },
+              {
+                "id": "q04",
+                "prompt": "Saat Anda mencoba menunjukkan kebaikan kepada seseorang, apa yang paling penting untuk diingat: merahasiakannya, atau hanya berbuat baik untuk seseorang?"
+              },
+              {
+                "id": "q05",
+                "prompt": "Mengapa disarankan agar kita “berbuat baik” secara sembunyi-sembunyi?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "friday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menerapkan"
+        },
+        {
+          "markdown": "Bacalah Roma 12:9–13."
+        },
+        {
+          "markdown": "Sangat penting untuk merencanakan tindakan kebaikan dengan penuh pertimbangan. Mulailah dengan satu atau dua hal yang dapat dilakukan. Juga sangat penting untuk terbuka terhadap peluang spontan yang muncul di sekitar Anda."
+        },
+        {
+          "markdown": "Pos pemeriksaan untuk kebaikan yang direncanakan sama dengan yang digunakan untuk tindakan kebaikan yang spontan. Di bawah ini adalah serangkaian pertanyaan untuk membantu Anda. Renungkan dan tuliskan pengalaman Anda minggu ini."
+        },
+        {
+          "markdown": "### Kriteria"
+        },
+        {
+          "markdown": "- Siapa seseorang yang berkekurangan?"
+        },
+        {
+          "markdown": "- Apa yang dapat Anda lakukan untuk merespons kebutuhan itu tanpa pamrih?"
+        },
+        {
+          "markdown": "- Bagaimana Anda bisa menghindari pengakuan sebagai sumber bantuan?"
+        },
+        {
+          "markdown": "### Terencana"
+        },
+        {
+          "markdown": "### Spontan"
+        },
+        {
+          "activity": {
+            "id": "l06-friday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Penerapan Saya",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Tuliskan pengalaman Anda",
+                "group": "Terencana"
+              },
+              {
+                "id": "q02",
+                "prompt": "Tuliskan pengalaman Anda",
+                "group": "Terencana"
+              },
+              {
+                "id": "q03",
+                "prompt": "- Siapa seseorang yang berkekurangan?"
+              },
+              {
+                "id": "q04",
+                "prompt": "- Apa yang dapat Anda lakukan untuk merespons kebutuhan itu tanpa pamrih?"
+              },
+              {
+                "id": "q05",
+                "prompt": "- Bagaimana Anda bisa menghindari pengakuan sebagai sumber bantuan?"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "sourceReadings": {
+    "sabbath": "ab6fc8694ec56b3ffe7d4cbe52d6703d6e60704550f8819534a13d4ab21786cf",
+    "sunday": "810f5bae34035a8df877578464d74f9956635bd7bc16010f9e0e2ec7a49b9b88",
+    "monday": "0713692a155733874b186d1a4abc18d5491098cc3e887fd3e4c7bb35f7644733",
+    "tuesday": "5107c8cb87c9f01f18cae3335c84e063ad309c63973fd8e56901f0ddc4a220bc",
+    "wednesday": "27a7ee8a2a9c991bf1f29e1535124e35ad8aabe3b1820877fb298fc6ae8006a1",
+    "thursday": "1a235b885927d06a4e94dbb92a00cebce03f7f1d649b4a7a5104c8c70da53b34",
+    "friday": "97bb5227eeed86bd95fccae303c2a618ae0e061983d0507c99116f9fe8cfa83f"
+  }
+}

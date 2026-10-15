@@ -6,7 +6,7 @@ Jalur terbit saat ini menggunakan GitHub Pages: sumber yang disetujui dibangun m
 
 Katalog mengikuti tiga kelompok: Dewasa, Pemuda Dewasa, serta Anak-anak dan Pemuda. Edisi Standar dan Mudah Dibaca adalah edisi untuk kelompok Dewasa; EGW Notes merupakan suplemen; InVerse termasuk Pemuda Dewasa. Rentang usia hanya rekomendasi, bukan batas akses. Lihat [taksonomi kelas Sekolah Sabat](https://github.com/AiWerek-Tech/sabatku-docs/blob/main/architecture/sabbath-school-audience-taxonomy.md).
 
-Materi Indonesia **Real-Time Faith Q4 2026** diterbitkan sebagai 13 pelajaran dengan tujuh bacaan harian dan satu PDF siswa per pekan. Struktur dan sumbernya dijelaskan pada [panduan integrasi Real-Time Faith](docs/realtime-faith-integration.md).
+Materi Indonesia **Real-Time Faith Q4 2026** diterbitkan sebagai 13 pelajaran dengan tujuh bacaan harian, 93 aktivitas (termasuk 10 permainan interaktif), dan satu PDF siswa per pekan. Struktur, pemeriksaan jawaban, serta penyesuaian kisi sumber dijelaskan pada [panduan integrasi Real-Time Faith](docs/realtime-faith-integration.md).
 
 Untuk katalog bahasa Inggris, jangan tawarkan GraceLink Beginner, Kindergarten, atau Primary lama sebagai program aktif; gunakan Alive in Jesus untuk level tersebut. Gunakan Junior PowerPoints, Real-Time Faith, dan Cornerstone sebagai materi transisi resmi untuk kelompok Junior, Teen, dan Youth selama materi Alive in Jesus untuk level tersebut belum tersedia.
 

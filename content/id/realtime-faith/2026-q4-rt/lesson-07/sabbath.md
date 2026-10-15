@@ -7,5 +7,7 @@ Penerbangan 401 menuju Miami dari New York City dengan penumpang yang penuh. Saa
 ## Untuk Dipelajari
 
 Ayat Hafalan: “Jadi akhirnya, saudara-saudara, semua yang benar, semua yang mulia, semua yang adil, semua yang suci, semua yang manis, semua yang sedap didengar, semua yang disebut kebajikan dan patut dipuji, pikirkanlah semuanya itu” (Filipi 4: 8).
+
 Kepercayaan Kita, no. 22, Tingkah Laku Kristiani: “Kita dipanggil untuk menjadi orang saleh yang berpikir, merasakan, dan bertindak selaras dengan prinsip-prinsip alkitabiah dalam semua aspek kehidupan pribadi dan sosial. Agar Roh menciptakan kembali karakter Tuhan kita di dalam kita, kita melibatkan diri kita hanya dalam hal-hal yang akan menghasilkan kemurnian, kesehatan, dan sukacita yang seperti Kristus dalam hidup kita.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 91

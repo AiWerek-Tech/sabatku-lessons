@@ -7,5 +7,7 @@ Pada tahun 1914, sebuah ekspedisi yang dipimpin oleh Sir Ernest Shackleton beran
 ## Untuk Dipelajari
 
 Ayat Hafalan: “Janganlah gelisah hatimu; percayalah kepada Allah, percayalah juga kepada-Ku. Di rumah Bapa-Ku banyak tempat tinggal. Jika tidak demikian, tentu Aku mengatakannya kepadamu. Sebab Aku pergi ke situ untuk menyediakan tempat bagimu. Dan apabila Aku telah pergi ke situ dan telah menyediakan tempat bagimu, Aku akan datang kembali dan membawa kamu ke tempat-Ku, supaya di tempat di mana Aku berada, kamu pun berada” (Yohanes 14: 1–3).
+
 Kepercayaan Kita, No. 25, Kedatangan Kristus yang Kedua Kali: “Kedatangan Kristus yang kedua kali adalah pengharapan yang membahagiakan bagi jemaat, puncak tertinggi dari Injil. Kedatangan Juruselamat akan bersifat harfiah, pribadi, terlihat, dan universal.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 107, 108

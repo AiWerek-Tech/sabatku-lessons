@@ -1,7 +1,55 @@
 ## JAWABAN ALKITAB TENTANG KITAB SUCI
 
 Baca Mazmur 119: 105; Amsal 30: 5, 6; Yohanes 17: 17; Ibrani 4: 12; 2 Petrus 1: 20, 21.
+
 Apa yang dikatakan ayat-ayat ini tentang Firman Tuhan? Mengapa penting bagi Anda untuk mempelajari Alkitab setiap hari ketika Anda berusaha memahami kehendak Tuhan untuk hidup Anda?
+
 Alkitab adalah surat cinta Tuhan kepada kita. Kitab Suci berisi penyataan kehendak Allah kepada kita. Sementara Tuhan berbicara kepada kita melalui Firman-Nya, kita dapat berkomunikasi dengan-Nya melalui doa. Dia memerintahkan kita untuk “meminta,” “mencari,” dan “mengetuk” (lihat Matius 7: 7, 8). Jika kita “lapar dan haus” akan kebenaran-Nya, Dia akan memperhatikan permintaan kita jika Dia melihat itu yang terbaik.
-Jelaskan dengan kata-kata Anda sendiri apa arti perikop Alkitab dalam 2 Timotius 3: 14-17 bagi Anda. Bagaimana Anda bisa mendapatkan hikmat dari Alkitab? Temukan kata-kata tersembunyi di dalam huruf-huruf di bawah ini. S U R D E K A T P M I E Y U MINTA A U M E M E E E B I C A R A K PERCAYA P N K C O N K E U IBADAH R O E T Q A I PERJAMUAN A T R U I U P R S Y U K U R R DEKAT T G E R M R K D E N G A R S Z SURAT Q S D M I N T A O C A R I E M UKIR T Z O T B S A Y M U N T B E T KETUK X C A J A L A N M L P R A Y K DENGAR S Q T M D A H A R A P B S A P DOA P Y P O A R T B N B V U D N W MOHON F N L T K P HARAP E A A H H S I U J CARI A T E O D P R Y O J X U S E Z BICARA K A E N S W N O N U E K S G N BUJUK O P E R J A M U A N D S E V S SYUKUR O K I M O V E K Q E K E T U K JALAN
+
+Jelaskan dengan kata-kata Anda sendiri apa arti perikop Alkitab dalam 2 Timotius 3: 14-17 bagi Anda. Bagaimana Anda bisa mendapatkan hikmat dari Alkitab?
+
+### Cari Kata
+
+Temukan kata-kata tersembunyi di dalam huruf-huruf di bawah ini.
+
+### Kata yang dicari
+
+- MINTA
+
+- PERCAYA
+
+- IBADAH
+
+- PERJAMUAN
+
+- DEKAT
+
+- SURAT
+
+- UKIR
+
+- KETUK
+
+- DENGAR
+
+- DOA
+
+- MOHON
+
+- HARAP
+
+- CARI
+
+- BICARA
+
+- BUJUK
+
+- SYUKUR
+
+- JALAN
+
+![Kisi cari kata](../../assets/activity-02-monday.png)
+
+Kisi cari kata — salinan lembar kegiatan dari PDF siswa.
+
 Menurut kegiatan ini, bagaimana Anda dapat menjadikan Yesus sahabat terbaik Anda? Dapatkah Anda menjelaskan?

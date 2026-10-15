@@ -1,0 +1,715 @@
+{
+  "schemaVersion": "sabatku-study-activities-v1",
+  "days": {
+    "sabbath": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Kisah Pekan Ini"
+        },
+        {
+          "markdown": "### WAKTU CEPAT BERLALU"
+        },
+        {
+          "markdown": "Suatu ketika hiduplah seorang yang sangat bijaksana. Ketika ia masih muda, ia berhadapan dengan masalah keadilan. Ia mampu memecahkan masalah yang sangat sulit. Semua orang kagum pada pengetahuan dan kebijaksanaannya dalam menemukan solusi untuk situasi yang menantang. Ia juga sangat kaya, tetapi ia menggunakan kekayaannya untuk kepentingannya sendiri. Dia membangun istana, kuil, dan armada kapal, dan mengumpulkan banyak emas. Orang-orang dari jauh dan dekat datang menemuinya dan belajar tentang hikmat yang diberikan Tuhan kepadanya. Namun ketika ia menjadi tua, ia melihat kembali kehidupannya dan menyadari kegagalannya. Ia menyadari bahwa ia telah menyia-nyiakan banyak waktu yang berharga untuk mengejar kepentingan diri sendiri. Dia menyesal dengan menyedihkan karena dia tidak menjalani hidupnya sepenuhnya didedikasikan untuk Tuhan. Sayangnya, ia tidak bisa lagi mengembalikan semua hari yang terbuang itu—semua itu telah hilang selamanya. Kesempatan berharga yang seharusnya bisa ia investasikan dalam nilai-nilai kekal telah hilang. Ia gagal menjadi teladan yang baik bagi anak-anaknya, bangsanya, dan generasi mendatang. Yang paling penting, ia telah mengecewakan Tuhan, yang telah memberinya hikmat untuk digunakan bagi kepentingan orang lain. Tidak ada yang bisa dia lakukan untuk mengubah konsekuensi dari tindakannya yang egois dan kesempatan yang terbuang. Jadi dia memutuskan untuk menuliskan nasihatnya kepada generasi mendatang, memperingatkan semua orang untuk tidak melakukan kesalahan yang sama seperti dirinya. Dia tidak ingin anak-anaknya atau mereka yang akan mendengar tentang hidupnya membuang-buang waktu mereka untuk hal-hal yang tidak terlalu penting. Setiap hari, Tuhan memberi setiap orang 24 jam. Setiap orang perlu memutuskan bagaimana menggunakan kesempatan berharga yang telah diberikan Tuhan. Tanyakan pada diri Anda sendiri, “Bagaimana saya bisa menginvestasikan waktu saya dalam kegiatan yang berharga yang akan mempersiapkan saya dengan sebaik-baiknya untuk kehidupan yang berguna yang menghormati Tuhan dan memberkati orang lain?” —Kathleen D. Sowards (Referensi: Pengkhotbah 12: 13, 14; Ellen G. White, Para Nabi dan Raja, hlm. 77-86). Karena Tuhan menginginkan yang terbaik bagi kita, Dia telah memberi kita hadiah waktu setiap minggu di mana kita dapat beristirahat dari kesibukan sehari-hari yang menyita waktu, perhatian, dan tenaga kita. Tuhan menetapkan Sabat hari ketujuh untuk menjadi peringatan Penciptaan, sebuah oasis waktu, ketika kita memiliki kesempatan untuk berhubungan kembali dengan Sang Pencipta. Sabat mengingatkan kita akan karya penciptaan dan keselamatan Allah, serta kuasa-Nya untuk memulihkan gambar Pencipta kita dalam diri kita. Sabat menolong kita menetapkan prioritas untuk penggunaan waktu kita dan untuk memfokuskan kembali perhatian kita pada mengejar kekekalan. Sungguh suatu hak istimewa untuk menghabiskan waktu bersama Sang Pencipta setiap Sabat dan memuji Dia atas kasih-Nya yang luar biasa bagi kita!"
+        },
+        {
+          "markdown": "## Untuk Dipelajari"
+        },
+        {
+          "markdown": "Ayat Hafalan: “Hari-hari Sabat-Ku juga Kuberikan kepada mereka menjadi peringatan di antara Aku dan mereka, supaya mereka mengetahui bahwa Akulah TUHAN, yang menguduskan mereka” (Yehezkiel 20: 12)."
+        },
+        {
+          "markdown": "Kepercayaan Kita, no. 20, Sabat: “Sabat merupakan hari pertemuan yang menyenangkan bersama Allah dan satu sama lain. Hari Sabat adalah lambang penebusan kita di dalam Kristus, tanda pengudusan kita, tanda kesetiaan kita, dan gambaran masa depan kita yang kekal di dalam kerajaan Allah. Sabat adalah lambang abadi Allah atas perjanjian kekal-Nya antara Dia dan umat-Nya.”"
+        },
+        {
+          "markdown": "Ellen G. White, Thoughts From the Mount of Blessing, hlm. 100, 101"
+        },
+        {
+          "activity": {
+            "id": "l13-sabbath-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Tanyakan pada diri Anda sendiri, “Bagaimana saya bisa menginvestasikan waktu saya dalam kegiatan yang berharga yang akan mempersiapkan saya dengan sebaik-baiknya untuk kehidupan yang berguna yang menghormati Tuhan dan memberkati orang lain?” —Kathleen D."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merespons"
+        },
+        {
+          "markdown": "Bacalah Ulangan 5:12-15."
+        },
+        {
+          "markdown": "Apa yang paling banyak menyita waktu Anda dalam sehari (selain pergi ke sekolah)? Di bagian mana Anda paling senang menghabiskan waktu Anda? Berapa banyak waktu yang Anda habiskan bersama Tuhan? Jika Anda memiliki hubungan yang kuat dengan Tuhan, bagaimana hal itu akan memengaruhi cara Anda menghabiskan waktu Anda dalam berbagai kegiatan sepanjang hari? Apakah Yesus akan menemani Anda dalam semua kegiatan yang menyita waktu Anda? Apa artinya bagi Anda menghabiskan waktu bersama Tuhan? Seperti apa menghabiskan waktu bersama-Nya dalam kehidupan sehari-hari Anda?"
+        },
+        {
+          "activity": {
+            "id": "l13-sunday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Apa yang paling banyak menyita waktu Anda dalam sehari (selain pergi ke sekolah)?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Di bagian mana Anda paling senang menghabiskan waktu Anda?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Berapa banyak waktu yang Anda habiskan bersama Tuhan?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Jika Anda memiliki hubungan yang kuat dengan Tuhan, bagaimana hal itu akan memengaruhi cara Anda menghabiskan waktu Anda dalam berbagai kegiatan sepanjang hari?"
+              },
+              {
+                "id": "q05",
+                "prompt": "Apakah Yesus akan menemani Anda dalam semua kegiatan yang menyita waktu Anda?"
+              },
+              {
+                "id": "q06",
+                "prompt": "Apa artinya bagi Anda menghabiskan waktu bersama Tuhan?"
+              },
+              {
+                "id": "q07",
+                "prompt": "Seperti apa menghabiskan waktu bersama-Nya dalam kehidupan sehari-hari Anda?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "monday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## JAWABAN ALKITAB TENTANG SABAT"
+        },
+        {
+          "markdown": "Bacalah Kejadian 2: 1-3; Keluaran 20: 8-11; Yesaya 58: 13, 14; Ibrani 4: 1-11."
+        },
+        {
+          "markdown": "\"Hanya satu hari saja yang menjadi milik kita, dan selama satu hari ini kita harus hidup bagi Allah. Selama satu hari ini kita harus meletakkan di tangan Kristus, dalam pelayanan yang sungguh-sungguh, semua tujuan dan rencana kita, menyerahkan semua perhatian kita kepada-Nya, karena Dia memelihara kita.\" (Ellen G. White, Thoughts From the Mount of Blessing, hal. 101)."
+        },
+        {
+          "activity": {
+            "id": "l13-monday-cipher",
+            "answerVersion": 1,
+            "kind": "cipher",
+            "title": "Pecahkan Kode",
+            "instruction": "Pilih simbol dan tentukan huruf penggantinya untuk membuka pesan dari Mazmur. Pesan mengikuti bahasa Inggris sumber.",
+            "cipher": "RCF U FKCVF UG SMC JMKH; U VLS, \"SMC LKX QS EMH.\" QS FUQXV LKX UG SMCK ALGHV.",
+            "mapping": {
+              "R": "B",
+              "C": "U",
+              "F": "T",
+              "U": "I",
+              "K": "R",
+              "V": "S",
+              "G": "N",
+              "S": "Y",
+              "M": "O",
+              "J": "L",
+              "H": "D",
+              "L": "A",
+              "X": "E",
+              "Q": "M",
+              "E": "G",
+              "A": "H",
+              "Y": "P",
+              "I": "V"
+            },
+            "givens": {},
+            "reference": "Mazmur 31:14, 15"
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merenungkan"
+        },
+        {
+          "markdown": "Baca dan bandingkan Keluaran 31: 13 dan Yehezkiel 20: 12, 20. Apakah kesamaan unsur yang ada di antara ayat-ayat ini?"
+        },
+        {
+          "markdown": "Bagaimana Sabat penting dalam hidup Anda?"
+        },
+        {
+          "markdown": "Ada begitu banyak waktu dalam hidup ini untuk melakukan semua hal yang ingin kita lakukan, dan semua hal yang Tuhan ingin kita lakukan. Ketika kita merasa diri kita membuang-buang terlalu banyak waktu, kita juga membuang-buang waktu Tuhan."
+        },
+        {
+          "markdown": "Kita semua bisa menjadi alat yang kuat bagi kerajaan Allah, tetapi kita harus memastikan bahwa kita menjadwalkannya. Kehidupan yang kita jalani ini sangat sibuk, jadi kita perlu membuka agenda kita sebelum prioritas-prioritas lain memenuhi hidup kita dengan hal-hal yang sebenarnya hanya membuang-buang waktu."
+        },
+        {
+          "markdown": "Di bagian bawah pelajaran ini terdapat bagan di mana Anda dapat menuliskan bagaimana Anda menghabiskan waktu Anda pekan ini. Ambil tiga hari dan cobalah seakurat mungkin. Latihan ini benar-benar dapat membuka mata jika Anda jujur."
+        },
+        {
+          "activity": {
+            "id": "l13-tuesday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Apakah kesamaan unsur yang ada di antara ayat-ayat ini?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Bagaimana Sabat penting dalam hidup Anda?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Konsep Alkitab"
+        },
+        {
+          "activity": {
+            "id": "l13-wednesday-matching",
+            "answerVersion": 1,
+            "kind": "matching",
+            "title": "Pasangkan Ayat dan Frasa",
+            "instruction": "Baca setiap bagian lalu pilih pasangannya. Anda dapat mengubah pilihan sebelum memeriksa jawaban.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "“Sebab aku yakin, bahwa penderitaan zaman sekarang ini tidak dapat dibandingkan dengan kemuliaan yang akan dinyatakan kepada kita.” _______________",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Pengkhotbah 3:1–8"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Yakobus 4:14, 15"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Mazmur 89:47"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Roma 8:18"
+                  },
+                  {
+                    "id": "4",
+                    "label": "Matius 6:34"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Mazmur 31:14, 15"
+                  }
+                ],
+                "correct": [
+                  "3"
+                ]
+              },
+              {
+                "id": "q02",
+                "prompt": "“sedang kamu tidak tahu apa yang akan terjadi besok. Apakah arti hidupmu? Hidupmu itu sama seperti uap yang sebentar saja kelihatan lalu lenyap. Sebenarnya kamu harus berkata: 'Jika Tuhan menghendakinya, kami akan hidup dan berbuat ini dan itu.’ ” ______________",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Pengkhotbah 3:1–8"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Yakobus 4:14, 15"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Mazmur 89:47"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Roma 8:18"
+                  },
+                  {
+                    "id": "4",
+                    "label": "Matius 6:34"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Mazmur 31:14, 15"
+                  }
+                ],
+                "correct": [
+                  "1"
+                ]
+              },
+              {
+                "id": "q03",
+                "prompt": "“ Tetapi aku, kepada-Mu aku percaya, ya TUHAN, aku berkata: \"Engkaulah Allahku!\" Masa hidupku ada dalam tangan-Mu.” _______________",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Pengkhotbah 3:1–8"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Yakobus 4:14, 15"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Mazmur 89:47"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Roma 8:18"
+                  },
+                  {
+                    "id": "4",
+                    "label": "Matius 6:34"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Mazmur 31:14, 15"
+                  }
+                ],
+                "correct": [
+                  "5"
+                ]
+              },
+              {
+                "id": "q04",
+                "prompt": "“Ingatlah apa umur hidup itu, betapa sia-sia Kauciptakan semua anak manusia!” ______________",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Pengkhotbah 3:1–8"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Yakobus 4:14, 15"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Mazmur 89:47"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Roma 8:18"
+                  },
+                  {
+                    "id": "4",
+                    "label": "Matius 6:34"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Mazmur 31:14, 15"
+                  }
+                ],
+                "correct": [
+                  "2"
+                ]
+              },
+              {
+                "id": "q05",
+                "prompt": "“Untuk segala sesuatu ada masanya, untuk apa pun di bawah langit ada waktunya. Ada waktu untuk lahir, ada waktu untuk meninggal, ada waktu untuk menanam, ada waktu untuk mencabut yang ditanam; ada waktu untuk membunuh, ada waktu untuk menyembuhkan; ada waktu untuk merombak, ada waktu untuk membangun; ada waktu untuk menangis, ada waktu untuk tertawa; ada waktu untuk meratap; ada waktu untuk menari; ada waktu untuk membuang batu, ada waktu untuk mengumpulkan batu; ada waktu untuk memeluk, ada waktu untuk menahan diri dari memeluk; ada waktu untuk mencari, ada waktu untuk membiarkan rugi; ada waktu untuk menyimpan, ada waktu untuk membuang; ada waktu untuk merobek, ada waktu untuk menjahit; ada waktu untuk berdiam diri, ada waktu untuk berbicara; ada waktu untuk mengasihi, ada waktu untuk membenci; ada waktu untuk perang, ada waktu untuk dama.” _______________",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Pengkhotbah 3:1–8"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Yakobus 4:14, 15"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Mazmur 89:47"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Roma 8:18"
+                  },
+                  {
+                    "id": "4",
+                    "label": "Matius 6:34"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Mazmur 31:14, 15"
+                  }
+                ],
+                "correct": [
+                  "0"
+                ]
+              },
+              {
+                "id": "q06",
+                "prompt": "“Sebab itu janganlah kamu kuatir akan hari besok, karena hari besok mempunyai kesusahannya sendiri. Kesusahan sehari cukuplah untuk sehari.” ______________",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "Pengkhotbah 3:1–8"
+                  },
+                  {
+                    "id": "1",
+                    "label": "Yakobus 4:14, 15"
+                  },
+                  {
+                    "id": "2",
+                    "label": "Mazmur 89:47"
+                  },
+                  {
+                    "id": "3",
+                    "label": "Roma 8:18"
+                  },
+                  {
+                    "id": "4",
+                    "label": "Matius 6:34"
+                  },
+                  {
+                    "id": "5",
+                    "label": "Mazmur 31:14, 15"
+                  }
+                ],
+                "correct": [
+                  "4"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menghubungkan"
+        },
+        {
+          "markdown": "Bacalah Lukas 4:16. Apakah yang dikatakan ayat ini tentang Yesus? Bagaimanakah Yesus menjadi teladan bagi kita dalam memelihara hari Sabat?"
+        },
+        {
+          "markdown": "Tinjaulah kembali ayat hafalan."
+        },
+        {
+          "markdown": "Pada titik ini, Anda harus memiliki setidaknya satu hari yang telah selesai pada penelusuran aktivitas Anda. Apa yang Anda pelajari? Apakah ada bagian-bagian dalam hari Anda yang dapat Anda isi dengan kegiatan-kegiatan yang lebih produktif? Bagaimana dengan persepuluhan Anda dalam hal waktu? Sudahkah Anda menemukan tempat di mana Anda dapat memberikan kembali kepada Tuhan 2,4 jam sebagai jenis persepuluhan dari 24 jam yang Dia berikan kepada Anda?"
+        },
+        {
+          "markdown": "\"Kristus tidak memberikan janji pertolongan kepada kita untuk menanggung beban hari ini dan beban hari esok. Dia telah berkata, 'Cukuplah kasih karunia-Ku bagimu' (2 Korintus 12: 9); tetapi, seperti manna yang diberikan di padang gurun, kasih karunia-Nya dianugerahkan setiap hari, untuk kebutuhan hari itu. Sebagaimana bala tentara Israel dalam kehidupan musafir mereka, kita dapat menemukan pagi demi pagi roti surga untuk persediaan hari itu\" (Ellen G. White, Thoughts From the Mount of Blessing, hlm. 101)."
+        },
+        {
+          "activity": {
+            "id": "l13-thursday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Apakah yang dikatakan ayat ini tentang Yesus?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Bagaimanakah Yesus menjadi teladan bagi kita dalam memelihara hari Sabat?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Apa yang Anda pelajari?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Apakah ada bagian-bagian dalam hari Anda yang dapat Anda isi dengan kegiatan-kegiatan yang lebih produktif?"
+              },
+              {
+                "id": "q05",
+                "prompt": "Bagaimana dengan persepuluhan Anda dalam hal waktu?"
+              },
+              {
+                "id": "q06",
+                "prompt": "Sudahkah Anda menemukan tempat di mana Anda dapat memberikan kembali kepada Tuhan 2,4 jam sebagai jenis persepuluhan dari 24 jam yang Dia berikan kepada Anda?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "friday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menerapkan"
+        },
+        {
+          "markdown": "Cobalah mencatat waktu Anda selama tiga hari dalam pekan ini. Tuliskan apa yang Anda lakukan setiap jam setiap hari saat Anda terbangun (seperti: saat teduh, belajar Alkitab, berdoa, menolong orang lain, makan, mengerjakan pekerjaan rumah, melakukan hobi, berbicara dengan keluarga, berbicara di telepon atau berkirim pesan di komputer atau di perangkat elektronik lainnya, persiapan, tidur, bergaul dengan teman)."
+        },
+        {
+          "activity": {
+            "id": "l13-friday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Penerapan Saya",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "07.00–08.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q02",
+                "prompt": "08.00–09.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q03",
+                "prompt": "09.00–10.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q04",
+                "prompt": "10.00–11.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q05",
+                "prompt": "11.00–12.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q06",
+                "prompt": "12.00–13.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q07",
+                "prompt": "13.00–14.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q08",
+                "prompt": "14.00–15.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q09",
+                "prompt": "15.00–16.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q10",
+                "prompt": "16.00–17.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q11",
+                "prompt": "17.00–18.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q12",
+                "prompt": "18.00–19.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q13",
+                "prompt": "19.00–20.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q14",
+                "prompt": "20.00–21.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q15",
+                "prompt": "21.00–22.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q16",
+                "prompt": "07.00–08.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q17",
+                "prompt": "08.00–09.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q18",
+                "prompt": "09.00–10.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q19",
+                "prompt": "10.00–11.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q20",
+                "prompt": "11.00–12.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q21",
+                "prompt": "12.00–13.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q22",
+                "prompt": "13.00–14.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q23",
+                "prompt": "14.00–15.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q24",
+                "prompt": "15.00–16.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q25",
+                "prompt": "16.00–17.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q26",
+                "prompt": "17.00–18.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q27",
+                "prompt": "18.00–19.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q28",
+                "prompt": "19.00–20.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q29",
+                "prompt": "20.00–21.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q30",
+                "prompt": "21.00–22.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q31",
+                "prompt": "07.00–08.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q32",
+                "prompt": "08.00–09.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q33",
+                "prompt": "09.00–10.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q34",
+                "prompt": "10.00–11.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q35",
+                "prompt": "11.00–12.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q36",
+                "prompt": "12.00–13.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q37",
+                "prompt": "13.00–14.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q38",
+                "prompt": "14.00–15.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q39",
+                "prompt": "15.00–16.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q40",
+                "prompt": "16.00–17.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q41",
+                "prompt": "17.00–18.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q42",
+                "prompt": "18.00–19.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q43",
+                "prompt": "19.00–20.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q44",
+                "prompt": "20.00–21.00",
+                "group": "Hari Pertama"
+              },
+              {
+                "id": "q45",
+                "prompt": "21.00–22.00",
+                "group": "Hari Pertama"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "sourceReadings": {
+    "sabbath": "cdbab8f027a01a2b6e4da9356ba534081689200c57b01f2b76d75857e5517d75",
+    "sunday": "ee6c972f11246dae8b27cdee81ce7b5709030cd1c934680857eec579c633ac97",
+    "monday": "8589f3ad22c74f9f0e383c61a1d705db6a90d9933d352f4b03b43063e8f88953",
+    "tuesday": "8da5c16594b4e13b25fa2fd806e81cbbc43c97e2f538dc593ddb05fc51aeb2a6",
+    "wednesday": "0e45d503d8256df4fb96e1485d0f87916d65948c46bb8f6e207feee51f739ed0",
+    "thursday": "9df613c1470067f7467f9f2c4fd6492a617de98f7bdeddee59969c84a766b9c1",
+    "friday": "f660d70f728bdcd3c70032d908ed69857a0254e0b41b8a92d056f184c29289fe"
+  }
+}

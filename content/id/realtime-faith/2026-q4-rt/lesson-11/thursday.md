@@ -1,5 +1,7 @@
 ## Menghubungkan
 
 Tinjau kembali ayat hafalan.
+
 Di manakah Tuhan saat Anda merasa sakit hati, atau marah, atau sedih? Kadang-kadang Anda mungkin merasa seolah-olah Tuhan telah menghilang dan meninggalkan Anda untuk menghadapi hidup Anda sendiri. Salah satu hal buruk tentang perasaan buruk adalah bahwa hal itu dapat menghalangi hubungan kita dengan Tuhan. Dia ada di sana, seperti matahari di hari berawan, tetapi terkadang kita tidak dapat melihat atau merasakan Dia.
+
 Saat itulah Anda perlu berpegang pada Tuhan dengan iman dan percaya pada pimpinan pemeliharaan-Nya. Biasakan untuk berbicara dengan Tuhan, bahkan ketika Anda sedang tidak enak badan. Dia ada di sana, dan Dia mendengarkan. Dia dapat membantu Anda menemukan cara-cara positif untuk menghadapi situasi-situasi menyedihkan yang membuat Anda terluka dan patah semangat. Ingatlah janji Tuhan dalam Yeremia 29:11-13. Keinginan-Nya bagi Anda adalah memberi Anda masa depan yang penuh harapan tidak hanya di kerajaan-Nya yang mulia tetapi sudah ada di bumi ini. Maukah Anda memercayai hidup Anda dalam pemeliharaan kasih-Nya? Dengan melakukan itu, Anda akan membuat keputusan terbaik dalam hidup Anda! Tuhan selalu punya solusi yang positif, cara untuk menghadapi situasi apa pun. Berbicaralah kepada-Nya di saat-saat sulit—dan di saat-saat yang baik juga.

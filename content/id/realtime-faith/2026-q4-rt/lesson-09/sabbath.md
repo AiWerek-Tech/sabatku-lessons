@@ -3,10 +3,13 @@
 ### SEMUA TENTANG UANG
 
 Tim Forneris. Bagi siapa pun yang mengenali nama itu, dia adalah orang yang beruntung yang memecahkan rekor bisbol home-run Mark McGwire yang memecahkan rekor enam puluh detik senilai sekitar $1 juta. (Bola home run ketujuh puluh McGwire kemudian dijual seharga $ 3 juta.) Gantinya menyimpannya untuk dirinya sendiri, Tim mengembalikannya ke McGwire. Sementara mengakui hal ini sebagai “sikap yang terhormat”, majalah Time menggunakan Forneris sebagai contoh keterampilan manajemen uang yang buruk (“Personal Time: Your Money,” Time, 8 Februari 1999). Menurut standar dunia, dia tidak membuat keputusan yang cerdas. Bagaimanapun, dia berhak menyimpan bola untuk dirinya sendiri. Dan siapa yang tidak bisa menggunakan $1 juta? Tanggapan Forneris terhadap artikel tersebut mencakup pernyataan ini: “Hidup lebih daripada sekadar uang. Beberapa harta tidak ternilai harganya” (dalam Time, 22 Maret
+
 1999). Uang adalah satuan ukuran diri di dunia kita—beberapa orang berpikir bahwa berapa banyak yang kita miliki menentukan siapa diri kita. Apakah kekayaan atau harta benda kita yang menentukan nilai kita? Pikirkan apa yang membuat kita berharga di mata Tuhan. Apa yang Yesus ajarkan tentang cara terbaik menggunakan uang? Baca Matius 19: 16-21. Lihatlah jawaban Yesus kepada penguasa muda yang kaya: “Jikalau engkau hendak sempurna, pergilah, juallah segala milikmu dan berikanlah itu kepada orang-orang miskin, maka engkau akan beroleh harta di sorga, kemudian datanglah ke mari dan ikutlah Aku.” (ayat 21). Bagaimana jawaban Yesus sangat berbeda dari cara orang umumnya berpikir tentang tujuan dan penggunaan uang?
 
 ## Untuk Dipelajari
 
 Ayat Hafalan “Hendaklah masing-masing memberikan menurut kerelaan hatinya, jangan dengan sedih hati atau karena paksaan, sebab Allah mengasihi orang yang memberi dengan sukacita” (2 Korintus 9:7).
+
 Kepercayaan Kita No21, Penatalayanan: “Kita adalah penatalayan Allah, yang dipercayakan oleh-Nya dengan waktu dan kesempatan, kemampuan dan harta benda, serta berkat bumi dan sumber dayanya. Kita bertanggung jawab kepada-Nya untuk penggunaan yang tepat. Kita mengakui kepemilikan Allah dengan pelayanan yang setia kepada-Nya dan sesama manusia, dan dengan mengembalikan persepuluhan dan memberikan persembahan untuk pemberitaan Injil-Nya dan dukungan serta pertumbuhan gereja-Nya.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 7, 99

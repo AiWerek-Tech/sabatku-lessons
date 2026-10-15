@@ -1,0 +1,426 @@
+{
+  "schemaVersion": "sabatku-study-activities-v1",
+  "days": {
+    "sabbath": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Kisah Pekan Ini"
+        },
+        {
+          "markdown": "### PERCAYA SAJA PADAKU"
+        },
+        {
+          "markdown": "mengembalikan mobil ke jalan. Saya disebut seorang musafir, tetapi cerita ini bisa berlaku untuk siapa saja, karena kita membuat keputusan setiap hari. Sebuah perjalanan dapat bertahan karena saya belajar pelajaran penting tentang menerima nasihat dari orangorang yang Tuhan tempatkan dalam hidup kita untuk membantu kita di sepanjang jalan. Suatu pagi saya memasukkan koper saya ke dalam mobil saya dan mulai mengemudi. Di tengah perjalanan saya berhenti. Di depan saya, seorang petugas lalu lintas memberikan saran tentang jalan mana yang terbaik dan teraman. Saya mencoba bersikap sopan dan mendengarkan ketika petugas itu berkata kepada saya, “Jalan ke kanan lebih baik kondisinya daripada jalan di sebelah kiri.” Saya bertanya, “Jalan mana yang lebih pendek?” Petugas menjelaskan bahwa jalan di sebelah kiri lebih pendek, tetapi dalam kondisi rusak. Itu dibarikade untuk menghindarkan orang dari harus berurusan dengan bekas roda, puing-puing, dan bahaya lainnya. Petugas berkata, “Jalan di sebelah kiri mungkin lebih pendek, tetapi jika Anda ingin bepergian dengan aman ke tujuan Anda, maka ambil jalan di sebelah kanan.” Saya berpikir sejenak dan kemudian mengabaikan peringatan itu dan berbelok ke kiri, melewati barikade. Saya melihat petugas itu menggelengkan kepalanya dengan sedih. Tetapi aku punya tempat untuk pergi dan orang-orang untuk melihat. Saya tidak punya waktu untuk disia-siakan. Jadi saya mengambil rute pendek. Segera saya mulai mengalami tantangan. Suatu kali saya berbelok di tikungan dan mendapati diri saya langsung menuju ke sebuah batu besar yang terletak di tengah jalan. Batu itu tampak sebesar mobil saya! Aku menginjak rem dan berhasil melewatinya. Di waktu yang lain saya harus berjuang dan mendorong untuk mengeluarkan mobil saya dari parit. Keringatku mengalir di dahi dan mataku, dan kemejaku melekat di punggungku, tetapi akhirnya aku berhasil mengembalikan mobil ke jalan. Ada rambu-rambu peringatan yang memperingatkan pengemudi tentang kondisi jalan. Ada banyak kesempatan untuk berbalik jika saya hanya mendengarkan arahan. Sepanjang jalan ada orang-orang baik dan teman-teman yang mengatakan kepada saya bahwa saya harus berbalik; bahwa jalan di depan akan dipenuhi dengan bahaya dan kesulitan. Mereka berulang kali mengatakan kepada saya bahwa jalan lain jauh lebih aman. Mereka meminta saya untuk berbalik, tetapi saya tetap melaju dan tidak mau dibujuk. Saat saya mendengarkan ramalan cuaca di radio, saya mengetahui bahwa badai petir besar akan datang. Ini bukan kabar baik, mengingat jalan rusak yang dipenuhi lubang yang saya lalui. Tetapi gantinya mengindahkan peringatan terakhir ini, saya mematikan radio. Saya bertekad untuk terus berjalan apa pun yang terjadi. Mungkin saya akan mencapai tujuan saya sebelum badai menerjang. Sayangnya, itu tidak lama sebelum langit mulai berubah lebih gelap dan lebih gelap. Angin semakin kencang, dan tak lama kemudian ada tetesan hujan besar yang menghantam kaca depan, membuatnya sulit untuk dilihat. Petir menyambar di langit yang gelap, dan guntur menggelegar keras di atas kepala. Tiba-tiba, ketika saya berpikir bahwa segala sesuatunya tidak akan menjadi lebih buruk, saya mendengar suara yang halus, dan saya tahu apa artinya. Saya menjatuhkan tanganku di kemudi dan mengerang—ban kempes! Setelah mengganti ban, saya kembali ke mobil, basah kuyup, menggigil, dan kedinginan. Saya hanya duduk di sana mendengarkan hujan deras mengguyur atap dan memikirkan betapa banyak masalah yang saya alami. Apa yang dimulai sebagai hari yang indah tentu saja menjadi sangat salah. Kemudian saya menyadari bahwa saya seharusnya mengikuti saran dari mereka yang tahu tentang kondisi jalan jauh lebih baik daripada saya. Jika saya hanya mendengarkan nasihat, saya akan menikmati perjalanan yang jauh lebih menyenangkan ke tujuan saya. —Kathleen D. Sowards"
+        },
+        {
+          "markdown": "## Untuk Dipelajari"
+        },
+        {
+          "markdown": "Ayat Hafalan: “Ingatlah akan pemimpin-pemimpin kamu, yang telah menyampaikan firman Allah kepadamu. Perhatikanlah akhir hidup mereka dan contohlah iman mereka” (Ibrani 13:7)."
+        },
+        {
+          "markdown": "Kepercayaan Kita No. 10, PEngalaman Keselamatan: “Dalam kasih dan belas kasihan yang tak terbatas, Allah membuat Kristus, yang tidak mengenal dosa, menjadi dosa karena kita, supaya di dalam Dia kita dibenarkan oleh Allah. Dengan tuntutan Roh Kudus, kita merasakan keperluan kita, mengakui keberdosaan kita, bertobat dari pelanggaran kita, dan menjalankan iman kepada Yesus sebagai Juruselamat dan Tuhan, Pengganti dan Teladan.”"
+        },
+        {
+          "markdown": "Ellen G. White, Thoughts From the Mount of Blessing, hlm. 126"
+        },
+        {
+          "activity": {
+            "id": "l05-sabbath-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Saya mencoba bersikap sopan dan mendengarkan ketika petugas itu berkata kepada saya, “Jalan ke kanan lebih baik kondisinya daripada jalan di sebelah kiri.” Saya bertanya, “Jalan mana yang lebih pendek?” Petugas menjelaskan bahwa jalan di sebelah kiri lebih pendek, tetapi dalam kondisi rusak."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merespons"
+        },
+        {
+          "markdown": "Baca Filipi 2: 6, 7."
+        },
+        {
+          "markdown": "Craig duduk di gereja dengan keyakinan luar biasa yang bertumpu pada jiwanya. Dia merasa bahwa Tuhan sedang menjangkau dia. Dia dengan jujur melihat kebiasaannya dan tahu bahwa video game yang dia mainkan, terkadang hingga larut malam, mengganggu waktu yang dia habiskan bersama Tuhan dan keluarganya. Dia tidak yakin bagaimana menangani masalah ini."
+        },
+        {
+          "markdown": "Craig ingin menghubungi orang dewasa untuk meminta bantuan. Guru Sekolah Sabatnya, Jeff, keren. Tetapi dia tidak yakin apakah dia siap bahwa Jeff tahu tentang masalah ini. Ada beberapa orang lain yang menurut Craig bisa dia datangi untuk meminta bantuan. Apa yang harus dicari Craig dalam diri seorang mentor? Kualitas apa yang paling membantu? Bagaimana seharusnya Craig meminta bantuan? Apakah Anda pikir dia harus segera mengatasi masalahnya dengan orang dewasa yang peduli?"
+        },
+        {
+          "activity": {
+            "id": "l05-sunday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Apa yang harus dicari Craig dalam diri seorang mentor?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Kualitas apa yang paling membantu?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Bagaimana seharusnya Craig meminta bantuan?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Apakah Anda pikir dia harus segera mengatasi masalahnya dengan orang dewasa yang peduli?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "monday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## JAWABAN ALKITAB TENTANG PENGALAMAN KESELAMATAN"
+        },
+        {
+          "markdown": "Baca Kejadian 3: 15; Yohanes 3: 3–8, 16; Roma 12: 1, 2; 2 Korintus 5: 17–21; 1 Petrus 2: 21, 22."
+        },
+        {
+          "markdown": "Ketika kita menyerahkan hidup kita kepada tuntutan Tuhan dan dilahirkan kembali, Roh Kudus akan memperbarui pikiran kita, menulis hukum kasih Tuhan di dalam hati kita, dan memberi kita kekuatan untuk menjalani kehidupan yang kudus. Saat kita hidup di dalam Kristus, kita mengambil sifat-Nya dan memiliki jaminan hidup yang kekal."
+        },
+        {
+          "markdown": "“Kelemahlembutan adalah ciri khas Kristen yang berharga. Kelemahlembutan dan kerendahan hati Kristus hanya dipelajari dengan mengenakan kuk Kristus.. Kuk itu menandakan ketundukan sepenuhnya.” ”Ketundukan yang dituntut Kristus... [adalah] dihasilkan oleh pekerjaan Roh Kudus. Harus ada transformasi seluruh kehidupan, hati, jiwa, dan karakter.... Hanya di mazbah pengorbanan, dan dari tangan Tuhan, manusia yang egois dan pencengkeram dapat menerima obor surgawi yang mengungkapkan ketidakmampuannya sendiri dan menuntunnya untuk tunduk pada kuk Kristus, untuk belajar kelembutan dan kerendahan hati-Nya” (Ellen G. White, Di Tempat Surgawi, hlm. 236)."
+        },
+        {
+          "markdown": "Apa artinya “menyerahkan diri” kepada Tuhan?"
+        },
+        {
+          "markdown": "Di dalam Alkitab ada dua orang terkenal, yang satu hebat dalam kekuatan dan yang lain hebat dalam hikmat dan kekayaan. Siapa mereka? Lihat Hakim-hakim 13: 5, 6 dan 1 Raja-Raja 4: 29–34."
+        },
+        {
+          "markdown": "Apakah ada saat-saat, dalam kehidupan orang-orang ini, bahwa mereka seharusnya meminta nasihat seseorang? Jelaskan."
+        },
+        {
+          "activity": {
+            "id": "l05-monday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Apa artinya “menyerahkan diri” kepada Tuhan?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Siapa mereka?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Apakah ada saat-saat, dalam kehidupan orang-orang ini, bahwa mereka seharusnya meminta nasihat seseorang?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merenungkan"
+        },
+        {
+          "markdown": "Baca 1 Timotius 4: 12."
+        },
+        {
+          "markdown": "Bagaimana Paulus telah membantu membimbing Timotius dalam pelayanan kepada Allah?"
+        },
+        {
+          "markdown": "Banyak orang percaya yang dipenuhi sukacita telah menangkap momen kebijaksanaan dan akuntabilitas dari orang lain yang mereka percayai."
+        },
+        {
+          "markdown": "Akuntabilitas adalah memberi seseorang hak untuk memegang janji Anda. Jika Anda ingin berhenti terlibat dalam perilaku yang merugikan, atau ingin bersikap baik kepada orang lain, atau menggunakan waktu Anda dengan lebih bijaksana, maka sering kali orang Kristen yang lebih bijaksana dan berpengalaman dapat mengingatkan Anda akan komitmen Anda kepada Tuhan. Pikirkan semua komitmen yang terlupakan yang telah kita buat selama bertahun-tahun. Apakah kita akan menjadi orang yang berbeda jika kita merendahkan diri kepada orang lain dan meminta bantuan?"
+        },
+        {
+          "markdown": "Agen perubahan terbesar di dunia bukanlah super individualis, tetapi pelajar yang rendah hati yang memberi orang lain, termasuk Roh Kudus, kesempatan untuk membantu mereka menuju kebesaran."
+        },
+        {
+          "activity": {
+            "id": "l05-tuesday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Bagaimana Paulus telah membantu membimbing Timotius dalam pelayanan kepada Allah?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Apakah kita akan menjadi orang yang berbeda jika kita merendahkan diri kepada orang lain dan meminta bantuan?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Konsep Alkitab"
+        },
+        {
+          "activity": {
+            "id": "l05-wednesday-fill",
+            "answerVersion": 1,
+            "kind": "fill",
+            "title": "Lengkapi Ayat",
+            "instruction": "Lengkapi tiap bagian dengan kata atau frasa dari ayat. Ejaan huruf besar, tanda baca, dan tanda hubung tidak memengaruhi pemeriksaan.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "“Sebab itu, hai anakku, jadilah ___ oleh kasih karunia dalam ___. Apa yang telah engkau dengar dari padaku di ___ banyak saksi, percayakanlah itu kepada orang-orang yang dapat dipercayai, yang juga ___ mengajar orang lain” (2 Timotius 2: 1, 2).",
+                "blanks": [
+                  [
+                    "kuat"
+                  ],
+                  [
+                    "kristus yesus"
+                  ],
+                  [
+                    "depan"
+                  ],
+                  [
+                    "cakap"
+                  ]
+                ],
+                "reference": "2 Timotius 2: 1, 2"
+              },
+              {
+                "id": "q02",
+                "prompt": "“Hal ini kutuliskan bukan untuk memalukan kamu, tetapi untuk ___ kamu sebagai anak-anakku yang kukasihi. Sebab sekalipun kamu mempunyai beribu-ribu ___ dalam Kristus, kamu tidak mempunyai banyak bapa. Karena akulah yang dalam Kristus Yesus telah menjadi bapamu oleh Injil yang ___ kepadamu. Sebab itu aku menasihatkan kamu: turutilah teladanku! Justru itulah sebabnya aku mengirimkan kepadamu Timotius, yang adalah anakku yang kekasih dan yang ___ dalam Tuhan. Ia akan memperingatkan kamu akan hidup yang kuturuti dalam Kristus Yesus, seperti yang kuajarkan di mana-mana dalam setiap jemaat” (1 Korintus 4: 14–17).",
+                "blanks": [
+                  [
+                    "menegor"
+                  ],
+                  [
+                    "pendidik"
+                  ],
+                  [
+                    "kuberitakan"
+                  ],
+                  [
+                    "setia"
+                  ]
+                ],
+                "reference": "1 Korintus 4: 14–17"
+              },
+              {
+                "id": "q03",
+                "prompt": "“Jadilah ___, sama seperti aku ___ menjadi ___ Kristus” (1 Korintus 11: 1).",
+                "blanks": [
+                  [
+                    "pengikutku"
+                  ],
+                  [
+                    "juga"
+                  ],
+                  [
+                    "pengikut"
+                  ]
+                ],
+                "reference": "1 Korintus 11: 1"
+              },
+              {
+                "id": "q04",
+                "prompt": "“Dan kami tahu, hai saudara-saudara yang dikasihi ___, bahwa Ia telah ___ kamu. Sebab Injil yang kami beritakan bukan disampaikan kepada kamu dengan kata-kata saja, tetapi juga dengan ___ oleh ___ dan dengan suatu kepastian yang kokoh. Memang kamu tahu, bagaimana kami bekerja di antara kamu oleh karena kamu. Dan kamu telah menjadi ___ kami dan ___ Tuhan; dalam penindasan yang berat kamu telah menerima firman itu dengan sukacita yang ___ oleh ___, sehingga kamu telah menjadi teladan untuk semua orang yang percaya di wilayah ___ dan ___” (1 Tesalonika 1:4–7).",
+                "blanks": [
+                  [
+                    "allah"
+                  ],
+                  [
+                    "memilih"
+                  ],
+                  [
+                    "kekuatan"
+                  ],
+                  [
+                    "roh kudus"
+                  ],
+                  [
+                    "penurut"
+                  ],
+                  [
+                    "penurut"
+                  ],
+                  [
+                    "dikerjakan"
+                  ],
+                  [
+                    "roh kudus"
+                  ],
+                  [
+                    "makedonia"
+                  ],
+                  [
+                    "akhaya"
+                  ]
+                ],
+                "reference": "1 Tesalonika 1:4–7"
+              },
+              {
+                "id": "q05",
+                "prompt": "“Ingatlah akan ___ kamu, yang telah menyampaikan ___ Allah kepadamu. ___ akhir ___ mereka dan ___ mereka” (Ibrani 13: 7).",
+                "blanks": [
+                  [
+                    "pemimpinpemimpin"
+                  ],
+                  [
+                    "firman"
+                  ],
+                  [
+                    "perhatikanlah"
+                  ],
+                  [
+                    "hidup"
+                  ],
+                  [
+                    "contohlah iman"
+                  ]
+                ],
+                "reference": "Ibrani 13: 7"
+              },
+              {
+                "id": "q06",
+                "prompt": "“Demikian jugalah kamu, hai orang-orang ___, ___ kepada orang-orang yang ___. Dan kamu semua, ___ dirimu seorang terhadap yang lain, sebab: ‘Allah ___ orang yang ___, tetapi ___ orang yang ___.’” (1 Petrus 5: 5).\n",
+                "blanks": [
+                  [
+                    "muda"
+                  ],
+                  [
+                    "tunduklah"
+                  ],
+                  [
+                    "tua"
+                  ],
+                  [
+                    "rendahkanlah"
+                  ],
+                  [
+                    "menentang"
+                  ],
+                  [
+                    "congkak"
+                  ],
+                  [
+                    "mengasihani"
+                  ],
+                  [
+                    "rendah hati"
+                  ]
+                ],
+                "reference": "1 Petrus 5: 5"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menghubungkan"
+        },
+        {
+          "markdown": "Tinjau kembali ayat hafalan."
+        },
+        {
+          "markdown": "Penyerahan, kerendahan hati, dan memiliki semangat untuk diajar bukanlah kualitas yang populer di masyarakat. Bahkan, banyak yang menganggap mencari bantuan sebagai tanda kelemahan."
+        },
+        {
+          "markdown": "Tetapi berserah kepada Roh Tuhan dan kepada sesama orang Kristen yang dibimbing oleh-Nya bukanlah tanda kelemahan, melainkan tanda keberanian yang luar biasa. Anda mungkin ingat bahwa teguran Yesus yang paling keras datang kepada orang-orang yang merasa mampu. Untuk mereka yang berdiri di depan orang lain dengan sombong dan tidak membutuhkan siapa pun. Tetapi kasih karunia, kebijaksanaan, pertolongan, dan kesembuhan mengalir dari Juruselamat seperti air terjun kepada mereka yang tahu bahwa mereka membutuhkan Dia. Nikodemus tidak memiliki semua jawaban. Maria membuat lebih banyak kesalahan daripada yang bisa dia hitung. Zakheus dengan putus asa memanjat sebatang pohon untuk mendapatkan momen dengan Dia yang dapat membantunya. Wanita Siro Fenisia menanggung cemoohan rasisme untuk mendekati Penyembuh. Inilah kebenaran tentang kerajaan Tuhan: Mereka yang merendahkan diri di hadapan Tuhan dan orang lain menjadi pembuat cerita dan pahlawan kerajaan kasih karunia Tuhan."
+        }
+      ]
+    },
+    "friday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menerapkan"
+        },
+        {
+          "markdown": "Baca 1 Timotius 4: 15, 16."
+        },
+        {
+          "markdown": "“Ketika pelajaran-pelajaran Alkitab diterapkan dalam kehidupan sehari-hari, pelajaran-pelajaran itu memiliki pengaruh yang dalam dan bertahan lama terhadap karakter. Pelajaran-pelajaran ini dipelajari dan dipraktikkan oleh Timotius” (Ellen G. White, Conflict and Courage, hlm. 346)."
+        },
+        {
+          "markdown": "Pertimbangkan pertanyaan-pertanyaan berikut saat Anda memilih untuk menempatkan diri Anda di hadapan seseorang yang dapat membantu Anda menjadi apa yang Tuhan inginkan."
+        },
+        {
+          "markdown": "Dalam bidang apa dalam hidup Anda, Anda membutuhkan nasihat seseorang?"
+        },
+        {
+          "markdown": "Siapakah orang Kristen dewasa yang peduli yang dapat membimbing atau menasihati Anda?"
+        },
+        {
+          "markdown": "Bagaimana doa menjadi kunci penting sebelum Anda meminta bantuan atau nasihat seseorang?"
+        },
+        {
+          "markdown": "Bagaimana Anda akan meminta orang itu untuk menjadi mitra akuntabilitas Anda atau untuk menasihati Anda?"
+        },
+        {
+          "activity": {
+            "id": "l05-friday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Penerapan Saya",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Dalam bidang apa dalam hidup Anda, Anda membutuhkan nasihat seseorang?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Siapakah orang Kristen dewasa yang peduli yang dapat membimbing atau menasihati Anda?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Bagaimana doa menjadi kunci penting sebelum Anda meminta bantuan atau nasihat seseorang?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Bagaimana Anda akan meminta orang itu untuk menjadi mitra akuntabilitas Anda atau untuk menasihati Anda?"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "sourceReadings": {
+    "sabbath": "ef579ba54b9faf6debc910e5ef4fb39bff24e3b85125090cbc434954a66d024b",
+    "sunday": "31ab8fa4658313948d13a836e9a093afee7b523f90326293a76b3ba549120d3b",
+    "monday": "06517c458cb0885296d3f5cebd2d55036d5ca6ea4d5c6d08e3bc0fa81dfaf42b",
+    "tuesday": "4d152c1ee09a5eab5cc60b78311203d8e31391516d88cf230aecc88471d38b7a",
+    "wednesday": "0eb39ce9145dbc528f6fcf9307e4402bfa0ff848c159ce89555836f0f8084ca4",
+    "thursday": "fa1048b3df20f0213061deece0572d19d8a6b4db691a2ca6e7fdb680c0f4be90",
+    "friday": "e87a8dbb5b3cdde32520a8dcd9891c3eae67b7a3990e2b26653952ef9a276880"
+  }
+}

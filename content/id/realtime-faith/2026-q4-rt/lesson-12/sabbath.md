@@ -7,5 +7,7 @@ Anda mungkin pernah mendengar tentang Helen Keller. Dia terlahir sebagai anak ya
 ## Untuk Dipelajari
 
 Ayat Hafalan: "'Bukan dengan keperkasaan dan bukan dengan kekuatan, melainkan dengan roh-Ku,' firman Tuhan semesta alam" (Zakharia 4: 6).
-Kepercayaan Kita No. 5, Roh Kudus: “Allah Roh yang kekal itu aktif bersama Bapa dan Anak dalam Penciptaan, inkarnasi, dan penebusan. Ia adalah pribadi seperti halnya Bapa dan Anak. Diutus oleh Bapa dan Putra untuk selalu menyertai anak-anak-Nya, Ia mengaruniakan karunia-karunia rohani kepada gereja, memberdayakan gereja untuk memberikan kesaksian tentang Kristus, dan dalam keselarasan dengan Kitab Suci, Ia menuntun gereja ke dalam seluruh kebenaran.”
+
+Kepercayaan Kita No. 5, Roh Kudus: “Allah Roh yang kekal itu aktif bersama Bapa dan Anak dalam Penciptaan, inkarnasi, dan penebusan. Ia adalah pribadi seperti halnya Bapa dan Anak.... Diutus oleh Bapa dan Putra untuk selalu menyertai anak-anak-Nya, Ia mengaruniakan karunia-karunia rohani kepada gereja, memberdayakan gereja untuk memberikan kesaksian tentang Kristus, dan dalam keselarasan dengan Kitab Suci, Ia menuntun gereja ke dalam seluruh kebenaran.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 76-78

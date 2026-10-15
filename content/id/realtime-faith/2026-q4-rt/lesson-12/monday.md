@@ -1,4 +1,43 @@
 ## JAWABAN ALKITAB TENTANG ROH KUDUS
 
 Bacalah Yohanes 14:16-18; Kisah Para Rasul 1:8; 2 Korintus 3:18.
-Siapakah yang Yesus tinggalkan bersama kita ketika Ia naik ke surga? Apakah menggembirakan karena mengetahui bahwa Roh Kudus adalah penolong kita yang selalu siap untuk menghibur kita dan menuntun kita ke dalam seluruh kebenaran? Apa artinya bagi Anda? _______________________________________________________________________________ _______________________________________________________________________________ Temukan kata-kata terse- K P M D I N S T R U C T E E A mbunyi di dalam barisan S E L N S S K B F W F T W L D huruf. B V O E M U I C E B A Y I N V advise J O M M H T G D A C M S A I I care Z L J M F F I G O R T N I O S instruct love Z Y J O K U T V E E E I D H E warn U Y K C O W D M N S U P N I C advocate N I I E W A R N W X T I A A V guide A Y S R J E K T C R E Z E N N lend P Q H C Q I Y E K F F A H V X recommend J W E T P J P D P Z D O I X D aid A Y L K L G B A M S B F O N T help E D I U G K F U O S C U E W I listen suggest C R S F D M W Q T K B L M D U V L I B O Z B A J K H W H V F
+
+Siapakah yang Yesus tinggalkan bersama kita ketika Ia naik ke surga? Apakah menggembirakan karena mengetahui bahwa Roh Kudus adalah penolong kita yang selalu siap untuk menghibur kita dan menuntun kita ke dalam seluruh kebenaran? Apa artinya bagi Anda? _______________________________________________________________________________ _______________________________________________________________________________
+
+### Cari Kata
+
+Temukan kata-kata tersembunyi di dalam barisan huruf.
+
+Kata-kata permainan dipertahankan dalam bahasa Inggris sesuai lembar sumber.
+
+### Kata yang dicari
+
+- advise
+
+- care
+
+- instruct
+
+- love
+
+- warn
+
+- advocate
+
+- guide
+
+- lend
+
+- recommend
+
+- aid
+
+- help
+
+- listen
+
+- suggest
+
+![Kisi cari kata](../../assets/activity-12-monday.png)
+
+Kisi cari kata — salinan lembar kegiatan dari PDF siswa.

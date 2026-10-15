@@ -7,5 +7,7 @@ Suatu ketika hiduplah seorang yang sangat bijaksana. Ketika ia masih muda, ia be
 ## Untuk Dipelajari
 
 Ayat Hafalan: “Hari-hari Sabat-Ku juga Kuberikan kepada mereka menjadi peringatan di antara Aku dan mereka, supaya mereka mengetahui bahwa Akulah TUHAN, yang menguduskan mereka” (Yehezkiel 20: 12).
+
 Kepercayaan Kita, no. 20, Sabat: “Sabat merupakan hari pertemuan yang menyenangkan bersama Allah dan satu sama lain. Hari Sabat adalah lambang penebusan kita di dalam Kristus, tanda pengudusan kita, tanda kesetiaan kita, dan gambaran masa depan kita yang kekal di dalam kerajaan Allah. Sabat adalah lambang abadi Allah atas perjanjian kekal-Nya antara Dia dan umat-Nya.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 100, 101

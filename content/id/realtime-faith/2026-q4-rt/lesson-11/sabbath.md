@@ -7,5 +7,7 @@ Michele duduk kaku di tepi tempat tidurnya, ingin menangis tetapi entah bagaiman
 ## Untuk Dipelajari
 
 Ayat Hafalan: “Selanjutnya kami tidak mau, saudara-saudara, bahwa kamu tidak mengetahui tentang mereka yang meninggal, supaya kamu jangan berdukacita seperti orang-orang lain yang tidak mempunyai pengharapan. Karena jikalau kita percaya, bahwa Yesus telah mati dan telah bangkit, maka kita percaya juga bahwa mereka yang telah meninggal dalam Yesus akan dikumpulkan Allah bersama-sama dengan Dia.” (1 Tesalonika 4: 13, 14).
+
 Kepercayaan Kita, no. 26, Kematian dan kebangkitan: “Upah dosa adalah maut. Tetapi Allah, satu-satunya yang abadi, akan memberikan hidup kekal kepada umat tebusan-Nya. Sampai hari itu kematian adalah keadaan tidak sadar bagi semua orang. Ketika Kristus, yang adalah hidup kita, datang, orang benar yang telah dibangkitkan dan orang benar yang masih hidup akan dimuliakan dan diangkat untuk bertemu dengan Tuhan mereka.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 9–13

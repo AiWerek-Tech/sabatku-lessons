@@ -1,0 +1,727 @@
+{
+  "schemaVersion": "realtime-faith-source-review-v1",
+  "status": "source-checked",
+  "reviewedAt": "2026-10-15",
+  "source": {
+    "filename": "RTF Q4 2026.pdf",
+    "sha256": "be33dbabc92eea70fc769d13d20b8c8a843722a822aca722736cfbb431a60ebe",
+    "pageCount": 26
+  },
+  "readings": [
+    {
+      "file": "lesson-01/sabbath.md",
+      "sourcePage": 1,
+      "sha256": "1647dc8041b61e5478b261f7e5e56e8d37490f7dc8d5223207f6384816940738"
+    },
+    {
+      "file": "lesson-01/sunday.md",
+      "sourcePage": 1,
+      "sha256": "5242cdd0ed9d4a831042d08970c19d8a8ac9ed4635b5c3fe6e913360f96f1ed8"
+    },
+    {
+      "file": "lesson-01/monday.md",
+      "sourcePage": 1,
+      "sha256": "3bac3a87026c39508a8409af2819d1f3e2472b22f1a8f9973ffad9f80bc65a20"
+    },
+    {
+      "file": "lesson-01/tuesday.md",
+      "sourcePage": 2,
+      "sha256": "fd223391488abd78a1951f5252dc637f884a831781ea04e92dced042bb9f0652"
+    },
+    {
+      "file": "lesson-01/wednesday.md",
+      "sourcePage": 2,
+      "sha256": "b5e148390680ea758515781af8ccc1909cfca4fd5acc9b21ca54dc6b6450394a"
+    },
+    {
+      "file": "lesson-01/thursday.md",
+      "sourcePage": 2,
+      "sha256": "37198acfdd7fea971afceb375c9e6bd6256350e1dd9838b38bce2a8e71b62078"
+    },
+    {
+      "file": "lesson-01/friday.md",
+      "sourcePage": 2,
+      "sha256": "6c0f593177e088c5e23b5362cdec42c498c20049382505004ee6b39086d9fe45"
+    },
+    {
+      "file": "lesson-02/sabbath.md",
+      "sourcePage": 3,
+      "sha256": "1bb48402eb6b0218f50c1f60c1b71e18beadc657d577a68672663bb4885384db"
+    },
+    {
+      "file": "lesson-02/sunday.md",
+      "sourcePage": 3,
+      "sha256": "3a163f641389a502683e6f55d25dbc45d14b0cc9d42948f705ad0eebb1b82f00"
+    },
+    {
+      "file": "lesson-02/monday.md",
+      "sourcePage": 3,
+      "sha256": "449c6f9252feadcd0c2dedf04565d7d6abb0a33369d527b18d7a4ae2f4d9af86"
+    },
+    {
+      "file": "lesson-02/tuesday.md",
+      "sourcePage": 4,
+      "sha256": "a1909c17eccfb516022db30ce3ec13011536b36daa393dfd4f93251cbbd80ff5"
+    },
+    {
+      "file": "lesson-02/wednesday.md",
+      "sourcePage": 4,
+      "sha256": "d8fe19e7a2973e58bc0cfd6af3171cfb80bfb6dc908dc8a17857aff4a94d6505"
+    },
+    {
+      "file": "lesson-02/thursday.md",
+      "sourcePage": 4,
+      "sha256": "b5be8744bb1a28d9c44dbc7d0472234208af1f3bd9fe8a9c5a6961ed7c81c1c1"
+    },
+    {
+      "file": "lesson-02/friday.md",
+      "sourcePage": 4,
+      "sha256": "1d4025d93da6eddbdc479b267895ae68845fbb894f5a82f568cf1f9313a2f258"
+    },
+    {
+      "file": "lesson-03/sabbath.md",
+      "sourcePage": 5,
+      "sha256": "6b689d5b95dd0e880c2f6c859c6af126c38e18eda617f732376629ad0f9f8421"
+    },
+    {
+      "file": "lesson-03/sunday.md",
+      "sourcePage": 5,
+      "sha256": "fe627b7291c13270d211c1bda69c1a3808176f896b06553b68d8e69ef1dfe7cf"
+    },
+    {
+      "file": "lesson-03/monday.md",
+      "sourcePage": 5,
+      "sha256": "f49cf0e49e4dcd1596aef98ebc38355e56b3d4c5520f32ee3db9ae383cd5e042"
+    },
+    {
+      "file": "lesson-03/tuesday.md",
+      "sourcePage": 6,
+      "sha256": "3dda0775d8a546472215a8a3f86c44c2456021063529eb5ce8aa2a8a39a11ad2"
+    },
+    {
+      "file": "lesson-03/wednesday.md",
+      "sourcePage": 6,
+      "sha256": "4a6eb5a02d3fe0e885e5c0d892aa550ada48f4b9b9f5daa90fbb50fef9f17ff8"
+    },
+    {
+      "file": "lesson-03/thursday.md",
+      "sourcePage": 6,
+      "sha256": "ff166f6bbb47bd1f1679fdcaa045e1edab2ed08da7db0540360701592559cb23"
+    },
+    {
+      "file": "lesson-03/friday.md",
+      "sourcePage": 6,
+      "sha256": "c613c554298e86d06563a5ef04d50605a712529cd6f92ab2d2c425961f915551"
+    },
+    {
+      "file": "lesson-04/sabbath.md",
+      "sourcePage": 7,
+      "sha256": "7e73fd8a407639d2905f31da8e9883696ad84d67cbc08caa03a51e57d251c2fd"
+    },
+    {
+      "file": "lesson-04/sunday.md",
+      "sourcePage": 7,
+      "sha256": "fccbdda392f8cd480c0a1c58c8ff65343de9a88773bf7e18fe5b998c9b245dae"
+    },
+    {
+      "file": "lesson-04/monday.md",
+      "sourcePage": 7,
+      "sha256": "ad0bbe6101c456000caab52631dbd2518f8c369435aa2cb034f58992c8fc412b"
+    },
+    {
+      "file": "lesson-04/tuesday.md",
+      "sourcePage": 8,
+      "sha256": "f925a723264b2591bf163067a67a64cf439929aa3933b4c14c03308fc3ad7c8b"
+    },
+    {
+      "file": "lesson-04/wednesday.md",
+      "sourcePage": 8,
+      "sha256": "2bc6c9e0f434257968a449493a6f371f88c60aea13abac461835f65bd3646af6"
+    },
+    {
+      "file": "lesson-04/thursday.md",
+      "sourcePage": 8,
+      "sha256": "ddc815e3eb9b5bd1e8ad485b112acafc1a0368e420f59739b66e42fbc7c8773d"
+    },
+    {
+      "file": "lesson-04/friday.md",
+      "sourcePage": 8,
+      "sha256": "8951947fecdf5b896c33db30bf9e44a25afc6d5a59b232808c6f44a42ed5070d"
+    },
+    {
+      "file": "lesson-05/sabbath.md",
+      "sourcePage": 9,
+      "sha256": "ef579ba54b9faf6debc910e5ef4fb39bff24e3b85125090cbc434954a66d024b"
+    },
+    {
+      "file": "lesson-05/sunday.md",
+      "sourcePage": 9,
+      "sha256": "31ab8fa4658313948d13a836e9a093afee7b523f90326293a76b3ba549120d3b"
+    },
+    {
+      "file": "lesson-05/monday.md",
+      "sourcePage": 9,
+      "sha256": "06517c458cb0885296d3f5cebd2d55036d5ca6ea4d5c6d08e3bc0fa81dfaf42b"
+    },
+    {
+      "file": "lesson-05/tuesday.md",
+      "sourcePage": 10,
+      "sha256": "4d152c1ee09a5eab5cc60b78311203d8e31391516d88cf230aecc88471d38b7a"
+    },
+    {
+      "file": "lesson-05/wednesday.md",
+      "sourcePage": 10,
+      "sha256": "0eb39ce9145dbc528f6fcf9307e4402bfa0ff848c159ce89555836f0f8084ca4"
+    },
+    {
+      "file": "lesson-05/thursday.md",
+      "sourcePage": 10,
+      "sha256": "fa1048b3df20f0213061deece0572d19d8a6b4db691a2ca6e7fdb680c0f4be90"
+    },
+    {
+      "file": "lesson-05/friday.md",
+      "sourcePage": 10,
+      "sha256": "e87a8dbb5b3cdde32520a8dcd9891c3eae67b7a3990e2b26653952ef9a276880"
+    },
+    {
+      "file": "lesson-06/sabbath.md",
+      "sourcePage": 11,
+      "sha256": "ab6fc8694ec56b3ffe7d4cbe52d6703d6e60704550f8819534a13d4ab21786cf"
+    },
+    {
+      "file": "lesson-06/sunday.md",
+      "sourcePage": 11,
+      "sha256": "810f5bae34035a8df877578464d74f9956635bd7bc16010f9e0e2ec7a49b9b88"
+    },
+    {
+      "file": "lesson-06/monday.md",
+      "sourcePage": 11,
+      "sha256": "0713692a155733874b186d1a4abc18d5491098cc3e887fd3e4c7bb35f7644733"
+    },
+    {
+      "file": "lesson-06/tuesday.md",
+      "sourcePage": 12,
+      "sha256": "5107c8cb87c9f01f18cae3335c84e063ad309c63973fd8e56901f0ddc4a220bc"
+    },
+    {
+      "file": "lesson-06/wednesday.md",
+      "sourcePage": 12,
+      "sha256": "27a7ee8a2a9c991bf1f29e1535124e35ad8aabe3b1820877fb298fc6ae8006a1"
+    },
+    {
+      "file": "lesson-06/thursday.md",
+      "sourcePage": 12,
+      "sha256": "1a235b885927d06a4e94dbb92a00cebce03f7f1d649b4a7a5104c8c70da53b34"
+    },
+    {
+      "file": "lesson-06/friday.md",
+      "sourcePage": 12,
+      "sha256": "97bb5227eeed86bd95fccae303c2a618ae0e061983d0507c99116f9fe8cfa83f"
+    },
+    {
+      "file": "lesson-07/sabbath.md",
+      "sourcePage": 13,
+      "sha256": "90eac69b4dd54cbaa942b2f2798b8e12c1b361de658c2ea161b8722a02fb0a4b"
+    },
+    {
+      "file": "lesson-07/sunday.md",
+      "sourcePage": 13,
+      "sha256": "786a0132f83057e277c63207b5cd4f0bcac42e9be76307a273ff3aa5c0b372c0"
+    },
+    {
+      "file": "lesson-07/monday.md",
+      "sourcePage": 13,
+      "sha256": "db6ee7f7cb24bd7b5d9a9d767744aeac00bd653eb75b4268bab908762fa79894"
+    },
+    {
+      "file": "lesson-07/tuesday.md",
+      "sourcePage": 14,
+      "sha256": "3accdb30425aaba7578be59f6a9478c0cf84f7944b926b8c1dc16a13cbbdc7fd"
+    },
+    {
+      "file": "lesson-07/wednesday.md",
+      "sourcePage": 14,
+      "sha256": "dc808d4f294e18caccf378f16dd05ce750118de57fb2c95a9d0c1abc236a70d8"
+    },
+    {
+      "file": "lesson-07/thursday.md",
+      "sourcePage": 14,
+      "sha256": "846e28c9bfdd4dab012f61f0fe460c3cf22b7142928db4397f80f670d2362882"
+    },
+    {
+      "file": "lesson-07/friday.md",
+      "sourcePage": 14,
+      "sha256": "00a7bba89dca540c8d16f167c22b6f4bae4e1e9b00c580eee9d79870b5b4ba65"
+    },
+    {
+      "file": "lesson-08/sabbath.md",
+      "sourcePage": 15,
+      "sha256": "01630afd59433ca17e790c912f77493a4b3337d4741dbf03aaeca54f2a751a1c"
+    },
+    {
+      "file": "lesson-08/sunday.md",
+      "sourcePage": 15,
+      "sha256": "4c15a5df8e4dae49f3afcda186aaaa7dd6d36390ce73af4d59fe96a27222f35e"
+    },
+    {
+      "file": "lesson-08/monday.md",
+      "sourcePage": 15,
+      "sha256": "da17a4773c375d552e88769f5f55b52406ef60e461ac8667dc143ab0450d6747"
+    },
+    {
+      "file": "lesson-08/tuesday.md",
+      "sourcePage": 16,
+      "sha256": "1fc75806de6d5b92d22211ea8f143eae125123feae0e721c741454aa530058df"
+    },
+    {
+      "file": "lesson-08/wednesday.md",
+      "sourcePage": 16,
+      "sha256": "73e18edf0c4a1e5a7d46417c97a5bad3fefded7cacf6892be1fdeca97d8930af"
+    },
+    {
+      "file": "lesson-08/thursday.md",
+      "sourcePage": 16,
+      "sha256": "8f84fe33d381e5eb8633415f1c1228ea4378c6ff22b2df2924d3e89306d283e1"
+    },
+    {
+      "file": "lesson-08/friday.md",
+      "sourcePage": 16,
+      "sha256": "9218427ef6b3442425d785c066764772013aac2772ea970a1ee09029751e198d"
+    },
+    {
+      "file": "lesson-09/sabbath.md",
+      "sourcePage": 17,
+      "sha256": "86ad8ce9c5aca1955cf0754031a4b7c721906b37a163623750fc207044306451"
+    },
+    {
+      "file": "lesson-09/sunday.md",
+      "sourcePage": 17,
+      "sha256": "2581341831ce4c63aecf77a541c731bde8acad78a2787e765f7fd8a8f4ca393c"
+    },
+    {
+      "file": "lesson-09/monday.md",
+      "sourcePage": 17,
+      "sha256": "374bd34a1cfb2bfd259cef575bfe5f836911787f4f02f529d376f423cc7a9a4a"
+    },
+    {
+      "file": "lesson-09/tuesday.md",
+      "sourcePage": 18,
+      "sha256": "1d8e4cf078613e310bb675ef8a04abcde789885fc3ba316226694f04d0a5d349"
+    },
+    {
+      "file": "lesson-09/wednesday.md",
+      "sourcePage": 18,
+      "sha256": "eade99fcbc73228cf9bbd2d448c9afe8cec5da85cd0b770c32e773dcb4c49711"
+    },
+    {
+      "file": "lesson-09/thursday.md",
+      "sourcePage": 18,
+      "sha256": "0847ef55be0faa75e03ed3596eedd56997303a07582855fd65f10de8990e0ac7"
+    },
+    {
+      "file": "lesson-09/friday.md",
+      "sourcePage": 18,
+      "sha256": "6ce9cbcfb74f90df1d886133bd6e922fcb1f82d198c0b9e1211ef66b4ffabdcf"
+    },
+    {
+      "file": "lesson-10/sabbath.md",
+      "sourcePage": 19,
+      "sha256": "52fc0224ddf19184a1afd453131d93a557ba17d5df6cbc6c9aaea9734582817d"
+    },
+    {
+      "file": "lesson-10/sunday.md",
+      "sourcePage": 19,
+      "sha256": "984c7353fc23b7e5fa82a416f0ba75e11aab6661ecaad49e316eb590fa9fa53c"
+    },
+    {
+      "file": "lesson-10/monday.md",
+      "sourcePage": 19,
+      "sha256": "ae0e71618586a90d920ca172cb5ebeef2ba21ec27c1d726ad2c68c9d4f208f2c"
+    },
+    {
+      "file": "lesson-10/tuesday.md",
+      "sourcePage": 20,
+      "sha256": "b44fc2f45e7e58d749532c23064976b98adbeb69f974ca56598a4ad95f2acba4"
+    },
+    {
+      "file": "lesson-10/wednesday.md",
+      "sourcePage": 20,
+      "sha256": "5b04638c3d4dc2fd1db469edcec233b811786fb38204b71910e99335e70ed200"
+    },
+    {
+      "file": "lesson-10/thursday.md",
+      "sourcePage": 20,
+      "sha256": "62b1272b16cd6d461b54245b4324ee9d9492062d3531f3bf61da69786316123d"
+    },
+    {
+      "file": "lesson-10/friday.md",
+      "sourcePage": 20,
+      "sha256": "5e03e23201fa12c8bfd18be93c65e4212848ef74bbeac736b77a4885898c18e1"
+    },
+    {
+      "file": "lesson-11/sabbath.md",
+      "sourcePage": 21,
+      "sha256": "f57afcd9b8e33378016bb46ac4c39cf541b21c1b927a58440cc9eb5829bb9f89"
+    },
+    {
+      "file": "lesson-11/sunday.md",
+      "sourcePage": 21,
+      "sha256": "c58a9ab380bb6906c259c47fc621709823177ef4b9ca957cb5c9d66eaa2256c6"
+    },
+    {
+      "file": "lesson-11/monday.md",
+      "sourcePage": 21,
+      "sha256": "8fd99854349e4eca38279ae58944b63438f57dd9b3e8d35dff86482c54cd98c4"
+    },
+    {
+      "file": "lesson-11/tuesday.md",
+      "sourcePage": 22,
+      "sha256": "763769ab68d4e2aaa61cc2ffaca76a75c35385916d38eddfaf303d5a94fa4d90"
+    },
+    {
+      "file": "lesson-11/wednesday.md",
+      "sourcePage": 22,
+      "sha256": "db5174cc19fae57fe8069b0e94c194a1d00373771783da11e0ae645e841e9442"
+    },
+    {
+      "file": "lesson-11/thursday.md",
+      "sourcePage": 22,
+      "sha256": "fce8f56da650d19279fcadcb818c235938b8b9f77a874752f68a47a62f9e5246"
+    },
+    {
+      "file": "lesson-11/friday.md",
+      "sourcePage": 22,
+      "sha256": "03ba12ba1dc80538cf98cb95559ade222e5275bfaf1b3b8557dd26227ca1c9fd"
+    },
+    {
+      "file": "lesson-12/sabbath.md",
+      "sourcePage": 23,
+      "sha256": "8da929597a3d47efcf801f386e4ce3aa4bb7a8a47abf7383a2cc9ea667e9f639"
+    },
+    {
+      "file": "lesson-12/sunday.md",
+      "sourcePage": 23,
+      "sha256": "7b4f437f09bacedc7d21844c9fc53635dac7dcbd9baca44c6df16f45b9f211ed"
+    },
+    {
+      "file": "lesson-12/monday.md",
+      "sourcePage": 23,
+      "sha256": "b7a36636deeb9461ae482c3d3d8ce7e3bec793e57e5ccde6f372875f611db535"
+    },
+    {
+      "file": "lesson-12/tuesday.md",
+      "sourcePage": 24,
+      "sha256": "194bb8369f1344efc06b0dfa7da362d7bf060d36a8189446c140a2759aeff9cc"
+    },
+    {
+      "file": "lesson-12/wednesday.md",
+      "sourcePage": 24,
+      "sha256": "4ea0d050ddba3d55f7337d073f58bac2b7f6b2358a1fa4fcc7f66440fa3d88ac"
+    },
+    {
+      "file": "lesson-12/thursday.md",
+      "sourcePage": 24,
+      "sha256": "d883c258f919b0eb790aadc48007373477abda8c19bec4814c6eb0314c96ad5d"
+    },
+    {
+      "file": "lesson-12/friday.md",
+      "sourcePage": 24,
+      "sha256": "fbd8d2553ec708cc742840731f1fa120fff6536d21969ef4e53135b5c9a0ee1d"
+    },
+    {
+      "file": "lesson-13/sabbath.md",
+      "sourcePage": 25,
+      "sha256": "cdbab8f027a01a2b6e4da9356ba534081689200c57b01f2b76d75857e5517d75"
+    },
+    {
+      "file": "lesson-13/sunday.md",
+      "sourcePage": 25,
+      "sha256": "ee6c972f11246dae8b27cdee81ce7b5709030cd1c934680857eec579c633ac97"
+    },
+    {
+      "file": "lesson-13/monday.md",
+      "sourcePage": 25,
+      "sha256": "8589f3ad22c74f9f0e383c61a1d705db6a90d9933d352f4b03b43063e8f88953"
+    },
+    {
+      "file": "lesson-13/tuesday.md",
+      "sourcePage": 26,
+      "sha256": "8da5c16594b4e13b25fa2fd806e81cbbc43c97e2f538dc593ddb05fc51aeb2a6"
+    },
+    {
+      "file": "lesson-13/wednesday.md",
+      "sourcePage": 26,
+      "sha256": "0e45d503d8256df4fb96e1485d0f87916d65948c46bb8f6e207feee51f739ed0"
+    },
+    {
+      "file": "lesson-13/thursday.md",
+      "sourcePage": 26,
+      "sha256": "9df613c1470067f7467f9f2c4fd6492a617de98f7bdeddee59969c84a766b9c1"
+    },
+    {
+      "file": "lesson-13/friday.md",
+      "sourcePage": 26,
+      "sha256": "f660d70f728bdcd3c70032d908ed69857a0254e0b41b8a92d056f184c29289fe"
+    }
+  ],
+  "visualActivities": [
+    {
+      "lessonId": "lesson-02",
+      "day": "monday",
+      "type": "word-search",
+      "sourcePage": 3,
+      "cropPoints": [
+        366,
+        698,
+        815,
+        1065
+      ],
+      "file": "activity-02-monday.png",
+      "sha256": "f35a6f4a7b1f7569c651f2779611f98cad814b89f14da9b50c8eebb53d306e3a"
+    },
+    {
+      "lessonId": "lesson-02",
+      "day": "wednesday",
+      "type": "cipher",
+      "sourcePage": 4,
+      "cropPoints": [
+        399,
+        168,
+        817,
+        839
+      ],
+      "file": "activity-02-wednesday.png",
+      "sha256": "7763c5abbcb0950759072ec39732478de4e18366d29a354da21fb687a6e43db3"
+    },
+    {
+      "lessonId": "lesson-04",
+      "day": "monday",
+      "type": "word-search",
+      "sourcePage": 7,
+      "cropPoints": [
+        399,
+        727,
+        731,
+        1023
+      ],
+      "file": "activity-04-monday.png",
+      "sha256": "c9c66d6c8fa17376f803397811d0e517dda284c7504b7bbd1b25d186a0e07f9b"
+    },
+    {
+      "lessonId": "lesson-06",
+      "day": "monday",
+      "type": "verse-maze",
+      "sourcePage": 11,
+      "cropPoints": [
+        419,
+        698,
+        739,
+        1063
+      ],
+      "file": "activity-06-monday.png",
+      "sha256": "c3107e43c7faa7199b417f967986e54cb97615a1a85cf542a9f01d88c4de6a7b"
+    },
+    {
+      "lessonId": "lesson-08",
+      "day": "monday",
+      "type": "crossword",
+      "sourcePage": 15,
+      "cropPoints": [
+        496,
+        626,
+        737,
+        1058
+      ],
+      "file": "activity-08-monday.png",
+      "sha256": "289651d80f3673957f2a1dad56dd8316aa696043554d049ebbf66fe1f61bf2e5"
+    },
+    {
+      "lessonId": "lesson-09",
+      "day": "monday",
+      "type": "word-search",
+      "sourcePage": 17,
+      "cropPoints": [
+        279,
+        767,
+        737,
+        1071
+      ],
+      "file": "activity-09-monday.png",
+      "sha256": "a17dd4161ee8ec03ebc02b0b52c411c1cdd43c20e3dc31622ce1167d8a1788a4"
+    },
+    {
+      "lessonId": "lesson-10",
+      "day": "monday",
+      "type": "word-search",
+      "sourcePage": 19,
+      "cropPoints": [
+        322,
+        714,
+        716,
+        1053
+      ],
+      "file": "activity-10-monday.png",
+      "sha256": "0d1a0a74414b746b1f285990fd3e4606a539f2ee49846ffbb32ebe88ffc2ec7d"
+    },
+    {
+      "lessonId": "lesson-11",
+      "day": "monday",
+      "type": "drop-quote",
+      "sourcePage": 21,
+      "cropPoints": [
+        204,
+        838,
+        731,
+        1064
+      ],
+      "file": "activity-11-monday.png",
+      "sha256": "60ffac48796f67e6d8129694144eee75eace0dc245fb3fad9faafae32392f334"
+    },
+    {
+      "lessonId": "lesson-12",
+      "day": "monday",
+      "type": "word-search",
+      "sourcePage": 23,
+      "cropPoints": [
+        363,
+        853,
+        731,
+        1070
+      ],
+      "file": "activity-12-monday.png",
+      "sha256": "23c1eef8625bd42a50aec0dbc0b5b56ee0db3714e9a02d6c3104e62af42f670e"
+    },
+    {
+      "lessonId": "lesson-13",
+      "day": "monday",
+      "type": "cipher",
+      "sourcePage": 25,
+      "cropPoints": [
+        275,
+        787,
+        731,
+        1019
+      ],
+      "file": "activity-13-monday.png",
+      "sha256": "0d985098f0b8ae538c5facbaec5facd7aceaebb403edfc38335cf19dee862c30"
+    },
+    {
+      "lessonId": "lesson-01",
+      "day": "friday",
+      "type": "spiritual-plan",
+      "sourcePage": 2,
+      "cropPoints": [
+        70,
+        870,
+        814,
+        1115
+      ],
+      "file": "activity-01-friday.png",
+      "sha256": "18a7b69ddb3ec3aa25c5cd2cbbae2164754b9969648896291086c96f73a6d8b4"
+    },
+    {
+      "lessonId": "lesson-07",
+      "day": "friday",
+      "type": "focus-map",
+      "sourcePage": 14,
+      "cropPoints": [
+        387,
+        865,
+        727,
+        1057
+      ],
+      "file": "activity-07-friday.png",
+      "sha256": "95b9ed67a962218d84bd3fd9ab121219868d039fea06e343d60a2a564b523c1d"
+    },
+    {
+      "lessonId": "lesson-08",
+      "day": "friday",
+      "type": "faith-journal",
+      "sourcePage": 16,
+      "cropPoints": [
+        229,
+        810,
+        735,
+        1047
+      ],
+      "file": "activity-08-friday.png",
+      "sha256": "c8ba8472a5edc1f4e93b1d1836698c7156da4c902cae8eb7a76e1626c831efc1"
+    },
+    {
+      "lessonId": "lesson-09",
+      "day": "friday",
+      "type": "budget-example",
+      "sourcePage": 18,
+      "cropPoints": [
+        237,
+        760,
+        729,
+        1039
+      ],
+      "file": "activity-09-friday.png",
+      "sha256": "301f5044e83d5238bd20dd2abcb1df27b7080eaf9aa81a2b8eb04d3c23d58e1a"
+    },
+    {
+      "lessonId": "lesson-12",
+      "day": "friday",
+      "type": "mentor-cards",
+      "sourcePage": 24,
+      "cropPoints": [
+        84,
+        868,
+        731,
+        1062
+      ],
+      "file": "activity-12-friday.png",
+      "sha256": "901704b971b15ff7d41713f754f13781f94bbf3a137de1e67377d9bb815b0e3f"
+    },
+    {
+      "lessonId": "lesson-13",
+      "day": "friday",
+      "type": "time-log",
+      "sourcePage": 26,
+      "cropPoints": [
+        65,
+        728,
+        731,
+        1074
+      ],
+      "file": "activity-13-friday.png",
+      "sha256": "d8fc573d0ab9d8602af01541b0208d623b0711cd08b3c9ed761d6fa169974461"
+    }
+  ],
+  "editorialCorrections": [
+    {
+      "reading": "lesson-03/wednesday",
+      "source": "Amsal 11:25",
+      "corrected": "Amsal 11:24",
+      "reason": "The quoted sentence Ada yang menyebar harta is verse 24; checked against local TB."
+    },
+    {
+      "reading": "lesson-05/wednesday",
+      "item": 4,
+      "source": "1 Korintus 4:14–17",
+      "corrected": "1 Tesalonika 1:4–7",
+      "reason": "The quotation Dan kami tahu ... Makedonia dan Akhaya is 1 Thessalonians; checked against local TB."
+    },
+    {
+      "reading": "lesson-07/wednesday",
+      "source": "Maius",
+      "corrected": "Matius",
+      "reason": "Printed book-name typo."
+    },
+    {
+      "reading": "lesson-10/wednesday",
+      "source": "Yahobus",
+      "corrected": "Yakobus",
+      "reason": "Printed book-name typo."
+    },
+    {
+      "reading": "lesson-10/wednesday",
+      "item": 6,
+      "source": "We all _________ in many ways.",
+      "corrected": "Removed duplicate English fragment after the Indonesian quotation.",
+      "reason": "The sentence already occurs in Indonesian in the same item."
+    }
+  ]
+}

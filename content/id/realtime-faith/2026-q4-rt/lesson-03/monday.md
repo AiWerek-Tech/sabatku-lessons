@@ -1,10 +1,63 @@
-## Jawaban Alkitab
+## Jawaban Alkitab tentang Karunia Roh dan Pelayanan
 
-Karunia Roh Gunakan kata-kata roh utama diperoleh pengurus kasih karunia berlain-lainan rajin kemurahan sukacita JAWABAN ALKITAB karunia TENTANG KARUNIA ROH Roh DAN PELAYANAN Perbuatan
-- Ajaib Baca Roma 12: 5-8; 1 Korintus 12: 4-6, 27-31; 1 Petrus 4: 10, 11. Mengerjakan
-- rasul Tuhan memanggil individu-individu yang bersedia untuk mempersiapkan orang nabi lain untuk pelayanan, untuk membangun gereja, dan untuk menyebarkan penge- pengajar tahuan tentang Tuhan kepada seluruh mujizat umat manusia. Kepada kita masingmasing Dia telah memberikan “talenta,” menyembuhkan atau “karunia rohani.” Karunia-karunia ini bahasa membantu kita memenuhi panggilan kita. Ketika kita dengan setia menggunakan karunia yang telah Tuhan berikan kepada kita, kita menjadi lebih seperti Dia, dan kita akan membagikan karunia-Nya kepada orang lain sehingga gereja akan bertumbuh dalam iman dan kasih.
-“Perhatian kecil, tindakan kasih yang kecil dan pengorbanan diri, yang mengalir keluar dari kehidupan seperti keharuman bunga—ini bukan merupakan tindakan kecil dari berkat dan kebahagiaan hidup” (Ellen G. White, Thoughts From the Mount of Blessing, hlm.82). dalam daftar di bawah ini dan isi ruang kosong di bagian-bagian ayat Alkitab.
+Baca Roma 12: 5-8; 1 Korintus 12: 4-6, 27-31; 1 Petrus 4: 10, 11.
+
+Tuhan memanggil individu-individu yang bersedia untuk mempersiapkan orang lain untuk pelayanan, untuk membangun gereja, dan untuk menyebarkan pengetahuan tentang Tuhan kepada seluruh umat manusia. Kepada kita masing-masing Dia telah memberikan “talenta,” atau “karunia rohani.” Karunia-karunia ini membantu kita memenuhi panggilan kita. Ketika kita dengan setia menggunakan karunia yang telah Tuhan berikan kepada kita, kita menjadi lebih seperti Dia, dan kita akan membagikan karunia-Nya kepada orang lain sehingga gereja akan bertumbuh dalam iman dan kasih.
+
+“Perhatian kecil, tindakan kasih yang kecil dan pengorbanan diri, yang mengalir keluar dari kehidupan seperti keharuman bunga—ini bukan merupakan tindakan kecil dari berkat dan kebahagiaan hidup” (Ellen G. White, Thoughts From the Mount of Blessing, hlm.82).
+
+### Karunia Roh
+
+Gunakan kata-kata dalam daftar di bawah ini dan isi ruang kosong di bagian-bagian ayat Alkitab.
+
+### Daftar kata
+
+- roh
+
+- utama
+
+- diperoleh
+
+- pengurus
+
+- kasih
+
+- karunia
+
+- berlain-lainan
+
+- rajin
+
+- kemurahan
+
+- sukacita
+
+- karunia
+
+- Roh
+
+- Perbuatan Ajaib
+
+- Mengerjakan
+
+- rasul
+
+- nabi
+
+- pengajar
+
+- mujizat
+
+- menyembuhkan
+
+- bahasa
+
+### Latihan
+
 1. Demikian juga kita, walaupun banyak, adalah satu tubuh di dalam Kristus; tetapi kita masing-masing adalah anggota yang seorang terhadap yang lain. Demikianlah kita mempunyai karunia yang __________________ menurut kasih karunia yang dianugerahkan kepada kita: Jika karunia itu adalah untuk bernubuat baiklah kita melakukannya sesuai dengan iman kita. Jika karunia untuk melayani, baiklah kita melayani; jika karunia untuk mengajar, baiklah kita mengajar; jika karunia untuk menasihati, baiklah kita menasihati. Siapa yang membagi-bagikan sesuatu, hendaklah ia melakukannya dengan hati yang ikhlas; siapa yang memberi pimpinan, hendaklah ia melakukannya dengan__________; siapa yang menunjukkan___________, hendaklah ia melakukannya dengan __________” (Roma 12: 5–8).
+
 2. “Ada rupa-rupa _________, tetapi satu_____. Dan ada rupa-rupa pelayanan, tetapi satu Tuhan. Dan ada berbagai-bagai _________ _______, tetapi Allah adalah satu yang ________semuanya dalam semua orang” (1 Korintus 12: 4–6).
+
 3. “Kamu semua adalah tubuh Kristus dan kamu masing-masing adalah anggotanya. Dan Allah telah menetapkan beberapa orang dalam Jemaat: pertama sebagai__________, kedua sebagai______, ketiga sebagai_______ Selanjutnya mereka yang mendapat karunia untuk mengadakan mujizat, untuk menyembuhkan, untuk melayani, untuk memimpin, dan untuk berkata-kata dalam________ _____. Adakah mereka semua rasul, atau nabi, atau pengajar? Adakah mereka semua mendapat karunia untuk mengadakan__________, atau untuk___________, atau untuk berkata-kata dalam bahasa roh, atau untuk menafsirkan bahasa roh? Jadi berusahalah untuk memperoleh karunia-karunia yang paling utama. Dan aku menunjukkan kepadamu jalan yang lebih _______ lagi” (1 Korintus 12: 27–31).
+
 4. “Layanilah seorang akan yang lain, sesuai dengan karunia yang telah _________ tiap-tiap orang sebagai _________ yang baik dari _________ ________ Allah” (1 Petrus 4: 10).

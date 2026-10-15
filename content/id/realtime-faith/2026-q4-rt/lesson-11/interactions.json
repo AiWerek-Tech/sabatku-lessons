@@ -1,0 +1,562 @@
+{
+  "schemaVersion": "sabatku-study-activities-v1",
+  "days": {
+    "sabbath": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Kisah Pekan Ini"
+        },
+        {
+          "markdown": "### ATAS, BAWAH, SEMUA TEMPAT"
+        },
+        {
+          "markdown": "Michele duduk kaku di tepi tempat tidurnya, ingin menangis tetapi entah bagaimana air matanya tidak ada. Sepanjang hari tampak seperti samar-samar. Rumah duka, gereja, kuburan. Sepanjang hari ia berdiri kaku di sisi ibunya, tidak mampu mengungkapkan perasaan yang bergemuruh di dalam dirinya. Dari lantai bawah, ia bisa mendengar gumaman suara-suara yang hening. Bibi dan pamannya sedang berada di dapur bersama Ibu. Michele menatap foto ayahnya di atas meja. Kematiannya telah mengubah segalanya, namun tidak ada yang mau berbicara tentang itu. Bulan-bulan yang panjang ketika dia sakit, sangat mengerikan—semua momen di rumah sakit, menyaksikan Ayah terbaring lemah. Michele teringat saat ia melatih tim sepak bolanya pada musim panas lalu, mengangkat dirinya tinggi-tinggi ke udara saat ia mencetak gol kemenangan. Dia mendengar langkah kaki lembut bibinya di tangga. “Ibumu akan tidur lebih awal, sayang, mencoba untuk beristirahat,” kata Bibi Sylvia. Dia duduk di samping Michele dan menepuk tangannya. “Aku tahu kamu pasti merasa tidak enak, sayang,” katanya. “Tetapi kamu akan mencoba menjadi gadis pemberani untuk ibumu dan membantunya semampumu, bukan?” Bagaimana Anda mengatasi perasaan kehilangan, atau kesedihan, atau duka cita? Apa yang diajarkan Alkitab tentang bagaimana menghadapi perasaan sedih dan duka? Bagaimanakah perasaan Anda mengetahui bahwa Yesus sendiri menangis? (lihat Lukas 19:41; Yohanes 11:35)."
+        },
+        {
+          "markdown": "## Untuk Dipelajari"
+        },
+        {
+          "markdown": "Ayat Hafalan: “Selanjutnya kami tidak mau, saudara-saudara, bahwa kamu tidak mengetahui tentang mereka yang meninggal, supaya kamu jangan berdukacita seperti orang-orang lain yang tidak mempunyai pengharapan. Karena jikalau kita percaya, bahwa Yesus telah mati dan telah bangkit, maka kita percaya juga bahwa mereka yang telah meninggal dalam Yesus akan dikumpulkan Allah bersama-sama dengan Dia.” (1 Tesalonika 4: 13, 14)."
+        },
+        {
+          "markdown": "Kepercayaan Kita, no. 26, Kematian dan kebangkitan: “Upah dosa adalah maut. Tetapi Allah, satu-satunya yang abadi, akan memberikan hidup kekal kepada umat tebusan-Nya. Sampai hari itu kematian adalah keadaan tidak sadar bagi semua orang. Ketika Kristus, yang adalah hidup kita, datang, orang benar yang telah dibangkitkan dan orang benar yang masih hidup akan dimuliakan dan diangkat untuk bertemu dengan Tuhan mereka.”"
+        },
+        {
+          "markdown": "Ellen G. White, Thoughts From the Mount of Blessing, hlm. 9–13"
+        },
+        {
+          "activity": {
+            "id": "l11-sabbath-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "“Tetapi kamu akan mencoba menjadi gadis pemberani untuk ibumu dan membantunya semampumu, bukan?” Bagaimana Anda mengatasi perasaan kehilangan, atau kesedihan, atau duka cita?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Apa yang diajarkan Alkitab tentang bagaimana menghadapi perasaan sedih dan duka?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Bagaimanakah perasaan Anda mengetahui bahwa Yesus sendiri menangis?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merespons"
+        },
+        {
+          "markdown": "“Dewasalah! Anak besar jangan menangis!”"
+        },
+        {
+          "markdown": "“Umat Kristen bahagia sepanjang waktu.”"
+        },
+        {
+          "markdown": "“Hanya karena kamu bahagia, kamu tidak harus bertingkah terlalu bersemangat. Dewasalah. Tenang.\""
+        },
+        {
+          "markdown": "Pernah mendapatkan pesan-pesan ini? Apa yang Anda dengar tentang mengungkapkan perasaan? Menurut Anda bagaimana seharusnya seorang Kristen mengungkapkan perasaannya, terutama ketika mengalami emosi yang tidak menyenangkan, seperti kehilangan, kesedihan, atau duka cita?"
+        },
+        {
+          "activity": {
+            "id": "l11-sunday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Pernah mendapatkan pesan-pesan ini?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Apa yang Anda dengar tentang mengungkapkan perasaan?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Menurut Anda bagaimana seharusnya seorang Kristen mengungkapkan perasaannya, terutama ketika mengalami emosi yang tidak menyenangkan, seperti kehilangan, kesedihan, atau duka cita?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "monday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## JAWABAN ALKITAB TENTANG KEMATIAN DAN KEBANGKITAN"
+        },
+        {
+          "markdown": "Baca Yohanes 5: 28; Yohanes 11: 25; Roma 6: 23; 1 Korintus 15: 51-54; 1 Tesalonika 4: 13-17."
+        },
+        {
+          "markdown": "Bagaimana Anda bisa menemukan kenyamanan dalam janji kebangkitan ketika Anda menghadapi kehilangan orang yang Anda kasihi?"
+        },
+        {
+          "markdown": "Yesus rindu mengisi hati kita dengan harapan dan makna. Apa saja contoh praktis tentang bagaimana Anda dapat membawa beban Anda kepada Yesus ketika Anda merasa diliputi perasaan sedih atau kecewa?"
+        },
+        {
+          "markdown": "“Bapa surgawi kita tidak pernah lalai terhadap mereka yang telah dilanda kesedihan.... Kristus mengangkat hati yang bersedih dan memurnikan jiwa yang berduka hingga menjadi tempat tinggal-Nya” (Ellen White, Thoughts From the Mount of Blessing, hal. 11)."
+        },
+        {
+          "markdown": "Baca Matius 7:12."
+        },
+        {
+          "activity": {
+            "id": "l11-monday-drop-quote",
+            "answerVersion": 1,
+            "kind": "drop-quote",
+            "title": "Susun Pesan",
+            "instruction": "Pilih satu kotak kosong, lalu pilih huruf dari kolom yang sama. Setiap huruf hanya digunakan sekali. Tanda baca sudah disediakan.",
+            "grid": [
+              "__#__#__________,#__#__#______",
+              "____#___#_____#____#____#__#__",
+              "___,#___#____#____#__#___#___#",
+              "######___#___#________.#######"
+            ],
+            "solution": [
+              "SO#IN#EVERYTHING,#DO#TO#OTHERS",
+              "WHAT#YOU#WOULD#HAVE#THEM#DO#TO",
+              "YOU,#FOR#THIS#SUMS#UP#THE#LAW#",
+              "######AND#THE#PROPHETS.#######"
+            ],
+            "pools": [
+              "YWS",
+              "HOO",
+              "AU",
+              "IT",
+              "N",
+              "YF",
+              "EOAO",
+              "VRNU",
+              "ED",
+              "WTR",
+              "YTHO",
+              "IUHT",
+              "LSHE",
+              "ID",
+              "PNS",
+              "HGUR",
+              "AMO",
+              "VSP",
+              "HDE",
+              "EUO",
+              "TTP",
+              "HTS",
+              "TOE",
+              "HM",
+              "OE",
+              "DT",
+              "LHO",
+              "AE",
+              "WTR",
+              "SO"
+            ],
+            "reference": "Matius 7:12"
+          }
+        },
+        {
+          "activity": {
+            "id": "l11-monday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Bagaimana Anda bisa menemukan kenyamanan dalam janji kebangkitan ketika Anda menghadapi kehilangan orang yang Anda kasihi?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Apa saja contoh praktis tentang bagaimana Anda dapat membawa beban Anda kepada Yesus ketika Anda merasa diliputi perasaan sedih atau kecewa?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merenungkan"
+        },
+        {
+          "markdown": "Baca Ibrani 4: 15, 16. Betapa besar janji yang kita miliki dalam ayat Alkitab ini! Yesus sebagai imam besar kita dapat bersimpati dengan kita karena Dia menghadapi beberapa kekacauan yang sama yang umum terjadi kepada manusia. Alkitab membimbing kita untuk berhati-hati dalam mengekspresikan emosi. Misalnya, wajar untuk marah, tetapi jangan sampai kemarahan menguasai kita sedemikian rupa sehingga kita kehilangan kendali dan menyakiti orang lain. Tidak apa-apa untuk berduka dan mengungkapkan kesedihan ketika kita kehilangan seseorang yang kita cintai, tetapi meskipun demikian kita harus menyadari bahwa kita memiliki harapan akan kedatangan Yesus yang segera, ketika Dia akan membangkitkan orang-orang saleh yang percaya kepada-Nya."
+        },
+        {
+          "markdown": "Jadi, jika Anda merasa ingin bersorak kegirangan saat mendapat nilai A+ pada ujian akhir, silakan dan lakukan! Dan ketika seseorang benar-benar menyakiti perasaanmu, cobalah katakan dengan jujur: “Itu benar-benar menyakiti saya. Saya merasa tidak nyaman ketika kamu melakukan itu.” Tidak apa-apa untuk mengungkapkan perasaanmu— tetapi tidak boleh menggunakannya sebagai alasan untuk menyakiti orang lain."
+        }
+      ]
+    },
+    "wednesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Konsep Alkitab"
+        },
+        {
+          "activity": {
+            "id": "l11-wednesday-matching",
+            "answerVersion": 1,
+            "kind": "matching",
+            "title": "Pasangkan Ayat dan Frasa",
+            "instruction": "Baca setiap bagian lalu pilih pasangannya. Anda dapat mengubah pilihan sebelum memeriksa jawaban.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Yohanes 15:11",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "“Bersorak-sorailah ...”"
+                  },
+                  {
+                    "id": "B",
+                    "label": "“... supaya sukacita-Ku ada di dalam kamu ...”"
+                  },
+                  {
+                    "id": "C",
+                    "label": "“Mataku mengidap karena sakit hati ...”"
+                  },
+                  {
+                    "id": "D",
+                    "label": "“... ia berbaju efod dari kain lenan”"
+                  },
+                  {
+                    "id": "E",
+                    "label": "“Tinggallah di sini dan berjaga-jagalah dengan Aku.”"
+                  },
+                  {
+                    "id": "F",
+                    "label": "“Apabila kamu menjadi marah ... janganlah matahari terbenam ...”"
+                  },
+                  {
+                    "id": "G",
+                    "label": "“Ia membuat cambuk dari tali lalu mengusir mereka semua dari Bait Suci ...”"
+                  }
+                ],
+                "correct": [
+                  "B"
+                ]
+              },
+              {
+                "id": "q02",
+                "prompt": "2 Samuel 6:14",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "“Bersorak-sorailah ...”"
+                  },
+                  {
+                    "id": "B",
+                    "label": "“... supaya sukacita-Ku ada di dalam kamu ...”"
+                  },
+                  {
+                    "id": "C",
+                    "label": "“Mataku mengidap karena sakit hati ...”"
+                  },
+                  {
+                    "id": "D",
+                    "label": "“... ia berbaju efod dari kain lenan”"
+                  },
+                  {
+                    "id": "E",
+                    "label": "“Tinggallah di sini dan berjaga-jagalah dengan Aku.”"
+                  },
+                  {
+                    "id": "F",
+                    "label": "“Apabila kamu menjadi marah ... janganlah matahari terbenam ...”"
+                  },
+                  {
+                    "id": "G",
+                    "label": "“Ia membuat cambuk dari tali lalu mengusir mereka semua dari Bait Suci ...”"
+                  }
+                ],
+                "correct": [
+                  "D"
+                ]
+              },
+              {
+                "id": "q03",
+                "prompt": "Efesus 4:26, 27",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "“Bersorak-sorailah ...”"
+                  },
+                  {
+                    "id": "B",
+                    "label": "“... supaya sukacita-Ku ada di dalam kamu ...”"
+                  },
+                  {
+                    "id": "C",
+                    "label": "“Mataku mengidap karena sakit hati ...”"
+                  },
+                  {
+                    "id": "D",
+                    "label": "“... ia berbaju efod dari kain lenan”"
+                  },
+                  {
+                    "id": "E",
+                    "label": "“Tinggallah di sini dan berjaga-jagalah dengan Aku.”"
+                  },
+                  {
+                    "id": "F",
+                    "label": "“Apabila kamu menjadi marah ... janganlah matahari terbenam ...”"
+                  },
+                  {
+                    "id": "G",
+                    "label": "“Ia membuat cambuk dari tali lalu mengusir mereka semua dari Bait Suci ...”"
+                  }
+                ],
+                "correct": [
+                  "F"
+                ]
+              },
+              {
+                "id": "q04",
+                "prompt": "Yohanes 2:15",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "“Bersorak-sorailah ...”"
+                  },
+                  {
+                    "id": "B",
+                    "label": "“... supaya sukacita-Ku ada di dalam kamu ...”"
+                  },
+                  {
+                    "id": "C",
+                    "label": "“Mataku mengidap karena sakit hati ...”"
+                  },
+                  {
+                    "id": "D",
+                    "label": "“... ia berbaju efod dari kain lenan”"
+                  },
+                  {
+                    "id": "E",
+                    "label": "“Tinggallah di sini dan berjaga-jagalah dengan Aku.”"
+                  },
+                  {
+                    "id": "F",
+                    "label": "“Apabila kamu menjadi marah ... janganlah matahari terbenam ...”"
+                  },
+                  {
+                    "id": "G",
+                    "label": "“Ia membuat cambuk dari tali lalu mengusir mereka semua dari Bait Suci ...”"
+                  }
+                ],
+                "correct": [
+                  "G"
+                ]
+              },
+              {
+                "id": "q05",
+                "prompt": "Matius 26:38",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "“Bersorak-sorailah ...”"
+                  },
+                  {
+                    "id": "B",
+                    "label": "“... supaya sukacita-Ku ada di dalam kamu ...”"
+                  },
+                  {
+                    "id": "C",
+                    "label": "“Mataku mengidap karena sakit hati ...”"
+                  },
+                  {
+                    "id": "D",
+                    "label": "“... ia berbaju efod dari kain lenan”"
+                  },
+                  {
+                    "id": "E",
+                    "label": "“Tinggallah di sini dan berjaga-jagalah dengan Aku.”"
+                  },
+                  {
+                    "id": "F",
+                    "label": "“Apabila kamu menjadi marah ... janganlah matahari terbenam ...”"
+                  },
+                  {
+                    "id": "G",
+                    "label": "“Ia membuat cambuk dari tali lalu mengusir mereka semua dari Bait Suci ...”"
+                  }
+                ],
+                "correct": [
+                  "E"
+                ]
+              },
+              {
+                "id": "q06",
+                "prompt": "Mazmur 6:7",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "“Bersorak-sorailah ...”"
+                  },
+                  {
+                    "id": "B",
+                    "label": "“... supaya sukacita-Ku ada di dalam kamu ...”"
+                  },
+                  {
+                    "id": "C",
+                    "label": "“Mataku mengidap karena sakit hati ...”"
+                  },
+                  {
+                    "id": "D",
+                    "label": "“... ia berbaju efod dari kain lenan”"
+                  },
+                  {
+                    "id": "E",
+                    "label": "“Tinggallah di sini dan berjaga-jagalah dengan Aku.”"
+                  },
+                  {
+                    "id": "F",
+                    "label": "“Apabila kamu menjadi marah ... janganlah matahari terbenam ...”"
+                  },
+                  {
+                    "id": "G",
+                    "label": "“Ia membuat cambuk dari tali lalu mengusir mereka semua dari Bait Suci ...”"
+                  }
+                ],
+                "correct": [
+                  "C"
+                ]
+              },
+              {
+                "id": "q07",
+                "prompt": "Mazmur 66:1",
+                "choices": [
+                  {
+                    "id": "A",
+                    "label": "“Bersorak-sorailah ...”"
+                  },
+                  {
+                    "id": "B",
+                    "label": "“... supaya sukacita-Ku ada di dalam kamu ...”"
+                  },
+                  {
+                    "id": "C",
+                    "label": "“Mataku mengidap karena sakit hati ...”"
+                  },
+                  {
+                    "id": "D",
+                    "label": "“... ia berbaju efod dari kain lenan”"
+                  },
+                  {
+                    "id": "E",
+                    "label": "“Tinggallah di sini dan berjaga-jagalah dengan Aku.”"
+                  },
+                  {
+                    "id": "F",
+                    "label": "“Apabila kamu menjadi marah ... janganlah matahari terbenam ...”"
+                  },
+                  {
+                    "id": "G",
+                    "label": "“Ia membuat cambuk dari tali lalu mengusir mereka semua dari Bait Suci ...”"
+                  }
+                ],
+                "correct": [
+                  "A"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menghubungkan"
+        },
+        {
+          "markdown": "Tinjau kembali ayat hafalan."
+        },
+        {
+          "markdown": "Di manakah Tuhan saat Anda merasa sakit hati, atau marah, atau sedih? Kadang-kadang Anda mungkin merasa seolah-olah Tuhan telah menghilang dan meninggalkan Anda untuk menghadapi hidup Anda sendiri. Salah satu hal buruk tentang perasaan buruk adalah bahwa hal itu dapat menghalangi hubungan kita dengan Tuhan. Dia ada di sana, seperti matahari di hari berawan, tetapi terkadang kita tidak dapat melihat atau merasakan Dia."
+        },
+        {
+          "markdown": "Saat itulah Anda perlu berpegang pada Tuhan dengan iman dan percaya pada pimpinan pemeliharaan-Nya. Biasakan untuk berbicara dengan Tuhan, bahkan ketika Anda sedang tidak enak badan. Dia ada di sana, dan Dia mendengarkan. Dia dapat membantu Anda menemukan cara-cara positif untuk menghadapi situasi-situasi menyedihkan yang membuat Anda terluka dan patah semangat. Ingatlah janji Tuhan dalam Yeremia 29:11-13. Keinginan-Nya bagi Anda adalah memberi Anda masa depan yang penuh harapan tidak hanya di kerajaan-Nya yang mulia tetapi sudah ada di bumi ini. Maukah Anda memercayai hidup Anda dalam pemeliharaan kasih-Nya? Dengan melakukan itu, Anda akan membuat keputusan terbaik dalam hidup Anda! Tuhan selalu punya solusi yang positif, cara untuk menghadapi situasi apa pun. Berbicaralah kepada-Nya di saat-saat sulit—dan di saat-saat yang baik juga."
+        },
+        {
+          "activity": {
+            "id": "l11-thursday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Di manakah Tuhan saat Anda merasa sakit hati, atau marah, atau sedih?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Maukah Anda memercayai hidup Anda dalam pemeliharaan kasih-Nya?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "friday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menerapkan"
+        },
+        {
+          "markdown": "Tulis kartu atau surat kepada teman atau anggota keluarga. Anda dapat menulis ucapan terima kasih kepada seseorang yang telah membuat Anda sangat bahagia dan menjelaskan bagaimana mereka telah membuat hidup Anda lebih bahagia. Jika Anda merasa sakit hati atau kecewa, mengungkapkan perasaan itu di atas kertas juga akan membantu."
+        },
+        {
+          "markdown": "Pastikan untuk mengirim atau mengirimkan surat positif segera; Anda akan melakukannya dengan bijak untuk tidak mengirim surat yang mengungkapkan perasaan negatif (menuliskan kata-kata di atas kertas akan membuat Anda baik bahkan jika orang lain tidak pernah membacanya). Seperti yang telah Anda pelajari di pelajaran sebelumnya, bersikap santun dan tetap diam dalam situasi tidak menyenangkan tertentu akan menghindarkan Anda dari rasa sakit dan membantu memulihkan hubungan Anda dengan orang lain."
+        },
+        {
+          "markdown": "Setelah Anda menulis surat Anda, luangkan waktu sejenak untuk berdoa bagi orang itu dan bagi hubungan Anda dengannya."
+        },
+        {
+          "activity": {
+            "id": "l11-friday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Penerapan Saya",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Surat atau kartu pribadi saya"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "sourceReadings": {
+    "sabbath": "f57afcd9b8e33378016bb46ac4c39cf541b21c1b927a58440cc9eb5829bb9f89",
+    "sunday": "c58a9ab380bb6906c259c47fc621709823177ef4b9ca957cb5c9d66eaa2256c6",
+    "monday": "8fd99854349e4eca38279ae58944b63438f57dd9b3e8d35dff86482c54cd98c4",
+    "tuesday": "763769ab68d4e2aaa61cc2ffaca76a75c35385916d38eddfaf303d5a94fa4d90",
+    "wednesday": "db5174cc19fae57fe8069b0e94c194a1d00373771783da11e0ae645e841e9442",
+    "thursday": "fce8f56da650d19279fcadcb818c235938b8b9f77a874752f68a47a62f9e5246",
+    "friday": "03ba12ba1dc80538cf98cb95559ade222e5275bfaf1b3b8557dd26227ca1c9fd"
+  }
+}

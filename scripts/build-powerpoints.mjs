@@ -17,6 +17,7 @@ export async function buildPowerpoints(sourceRoot,outputRoot) {
     if(edition.publicationStatus!=='published') continue;
     assert(edition.id===folder.name && /^\d{4}-q[1-4]-pp$/.test(edition.id) && edition.programId==='powerpoints' && edition.locale==='id','Invalid PowerPoints identity');
     assert(edition.lessons.length===13 && edition.attribution && edition.rightsStatement,'Incomplete PowerPoints edition');
+    assert(edition.theme==='Kasih Karunia Allah Memulihkan Kita' && edition.title.includes(edition.theme),'PowerPoints quarter theme must appear in edition title and metadata');
     const lessons=[];
     for(const [number,entry] of edition.lessons.entries()) {
       assert(entry.id===`lesson-${String(number+1).padStart(2,'0')}`,'Invalid PowerPoints lesson sequence');

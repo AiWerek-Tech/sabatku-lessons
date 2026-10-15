@@ -7,5 +7,7 @@ Sebagai seorang anak saya melihat pohon jeruk keprok tumbuh dengan proporsi yang
 ## Untuk Dipelajari
 
 Ayat Hafalan: “Akulah pokok anggur dan kamulah ranting-rantingnya. Barangsiapa tinggal di dalam Aku dan Aku di dalam dia, ia berbuah banyak, sebab di luar Aku kamu tidak dapat berbuat apa-apa” (Yohanes 15: 5).
+
 Kepercayaan Kita No. 11, Bertumbuh dalam Kristus: “Dalam kebebasan baru di dalam Yesus ini, kita dipanggil untuk bertumbuh menjadi serupa dengan karakter-Nya, berkomunikasi dengan-Nya setiap hari dalam doa, memakan Firman-Nya, merenungkannya dan pemeliharaan-Nya, menyanyikan puji-pujian-Nya, berkumpul bersama untuk beribadah, dan berpartisipasi dalam misi gereja.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 19

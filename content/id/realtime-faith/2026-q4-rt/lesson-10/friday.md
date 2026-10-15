@@ -1,3 +1,15 @@
 ## Menerapkan
 
-Salah satu aspek kesantunan yang paling sulit adalah kapan harus berbicara sesuatu dan kapan harus diam—lalu jika Anda mengatakan sesuatu, apa yang Anda katakan? Yesus mengajarkan bahwa kita harus “Segala sesuatu yang kamu kehendaki supaya orang perbuat kepadamu, perbuatlah demikian juga kepada mereka” (Matius 7: 12). Pikirkan sebuah skenario di mana sesuatu yang tidak terduga terjadi yang menyebabkan Anda merasa malu. Tanyakan kepada diri Anda pertanyaan-pertanyaan berikut dan tuliskan jawaban Anda pada garis yang tersedia: Apakah Anda ingin seorang teman katakan sesuatu kepada Anda? Y N Jika ya, bagaimana saran Anda agar mereka mengatakannya? Apakah ini cara Anda memperlakukan teman dalam situasi yang sama? Jelaskan.
+Salah satu aspek kesantunan yang paling sulit adalah kapan harus berbicara sesuatu dan kapan harus diam—lalu jika Anda mengatakan sesuatu, apa yang Anda katakan? Yesus mengajarkan bahwa kita harus “Segala sesuatu yang kamu kehendaki supaya orang perbuat kepadamu, perbuatlah demikian juga kepada mereka” (Matius 7: 12). Pikirkan sebuah skenario di mana sesuatu yang tidak terduga terjadi yang menyebabkan Anda merasa malu. Tanyakan kepada diri Anda pertanyaan-pertanyaan berikut dan tuliskan jawaban Anda pada garis yang tersedia:
+
+Apakah Anda ingin seorang teman katakan sesuatu kepada Anda?
+
+- Ya
+
+- Tidak
+
+
+
+Jika ya, bagaimana saran Anda agar mereka mengatakannya?
+
+Apakah ini cara Anda memperlakukan teman dalam situasi yang sama? Jelaskan.

@@ -1,0 +1,620 @@
+{
+  "schemaVersion": "sabatku-study-activities-v1",
+  "days": {
+    "sabbath": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Kisah Pekan Ini"
+        },
+        {
+          "markdown": "### ANDA MENDAPATKAN EMAIL"
+        },
+        {
+          "markdown": "Kisah ini menceritakan tentang seorang prajurit yang ditempatkan ribuan mil jauhnya dari calon pengantinnya. James akan mencurahkan isi hatinya kepada Sallie di halaman seolah-olah dia ada di sana bersamanya. Satu-satunya hal yang membuat keduanya tetap terhubung adalah surat yang akan mereka tulis satu sama lain. Surat-surat itu sering kali tidak konsisten, dan ada kalanya Sallie bertanya-tanya apa yang dipikirkan James dan apa yang dia lakukan. Bahkan ada saat-saat dia bertanya-tanya apakah dia masih mencintainya. James menulis dengan setia, tetapi sering kali pesannya hilang atau salah tempat atau bahkan salah terkirim. Pada satu kesempatan, dia mengungkapkan komitmen dan cintanya dengan hasrat dan kepastian yang tidak salah lagi. Tetapi surat yang sebenarnya bisa memperdalam cinta mereka satu sama lain entah bagaimana hilang di Kantor Pos di San Francisco. Kata-kata penuh kasih itu hilang di celah-celah rak di kantor pos. James dan Sallie sudah menikah. Pada ulang tahun pernikahan kelima puluh mereka, mereka berbicara tentang bagaimana selama tahun-tahun terpisah mereka dengan cemas menunggu orang lain untuk menulis atau menelepon. Mereka tampak kecewa ketika orang lain tampak diam. Sementara itu, kantor pos lama dibongkar, dan surat yang ditulis lebih dari 50 tahun lalu ditemukan oleh seorang pekerja pos bernama Bob. Bob mencari alamat yang diperbarui dan memastikan surat cinta berusia 50 tahun itu terkirim. Setelah pengiriman, Sallie membuka surat itu dan menangis bahagia mendengar kata-kata yang dia baca. Dia memeriksa tanggal dan menyadari bahwa bahkan selama waktu hening James masih mengkomunikasikan cintanya padanya. Pesan-pesan itu tidak pernah berhasil terkirim. Dalam arti apakah pesan Allah dalam Kitab Suci seperti surat cinta kepada kita?"
+        },
+        {
+          "markdown": "## Untuk Dipelajari"
+        },
+        {
+          "markdown": "Ayat Hafalan: “Segala tulisan yang diilhamkan Allah memang bermanfaat untuk mengajar, untuk menyatakan kesalahan, untuk memperbaiki kelakuan dan untuk mendidik orang dalam kebenaran. Dengan demikian tiap-tiap manusia kepunyaan Allah diperlengkapi untuk setiap perbuatan baik” (2 Timotius 3: 16, 17)."
+        },
+        {
+          "markdown": "Kepercayaan Kita, no. 1, Kitab Suci: “Alkitab, Perjanjian Lama dan Baru, adalah Firman Allah yang tertulis, yang diberikan oleh ilham Ilahi. Para penulis yang diilhami berbicara dan menulis ketika mereka digerakkan oleh Roh Kudus. Dalam Firman ini, Allah telah memberikan kepada manusia pengetahuan yang diperlukan untuk keselamatan.”"
+        },
+        {
+          "markdown": "Ellen G. White, Thoughts From the Mount of Blessing, hlm. 130-134"
+        },
+        {
+          "activity": {
+            "id": "l02-sabbath-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Dalam arti apakah pesan Allah dalam Kitab Suci seperti surat cinta kepada kita?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merespons"
+        },
+        {
+          "markdown": "Baca Matius 7: 7, 8."
+        },
+        {
+          "markdown": "Benjamin ingin mulai belajar Alkitab secara teratur dan menjalankan apa yang dikatakan Alkitab dalam kehidupan sehari-harinya. Dia belum pernah melakukan ini sebelumnya dan agak skeptis apakah dia bisa konsisten. Dia benar-benar tidak tahu harus mulai dari mana atau dengan siapa harus berbicara. Sebagian besar teman-temannya tampaknya tidak tertarik pada hal-hal rohani. Keluarganya pergi ke gereja hanya sesekali. Bagaimanakah mana dia memulai? Apa yang akan Anda katakan padanya?"
+        },
+        {
+          "activity": {
+            "id": "l02-sunday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Bagaimanakah mana dia memulai?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Apa yang akan Anda katakan padanya?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "monday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## JAWABAN ALKITAB TENTANG KITAB SUCI"
+        },
+        {
+          "markdown": "Baca Mazmur 119: 105; Amsal 30: 5, 6; Yohanes 17: 17; Ibrani 4: 12; 2 Petrus 1: 20, 21."
+        },
+        {
+          "markdown": "Apa yang dikatakan ayat-ayat ini tentang Firman Tuhan? Mengapa penting bagi Anda untuk mempelajari Alkitab setiap hari ketika Anda berusaha memahami kehendak Tuhan untuk hidup Anda?"
+        },
+        {
+          "markdown": "Alkitab adalah surat cinta Tuhan kepada kita. Kitab Suci berisi penyataan kehendak Allah kepada kita. Sementara Tuhan berbicara kepada kita melalui Firman-Nya, kita dapat berkomunikasi dengan-Nya melalui doa. Dia memerintahkan kita untuk “meminta,” “mencari,” dan “mengetuk” (lihat Matius 7: 7, 8). Jika kita “lapar dan haus” akan kebenaran-Nya, Dia akan memperhatikan permintaan kita jika Dia melihat itu yang terbaik."
+        },
+        {
+          "markdown": "Jelaskan dengan kata-kata Anda sendiri apa arti perikop Alkitab dalam 2 Timotius 3: 14-17 bagi Anda. Bagaimana Anda bisa mendapatkan hikmat dari Alkitab?"
+        },
+        {
+          "activity": {
+            "id": "l02-monday-word-search",
+            "answerVersion": 1,
+            "kind": "word-search",
+            "title": "Cari Kata",
+            "instruction": "Pilih huruf awal lalu huruf akhir sebuah kata. Kata dapat mendatar, menurun, terbalik, atau diagonal. Geser papan bila diperlukan. Kisi aplikasi disesuaikan agar seluruh kata dalam daftar dapat ditemukan.",
+            "grid": [
+              "SURADEKATPMIEYU",
+              "UMEPMEEEBICARAK",
+              "ROETQANKCONKEUI",
+              "ATRUIUPRSYUKURR",
+              "TPERMRKDENGARSZ",
+              "QEDMINTAOCARIEM",
+              "TROTBSAYMUNTBET",
+              "XCAJALANMLPRAYK",
+              "SATMDAHARAPBSAP",
+              "PYPOARTBNBVUDNW",
+              "EAAHHSFNIULJTKP",
+              "ATEODPRYOJXUSEZ",
+              "KAENSWNONUEKSGN",
+              "OPERJAMUANDSEVS",
+              "OKIMOVEKQEKETUK"
+            ],
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "MINTA",
+                "word": "MINTA",
+                "path": [
+                  78,
+                  79,
+                  80,
+                  81,
+                  82
+                ]
+              },
+              {
+                "id": "q02",
+                "prompt": "PERCAYA",
+                "word": "PERCAYA",
+                "path": [
+                  61,
+                  76,
+                  91,
+                  106,
+                  121,
+                  136,
+                  151
+                ]
+              },
+              {
+                "id": "q03",
+                "prompt": "IBADAH",
+                "word": "IBADAH",
+                "path": [
+                  79,
+                  94,
+                  109,
+                  124,
+                  139,
+                  154
+                ]
+              },
+              {
+                "id": "q04",
+                "prompt": "PERJAMUAN",
+                "word": "PERJAMUAN",
+                "path": [
+                  196,
+                  197,
+                  198,
+                  199,
+                  200,
+                  201,
+                  202,
+                  203,
+                  204
+                ]
+              },
+              {
+                "id": "q05",
+                "prompt": "DEKAT",
+                "word": "DEKAT",
+                "path": [
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+                ]
+              },
+              {
+                "id": "q06",
+                "prompt": "SURAT",
+                "word": "SURAT",
+                "path": [
+                  0,
+                  15,
+                  30,
+                  45,
+                  60
+                ]
+              },
+              {
+                "id": "q07",
+                "prompt": "UKIR",
+                "word": "UKIR",
+                "path": [
+                  14,
+                  29,
+                  44,
+                  59
+                ]
+              },
+              {
+                "id": "q08",
+                "prompt": "KETUK",
+                "word": "KETUK",
+                "path": [
+                  220,
+                  221,
+                  222,
+                  223,
+                  224
+                ]
+              },
+              {
+                "id": "q09",
+                "prompt": "DENGAR",
+                "word": "DENGAR",
+                "path": [
+                  67,
+                  68,
+                  69,
+                  70,
+                  71,
+                  72
+                ]
+              },
+              {
+                "id": "q10",
+                "prompt": "DOA",
+                "word": "DOA",
+                "path": [
+                  77,
+                  92,
+                  107
+                ]
+              },
+              {
+                "id": "q11",
+                "prompt": "MOHON",
+                "word": "MOHON",
+                "path": [
+                  123,
+                  138,
+                  153,
+                  168,
+                  183
+                ]
+              },
+              {
+                "id": "q12",
+                "prompt": "HARAP",
+                "word": "HARAP",
+                "path": [
+                  126,
+                  127,
+                  128,
+                  129,
+                  130
+                ]
+              },
+              {
+                "id": "q13",
+                "prompt": "CARI",
+                "word": "CARI",
+                "path": [
+                  84,
+                  85,
+                  86,
+                  87
+                ]
+              },
+              {
+                "id": "q14",
+                "prompt": "BICARA",
+                "word": "BICARA",
+                "path": [
+                  23,
+                  24,
+                  25,
+                  26,
+                  27,
+                  28
+                ]
+              },
+              {
+                "id": "q15",
+                "prompt": "BUJUK",
+                "word": "BUJUK",
+                "path": [
+                  131,
+                  146,
+                  161,
+                  176,
+                  191
+                ]
+              },
+              {
+                "id": "q16",
+                "prompt": "SYUKUR",
+                "word": "SYUKUR",
+                "path": [
+                  53,
+                  54,
+                  55,
+                  56,
+                  57,
+                  58
+                ]
+              },
+              {
+                "id": "q17",
+                "prompt": "JALAN",
+                "word": "JALAN",
+                "path": [
+                  108,
+                  109,
+                  110,
+                  111,
+                  112
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "activity": {
+            "id": "l02-monday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Menurut kegiatan ini, bagaimana Anda dapat menjadikan Yesus sahabat terbaik Anda? Dapatkah Anda menjelaskan?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Apa yang dikatakan ayat-ayat ini tentang Firman Tuhan?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Mengapa penting bagi Anda untuk mempelajari Alkitab setiap hari ketika Anda berusaha memahami kehendak Tuhan untuk hidup Anda?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Bagaimana Anda bisa mendapatkan hikmat dari Alkitab?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merenungkan"
+        },
+        {
+          "markdown": "“Setiap janji dalam Firman Tuhan melengkapi kita dengan pokok bahasan untuk didoakan, menghadirkan firman Tuhan yang dijanjikan sebagai jaminan kita. Berkat rohani apa pun yang kita perlukan, adalah hak istimewa kita untuk menuntutnya melalui Yesus. Kita dapat memberi tahu Tuhan, dengan kesederhanaan seorang anak, sesuai dengan apa yang kita perlukan.” “Melalui nama Yesus setiap pertolongan diterima. Tuhan akan menghormati nama itu, dan akan memenuhi kebutuhan Anda dari kekayaan kemurahan-Nya” (Ellen G. White, Thoughts From the Mount of Blessing, hlm. 133)."
+        },
+        {
+          "markdown": "Bagaimana percakapan dengan seseorang dapat membantu Anda menjadi lebih dekat dengannya? Misalnya, bagaimana percakapan sehari-hari dengan orang yang duduk di sebelah Anda membuat Anda menjadi teman yang lebih baik? Mengapa penting untuk berbicara dengan orang tua Anda setiap hari?"
+        },
+        {
+          "markdown": "Bagaimana percakapan dengan Tuhan setiap hari dapat membawa Anda lebih dekat kepada-Nya?"
+        },
+        {
+          "markdown": "Bagaimana Anda menggambarkan komunikasi Anda dengan Tuhan? Jelaskan. Lihat 1 Petrus 1: 8, 9."
+        },
+        {
+          "activity": {
+            "id": "l02-tuesday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Bagaimana percakapan dengan seseorang dapat membantu Anda menjadi lebih dekat dengannya?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Misalnya, bagaimana percakapan sehari-hari dengan orang yang duduk di sebelah Anda membuat Anda menjadi teman yang lebih baik?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Mengapa penting untuk berbicara dengan orang tua Anda setiap hari?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Bagaimana percakapan dengan Tuhan setiap hari dapat membawa Anda lebih dekat kepada-Nya?"
+              },
+              {
+                "id": "q05",
+                "prompt": "Bagaimana Anda menggambarkan komunikasi Anda dengan Tuhan?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Konsep Alkitab"
+        },
+        {
+          "activity": {
+            "id": "l02-wednesday-cipher",
+            "answerVersion": 1,
+            "kind": "cipher",
+            "title": "Pecahkan Sandi",
+            "instruction": "Pilih simbol pada pesan lalu masukkan huruf penggantinya. Lima petunjuk awal sudah diisi sesuai sumber. Pesan tetap dalam bahasa Inggris.",
+            "cipher": "QMY LZUGUQ MYLZL PL UT DPG CYNRTYLL. CY XD TDQ RTDC CMNQ CY DPHMQ QD ZGNJ EDG, KPQ QMY LZUGUQ MUBLYLE UTQYGOYXYL EDG PL QMGDPHM CDGXLYLL HGDNTL NTX MY CMD LYNGOMYL DPG MYNGQL RTDCL QMY BUTX DE QMY LZUGUQ KYONPLY QMY LZUGUQ UTQYGOYXYL EDG HDX'L ZYDZLY UT NOODGXNTOY CUQM QMY CULL DE HDX.",
+            "mapping": {
+              "Q": "T",
+              "M": "H",
+              "Y": "E",
+              "L": "S",
+              "Z": "P",
+              "U": "I",
+              "G": "R",
+              "P": "U",
+              "C": "W",
+              "N": "A",
+              "R": "K",
+              "T": "N",
+              "D": "O",
+              "X": "D",
+              "E": "F",
+              "J": "Y",
+              "K": "B",
+              "B": "M",
+              "O": "C",
+              "H": "G"
+            },
+            "givens": {
+              "Q": "T",
+              "C": "W",
+              "L": "S",
+              "Z": "P",
+              "M": "H"
+            },
+            "reference": "Roma 8:26, 27"
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menghubungkan"
+        },
+        {
+          "markdown": "Tinjau kembali ayat hafalan."
+        },
+        {
+          "markdown": "Sama seperti menghabiskan waktu dengan sahabat Anda, Anda perlu menghabiskan waktu berkomunikasi dengan Tuhan. Untuk menjaga hubungan tetap hidup, Anda perlu meluangkan waktu secara teratur untuk memelihara hubungan. Teman yang tidak saling bisa bertemu satu dengan yang lain berkomunikasi melalui surat, telepon, email, dan cara lainnya. Bagaimana komunikasi Anda dengan Tuhan? Apakah Anda membaca Alkitab, surat-Nya untuk Anda? Apa tanggapan Anda kepada Tuhan saat Anda berdoa dan mempelajari Alkitab? Semakin banyak Anda menghabiskan waktu bersama Tuhan, semakin Anda mengenal kehendak-Nya. Hasil alaminya adalah Anda akan ingin menjadi lebih seperti Yesus, dan doa-doa Anda akan menjadi ekspresi kepercayaan Anda kepada Tuhan. Fakta bahwa Dia tidak akan pernah berhenti mengasihi Anda ada di dalam Firman-Nya (Yeremia 31: 3; Mazmur 139; Yesaya 1; Efesus 1)."
+        },
+        {
+          "markdown": "Alkitab penuh dengan pesan untuk Anda, bukan hanya untuk memberi tahu Anda apa yang harus dilakukan, tetapi untuk mendorong dan menguatkan Anda (Roma 15:4). Ada pesan dalam Kitab Suci yang mengingatkan Anda bahwa Anda adalah anak Allah. Itu ada di sana. Anda hanya perlu belajar, dan saat Anda melakukannya, Firman Tuhan akan mengubah Anda."
+        },
+        {
+          "activity": {
+            "id": "l02-thursday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Bagaimana komunikasi Anda dengan Tuhan?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Apakah Anda membaca Alkitab, surat-Nya untuk Anda?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Apa tanggapan Anda kepada Tuhan saat Anda berdoa dan mempelajari Alkitab?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "friday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menerapkan"
+        },
+        {
+          "markdown": "Pertanyaan-pertanyaan berikut akan membantu Anda mempelajari dan memahami Alkitab dan melakukan percakapan yang penuh doa dengan Tuhan."
+        },
+        {
+          "markdown": "Langkah 1 Luangkan waktu untuk berdoa dengan tenang dan undanglah Tuhan untuk berbicara kepada Anda."
+        },
+        {
+          "markdown": "Langkah 2 Saat Anda membaca bagian-bagian Alkitab yang terdaftar untuk hari ini, berdoalah untuk pemahaman yang lebih dalam tentang artinya. Lihatlah setiap kata. Perhatikan detailnya."
+        },
+        {
+          "markdown": "Bacalah ayat-ayat berikut: Roma 15: 4; Matius 26: 40, 41; Mazmur 119: 4, 5; Roma 8: 26, 27."
+        },
+        {
+          "markdown": "Jawab pertanyaan di bawah ini:"
+        },
+        {
+          "markdown": "1. Apakah ada instruksi yang harus diikuti?"
+        },
+        {
+          "markdown": "2. Apakah ada janji untuk dituntut?"
+        },
+        {
+          "markdown": "3. Apakah ayat-ayat ini memanggil kita untuk memuji atau berterima kasih kepada Tuhan atas sesuatu?"
+        },
+        {
+          "markdown": "4. Apakah ada teladan untuk diikuti?"
+        },
+        {
+          "markdown": "5. Apakah ada kebenaran untuk dipercayai?"
+        },
+        {
+          "markdown": "6. Apakah ada aturan atau nasihat untuk membimbing hidup saya?"
+        },
+        {
+          "markdown": "7. Apakah ada tantangan bagi saya?"
+        },
+        {
+          "markdown": "8. Apa yang dikatakan perikop itu kepada kita yang membacanya? Nyatakan dengan kata-katamu sendiri."
+        },
+        {
+          "markdown": "Langkah 3 Apa pesan Tuhan bagi saya dalam ayat-ayat itu? Apa yang saya dengar yang Dia katakan kepada saya?"
+        },
+        {
+          "markdown": "Langkah 4 Bagaimana saya bisa hidup berbeda hari ini dalam percakapan saya dengan Tuhan?"
+        },
+        {
+          "activity": {
+            "id": "l02-friday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Penerapan Saya",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Apakah ada instruksi yang harus diikuti?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Apakah ada janji untuk dituntut?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Apakah ayat-ayat ini memanggil kita untuk memuji atau berterima kasih kepada Tuhan atas sesuatu?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Apakah ada teladan untuk diikuti?"
+              },
+              {
+                "id": "q05",
+                "prompt": "Apakah ada kebenaran untuk dipercayai?"
+              },
+              {
+                "id": "q06",
+                "prompt": "Apakah ada aturan atau nasihat untuk membimbing hidup saya?"
+              },
+              {
+                "id": "q07",
+                "prompt": "Apakah ada tantangan bagi saya?"
+              },
+              {
+                "id": "q08",
+                "prompt": "Apa yang dikatakan perikop itu kepada kita yang membacanya?"
+              },
+              {
+                "id": "q09",
+                "prompt": "Langkah 3 Apa pesan Tuhan bagi saya dalam ayat-ayat itu?"
+              },
+              {
+                "id": "q10",
+                "prompt": "Apa yang saya dengar yang Dia katakan kepada saya?"
+              },
+              {
+                "id": "q11",
+                "prompt": "Langkah 4 Bagaimana saya bisa hidup berbeda hari ini dalam percakapan saya dengan Tuhan?"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "sourceReadings": {
+    "sabbath": "1bb48402eb6b0218f50c1f60c1b71e18beadc657d577a68672663bb4885384db",
+    "sunday": "3a163f641389a502683e6f55d25dbc45d14b0cc9d42948f705ad0eebb1b82f00",
+    "monday": "449c6f9252feadcd0c2dedf04565d7d6abb0a33369d527b18d7a4ae2f4d9af86",
+    "tuesday": "a1909c17eccfb516022db30ce3ec13011536b36daa393dfd4f93251cbbd80ff5",
+    "wednesday": "d8fe19e7a2973e58bc0cfd6af3171cfb80bfb6dc908dc8a17857aff4a94d6505",
+    "thursday": "b5be8744bb1a28d9c44dbc7d0472234208af1f3bd9fe8a9c5a6961ed7c81c1c1",
+    "friday": "1d4025d93da6eddbdc479b267895ae68845fbb894f5a82f568cf1f9313a2f258"
+  }
+}

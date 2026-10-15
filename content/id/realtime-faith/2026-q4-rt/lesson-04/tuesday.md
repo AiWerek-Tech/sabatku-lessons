@@ -1,5 +1,7 @@
 ## Merenungkan
 
 Bacalah Matius 6:9, 10 dan Matius 28:19, 20.
+
 "Kerajaan-Nya tidak akan datang sebelum kabar baik tentang kasih karunia-Nya sampai ke seluruh bumi.... Hanya mereka yang mengabdikan diri mereka untuk pelayanan-Nya, berkata, 'Inilah aku, utuslah aku' (Yesaya 6:8), untuk membuka mata mereka, supaya mereka berbalik dari kegelapan kepada terang dan dari kuasa Iblis kepada Allah, supaya mereka oleh iman mereka kepada-Ku memperoleh pengampunan dosa dan mendapat bagian dalam apa yang ditentukan untuk orang-orang yang dikuduskan' (Kisah Para Rasul 26: 18)— mereka sendiri yang berdoa dengan tulus, 'Datanglah kerajaan-Mu' " (Ellen G. White, Thoughts From the Mount of Blessing, hal. 108, 109).
+
 Orang-orang Kristen mula-mula mengarahkan pandangan mereka pada apa arti kedatangan Yesus kembali bagi mereka dalam kehidupan sehari-hari mereka. Jika Yesus benar-benar akan datang kembali—jika kehidupan yang kita jalani sekarang ini bersifat sementara dan bukannya permanen—maka itu seharusnya mengubah segalanya. Hal ini harus memengaruhi cara kita memperlakukan orang lain, keputusan-keputusan yang kita buat, dan yang paling penting, hubungan kita dengan Tuhan. Itulah pesan Yesus. Yesus tidak memberi tahu kita kapan Ia akan kembali. Ia hanya mengatakan kepada kita bahwa Ia akan kembali -sehingga kita akan menghitung setiap hari sampai saat itu tiba.

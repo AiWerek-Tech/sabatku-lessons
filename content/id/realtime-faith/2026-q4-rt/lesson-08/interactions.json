@@ -1,0 +1,678 @@
+{
+  "schemaVersion": "sabatku-study-activities-v1",
+  "days": {
+    "sabbath": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Kisah Pekan Ini"
+        },
+        {
+          "markdown": "### TIDAK ADA USAHA, TIDAK ADA HASIL"
+        },
+        {
+          "markdown": "Ketika jet tempur pertama kali ditemukan, pesawat ini terbang jauh lebih cepat daripada pesawat baling-baling yang biasa digunakan pilot. Tapi tetap saja, kedua pesawat memiliki sistem kursi lontar darurat. Awalnya sistem kursi lontar sederhana: tekan tombol, tinggalkan pesawat, dan gulingkan ke depan dari kursi sehingga parasut di belakang kursi bisa terbuka. Tetapi meninggalkan keamanan kursi lebih mudah diucapkan daripada dilakukan. Menekan tombol pelepas adalah satu hal, melepaskan dari keamanan kursi adalah hal lain lagi. Pada beberapa tes ditemukan bahwa pilot bertahan di kursi selama kursi dilontarkan, sehingga parasut di belakang mereka tidak mungkin dilepaskan. Seluruh proses kursi lontar yang aman salah, bukan karena masalah mekanis, tetapi karena ketidakmampuan pilot untuk mempercayai, pada saat-saat putus asa, sistem yang dirancang untuk menyelamatkan hidup mereka. Ketika pesawat jet yang lebih baru dan lebih cepat dibuat, kebutuhan akan sistem kursi lontar yang lebih canggih meningkat secara dramatis. Sebagai akibat dari masalah ini, jet baru dilengkapi dengan sistem kursi lontar yang memaksa pilot keluar dari kursi, sehingga menarik tali parasut. Seluruh proses kursi lontar adalah satu gerakan mesin yang lancar yang meluncurkan pilot dari pesawat, tidak meninggalkan apa pun pada proses pengambilan keputusan pilot. Sekarang pilot tidak kesulitan keluar dari kursi karena mereka benar-benar dipaksa keluar. Sepertinya pilot membutuhkan sesuatu untuk memaksa mereka keluar dari tempat duduk mereka. Dan bagi kita, saat-saat kita dipanggil untuk melepaskan rasa aman kita dan sepenuhnya percaya kepada Tuhan adalah momen-momen iman yang besar. Desain Tuhan untuk pelontaran tidak akan memaksa kita keluar dari tempat duduk kita. Lompatan keyakinan membutuhkan pelontaran. Apa yang kita pegang untuk keamanan? Ingat, tidak ada yang dilakukan, tidak ada yang diperoleh."
+        },
+        {
+          "markdown": "## Untuk Dipelajari"
+        },
+        {
+          "markdown": "Ayat Hafalan: “Kata-Nya kepada mereka semua: ‘Setiap orang yang mau mengikut Aku, ia harus menyangkal dirinya, memikul salibnya setiap hari dan mengikut Aku’ ” (Lukas 9: 23)."
+        },
+        {
+          "markdown": "Kepercayaan Kita no. 13, Umat yang Sisa dan Misinya: “TGereja universal terdiri dari semua orang yang benar-benar percaya kepada Kristus, tetapi pada hari-hari terakhir, masa kemurtadan yang meluas, satu umat yang sisa telah dipanggil untuk memelihara perintah-perintah Allah dan iman kepada Yesus. Umat yang sisa ini menyatakan saat penghakiman, mengkhotbahkan keselamatan melalui Kristus, dan mengabarkan kedatangan-Nya yang kedua kali.... Setiap orang percaya dipanggil untuk ambil bagian dalam kesaksian ini.”"
+        },
+        {
+          "markdown": "Ellen G. White, Thoughts From the Mount of Blessing, hlm. 29–33"
+        },
+        {
+          "activity": {
+            "id": "l08-sabbath-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Apa yang kita pegang untuk keamanan?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merespons"
+        },
+        {
+          "markdown": "Baca Roma 15: 5."
+        },
+        {
+          "markdown": "Teman Ben, Toby, baru mengetahui bahwa orang tuanya akan bercerai. Toby tidak pergi ke gereja, begitu pula orang tuanya. Ben merasa sangat sedih untuknya, dan dia benar-benar tidak tahu harus berkata apa. Ben dan Toby kadang-kadang berbicara tentang Tuhan, tetapi selalu sedikit canggung."
+        },
+        {
+          "markdown": "Ben ingin memberi semangat kepada temannya dan berdoa bersamanya, tetapi dia sedikit gugup. Mereka belum pernah berdoa bersama sebelumnya, tetapi Ben membuat keputusan bahwa dia akan meminta Tuhan membukakan pintu baginya untuk berdoa bersama Toby minggu ini."
+        },
+        {
+          "markdown": "Pintu itu terbuka dalam perjalanan pulang dari sekolah bersama ketika Toby berkata, “Saya berharap orang tua saya bisa tetap bersama seperti orang tua Anda. Mengapa sepertinya Tuhan tidak peduli jika keluarga saya berantakan?” Ben merasa inilah saat yang tepat untuk berdoa bagi keluarga Toby."
+        },
+        {
+          "markdown": "Menurutmu apa yang harus dia katakan? Bagaimana Anda akan mengatakannya? Apa yang akan Anda doakan bersama Toby? Bagaimana persahabatan mereka bisa diperkuat dengan ini? Kapan kamu mengalami momen seperti ini?"
+        },
+        {
+          "activity": {
+            "id": "l08-sunday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Mengapa sepertinya Tuhan tidak peduli jika keluarga saya berantakan?” Ben merasa inilah saat yang tepat untuk berdoa bagi keluarga Toby."
+              },
+              {
+                "id": "q02",
+                "prompt": "Menurutmu apa yang harus dia katakan?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Bagaimana Anda akan mengatakannya?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Apa yang akan Anda doakan bersama Toby?"
+              },
+              {
+                "id": "q05",
+                "prompt": "Bagaimana persahabatan mereka bisa diperkuat dengan ini?"
+              },
+              {
+                "id": "q06",
+                "prompt": "Kapan kamu mengalami momen seperti ini?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "monday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## JAWABAN ALKITAB TENTANG UMAT YANG SISA DAN MISINYA"
+        },
+        {
+          "markdown": "Baca Ibrani 12:1-3; 1 Petrus 1:16-19; 4:17; 2 Petrus 3:10-14; Yudas 3, 14; Wahyu 14:12."
+        },
+        {
+          "markdown": "Pikirkan tentang hak istimewa yang luar biasa untuk menjadi duta Kristus bagi dunia. Bagaimana Anda mempersiapkan diri untuk membagikan kabar baik keselamatan dan pengharapan Yesus segera kembali kepada orang-orang di sekitar Anda?"
+        },
+        {
+          "markdown": "“Di setiap zaman para utusan pilihan Tuhan telah dicerca dan dianiaya, namun melalui penderitaan mereka pengetahuan tentang Tuhan telah tersebar luas. Semua murid Kristus harus maju ke dalam barisan dan melanjutkan pekerjaan yang sama, karena mengetahui bahwa musuhnya tidak dapat berbuat apa-apa melawan kebenaran” (Ellen G. White, Thoughts From the Mount of Blessing, hlm. 33)."
+        },
+        {
+          "markdown": "Baca Ibrani 11:1. “Iman adalah dasar dari segala sesuatu yang kita harapkan dan bukti dari segala sesuatu yang tidak kita lihat” (NIV)."
+        },
+        {
+          "activity": {
+            "id": "l08-monday-crossword",
+            "answerVersion": 1,
+            "kind": "crossword",
+            "title": "Teka-teki Silang Iman",
+            "instruction": "Pilih petunjuk dan tulis kata dalam bahasa Inggris. Huruf pada perpotongan harus cocok. Kisi digital disusun untuk kelima petunjuk sumber. Susunan kisi disesuaikan untuk aplikasi dengan tetap memakai lima petunjuk dari buku.",
+            "grid": [
+              "#########",
+              "#########",
+              "#########",
+              "#########",
+              "##T######",
+              "##R###C##",
+              "F#U###O##",
+              "ASSURANCE",
+              "I#T#E#F##",
+              "T###L#I##",
+              "H###I#D##",
+              "####A#E##",
+              "####N#N##",
+              "####C#C##",
+              "####E#E##"
+            ],
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Belief in something or someone",
+                "word": "FAITH",
+                "path": [
+                  54,
+                  63,
+                  72,
+                  81,
+                  90
+                ],
+                "direction": "down",
+                "number": 1
+              },
+              {
+                "id": "q02",
+                "prompt": "Dependence on another person",
+                "word": "RELIANCE",
+                "path": [
+                  67,
+                  76,
+                  85,
+                  94,
+                  103,
+                  112,
+                  121,
+                  130
+                ],
+                "direction": "down",
+                "number": 2
+              },
+              {
+                "id": "q03",
+                "prompt": "Confidence in and reliance on good qualities",
+                "word": "TRUST",
+                "path": [
+                  38,
+                  47,
+                  56,
+                  65,
+                  74
+                ],
+                "direction": "down",
+                "number": 3
+              },
+              {
+                "id": "q04",
+                "prompt": "A belief that somebody or something is good or will be effective",
+                "word": "CONFIDENCE",
+                "path": [
+                  51,
+                  60,
+                  69,
+                  78,
+                  87,
+                  96,
+                  105,
+                  114,
+                  123,
+                  132
+                ],
+                "direction": "down",
+                "number": 4
+              },
+              {
+                "id": "q05",
+                "prompt": "Pledge or promise",
+                "word": "ASSURANCE",
+                "path": [
+                  63,
+                  64,
+                  65,
+                  66,
+                  67,
+                  68,
+                  69,
+                  70,
+                  71
+                ],
+                "direction": "across",
+                "number": 5
+              }
+            ]
+          }
+        },
+        {
+          "activity": {
+            "id": "l08-monday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Bagaimana Anda mempersiapkan diri untuk membagikan kabar baik keselamatan dan pengharapan Yesus segera kembali kepada orang-orang di sekitar Anda?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merenungkan"
+        },
+        {
+          "markdown": "“Iman adalah memercayai Allah—percaya bahwa Dia mengasihi kita dan mengetahui yang terbaik untuk kebaikan kita. Jadi, gantinya jalan kita sendiri, iman menuntun kita untuk memilih jalan-Nya. Sebagai ganti ketidaktahuan kita, iman menerima kebijaksanaan-Nya; dalam kelemahan kita, kekuatan-Nya; menggantikan keberdosaan kita, kebenaran-Nya. Hidup kita, diri kita sendiri, sudah menjadi milik-Nya; iman mengakui kepemilikan-Nya dan menerima berkatnya. Kebenaran, kejujuran, kemurnian, telah ditunjukkan sebagai rahasia keberhasilan hidup. Imanlah yang membuat kita memiliki prinsip-prinsip ini” (Ellen G. White, Education, hlm. 253)."
+        },
+        {
+          "markdown": "Jika Anda melihat lebih hati-hati ke dalam kehidupan para pahlawan iman kita, Anda akan menemukan bahwa iman mereka lebih besar daripada pengorbanan besar yang mereka buat. Pada kenyataannya, momen besar mereka cenderung terdiri dari banyak momen kecil. Mungkin yang benar-benar Tuhan inginkan adalah agar kita membawa uang $100 itu ke bank dan mencairkannya untuk 400 koin seperempat dollar yang mengkilap. Setiap hari tidaklah sulit untuk mengambil langkah-langkah iman seperempat dalam satu waktu. Berdoalah dengan seseorang yang berkekurangan. Minta maaflah kepada seseorang yang mungkin pernah Anda salahkan di masa lalu. Keluar dan kunjungi tetangga di sekitar Anda dan bagikan apa yang telah Tuhan lakukan untuk Anda. Berikan sesuatu yang benar-benar Anda inginkan agar seseorang dapat memiliki apa yang benar-benar mereka butuhkan. Ambil risiko seperempat dalam satu waktu. Kemudian, ketika “momen keyakinan besar” datang, reaksi iman Anda juga akan menjadi hal yang tidak perlu dipikirkan lagi."
+        }
+      ]
+    },
+    "wednesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Konsep Alkitab"
+        },
+        {
+          "activity": {
+            "id": "l08-wednesday-matching",
+            "answerVersion": 1,
+            "kind": "matching",
+            "title": "Pasangkan Ayat dan Frasa",
+            "instruction": "Baca setiap bagian lalu pilih pasangannya. Anda dapat mengubah pilihan sebelum memeriksa jawaban.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "“ _____________________________________ ‘Percayalah, hai anak-Ku, dosamu sudah diampuni.’ ”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "A. Ibrani 11:1"
+                  },
+                  {
+                    "id": "1",
+                    "label": "B. Ibrani 12:2"
+                  },
+                  {
+                    "id": "2",
+                    "label": "C. 2 Tawarikh 20:20"
+                  },
+                  {
+                    "id": "3",
+                    "label": "D. Matius 8:10"
+                  },
+                  {
+                    "id": "4",
+                    "label": "E. Matius 9:2"
+                  },
+                  {
+                    "id": "5",
+                    "label": "F. Matius 9:22"
+                  }
+                ],
+                "correct": [
+                  "4"
+                ]
+              },
+              {
+                "id": "q02",
+                "prompt": "“Iman adalah _________ dari segala sesuatu yang kita __________ dan ____________ dari segala sesuatu yang tidak kita ______________.”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "A. Ibrani 11:1"
+                  },
+                  {
+                    "id": "1",
+                    "label": "B. Ibrani 12:2"
+                  },
+                  {
+                    "id": "2",
+                    "label": "C. 2 Tawarikh 20:20"
+                  },
+                  {
+                    "id": "3",
+                    "label": "D. Matius 8:10"
+                  },
+                  {
+                    "id": "4",
+                    "label": "E. Matius 9:2"
+                  },
+                  {
+                    "id": "5",
+                    "label": "F. Matius 9:22"
+                  }
+                ],
+                "correct": [
+                  "0"
+                ]
+              },
+              {
+                "id": "q03",
+                "prompt": "“________________________________________ ‘Teguhkanlah hatimu, hai anak-Ku, imanmu telah menyelamatkan engkau.’ ________________________ _____________________________________________________________________ _____________.”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "A. Ibrani 11:1"
+                  },
+                  {
+                    "id": "1",
+                    "label": "B. Ibrani 12:2"
+                  },
+                  {
+                    "id": "2",
+                    "label": "C. 2 Tawarikh 20:20"
+                  },
+                  {
+                    "id": "3",
+                    "label": "D. Matius 8:10"
+                  },
+                  {
+                    "id": "4",
+                    "label": "E. Matius 9:2"
+                  },
+                  {
+                    "id": "5",
+                    "label": "F. Matius 9:22"
+                  }
+                ],
+                "correct": [
+                  "5"
+                ]
+              },
+              {
+                "id": "q04",
+                "prompt": "“__________, hai Yehuda dan penduduk Yerusalem! Percayalah kepada TUHAN, Allahmu, dan kamu akan tetap teguh! ____________________________ ________________________!”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "A. Ibrani 11:1"
+                  },
+                  {
+                    "id": "1",
+                    "label": "B. Ibrani 12:2"
+                  },
+                  {
+                    "id": "2",
+                    "label": "C. 2 Tawarikh 20:20"
+                  },
+                  {
+                    "id": "3",
+                    "label": "D. Matius 8:10"
+                  },
+                  {
+                    "id": "4",
+                    "label": "E. Matius 9:2"
+                  },
+                  {
+                    "id": "5",
+                    "label": "F. Matius 9:22"
+                  }
+                ],
+                "correct": [
+                  "2"
+                ]
+              },
+              {
+                "id": "q05",
+                "prompt": "“Marilah kita melakukannya dengan mata yang tertuju kepada Yesus, yang memimpin kita dalam iman, ___________________________________________ _____________________________________________________________________ _________________________________________________________________.”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "A. Ibrani 11:1"
+                  },
+                  {
+                    "id": "1",
+                    "label": "B. Ibrani 12:2"
+                  },
+                  {
+                    "id": "2",
+                    "label": "C. 2 Tawarikh 20:20"
+                  },
+                  {
+                    "id": "3",
+                    "label": "D. Matius 8:10"
+                  },
+                  {
+                    "id": "4",
+                    "label": "E. Matius 9:2"
+                  },
+                  {
+                    "id": "5",
+                    "label": "F. Matius 9:22"
+                  }
+                ],
+                "correct": [
+                  "1"
+                ]
+              },
+              {
+                "id": "q06",
+                "prompt": "“___________________________________ iman sebesar ini tidak pernah Aku jumpai pada seorang pun di antara orang Israel!”",
+                "choices": [
+                  {
+                    "id": "0",
+                    "label": "A. Ibrani 11:1"
+                  },
+                  {
+                    "id": "1",
+                    "label": "B. Ibrani 12:2"
+                  },
+                  {
+                    "id": "2",
+                    "label": "C. 2 Tawarikh 20:20"
+                  },
+                  {
+                    "id": "3",
+                    "label": "D. Matius 8:10"
+                  },
+                  {
+                    "id": "4",
+                    "label": "E. Matius 9:2"
+                  },
+                  {
+                    "id": "5",
+                    "label": "F. Matius 9:22"
+                  }
+                ],
+                "correct": [
+                  "3"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "activity": {
+            "id": "l08-wednesday-fill",
+            "answerVersion": 1,
+            "kind": "fill",
+            "title": "Lengkapi Ayat",
+            "instruction": "Lengkapi tiap bagian dengan kata atau frasa dari ayat. Ejaan huruf besar, tanda baca, dan tanda hubung tidak memengaruhi pemeriksaan.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "“ ___ ‘Percayalah, hai anak-Ku, dosamu sudah diampuni.’ ” (Matius 9:2).",
+                "blanks": [
+                  [
+                    "maka dibawa oranglah kepadanya seorang lumpuh yang terbaring di tempat tidurnya ketika yesus melihat iman mereka berkatalah ia kepada orang lumpuh itu"
+                  ]
+                ],
+                "reference": "Matius 9:2"
+              },
+              {
+                "id": "q02",
+                "prompt": "“Iman adalah ___ dari segala sesuatu yang kita ___ dan ___ dari segala sesuatu yang tidak kita ___.” (Ibrani 11:1).",
+                "blanks": [
+                  [
+                    "dasar"
+                  ],
+                  [
+                    "harapkan"
+                  ],
+                  [
+                    "bukti"
+                  ],
+                  [
+                    "lihat"
+                  ]
+                ],
+                "reference": "Ibrani 11:1"
+              },
+              {
+                "id": "q03",
+                "prompt": "“___ ‘Teguhkanlah hatimu, hai anak-Ku, imanmu telah menyelamatkan engkau.’ ___.” (Matius 9:22).",
+                "blanks": [
+                  [
+                    "tetapi yesus berpaling dan memandang dia serta berkata"
+                  ],
+                  [
+                    "maka sejak saat itu sembuhlah perempuan itu"
+                  ]
+                ],
+                "reference": "Matius 9:22"
+              },
+              {
+                "id": "q04",
+                "prompt": "“___, hai Yehuda dan penduduk Yerusalem! Percayalah kepada TUHAN, Allahmu, dan kamu akan tetap teguh! ___!” (2 Tawarikh 20:20).",
+                "blanks": [
+                  [
+                    "keesokan harinya pagipagi mereka maju menuju padang gurun tekoa ketika mereka hendak berangkat berdirilah yosafat dan berkata dengar"
+                  ],
+                  [
+                    "percayalah kepada nabinabinya dan kamu akan berhasil"
+                  ]
+                ],
+                "reference": "2 Tawarikh 20:20"
+              },
+              {
+                "id": "q05",
+                "prompt": "“Marilah kita melakukannya dengan mata yang tertuju kepada Yesus, yang memimpin kita dalam iman, ___.” (Ibrani 12:2).",
+                "blanks": [
+                  [
+                    "dan yang membawa iman kita itu kepada kesempurnaan yang dengan mengabaikan kehinaan tekun memikul salib ganti sukacita yang disediakan bagi dia yang sekarang duduk di sebelah kanan takhta allah"
+                  ]
+                ],
+                "reference": "Ibrani 12:2"
+              },
+              {
+                "id": "q06",
+                "prompt": "“___ iman sebesar ini tidak pernah Aku jumpai pada seorang pun di antara orang Israel!”\n (Matius 8:10).",
+                "blanks": [
+                  [
+                    "setelah yesus mendengar hal itu heranlah ia dan berkata kepada mereka yang mengikutinya aku berkata kepadamu sesungguhnya"
+                  ]
+                ],
+                "reference": "Matius 8:10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menghubungkan"
+        },
+        {
+          "markdown": "Tinjau kembali ayat hafalan"
+        },
+        {
+          "markdown": "“Yesus tidak memberikan kepada para pengikut-Nya harapan untuk memperoleh kemuliaan dan kekayaan duniawi, dan memiliki kehidupan yang bebas dari pencobaan, tetapi Dia memberikan kepada mereka hak istimewa untuk berjalan bersama Guru mereka di jalan penyangkalan diri” (Ellen G. White, Thoughts From the Mount of Blessing, hlm. 29). Apakah Anda ingat ayah yang memohon kepada Yesus untuk mengusir setan dari putranya? “ ‘Jika Engkau bisa melakukan apa saja, kasihanilah kami dan bantu kami.’ ‘ “Jika Engkau bisa”?’ kata Yesus. ’Segalanya mungkin bagi orang yang percaya.’ Segera ayah anak laki-laki itu berseru, ’Saya percaya; bantu saya mengatasi ketidakpercayaan saya!’ ” (Markus 9: 22–24, NIV)."
+        },
+        {
+          "markdown": "Pria itu merasa seolah-olah dia tidak memiliki cukup iman. Tetapi dia melakukan persis seperti yang seharusnya dia lakukan—membawa putranya kepada Yesus! “Momen iman yang besar” adalah ketika dia mengakui bahwa dia tidak bisa berbuat banyak, tetapi Tuhan bisa. Ketika kita bergumul, pasien Yesus yang sama yang membantu ayah ini membantu kita. Iman adalah latihan bagi jiwa kita, yang dikuatkan oleh Roh Kudus."
+        },
+        {
+          "activity": {
+            "id": "l08-thursday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Apakah Anda ingat ayah yang memohon kepada Yesus untuk mengusir setan dari putranya?"
+              },
+              {
+                "id": "q02",
+                "prompt": "“ ‘Jika Engkau bisa melakukan apa saja, kasihanilah kami dan bantu kami.’ ‘ “Jika Engkau bisa”?’ kata Yesus."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "friday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menerapkan"
+        },
+        {
+          "markdown": "Pilih dari para pahlawan “iman” (Ibrani 11) tiga orang yang Anda kagumi, dan daftarkan mereka di kolom pertama. Di kolom kedua, pikirkan tentang orang-orang yang Anda kenal hari ini yang mengingatkan Anda tentang para pahlawan alkitabiah itu, dan tuliskan mengapa menurut Anda mereka harus dicantumkan. Di kolom ketiga, pikirkan tentang satu hal yang dapat Anda lakukan untuk mempraktikkan iman Anda. Mohon jelaskan dengan spesifik."
+        },
+        {
+          "activity": {
+            "id": "l08-friday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Penerapan Saya",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Pahlawan Iman (Ibrani 11)",
+                "group": "Pahlawan 1"
+              },
+              {
+                "id": "q02",
+                "prompt": "Pahlawan Iman Hari Ini dan alasannya",
+                "group": "Pahlawan 1"
+              },
+              {
+                "id": "q03",
+                "prompt": "Iman saya — tindakan yang akan saya lakukan",
+                "group": "Pahlawan 1"
+              },
+              {
+                "id": "q04",
+                "prompt": "Pahlawan Iman (Ibrani 11)",
+                "group": "Pahlawan 1"
+              },
+              {
+                "id": "q05",
+                "prompt": "Pahlawan Iman Hari Ini dan alasannya",
+                "group": "Pahlawan 1"
+              },
+              {
+                "id": "q06",
+                "prompt": "Iman saya — tindakan yang akan saya lakukan",
+                "group": "Pahlawan 1"
+              },
+              {
+                "id": "q07",
+                "prompt": "Pahlawan Iman (Ibrani 11)",
+                "group": "Pahlawan 1"
+              },
+              {
+                "id": "q08",
+                "prompt": "Pahlawan Iman Hari Ini dan alasannya",
+                "group": "Pahlawan 1"
+              },
+              {
+                "id": "q09",
+                "prompt": "Iman saya — tindakan yang akan saya lakukan",
+                "group": "Pahlawan 1"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "sourceReadings": {
+    "sabbath": "01630afd59433ca17e790c912f77493a4b3337d4741dbf03aaeca54f2a751a1c",
+    "sunday": "4c15a5df8e4dae49f3afcda186aaaa7dd6d36390ce73af4d59fe96a27222f35e",
+    "monday": "da17a4773c375d552e88769f5f55b52406ef60e461ac8667dc143ab0450d6747",
+    "tuesday": "1fc75806de6d5b92d22211ea8f143eae125123feae0e721c741454aa530058df",
+    "wednesday": "73e18edf0c4a1e5a7d46417c97a5bad3fefded7cacf6892be1fdeca97d8930af",
+    "thursday": "8f84fe33d381e5eb8633415f1c1228ea4378c6ff22b2df2924d3e89306d283e1",
+    "friday": "9218427ef6b3442425d785c066764772013aac2772ea970a1ee09029751e198d"
+  }
+}

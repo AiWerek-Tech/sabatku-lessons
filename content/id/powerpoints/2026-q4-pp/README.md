@@ -1,6 +1,6 @@
 # Junior PowerPoints Indonesia — Triwulan IV 2026
 
-Materi tim diimpor sebagai 13 pelajaran dan 91 bacaan Sabat–Jumat. Identitas program `powerpoints`, kelompok `children-youth`, usia rekomendasi resmi panduan 10–14 tahun. Kalender belajar dimulai 26 September; diskusi pelajaran pertama pada 3 Oktober. Minggu terakhir belajar 19–25 Desember, diskusi 26 Desember.
+Tema umum Triwulan IV 2026 adalah **Kasih Karunia Allah Memulihkan Kita**. Tema ditampilkan pada judul edisi di katalog. Materi tim diimpor sebagai 13 pelajaran dan 91 bacaan Sabat–Jumat. Identitas program `powerpoints`, kelompok `children-youth`, usia rekomendasi resmi panduan 10–14 tahun. Kalender belajar dimulai 26 September; diskusi pelajaran pertama pada 3 Oktober. Minggu terakhir belajar 19–25 Desember, diskusi 26 Desember.
 
 Sabat Petang berisi ayat hafalan, pesan utama, referensi, kisah Alkitab, dan kegiatan Sabat. Hari berikutnya mempertahankan kegiatan sumber. Jawaban hanya disediakan untuk pertanyaan dan tugas menulis, bukan seluruh kegiatan praktik atau doa. Identitas blok jawaban stabil dan menggunakan penyimpanan serta sinkronisasi akun pembaca yang sudah ada.
 

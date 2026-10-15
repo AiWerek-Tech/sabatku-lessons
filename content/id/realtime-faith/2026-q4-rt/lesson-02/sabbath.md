@@ -7,5 +7,7 @@ Kisah ini menceritakan tentang seorang prajurit yang ditempatkan ribuan mil jauh
 ## Untuk Dipelajari
 
 Ayat Hafalan: “Segala tulisan yang diilhamkan Allah memang bermanfaat untuk mengajar, untuk menyatakan kesalahan, untuk memperbaiki kelakuan dan untuk mendidik orang dalam kebenaran. Dengan demikian tiap-tiap manusia kepunyaan Allah diperlengkapi untuk setiap perbuatan baik” (2 Timotius 3: 16, 17).
+
 Kepercayaan Kita, no. 1, Kitab Suci: “Alkitab, Perjanjian Lama dan Baru, adalah Firman Allah yang tertulis, yang diberikan oleh ilham Ilahi. Para penulis yang diilhami berbicara dan menulis ketika mereka digerakkan oleh Roh Kudus. Dalam Firman ini, Allah telah memberikan kepada manusia pengetahuan yang diperlukan untuk keselamatan.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 130-134

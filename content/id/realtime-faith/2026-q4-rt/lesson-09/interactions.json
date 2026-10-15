@@ -1,0 +1,707 @@
+{
+  "schemaVersion": "sabatku-study-activities-v1",
+  "days": {
+    "sabbath": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Kisah Pekan Ini"
+        },
+        {
+          "markdown": "### SEMUA TENTANG UANG"
+        },
+        {
+          "markdown": "Tim Forneris. Bagi siapa pun yang mengenali nama itu, dia adalah orang yang beruntung yang memecahkan rekor bisbol home-run Mark McGwire yang memecahkan rekor enam puluh detik senilai sekitar $1 juta. (Bola home run ketujuh puluh McGwire kemudian dijual seharga $ 3 juta.) Gantinya menyimpannya untuk dirinya sendiri, Tim mengembalikannya ke McGwire. Sementara mengakui hal ini sebagai “sikap yang terhormat”, majalah Time menggunakan Forneris sebagai contoh keterampilan manajemen uang yang buruk (“Personal Time: Your Money,” Time, 8 Februari 1999). Menurut standar dunia, dia tidak membuat keputusan yang cerdas. Bagaimanapun, dia berhak menyimpan bola untuk dirinya sendiri. Dan siapa yang tidak bisa menggunakan $1 juta? Tanggapan Forneris terhadap artikel tersebut mencakup pernyataan ini: “Hidup lebih daripada sekadar uang. Beberapa harta tidak ternilai harganya” (dalam Time, 22 Maret"
+        },
+        {
+          "markdown": "1999). Uang adalah satuan ukuran diri di dunia kita—beberapa orang berpikir bahwa berapa banyak yang kita miliki menentukan siapa diri kita. Apakah kekayaan atau harta benda kita yang menentukan nilai kita? Pikirkan apa yang membuat kita berharga di mata Tuhan. Apa yang Yesus ajarkan tentang cara terbaik menggunakan uang? Baca Matius 19: 16-21. Lihatlah jawaban Yesus kepada penguasa muda yang kaya: “Jikalau engkau hendak sempurna, pergilah, juallah segala milikmu dan berikanlah itu kepada orang-orang miskin, maka engkau akan beroleh harta di sorga, kemudian datanglah ke mari dan ikutlah Aku.” (ayat 21). Bagaimana jawaban Yesus sangat berbeda dari cara orang umumnya berpikir tentang tujuan dan penggunaan uang?"
+        },
+        {
+          "markdown": "## Untuk Dipelajari"
+        },
+        {
+          "markdown": "Ayat Hafalan “Hendaklah masing-masing memberikan menurut kerelaan hatinya, jangan dengan sedih hati atau karena paksaan, sebab Allah mengasihi orang yang memberi dengan sukacita” (2 Korintus 9:7)."
+        },
+        {
+          "markdown": "Kepercayaan Kita No21, Penatalayanan: “Kita adalah penatalayan Allah, yang dipercayakan oleh-Nya dengan waktu dan kesempatan, kemampuan dan harta benda, serta berkat bumi dan sumber dayanya. Kita bertanggung jawab kepada-Nya untuk penggunaan yang tepat. Kita mengakui kepemilikan Allah dengan pelayanan yang setia kepada-Nya dan sesama manusia, dan dengan mengembalikan persepuluhan dan memberikan persembahan untuk pemberitaan Injil-Nya dan dukungan serta pertumbuhan gereja-Nya.”"
+        },
+        {
+          "markdown": "Ellen G. White, Thoughts From the Mount of Blessing, hlm. 7, 99"
+        },
+        {
+          "activity": {
+            "id": "l09-sabbath-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Dan siapa yang tidak bisa menggunakan $1 juta?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Apakah kekayaan atau harta benda kita yang menentukan nilai kita?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Apa yang Yesus ajarkan tentang cara terbaik menggunakan uang?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Bagaimana jawaban Yesus sangat berbeda dari cara orang umumnya berpikir tentang tujuan dan penggunaan uang?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merespons"
+        },
+        {
+          "markdown": "Baca Filipi 4:19."
+        },
+        {
+          "markdown": "Pernahkah Anda mendengar orang berkata, “Uang bukanlah segalanya”? Dan reaksi alami Anda mungkin sama dengan reaksi orang lain (yang akan mengakuinya): “Tentu saja.” Pikirkan berapa kali Anda meminta sesuatu kepada orang tua Anda dan mereka berkata, “Kami tidak mampu membelinya.” Pernahkah Anda berharap memiliki cukup uang untuk mendapatkan apa yang Anda perlukan, apa yang Anda inginkan, apa yang membuat hidup benar-benar menyenangkan?"
+        },
+        {
+          "markdown": "Uang tidak jahat. Cinta uang itu jahat. Apa bedanya? Menurut Anda, pada titik manakah uang melewati batas dari berkat menjadi kutukan? Menurut Anda apa hubungan antara uang dan kebahagiaan? Bisakah Anda memiliki keduanya? Apakah yang satu menjadi ancaman bagi yang lain?"
+        },
+        {
+          "activity": {
+            "id": "l09-sunday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Pernahkah Anda mendengar orang berkata, “Uang bukanlah segalanya”?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Dan reaksi alami Anda mungkin sama dengan reaksi orang lain (yang akan mengakuinya): “Tentu saja.” Pikirkan berapa kali Anda meminta sesuatu kepada orang tua Anda dan mereka berkata, “Kami tidak mampu membelinya.” Pernahkah Anda berharap memiliki cukup uang untuk mendapatkan apa yang Anda perlukan, apa yang Anda inginkan, apa yang membuat hidup benar-benar menyenangkan?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Apa bedanya?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Menurut Anda, pada titik manakah uang melewati batas dari berkat menjadi kutukan?"
+              },
+              {
+                "id": "q05",
+                "prompt": "Menurut Anda apa hubungan antara uang dan kebahagiaan?"
+              },
+              {
+                "id": "q06",
+                "prompt": "Bisakah Anda memiliki keduanya?"
+              },
+              {
+                "id": "q07",
+                "prompt": "Apakah yang satu menjadi ancaman bagi yang lain?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "monday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## JAWABAN ALKITAB TENTANG PENATALAYANAN"
+        },
+        {
+          "markdown": "Baca Maleakhi 3:10; Kisah Para Rasul 2:44-47; 2 Korintus 9:7."
+        },
+        {
+          "markdown": "Berdasarkan ayat-ayat Alkitab ini, apa arti penatalayanan bagi Anda? Bagaimanakah, cara Anda mengelola uang dan sumber daya lainnya menjadi bukti kesetiaan Anda kepada Tuhan? Bagaimana, dengan mendukung misi gereja melalui sebagian dari uang Anda membantu Anda mengembangkan kebiasaan penatalayanan yang baik? Bagaimana Anda dapat membuat perbedaan dengan mendukung pekerjaan misi dan membantu orang lain dengan kontribusi keuangan Anda?"
+        },
+        {
+          "markdown": "“Yesus, ketika Dia tinggal di bumi, menghormati kehidupan dalam semua hal dengan menjaga kemuliaan Allah di hadapan manusia, dan dengan menundukkan segalanya pada kehendak Bapa-Nya. Jika kita mengikuti teladan-Nya, jaminan-Nya kepada kita adalah bahwa segala sesuatu yang diperlukan dalam hidup ini ‘akan ditambahkan.’ Kemiskinan atau kekayaan, penyakit atau kesehatan, bodoh atau berhikmat—semua disediakan dalam janji kasih karunia-Nya” (Ellen G. White, Thoughts From the Mount of Blessing, hlm. 99)."
+        },
+        {
+          "activity": {
+            "id": "l09-monday-word-search",
+            "answerVersion": 1,
+            "kind": "word-search",
+            "title": "Cari Kata",
+            "instruction": "Pilih huruf awal lalu huruf akhir sebuah kata. Kata dapat mendatar, menurun, terbalik, atau diagonal. Geser papan bila diperlukan.",
+            "grid": [
+              "PLUNDERMNAMEFXJ",
+              "VYENOMAOQRQLQBE",
+              "ZIVADYIHRTZBYUW",
+              "SAJEPTGIQJWAPFE",
+              "ZUEBIECDRVEUFIL",
+              "FROBMHFSKVHLBYS",
+              "GSMIEETBWDTAMRL",
+              "BAHSCZWSEYOVTIO",
+              "YSRLWEMTZLRCZRO",
+              "PTSXEERNILUCRET",
+              "XVOTHWAPRFZTUUS",
+              "NBKOAUXLPJJEVJD",
+              "UNDTBRMATXUOLAP",
+              "DCCMEAPQKHUHSSM",
+              "OFTZFSTNHROJNEY"
+            ],
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "ambition",
+                "word": "AMBITION",
+                "path": [
+                  106,
+                  92,
+                  78,
+                  64,
+                  50,
+                  36,
+                  22,
+                  8
+                ]
+              },
+              {
+                "id": "q02",
+                "prompt": "greed",
+                "word": "GREED",
+                "path": [
+                  90,
+                  76,
+                  62,
+                  48,
+                  34
+                ]
+              },
+              {
+                "id": "q03",
+                "prompt": "lucre",
+                "word": "LUCRE",
+                "path": [
+                  144,
+                  145,
+                  146,
+                  147,
+                  148
+                ]
+              },
+              {
+                "id": "q04",
+                "prompt": "precious",
+                "word": "PRECIOUS",
+                "path": [
+                  157,
+                  141,
+                  125,
+                  109,
+                  93,
+                  77,
+                  61,
+                  45
+                ]
+              },
+              {
+                "id": "q05",
+                "prompt": "star",
+                "word": "STAR",
+                "path": [
+                  137,
+                  153,
+                  169,
+                  185
+                ]
+              },
+              {
+                "id": "q06",
+                "prompt": "booty",
+                "word": "BOOTY",
+                "path": [
+                  184,
+                  168,
+                  152,
+                  136,
+                  120
+                ]
+              },
+              {
+                "id": "q07",
+                "prompt": "jewels",
+                "word": "JEWELS",
+                "path": [
+                  14,
+                  29,
+                  44,
+                  59,
+                  74,
+                  89
+                ]
+              },
+              {
+                "id": "q08",
+                "prompt": "money",
+                "word": "MONEY",
+                "path": [
+                  20,
+                  19,
+                  18,
+                  17,
+                  16
+                ]
+              },
+              {
+                "id": "q09",
+                "prompt": "prize",
+                "word": "PRIZE",
+                "path": [
+                  173,
+                  158,
+                  143,
+                  128,
+                  113
+                ]
+              },
+              {
+                "id": "q10",
+                "prompt": "valuable",
+                "word": "VALUABLE",
+                "path": [
+                  116,
+                  101,
+                  86,
+                  71,
+                  56,
+                  41,
+                  26,
+                  11
+                ]
+              },
+              {
+                "id": "q11",
+                "prompt": "gem",
+                "word": "GEM",
+                "path": [
+                  51,
+                  65,
+                  79
+                ]
+              },
+              {
+                "id": "q12",
+                "prompt": "loot",
+                "word": "LOOT",
+                "path": [
+                  104,
+                  119,
+                  134,
+                  149
+                ]
+              },
+              {
+                "id": "q13",
+                "prompt": "plunder",
+                "word": "PLUNDER",
+                "path": [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6
+                ]
+              },
+              {
+                "id": "q14",
+                "prompt": "riches",
+                "word": "RICHES",
+                "path": [
+                  38,
+                  52,
+                  66,
+                  80,
+                  94,
+                  108
+                ]
+              },
+              {
+                "id": "q15",
+                "prompt": "wealth",
+                "word": "WEALTH",
+                "path": [
+                  124,
+                  140,
+                  156,
+                  172,
+                  188,
+                  204
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "activity": {
+            "id": "l09-monday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Kata-kata apa dalam teka-teki yang menunjukkan harta sebagai sesuatu yang indah dan baik?"
+              },
+              {
+                "id": "q02",
+                "prompt": "Kata-kata apa yang terkadang menjadi tanda bahwa harta diperoleh karena alasan egois?"
+              },
+              {
+                "id": "q03",
+                "prompt": "Berdasarkan ayat-ayat Alkitab ini, apa arti penatalayanan bagi Anda?"
+              },
+              {
+                "id": "q04",
+                "prompt": "Bagaimanakah, cara Anda mengelola uang dan sumber daya lainnya menjadi bukti kesetiaan Anda kepada Tuhan?"
+              },
+              {
+                "id": "q05",
+                "prompt": "Bagaimana, dengan mendukung misi gereja melalui sebagian dari uang Anda membantu Anda mengembangkan kebiasaan penatalayanan yang baik?"
+              },
+              {
+                "id": "q06",
+                "prompt": "Bagaimana Anda dapat membuat perbedaan dengan mendukung pekerjaan misi dan membantu orang lain dengan kontribusi keuangan Anda?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Merenungkan"
+        },
+        {
+          "markdown": "“Mereka yang kaya dan terhormat di mata mereka sendiri tidak meminta dengan iman, dan menerima berkat Tuhan. Mereka merasa kenyang, oleh karena itu mereka pergi dengan hampa. Mereka yang mengetahui bahwa mereka tidak mungkin menyelamatkan diri mereka sendiri, atau dari diri mereka sendiri melakukan tindakan yang benar, merupakan orang-orang yang menghargai pertolongan yang dapat diberikan oleh Kristus. Mereka adalah orang-orang yang miskin dalam roh, yang dinyatakan-Nya akan berbahagia” (Ellen G. White, Thoughts From the Mount of Blessing, hlm. 7)."
+        },
+        {
+          "markdown": "Bagaimana cara Anda mengelola uang adalah cerminan dari hubungan Anda dengan Tuhan. Ini mungkin tidak tampak seperti masalah besar saat ini, karena Anda mungkin tidak punya banyak uang, pekerjaan, atau tagihan yang harus dibayar. Jadi mengapa belajar tentang uang? Nah, alasannya sangat sederhana: memulai lebih awal memberi Anda langkah awal untuk mengatasi masalah yang dimiliki banyak orang dewasa—pergumulan dengan pengelolaan uang yang memengaruhi hubungan mereka dengan Yesus."
+        },
+        {
+          "markdown": "Jadi, berpikirlah terbuka dan cobalah mulai hari Jumat selama enam bulan untuk mulai mempelajari beberapa keterampilan pengelolaan uang yang akan memuliakan Tuhan."
+        },
+        {
+          "activity": {
+            "id": "l09-tuesday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Jadi mengapa belajar tentang uang?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Konsep Alkitab"
+        },
+        {
+          "activity": {
+            "id": "l09-wednesday-fill",
+            "answerVersion": 1,
+            "kind": "fill",
+            "title": "Lengkapi Ayat",
+            "instruction": "Lengkapi tiap bagian dengan kata atau frasa dari ayat. Ejaan huruf besar, tanda baca, dan tanda hubung tidak memengaruhi pemeriksaan.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "“Sebab jika kamu rela untuk ___, maka ___ akan ___, kalau pemberianmu itu berdasarkan apa yang ada padamu, bukan berdasarkan ___ yang ___” (2 Korintus 8: 12).",
+                "blanks": [
+                  [
+                    "memberi"
+                  ],
+                  [
+                    "pemberianmu"
+                  ],
+                  [
+                    "diterima"
+                  ],
+                  [
+                    "apa"
+                  ],
+                  [
+                    "tidak ada padamu"
+                  ]
+                ],
+                "reference": "2 Korintus 8: 12"
+              },
+              {
+                "id": "q02",
+                "prompt": "“Siapa ___ kepada orang miskin tak akan ___, tetapi ___ (Amsal 28: 27).",
+                "blanks": [
+                  [
+                    "memberi"
+                  ],
+                  [
+                    "berkekurangan"
+                  ],
+                  [
+                    "orang yang menutup matanya akan sangat dikutuki"
+                  ]
+                ],
+                "reference": "Amsal 28: 27"
+              },
+              {
+                "id": "q03",
+                "prompt": "“Setiap orang yang dikaruniai Allah ___ dan ___dan ___ untuk menikmatinya, untuk menerima bahagiannya, dan untuk bersukacita dalam jerih payahnya — juga itu pun ___” (Pengkhotbah 5: 19).",
+                "blanks": [
+                  [
+                    "kekayaan"
+                  ],
+                  [
+                    "harta benda"
+                  ],
+                  [
+                    "kuasa"
+                  ],
+                  [
+                    "karunia allah"
+                  ]
+                ],
+                "reference": "Pengkhotbah 5: 19"
+              },
+              {
+                "id": "q04",
+                "prompt": "“Sebab kekayaan dan kemuliaan berasal dari pada-Mu dan Engkaulah yang ___ atas segala-galanya; dalam tangan-Mulah ___ dan ___; dalam tangan-Mulah ___ dan ___” (1 Tawarikh 29:12).",
+                "blanks": [
+                  [
+                    "berkuasa"
+                  ],
+                  [
+                    "kekuatan"
+                  ],
+                  [
+                    "kejayaan"
+                  ],
+                  [
+                    "kuasa membesarkan"
+                  ],
+                  [
+                    "mengokohkan segalagalanya"
+                  ]
+                ],
+                "reference": "1 Tawarikh 29:12"
+              },
+              {
+                "id": "q05",
+                "prompt": "“Allahku akan memenuhi segala ___ menurut ___ dan kemuliaan-Nya dalam ___” (Filipi 4:19).",
+                "blanks": [
+                  [
+                    "keperluanmu"
+                  ],
+                  [
+                    "kekayaan"
+                  ],
+                  [
+                    "kristus yesus"
+                  ]
+                ],
+                "reference": "Filipi 4:19"
+              },
+              {
+                "id": "q06",
+                "prompt": "“ ‘Bawalah seluruh ___ itu ke dalam rumah perbendaharaan, supaya ada persediaan makanan di ___ dan ___ Aku, firman TUHAN semesta alam, apakah Aku tidak membukakan bagimu tingkap-tingkap langit dan mencurahkan ___ kepadamu sampai ___’ ” (Maleaki 3:10).",
+                "blanks": [
+                  [
+                    "persembahan persepuluhan"
+                  ],
+                  [
+                    "rumahku"
+                  ],
+                  [
+                    "ujilah"
+                  ],
+                  [
+                    "berkat"
+                  ],
+                  [
+                    "berkelimpahan"
+                  ]
+                ],
+                "reference": "Maleaki 3:10"
+              },
+              {
+                "id": "q07",
+                "prompt": "“Bagi Dialah, yang dapat ___ jauh lebih banyak dari pada yang kita ___ atau ___, seperti yang ternyata dari ___ yang ___ di dalam kita,bagi Dialah ___ di dalam jemaat dan di dalam ___turun-temurun sampai selama-lamanya. Amin” (Efesus 3:20, 21).\n",
+                "blanks": [
+                  [
+                    "melakukan"
+                  ],
+                  [
+                    "doakan"
+                  ],
+                  [
+                    "pikirkan"
+                  ],
+                  [
+                    "kuasa"
+                  ],
+                  [
+                    "bekerja"
+                  ],
+                  [
+                    "kemuliaan"
+                  ],
+                  [
+                    "kristus yesus"
+                  ]
+                ],
+                "reference": "Efesus 3:20, 21"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menghubungkan"
+        },
+        {
+          "markdown": "Tinjau kembali ayat hafalan."
+        },
+        {
+          "markdown": "Hidup dalam kerajaan Allah adalah hidup di hadirat-Nya (lihat Ibrani 4: 13). Apakah ini memotivasi Anda untuk mengubah cara Anda bertindak dan membelanjakan uang? Ketika Anda menyadari bahwa Tuhan memiliki segalanya, setiap keputusan untuk menggunakan uang menjadi keputusan spiritual. Sikap Anda tidak akan tentang nilai uang dalam kaitannya dengan apa yang dapat dilakukannya untuk Anda; sebaliknya, Anda akan memandang uang sebagai berkat untuk dikembalikan—ke gereja Tuhan, dan orang lain yang membutuhkan."
+        },
+        {
+          "activity": {
+            "id": "l09-thursday-journal",
+            "answerVersion": 1,
+            "kind": "journal",
+            "title": "Respons dan Refleksi",
+            "instruction": "Tulis jawaban dengan kata-kata Anda sendiri. Respons pribadi tidak dinilai benar atau salah.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Apakah ini memotivasi Anda untuk mengubah cara Anda bertindak dan membelanjakan uang?"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "friday": {
+      "version": 1,
+      "blocks": [
+        {
+          "markdown": "## Menerapkan"
+        },
+        {
+          "markdown": "Anda telah belajar banyak tentang uang pekan ini, dan Anda mungkin berpikir itu adalah ide yang bagus untuk mempraktikkan semua ini. Tempat terbaik untuk memulai adalah sumber uang Anda—dan itu mungkin orang tua, kakek nenek, paman, bibi, dan lain-lain. Sekarang duduklah dengan sumber uang Anda dan pikirkan rencana permainan—cara Anda dapat belajar bertanggung jawab dengan uang mulai dengan benar sekarang agar Anda terhindar dari utang dan perangkap keuangan lainnya saat Anda dewasa."
+        },
+        {
+          "markdown": "Contohlah rencana berikut dapat membantu Anda merencanakan anggaran sehingga Anda dapat menabung untuk hal-hal yang paling penting."
+        },
+        {
+          "markdown": "### Rencana Keuangan Sarah"
+        },
+        {
+          "markdown": "Sarah berusia 12 tahun, dan orang tuanya memberinya uang saku mingguan sesuai dengan usianya. Sejak dia berusia 12 tahun, dia mendapat $12 seminggu, yaitu $48 sebulan. Orang tua Sarah akan bertanggung jawab atas pakaian, pendidikan, dan makanannya, dan telah menetapkan batasan berapa banyak yang akan mereka keluarkan untuk masing-masingnya."
+        },
+        {
+          "markdown": "Mereka telah memutuskan bahwa Sarah akan menggunakan uang sakunya dengan cara berikut dan membagi uang itu ke dalam amplop-amplop tertentu setiap bulan. Memisahkan uang membuat Sarah tidak “meminjam” dari satu amplop untuk mengisi yang lain. Setiap beberapa bulan orang tuanya menyetorkan tabungannya untuk pendidikan atau tujuan lainnya ke rekening bank. Ketika amplop KELUARGA-nya bertambah banyak, dia mentraktir keluarganya—dengan sesuatu yang mereka sukai! Sarah menyimpan isi amplop MISI-nya selama dua tahun dan dapat menyekolahkan seorang gadis di Bosnia selama setahun melalui ADRA!"
+        },
+        {
+          "markdown": "- Persepuluhan: 10%"
+        },
+        {
+          "markdown": "- Misi: 5%"
+        },
+        {
+          "markdown": "- Persembahan: 5%"
+        },
+        {
+          "markdown": "- Tabungan pendidikan: 40%"
+        },
+        {
+          "markdown": "- Keluarga: 20%"
+        },
+        {
+          "markdown": "- Hadiah bagi orang lain: 10%"
+        },
+        {
+          "markdown": "- Pengeluaran pribadi: 10%"
+        },
+        {
+          "markdown": "Ketika Anda telah membuat rencana serupa yang membuat Anda senang, cobalah selama enam bulan. Anda pasti memiliki perasaan yang baik tentang bermitra dengan Tuhan yang memberi Anda semua yang Anda miliki dan lebih banyak lagi."
+        },
+        {
+          "activity": {
+            "id": "l09-friday-budget",
+            "answerVersion": 1,
+            "kind": "budget",
+            "title": "Rencana Anggaran Saya",
+            "instruction": "Bagikan anggaran Anda ke tujuh kategori dalam persen. Jumlah seluruhnya harus 100%. Ini rencana pribadi Anda, bukan penilaian kerohanian.",
+            "items": [
+              {
+                "id": "q01",
+                "prompt": "Persepuluhan"
+              },
+              {
+                "id": "q02",
+                "prompt": "Misi"
+              },
+              {
+                "id": "q03",
+                "prompt": "Persembahan"
+              },
+              {
+                "id": "q04",
+                "prompt": "Tabungan pendidikan"
+              },
+              {
+                "id": "q05",
+                "prompt": "Keluarga"
+              },
+              {
+                "id": "q06",
+                "prompt": "Hadiah bagi orang lain"
+              },
+              {
+                "id": "q07",
+                "prompt": "Pengeluaran pribadi"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "sourceReadings": {
+    "sabbath": "86ad8ce9c5aca1955cf0754031a4b7c721906b37a163623750fc207044306451",
+    "sunday": "2581341831ce4c63aecf77a541c731bde8acad78a2787e765f7fd8a8f4ca393c",
+    "monday": "374bd34a1cfb2bfd259cef575bfe5f836911787f4f02f529d376f423cc7a9a4a",
+    "tuesday": "1d8e4cf078613e310bb675ef8a04abcde789885fc3ba316226694f04d0a5d349",
+    "wednesday": "eade99fcbc73228cf9bbd2d448c9afe8cec5da85cd0b770c32e773dcb4c49711",
+    "thursday": "0847ef55be0faa75e03ed3596eedd56997303a07582855fd65f10de8990e0ac7",
+    "friday": "6ce9cbcfb74f90df1d886133bd6e922fcb1f82d198c0b9e1211ef66b4ffabdcf"
+  }
+}

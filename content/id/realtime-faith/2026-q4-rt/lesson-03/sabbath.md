@@ -7,5 +7,7 @@ David Livingstone mengasihi orangorang Afrika. Setelah 16 tahun yang sulit sebag
 ## Untuk Dipelajari
 
 Ayat hafalan: “Dengan demikian semua orang akan tahu, bahwa kamu adalah murid-murid-Ku, yaitu jikalau kamu saling mengasihi.” (Yohanes 13: 35).
+
 Kepercayaan Kita, No. 17, Karunia Roh dan Pelayanan: “Tuhan menganugerahkan kepada semua anggota gereja-Nya di setiap zaman karuniakarunia rohani yang harus digunakan setiap anggota dalam pelayanan yang penuh kasih demi kebaikan bersama gereja dan umat manusia.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 82, 83

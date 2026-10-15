@@ -7,5 +7,7 @@ Ketika jet tempur pertama kali ditemukan, pesawat ini terbang jauh lebih cepat d
 ## Untuk Dipelajari
 
 Ayat Hafalan: “Kata-Nya kepada mereka semua: ‘Setiap orang yang mau mengikut Aku, ia harus menyangkal dirinya, memikul salibnya setiap hari dan mengikut Aku’ ” (Lukas 9: 23).
-Kepercayaan Kita no. 13, Umat yang Sisa dan Misinya: “TGereja universal terdiri dari semua orang yang benar-benar percaya kepada Kristus, tetapi pada hari-hari terakhir, masa kemurtadan yang meluas, satu umat yang sisa telah dipanggil untuk memelihara perintah-perintah Allah dan iman kepada Yesus. Umat yang sisa ini menyatakan saat penghakiman, mengkhotbahkan keselamatan melalui Kristus, dan mengabarkan kedatangan-Nya yang kedua kali. Setiap orang percaya dipanggil untuk ambil bagian dalam kesaksian ini.”
+
+Kepercayaan Kita no. 13, Umat yang Sisa dan Misinya: “TGereja universal terdiri dari semua orang yang benar-benar percaya kepada Kristus, tetapi pada hari-hari terakhir, masa kemurtadan yang meluas, satu umat yang sisa telah dipanggil untuk memelihara perintah-perintah Allah dan iman kepada Yesus. Umat yang sisa ini menyatakan saat penghakiman, mengkhotbahkan keselamatan melalui Kristus, dan mengabarkan kedatangan-Nya yang kedua kali.... Setiap orang percaya dipanggil untuk ambil bagian dalam kesaksian ini.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 29–33

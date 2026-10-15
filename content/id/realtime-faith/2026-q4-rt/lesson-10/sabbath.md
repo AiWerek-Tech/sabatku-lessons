@@ -7,5 +7,7 @@ Sepasang lansia membeli rumah dan pindah ke dalamnya. Saat mereka mengatur furni
 ## Untuk Dipelajari
 
 Ayat Hafalan: “Orang yang berpengetahuan menahan perkataannya, orang yang berpengertian berkepala dingin” (Amsal 17: 27).
+
 Kepercayaan Kita, no. 14, Kesatuan dalam Tubuh Kristus: ““Gereja adalah satu tubuh dengan banyak anggota, dipanggil dari setiap bangsa, kaum, bahasa, dan kaum. Di dalam Kristus kita adalah ciptaan baru; perbedaan ras, budaya, pendidikan, dan kebangsaan, dan perbedaan antara tinggi dan rendah, kaya dan miskin, laki-laki dan perempuan, tidak boleh memecah belah di antara kita. Kita semua sama di dalam Kristus, yang oleh satu Roh telah mengikat kita ke dalam satu persekutuan dengan Dia dan dengan satu sama lain; kita harus melayani dan dilayani tanpa memihak atau syarat. Melalui wahyu Yesus Kristus dalam Kitab Suci kita memiliki iman dan harapan yang sama, dan menginjil dalam satu kesaksian kepada semua orang. Kesatuan ini bersumber pada keesaan Allah Tritunggal, yang telah mengadopsi kita sebagai anak-anak-Nya.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 134-137

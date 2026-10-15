@@ -1,9 +1,15 @@
 ## Konsep Alkitab
 
 Isi bagian yang kosong.
+
 1. “Sebab itu, hai anakku, jadilah ______ oleh kasih karunia dalam _____ _________. Apa yang telah engkau dengar dari padaku di _______ banyak saksi, percayakanlah itu kepada orang-orang yang dapat dipercayai, yang juga _______ mengajar orang lain” (2 Timotius 2: 1, 2).
+
 2. “Hal ini kutuliskan bukan untuk memalukan kamu, tetapi untuk ________ kamu sebagai anak-anakku yang kukasihi. Sebab sekalipun kamu mempunyai beribu-ribu _______ dalam Kristus, kamu tidak mempunyai banyak bapa. Karena akulah yang dalam Kristus Yesus telah menjadi bapamu oleh Injil yang __________ kepadamu. Sebab itu aku menasihatkan kamu: turutilah teladanku! Justru itulah sebabnya aku mengirimkan kepadamu Timotius, yang adalah anakku yang kekasih dan yang _______ dalam Tuhan. Ia akan memperingatkan kamu akan hidup yang kuturuti dalam Kristus Yesus, seperti yang kuajarkan di mana-mana dalam setiap jemaat” (1 Korintus 4: 14–17).
+
 3. “Jadilah ______, sama seperti aku _____ menjadi ________ Kristus” (1 Korintus 11: 1).
-4. “Dan kami tahu, hai saudara-saudara yang dikasihi ________, bahwa Ia telah _________ kamu. Sebab Injil yang kami beritakan bukan disampaikan kepada kamu dengan kata-kata saja, tetapi juga dengan _______ oleh ____ ________ dan dengan suatu kepastian yang kokoh. Memang kamu tahu, bagaimana kami bekerja di antara kamu oleh karena kamu. Dan kamu telah menjadi ________ kami dan __________ Tuhan; dalam penindasan yang berat kamu telah menerima firman itu dengan sukacita yang _________ oleh ____ _______, sehingga kamu telah menjadi teladan untuk semua orang yang percaya di wilayah ______ dan ________” (1 Korintus 4: 14–17).
+
+4. “Dan kami tahu, hai saudara-saudara yang dikasihi ________, bahwa Ia telah _________ kamu. Sebab Injil yang kami beritakan bukan disampaikan kepada kamu dengan kata-kata saja, tetapi juga dengan _______ oleh ____ ________ dan dengan suatu kepastian yang kokoh. Memang kamu tahu, bagaimana kami bekerja di antara kamu oleh karena kamu. Dan kamu telah menjadi ________ kami dan __________ Tuhan; dalam penindasan yang berat kamu telah menerima firman itu dengan sukacita yang _________ oleh ____ _______, sehingga kamu telah menjadi teladan untuk semua orang yang percaya di wilayah ______ dan ________” (1 Tesalonika 1:4–7).
+
 5. “Ingatlah akan _______-________ kamu, yang telah menyampaikan ________ Allah kepadamu. ______ akhir _______ mereka dan ________ _________ mereka” (Ibrani 13: 7).
+
 6. “Demikian jugalah kamu, hai orang-orang _______, ________ kepada orang-orang yang _______. Dan kamu semua, ________ dirimu seorang terhadap yang lain, sebab: ‘Allah _______ orang yang _________, tetapi ____________ orang yang _______ ______.’” (1 Petrus 5: 5).

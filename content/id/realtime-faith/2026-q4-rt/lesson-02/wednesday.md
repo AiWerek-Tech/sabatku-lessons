@@ -1,3 +1,21 @@
 ## Konsep Alkitab
 
-Dapatkanlah pesan dengan mencari setiap huruf atau simbol pengganti. Beberapa huruf diberikan untuk membantu Anda memulai. Buatlah daftar ayat Kitab Suci pada baris di bawah ini. (Dalam Bahasa Inggris) Q = T C = W L = S Z = P M = H A B C D E F G H I J K L M N O P Q R S T U V W X Y Z W S H T P Q M Y L Z U G U Q M Y S Z L P L U T D P G. C Y N R T Y LL C Y X D T D Q R T D C C M N Q, C Y D P H M Q Q D Z G N J E DG K P Q Q M Y L Z U G U Q M U B L Y S E U T Q Y G O Y X Y L E D G. P L Q M G D P H M C D G X S Y L L H G D N T L N T X M Y C M D L Y N G O M Y L D P G M Y N G Q L. R T D C L Q M Y B U T X D E Q M Y L Z U G U Q K Y O N P L Y Q M Y L Z U G U Q U T Q Y G O Y X Y L ’ E D G H D X L Z Y D Z S Y U T N O O D G X N T O Y. C U Q M Q M Y C U S S D E H D X
+Dapatkanlah pesan dengan mencari setiap huruf atau simbol pengganti. Beberapa huruf diberikan untuk membantu Anda memulai. Buatlah daftar ayat Kitab Suci pada baris di bawah ini (dalam bahasa Inggris).
+
+### Petunjuk huruf
+
+- Q = T
+
+- C = W
+
+- L = S
+
+- Z = P
+
+- M = H
+
+![Tabel huruf dan pesan sandi](../../assets/activity-02-wednesday.png)
+
+Tabel huruf dan pesan sandi — salinan lembar kegiatan dari PDF siswa.
+
+Ayat Kitab Suci yang ditemukan: ______________________________

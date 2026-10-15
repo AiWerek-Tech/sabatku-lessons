@@ -45,6 +45,15 @@ RUNNING_HEADER = re.compile(r"^.{1,70}\s*/\s*\d{1,2}\s+(?:OKTOBER|NOVEMBER|DESEM
 MIN_PANEL_AREA = 20_000
 
 
+def day_anchor(page: pdfplumber.page.Page, day_name: str) -> dict | None:
+    """Use the display heading, never an earlier mention of a weekday in prose."""
+    matches = [word for word in page.extract_words(extra_attrs=["size", "fontname"])
+               if word["text"].casefold() == day_name.casefold()]
+    if not matches:
+        return None
+    return min(matches, key=lambda word: (-word["size"], word["top"]))
+
+
 def split_day_sections(text: str) -> tuple[dict[str, str], str]:
     matches = list(DAY_PATTERN.finditer(text))
     sections: dict[str, list[str]] = {}
@@ -61,10 +70,9 @@ def split_day_sections(text: str) -> tuple[dict[str, str], str]:
 
 
 def panel_geometry(page: pdfplumber.page.Page, day_name: str) -> tuple[tuple[float, float, float, float], float] | None:
-    matches = [word for word in page.extract_words() if word["text"].casefold() == day_name.casefold()]
-    if not matches:
+    anchor = day_anchor(page, day_name)
+    if anchor is None:
         return None
-    anchor = min(matches, key=lambda word: word["top"])
     anchor_x = (anchor["x0"] + anchor["x1"]) / 2
     anchor_y = (anchor["top"] + anchor["bottom"]) / 2
     panels = []
@@ -91,10 +99,9 @@ def sabbath_fallback_geometry(
     peer_days: list[str],
 ) -> tuple[tuple[float, float, float, float], float] | None:
     """Bound the top-right Sabat card on pages whose decorative card has no shape."""
-    anchors = [word for word in page.extract_words() if word["text"].casefold() == "sabat"]
-    if not anchors:
+    anchor = day_anchor(page, "Sabat")
+    if anchor is None:
         return None
-    anchor = min(anchors, key=lambda word: word["top"])
     center_x = (anchor["x0"] + anchor["x1"]) / 2
     center_y = (anchor["top"] + anchor["bottom"]) / 2
     x0 = max(0.0, center_x - 55)
@@ -342,7 +349,9 @@ def reflow(text: str, lesson_title: str) -> str:
     flush()
     while output and output[-1] == "":
         output.pop()
-    cleaned = re.sub(r"([!?.,:;])\1+", r"\1", "\n".join(output))
+    # Ellipses in Bible quotations mark an intentional omission; keep them.
+    cleaned = re.sub(r"([!?,:;])\1+", r"\1", "\n".join(output))
+    cleaned = re.sub(r"(?<!\.)\.{2}(?!\.)", ".", cleaned)
     cleaned = re.sub(r"(?m)^-\s{2,}", "- ", cleaned)
     cleaned = re.sub(r"\s+([,.;:!?])", r"\1", cleaned)
     cleaned = re.sub(r"(?<=[.!?])(?=[A-Z])", " ", cleaned)
@@ -411,6 +420,14 @@ def write_json(path: Path, value: object) -> None:
 
 
 def import_edition(source: Path, destination: Path) -> None:
+    # A raw PDF import cannot recreate editorial repairs or visual worksheets.
+    # Keep the reviewed edition intact; new imports belong in a staging root.
+    review_path = destination / "id" / "realtime-faith" / "2026-q4-rt" / "source-review.json"
+    if review_path.exists():
+        raise ValueError(
+            "This edition has reviewed source content. Import into a separate "
+            "--content-root and compare it with the reviewed edition; do not overwrite it."
+        )
     reader = PdfReader(str(source))
     if len(reader.pages) != 26:
         raise ValueError(f"RTF Q4 2026 must contain 26 pages (13 lessons × 2 pages); found {len(reader.pages)}")

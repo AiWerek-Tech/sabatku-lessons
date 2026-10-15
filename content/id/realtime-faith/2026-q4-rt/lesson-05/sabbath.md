@@ -7,5 +7,7 @@ mengembalikan mobil ke jalan. Saya disebut seorang musafir, tetapi cerita ini bi
 ## Untuk Dipelajari
 
 Ayat Hafalan: “Ingatlah akan pemimpin-pemimpin kamu, yang telah menyampaikan firman Allah kepadamu. Perhatikanlah akhir hidup mereka dan contohlah iman mereka” (Ibrani 13:7).
+
 Kepercayaan Kita No. 10, PEngalaman Keselamatan: “Dalam kasih dan belas kasihan yang tak terbatas, Allah membuat Kristus, yang tidak mengenal dosa, menjadi dosa karena kita, supaya di dalam Dia kita dibenarkan oleh Allah. Dengan tuntutan Roh Kudus, kita merasakan keperluan kita, mengakui keberdosaan kita, bertobat dari pelanggaran kita, dan menjalankan iman kepada Yesus sebagai Juruselamat dan Tuhan, Pengganti dan Teladan.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 126

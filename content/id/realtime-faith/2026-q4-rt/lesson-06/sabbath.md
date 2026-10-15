@@ -7,5 +7,7 @@ Seniman bernama Herkomer lahir di Black Forest di Eropa. Sementara Herkomer adal
 ## Untuk Dipelajari
 
 Ayat Hafalan “Jadi apabila engkau memberi sedekah, janganlah engkau mencanangkan hal itu, seperti yang dilakukan orang munafik di rumahrumah ibadat dan di lorong-lorong, supaya mereka dipuji orang. Aku berkata kepadamu: Sesungguhnya mereka sudah mendapat upahnya. Tetapi jika engkau memberi sedekah, janganlah diketahui tangan kirimu apa yang diperbuat tangan kananmu. Hendaklah sedekahmu itu diberikan dengan tersembunyi, maka Bapamu yang melihat yang tersembunyi akan membalasnya kepadamu.” (Matius 6: 2–4).
+
 Kepercayaan Kita no. 12, Gereja: “Gereja memperoleh otoritasnya dari Kristus, yang adalah Firman yang berinkarnasi yang dinyatakan dalam Kitab Suci. Gereja adalah keluarga Allah; diadopsi oleh-Nya sebagai anak-anak, para anggotanya hidup berdasarkan perjanjian baru. Gereja adalah tubuh Kristus, komunitas iman di mana Kristus sendiri adalah Kepalanya.”
+
 Ellen G. White, Thoughts From the Mount of Blessing, hlm. 80-83
