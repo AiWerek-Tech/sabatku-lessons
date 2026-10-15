@@ -54,5 +54,7 @@
       "title": "PDF Siswa · Pelajaran 07",
       "src": "../../assets/lesson-07.pdf"
     }
-  ]
+  ],
+  "illustration": "../../assets/lesson-cover-07.jpg",
+  "illustrationStatus": "available"
 }

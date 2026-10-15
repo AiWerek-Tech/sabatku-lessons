@@ -21,6 +21,9 @@ export async function buildRealtimeFaith(sourceRoot,outputRoot) {
     if(edition.publicationStatus!=='published') continue;
     assert(edition.id===folder.name && /^\d{4}-q[1-4]-rt$/.test(edition.id) && edition.programId==='realtime-faith' && edition.locale==='id','Invalid Real-Time Faith identity');
     assert(edition.lessons.length===13 && edition.attribution && edition.rightsStatement,'Incomplete Real-Time Faith edition');
+    assert(edition.cover===`editions/${edition.id}/assets/cover.jpg`,'Real-Time Faith quarter cover metadata is missing or mismatched');
+    const quarterCover=await readFile(path.join(dir,'assets','cover.jpg'));
+    assert(quarterCover[0]===0xff && quarterCover[1]===0xd8 && quarterCover[2]===0xff,'Real-Time Faith quarter cover must be a JPEG');
     const review=await json(path.join(dir,'source-review.json'));
     assert(review.schemaVersion==='realtime-faith-source-review-v1' && review.status==='source-checked' && review.source?.pageCount===26 && /^[a-f0-9]{64}$/.test(review.source?.sha256),'Real-Time Faith source review is missing or incomplete');
     assert(Array.isArray(review.readings) && review.readings.length===91 && new Set(review.readings.map(item=>item.file)).size===91,'Real-Time Faith source review must cover 91 unique readings');
@@ -42,6 +45,12 @@ export async function buildRealtimeFaith(sourceRoot,outputRoot) {
       const interactions=await json(path.join(lessonDir,'interactions.json'));
       assert(interactions.schemaVersion==='sabatku-study-activities-v1' && keys.every(key=>interactions.days[key]),`${lessonId}: missing daily interactions`);
       assert(lesson.id===entry.id && lesson.readings.map(item=>item.key).join()===keys.join(),'Real-Time Faith needs seven ordered readings');
+      const lessonCover=`lesson-cover-${String(number+1).padStart(2,'0')}.jpg`;
+      const lessonCoverReference=`../../assets/${lessonCover}`;
+      assert(lesson.illustration===lessonCoverReference && lesson.illustrationStatus==='available',`${lessonId}: lesson cover metadata is missing or mismatched`);
+      const lessonCoverBytes=await readFile(path.join(dir,'assets',lessonCover));
+      assert(lessonCoverBytes[0]===0xff && lessonCoverBytes[1]===0xd8 && lessonCoverBytes[2]===0xff,`${lessonId}: lesson cover must be a JPEG`);
+      assert(interactions.days.sabbath.blocks[0]?.markdown===`![lesson-cover](${lessonCoverReference})`,`${lessonId}: Sabbath activity must begin with its numbered lesson cover`);
       assert(new Date(lesson.startDate+'T00:00:00Z').getUTCDay()===6,'Real-Time Faith study week must start Saturday');
       assert(lesson.endDate===addDays(lesson.startDate,6) && lesson.discussionDate===addDays(lesson.startDate,7),'Invalid Real-Time Faith calendar');
       assert(lesson.startDate===addDays(edition.startDate,number*7) && lesson.startDate===entry.startDate && lesson.endDate===entry.endDate,'Real-Time Faith lesson/index calendar mismatch');
@@ -74,7 +83,7 @@ export async function buildRealtimeFaith(sourceRoot,outputRoot) {
       await readFile(path.join(dir,'assets',`${entry.id}.pdf`));
       const url=`editions/${edition.id}/lessons/${entry.id}/index.json`;
       lessons.push({...entry,url});
-      published.push({path:url,value:{schemaVersion:'sabatku-lessons-v1',editionId:edition.id,programId:'realtime-faith',locale:'id',lesson:{...entry},readings,pdfs,supplementaryReadings:[]}});
+      published.push({path:url,value:{schemaVersion:'sabatku-lessons-v1',editionId:edition.id,programId:'realtime-faith',locale:'id',lesson:{...entry,illustration:lesson.illustration,illustrationStatus:lesson.illustrationStatus},readings,pdfs,supplementaryReadings:[]}});
     }
     assert(visualFiles.size===review.visualActivities.length,'Some reviewed Real-Time Faith worksheets are not linked from daily readings');
     assert(edition.endDate===lessons.at(-1).endDate,'Invalid Real-Time Faith edition dates');

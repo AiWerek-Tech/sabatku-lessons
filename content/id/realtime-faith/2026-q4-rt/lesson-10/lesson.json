@@ -54,5 +54,7 @@
       "title": "PDF Siswa · Pelajaran 10",
       "src": "../../assets/lesson-10.pdf"
     }
-  ]
+  ],
+  "illustration": "../../assets/lesson-cover-10.jpg",
+  "illustrationStatus": "available"
 }

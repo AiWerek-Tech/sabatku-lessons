@@ -54,5 +54,7 @@
       "title": "PDF Siswa · Pelajaran 11",
       "src": "../../assets/lesson-11.pdf"
     }
-  ]
+  ],
+  "illustration": "../../assets/lesson-cover-11.jpg",
+  "illustrationStatus": "available"
 }

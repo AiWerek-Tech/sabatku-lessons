@@ -2,6 +2,8 @@
 
 Naskah siswa terjemahan tim SabatKu dibagi dari PDF sumber menjadi 13 PDF pekanan dan tujuh bacaan Markdown per pelajaran.
 
+Cover triwulan disimpan sebagai `assets/cover.jpg` dan direferensikan oleh `edition.json`. Cover 13 pelajaran disimpan sebagai `assets/lesson-cover-01.jpg` sampai `lesson-cover-13.jpg`; setiap cover muncul pada kartu pelajaran dan header bacaan Sabat.
+
 ## Struktur satu pelajaran
 
 - Sabat: kisah pembuka dan bagian **Untuk Dipelajari**.

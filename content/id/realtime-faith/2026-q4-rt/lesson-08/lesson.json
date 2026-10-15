@@ -54,5 +54,7 @@
       "title": "PDF Siswa · Pelajaran 08",
       "src": "../../assets/lesson-08.pdf"
     }
-  ]
+  ],
+  "illustration": "../../assets/lesson-cover-08.jpg",
+  "illustrationStatus": "available"
 }

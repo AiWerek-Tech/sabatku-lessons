@@ -5,6 +5,9 @@
       "version": 1,
       "blocks": [
         {
+          "markdown": "![lesson-cover](../../assets/lesson-cover-03.jpg)"
+        },
+        {
           "markdown": "## Kisah Pekan Ini"
         },
         {

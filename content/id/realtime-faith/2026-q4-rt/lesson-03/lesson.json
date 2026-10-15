@@ -54,5 +54,7 @@
       "title": "PDF Siswa · Pelajaran 03",
       "src": "../../assets/lesson-03.pdf"
     }
-  ]
+  ],
+  "illustration": "../../assets/lesson-cover-03.jpg",
+  "illustrationStatus": "available"
 }

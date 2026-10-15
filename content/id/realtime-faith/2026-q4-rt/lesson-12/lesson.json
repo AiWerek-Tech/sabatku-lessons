@@ -54,5 +54,7 @@
       "title": "PDF Siswa · Pelajaran 12",
       "src": "../../assets/lesson-12.pdf"
     }
-  ]
+  ],
+  "illustration": "../../assets/lesson-cover-12.jpg",
+  "illustrationStatus": "available"
 }

@@ -54,5 +54,7 @@
       "title": "PDF Siswa · Pelajaran 13",
       "src": "../../assets/lesson-13.pdf"
     }
-  ]
+  ],
+  "illustration": "../../assets/lesson-cover-13.jpg",
+  "illustrationStatus": "available"
 }
