@@ -1,0 +1,58 @@
+{
+  "id": "lesson-13",
+  "title": "Masalah Waktu",
+  "startDate": "2026-12-19",
+  "endDate": "2026-12-25",
+  "discussionDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Masalah Waktu",
+      "date": "2026-12-19",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-12-20",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-12-21",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-12-22",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-12-23",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-12-24",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-12-25",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "student-id",
+      "title": "PDF Siswa · Pelajaran 13",
+      "src": "../../assets/lesson-13.pdf"
+    }
+  ]
+}

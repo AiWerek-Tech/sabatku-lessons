@@ -1,0 +1,58 @@
+{
+  "id": "lesson-01",
+  "title": "Latihan Rohani",
+  "startDate": "2026-09-26",
+  "endDate": "2026-10-02",
+  "discussionDate": "2026-10-03",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Latihan Rohani",
+      "date": "2026-09-26",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-09-27",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-09-28",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-09-29",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-09-30",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-10-01",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-10-02",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "student-id",
+      "title": "PDF Siswa · Pelajaran 01",
+      "src": "../../assets/lesson-01.pdf"
+    }
+  ]
+}

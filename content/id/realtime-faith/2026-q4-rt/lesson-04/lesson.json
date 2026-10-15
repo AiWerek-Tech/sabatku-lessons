@@ -1,0 +1,58 @@
+{
+  "id": "lesson-04",
+  "title": "Kedatangan Yesus yang Kedua Kali",
+  "startDate": "2026-10-17",
+  "endDate": "2026-10-23",
+  "discussionDate": "2026-10-24",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Kedatangan Yesus yang Kedua Kali",
+      "date": "2026-10-17",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-10-18",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-10-19",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-10-20",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-10-21",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-10-22",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-10-23",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "student-id",
+      "title": "PDF Siswa · Pelajaran 04",
+      "src": "../../assets/lesson-04.pdf"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "lesson-02",
+  "title": "Belajar Alkitab dan Berdoa",
+  "startDate": "2026-10-03",
+  "endDate": "2026-10-09",
+  "discussionDate": "2026-10-10",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Belajar Alkitab dan Berdoa",
+      "date": "2026-10-03",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-10-04",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-10-05",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-10-06",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-10-07",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-10-08",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-10-09",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "student-id",
+      "title": "PDF Siswa · Pelajaran 02",
+      "src": "../../assets/lesson-02.pdf"
+    }
+  ]
+}

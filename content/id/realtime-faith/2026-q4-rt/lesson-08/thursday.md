@@ -1,0 +1,5 @@
+## Menghubungkan
+
+Tinjau kembali ayat hafalan
+“Yesus tidak memberikan kepada para pengikut-Nya harapan untuk memperoleh kemuliaan dan kekayaan duniawi, dan memiliki kehidupan yang bebas dari pencobaan, tetapi Dia memberikan kepada mereka hak istimewa untuk berjalan bersama Guru mereka di jalan penyangkalan diri” (Ellen G. White, Thoughts From the Mount of Blessing, hlm. 29). Apakah Anda ingat ayah yang memohon kepada Yesus untuk mengusir setan dari putranya? “ ‘Jika Engkau bisa melakukan apa saja, kasihanilah kami dan bantu kami.’ ‘ “Jika Engkau bisa”?’ kata Yesus. ’Segalanya mungkin bagi orang yang percaya.’ Segera ayah anak laki-laki itu berseru, ’Saya percaya; bantu saya mengatasi ketidakpercayaan saya!’ ” (Markus 9: 22–24, NIV).
+Pria itu merasa seolah-olah dia tidak memiliki cukup iman. Tetapi dia melakukan persis seperti yang seharusnya dia lakukan—membawa putranya kepada Yesus! “Momen iman yang besar” adalah ketika dia mengakui bahwa dia tidak bisa berbuat banyak, tetapi Tuhan bisa. Ketika kita bergumul, pasien Yesus yang sama yang membantu ayah ini membantu kita. Iman adalah latihan bagi jiwa kita, yang dikuatkan oleh Roh Kudus.

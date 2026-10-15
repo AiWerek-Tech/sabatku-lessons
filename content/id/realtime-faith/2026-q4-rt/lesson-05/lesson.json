@@ -1,0 +1,58 @@
+{
+  "id": "lesson-05",
+  "title": "Penyerahan",
+  "startDate": "2026-10-24",
+  "endDate": "2026-10-30",
+  "discussionDate": "2026-10-31",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Penyerahan",
+      "date": "2026-10-24",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-10-25",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-10-26",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-10-27",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-10-28",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-10-29",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-10-30",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "student-id",
+      "title": "PDF Siswa · Pelajaran 05",
+      "src": "../../assets/lesson-05.pdf"
+    }
+  ]
+}

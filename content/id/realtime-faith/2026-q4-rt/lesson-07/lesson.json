@@ -1,0 +1,58 @@
+{
+  "id": "lesson-07",
+  "title": "Puasa, Kemurnian, dan Kesederhanaan",
+  "startDate": "2026-11-07",
+  "endDate": "2026-11-13",
+  "discussionDate": "2026-11-14",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Puasa, Kemurnian, dan Kesederhanaan",
+      "date": "2026-11-07",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-11-08",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-11-09",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-11-10",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-11-11",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-11-12",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-11-13",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "student-id",
+      "title": "PDF Siswa · Pelajaran 07",
+      "src": "../../assets/lesson-07.pdf"
+    }
+  ]
+}

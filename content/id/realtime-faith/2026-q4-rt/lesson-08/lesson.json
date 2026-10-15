@@ -1,0 +1,58 @@
+{
+  "id": "lesson-08",
+  "title": "Pengorbanan Kristen dan Lompatan Iman",
+  "startDate": "2026-11-14",
+  "endDate": "2026-11-20",
+  "discussionDate": "2026-11-21",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Pengorbanan Kristen dan Lompatan Iman",
+      "date": "2026-11-14",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-11-15",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-11-16",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-11-17",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-11-18",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-11-19",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-11-20",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "student-id",
+      "title": "PDF Siswa · Pelajaran 08",
+      "src": "../../assets/lesson-08.pdf"
+    }
+  ]
+}

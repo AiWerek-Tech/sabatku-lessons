@@ -1,4 +1,5 @@
 import { buildPowerpoints } from './build-powerpoints.mjs';
+import { buildRealtimeFaith } from './build-realtime-faith.mjs';
 import { buildCornerstone } from './build-cornerstone.mjs';
 import { readFile, readdir, mkdir, rm, writeFile, cp } from 'node:fs/promises';
 import path from 'node:path';
@@ -390,9 +391,14 @@ async function main() {
   const powerpointsEditions = powerpoints.editions;
   published.push(...powerpoints.published);
   assetDirectories.push(...powerpoints.assetDirectories);
+  const realtimeFaith = await buildRealtimeFaith(sourceRoot,outputRoot);
+  const realtimeFaithEditions = realtimeFaith.editions;
+  published.push(...realtimeFaith.published);
+  assetDirectories.push(...realtimeFaith.assetDirectories);
   const programMetadata = {
     powerpoints: {audienceCategory: "children-youth", ageRange: {min:10,max:14,unit:"years"},programRole:"curriculum",audienceLabel:{id:"Junior/Earliteen",en:"Junior/Earliteen"}},
     cornerstone: {audienceCategory: 'children-youth', ageRange: {min:15,max:18,unit:'years'},programRole:'curriculum',audienceLabel:{id:'Remaja',en:'Youth'}},
+    'realtime-faith': {audienceCategory:'children-youth',ageRange:{min:13,max:14,unit:'years'},programRole:'curriculum',audienceLabel:{id:'Teen',en:'Teen'}},
     'adult-easy-reading': {
       audienceCategory: 'adult', ageRange: { min: 18, max: null, unit: 'years', plus: true }, programRole: 'edition',
       audienceLabel: { id: 'Dewasa', en: 'Adult' }
@@ -408,7 +414,7 @@ async function main() {
   };
   const withAudience = program => ({ ...program, ...programMetadata[program.id] });
   // Keep downloaded edition and lesson documents self-describing, not only the catalog index.
-  for (const edition of [...editions, ...egwEditions, ...inverseEditions, ...cornerstoneEditions, ...powerpointsEditions]) {
+  for (const edition of [...editions, ...egwEditions, ...inverseEditions, ...cornerstoneEditions, ...powerpointsEditions, ...realtimeFaithEditions]) {
     Object.assign(edition, programMetadata[edition.programId]);
   }
   for (const document of published) {
@@ -423,7 +429,8 @@ async function main() {
       ...(egwEditions.length ? [withAudience({ id: 'adult-egw-notes', locale: 'id', title: 'Suplemen EGW Notes', editions: egwEditions })] : []),
       ...(inverseEditions.length ? [withAudience({ id: 'inverse', locale: 'id', title: 'InVerse · Pemuda Dewasa', editions: inverseEditions })] : []),
       ...(cornerstoneEditions.length ? [withAudience({id:'cornerstone',locale:'id',title:'Cornerstone Connections · Remaja',editions:cornerstoneEditions})] : []),
-      ...(powerpointsEditions.length ? [withAudience({id:"powerpoints",locale:"id",title:"Junior PowerPoints",editions:powerpointsEditions})] : [])
+      ...(powerpointsEditions.length ? [withAudience({id:"powerpoints",locale:"id",title:"Junior PowerPoints",editions:powerpointsEditions})] : []),
+      ...(realtimeFaithEditions.length ? [withAudience({id:'realtime-faith',locale:'id',title:'Real-Time Faith · Teen',editions:realtimeFaithEditions})] : [])
     ]
   };
 
@@ -444,7 +451,7 @@ async function main() {
 
   const checkOnly = process.argv.includes('--check');
   if (checkOnly) {
-    console.log(`Valid: ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length + powerpointsEditions.length} published edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length - powerpointsEditions.length} lesson document(s), ${supplementPublications.resourceCount} published supplement resource(s).`);
+    console.log(`Valid: ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length + powerpointsEditions.length + realtimeFaithEditions.length} published edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length - powerpointsEditions.length - realtimeFaithEditions.length} lesson document(s), ${supplementPublications.resourceCount} published supplement resource(s).`);
     return;
   }
 
@@ -462,7 +469,7 @@ async function main() {
     catch (error) { if (error.code !== 'ENOENT') throw error; }
   }
   await writeFile(path.join(outputRoot, '.nojekyll'), '', 'utf8');
-  console.log(`Built ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length + powerpointsEditions.length} edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length - powerpointsEditions.length} lesson document(s), and ${supplementPublications.resourceCount} supplement resource(s) into public/.`);
+  console.log(`Built ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length + powerpointsEditions.length + realtimeFaithEditions.length} edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length - powerpointsEditions.length - realtimeFaithEditions.length} lesson document(s), and ${supplementPublications.resourceCount} supplement resource(s) into public/.`);
 }
 
 main().catch(error => { console.error(error.message); process.exitCode = 1; });

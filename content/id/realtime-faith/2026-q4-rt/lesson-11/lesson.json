@@ -1,0 +1,58 @@
+{
+  "id": "lesson-11",
+  "title": "Menyatakan Perasaan",
+  "startDate": "2026-12-05",
+  "endDate": "2026-12-11",
+  "discussionDate": "2026-12-12",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Menyatakan Perasaan",
+      "date": "2026-12-05",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-12-06",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-12-07",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-12-08",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-12-09",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-12-10",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-12-11",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "student-id",
+      "title": "PDF Siswa · Pelajaran 11",
+      "src": "../../assets/lesson-11.pdf"
+    }
+  ]
+}

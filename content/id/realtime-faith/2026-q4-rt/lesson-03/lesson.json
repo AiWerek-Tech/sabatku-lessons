@@ -1,0 +1,58 @@
+{
+  "id": "lesson-03",
+  "title": "Pelayanan Kristen",
+  "startDate": "2026-10-10",
+  "endDate": "2026-10-16",
+  "discussionDate": "2026-10-17",
+  "readings": [
+    {
+      "key": "sabbath",
+      "title": "Pelayanan Kristen",
+      "date": "2026-10-10",
+      "file": "sabbath.md"
+    },
+    {
+      "key": "sunday",
+      "title": "Minggu",
+      "date": "2026-10-11",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Senin",
+      "date": "2026-10-12",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Selasa",
+      "date": "2026-10-13",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rabu",
+      "date": "2026-10-14",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kamis",
+      "date": "2026-10-15",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Jumat",
+      "date": "2026-10-16",
+      "file": "friday.md"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "student-id",
+      "title": "PDF Siswa · Pelajaran 03",
+      "src": "../../assets/lesson-03.pdf"
+    }
+  ]
+}

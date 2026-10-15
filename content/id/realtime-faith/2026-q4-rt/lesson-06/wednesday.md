@@ -1,0 +1,8 @@
+## Konsep Alkitab
+
+Isilah yang kosong. Carilah ayat berikut dan isi bagian yang kosong. Ketika Anda telah menyelesaikan kegiatan ini, pilihlah sebuah ayat untuk dibagikan dengan kelas Anda dan jelaskan apa artinya bagi Anda.
+1. “Aku, TUHAN, yang __________ hati, yang __________ batin, untuk memberi balasan kepada setiap orang setimpal dengan tingkah langkahnya, setimpal dengan ___________ perbuatannya” Yeremia 17: 10
+2. “__________ dengan ____________-______________ memadamkan marah, dan hadiah yang dirahasiakan ______________ kegeraman yang hebat” (Amsal 21: 14).
+3. “____ ____ juga yang kamu perbuat, perbuatlah dengan segenap hatimu seperti untuk ________ dan bukan untuk manusia. Kamu tahu, bahwa dari Tuhanlah kamu akan menerima bagian yang ditentukan bagimu sebagai upah. Kristus adalah ___________ dan _________ hamba-Nya” (Kolose 3: 23, 24).
+4. “Dan semua orang yang telah menjadi percaya tetap _________, dan segala __________ mereka adalah kepunyaan bersama, dan selalu ada dari mereka yang menjual __________ miliknya, lalu _________ - ______________ kepada semua orang sesuai dengan _____________ masing-masing” (Kisah Para Rasul 2: 44, 45).
+5. “Apakah gunanya, saudara-saudaraku, jika seorang mengatakan, bahwa ia mempunyai _________, padahal ia tidak mempunyai perbuatan? Dapatkah iman itu menyelamatkan dia? Jika seorang saudara atau saudari tidak ___________ pakaian dan kekurangan makanan sehari-hari, dan seorang dari antara kamu berkata: “Selamat jalan, ___________ kain panas dan ________ sampai kenyang!”, tetapi ia tidak ________________ kepadanya apa yang perlu bagi tubuhnya, apakah gunanya itu? Demikian juga halnya dengan iman: Jika iman itu tidak disertai _________, maka iman itu pada hakekatnya adalah mati” (Yakobus 2: 14–17).
