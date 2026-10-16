@@ -1,12 +1,12 @@
 {
   "schemaVersion": "alive-in-jesus-translation-review-v1",
   "editionId": "2026-q4-aij-primary-student",
-  "status": "needs-team-review",
+  "status": "approved",
   "sourceLocale": "en",
   "targetLocale": "id",
-  "reviewer": null,
-  "reviewedAt": null,
-  "note": "Generated checksum baseline. A reviewer must complete the source comparison and approve it before publication.",
+  "reviewer": "Tim SabatKu",
+  "reviewedAt": "2026-10-16",
+  "note": "Revisi naskah disetujui Tim SabatKu melalui konfirmasi pemilik proyek pada 16 Oktober 2026.",
   "sourceAudit": {
     "englishFiles": 96,
     "indonesianFiles": 96,
