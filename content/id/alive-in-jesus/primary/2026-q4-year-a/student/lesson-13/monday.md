@@ -26,4 +26,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Kerjakan puzzle bersama keluarga sambil merenungkan rencana besar Tuhan untuk kamu dan semua orang.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bacalah kembali 1 Korintus 15:52. Syukurlah kepada Tuhan atas janji kebangkitan ini.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bacalah kembali 1 Korintus 15:52. Bersyukurlah kepada Tuhan atas janji kebangkitan ini.

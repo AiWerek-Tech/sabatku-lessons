@@ -1,4 +1,4 @@
-## Pelayan Sang Perwira
+## Hamba Seorang Perwira
 
 {"style": {"text": {"color": "#58B0E3"}}}
 **Referensi Alkitab**: Lukas 7:1-10; Matius 8:5-13

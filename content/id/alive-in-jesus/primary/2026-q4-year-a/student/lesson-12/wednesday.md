@@ -20,7 +20,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 - Apa yang hal itu ungkapkan tentang Yesus?
 
 {"style": {"block": {"backgroundColor": "#eef0f1", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#56666f"}}}
-^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Ciptakan kembali cerita hari ini dengan cara yang kreatif untuk dibagikan bersama keluarga kamu pada Jumat malam. kamu bisa menggunakan kain flanel, balok Lego, boneka binatang, atau figur yang terbuat dari jepitan/ranting.
+^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Ciptakan kembali cerita hari ini dengan cara yang kreatif untuk dibagikan bersama keluarga kamu pada Jumat malam. Kamu bisa menggunakan kain flanel, balok Lego, boneka binatang, atau figur yang terbuat dari jepitan/ranting.
 
 {"style": {"block": {"backgroundColor": "#f3eff2", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#885d79"}}}
 ^[OBROLAN IMAN BERSAMA ORANG TUA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Ceritakan pengalaman kamu saat merasa terhibur oleh Tuhan.

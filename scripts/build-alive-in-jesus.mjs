@@ -9,17 +9,97 @@ const hash = value => createHash('sha256').update(value, 'utf8').digest('hex');
 
 // Adventech's layout annotations are presentation metadata, not reading text.
 export function normalizeAliveInJesusMarkdown(markdown) {
-  return markdown.replace(/\r\n/g, '\n')
-    .split('\n').filter(line => !/^\s*(?:[-*+]\s+)?\{"style"\s*:/.test(line))
-    .map(line => line.startsWith('```=') ? `### ${line.slice(4).trim()}` : line.trim() === '```' ? '' : line).join('\n')
-    .replace(/\^\[([^\]]*)\]\((\{"style"[^\n]*?\})\)/g, '$1')
-    .replace(/\\\n/g, '\n\n')
+  let styledHeadingNext = false;
+  let calloutNext = false;
+  const output = [];
+  for (const sourceLine of markdown.replace(/\r\n/g, '\n').split('\n')) {
+    let line = sourceLine.trimEnd();
+    const styleLine = /^\s*(?:[-*+]\s+)?(\{"style"\s*:.*\})\s*$/.exec(line);
+    if (styleLine) {
+      let style = {};
+      try { style = JSON.parse(styleLine[1]).style ?? {}; } catch { /* Ignore malformed presentation metadata. */ }
+      const textStyle = style.text ?? {};
+      styledHeadingNext = !style.block?.backgroundColor && textStyle.typeface === 'Trashbone-Regular' && textStyle.size === 'xl';
+      calloutNext = Boolean(style.block?.backgroundColor);
+      continue;
+    }
+    if (/^\s*(?:-{3,}|\*{3,}|_{3,})\s*$/.test(line)) continue;
+    if (line.trim() === '```') continue;
+    if (line.startsWith('```=')) {
+      output.push(`### ${line.slice(4).trim()}`);
+      continue;
+    }
+
+    // The audio extension includes an Adventech URL and a credits JSON object.
+    // Publish it as a clean, tappable song title and keep credits out of reading text.
+    const audio = /^\s*!a\[([^\]]+)\]\s+(.+?)\s*$/.exec(line);
+    if (audio) {
+      const metadataStart = audio[2].search(/\s+\{\s*"(?:credits|title|copyright)"\s*:/);
+      const rawTitle = (metadataStart >= 0 ? audio[2].slice(0, metadataStart) : audio[2]).trim();
+      const title = rawTitle.replace(/^["“”']|["“”']$/g, '').trim();
+      if (title && /^https:\/\//i.test(audio[1])) line = `[♫ ${title}](${audio[1]})`;
+      else line = title;
+    }
+
+    // Turn Adventech's styled inline labels into real Markdown emphasis.
+    line = line.replace(/\*\*\^\[([^\]]+)\]\((\{"style"[^\n]*?\})\)\*\*/g, '**$1**');
+    line = line.replace(/\^\[([^\]]+)\]\((\{"style"[^\n]*?\})\)/g, '**$1**');
+    const explicitLineBreak = /\\\s*$/.test(line);
+    line = line.replace(/\\\s*$/, '').replace(/(\d+)\\\./g, '$1.');
+    if (!line.trim()) {
+      output.push(line);
+      continue;
+    }
+
+    let semanticHeading = false;
+    if (styledHeadingNext && line.trim() && !line.trimStart().startsWith('^[')) {
+      line = `### ${line.trim().replace(/^\*\*(.+)\*\*$/, '$1')}`;
+      semanticHeading = true;
+    } else if (/^\s*\*\*[^*\n]{2,100}\*\*\s+\([^)\n]{2,100}\)\s*$/.test(line)) {
+      // Teacher program sections include the duration in parentheses; keep it with its heading.
+      line = `### ${line.trim().replace(/^\*\*(.+?)\*\*/, '$1')}`;
+      semanticHeading = true;
+    } else if (/^\s*\*\*[^*\n]{2,100}\*\*\s*$/.test(line) && !/^\s*\*\*[“"‘']/.test(line) && !/[.!?]\*\*\s*$/.test(line)) {
+      // Standalone bold labels are semantic section titles in the source book.
+      line = `### ${line.trim().replace(/^\*\*(.+)\*\*$/, '$1')}`;
+      semanticHeading = true;
+    } else if (calloutNext && line.trim()) {
+      line = `> ${line.trim()}`;
+    }
+    if (explicitLineBreak && !semanticHeading) line += '\\';
+    styledHeadingNext = false;
+    calloutNext = false;
+    output.push(line);
+    // Keep a styled section title in its own Markdown block. Some Adventech
+    // exports mark the title and following paragraph with a hard line break
+    // instead of a blank line; without this boundary the reader styles the
+    // paragraph as part of the heading.
+    if (semanticHeading) output.push('');
+  }
+  return output.join('\n')
     .replace(/\n{3,}/g, '\n\n').trim();
 }
 
 async function readJson(file) {
   try { return JSON.parse(await readFile(file, 'utf8')); }
   catch (error) { throw new Error(`${file}: ${error.message}`); }
+}
+
+async function markdownFileHashes(root) {
+  const hashes = {};
+  async function visit(directory) {
+    for (const entry of await readdir(directory, { withFileTypes: true })) {
+      const absolute = path.join(directory, entry.name);
+      if (entry.isDirectory()) await visit(absolute);
+      else if (entry.isFile() && entry.name.toLowerCase().endsWith('.md')) {
+        const relative = path.relative(root, absolute).split(path.sep).join('/');
+        const content = (await readFile(absolute, 'utf8')).replace(/\r\n/g, '\n').replace(/\r/g, '\n');
+        hashes[relative] = hash(content);
+      }
+    }
+  }
+  await visit(root);
+  return Object.fromEntries(Object.entries(hashes).sort(([a], [b]) => a.localeCompare(b)));
 }
 
 function assert(condition, message) {
@@ -64,6 +144,7 @@ export async function buildAliveInJesus(sourceRoot, outputRoot) {
 
       for (const editionDir of publicationDirs) {
       const edition = await readJson(path.join(editionDir, 'edition.json'));
+      if (edition.publicationStatus === 'withdrawn') continue;
       assert(typeof edition.id === 'string' && idPattern.test(edition.id), `${trackId}/${cycleFolder.name}: edition id must use lowercase kebab-case`);
       assert(edition.programId === `alive-in-jesus-${trackProgramSuffix[trackId] ?? trackId}`, `${edition.id}: programId must map to its AIJ track`);
       assert(edition.trackId === trackId && edition.locale === 'id', `${edition.id}: trackId and Indonesian locale are required`);
@@ -92,7 +173,7 @@ export async function buildAliveInJesus(sourceRoot, outputRoot) {
         assertDate(lesson.endDate, `${lesson.id}.endDate`);
         assert(lesson.startDate <= lesson.endDate && isInside(lesson.startDate, edition.startDate, edition.endDate) && isInside(lesson.endDate, edition.startDate, edition.endDate), `${lesson.id}: unit dates must be within the edition`);
         assert(Array.isArray(lesson.readings) && lesson.readings.length > 0, `${edition.id}/${lesson.id}: at least one reading document is required`);
-        if (declaredDayOrder) assert(lesson.readings.map(item => item.key).join(',') === declaredDayOrder.join(','), `${edition.id}/${lesson.id}: readings must follow this edition's declared day order`);
+        if (declaredDayOrder && !folder.name.startsWith('unit-resource-')) assert(lesson.readings.map(item => item.key).join(',') === declaredDayOrder.join(','), `${edition.id}/${lesson.id}: readings must follow this edition's declared day order`);
 
         const readings = [];
         const seenKeys = new Set();
@@ -102,7 +183,8 @@ export async function buildAliveInJesus(sourceRoot, outputRoot) {
           assertDate(reading.date, `${lesson.id}/${reading.key}.date`);
           assert(isInside(reading.date, lesson.startDate, lesson.endDate), `${lesson.id}/${reading.key}: date must be within the unit`);
           assert(reading.file === `${reading.key}.md`, `${lesson.id}/${reading.key}: filename must match its key`);
-          const content = normalizeAliveInJesusMarkdown(await readFile(path.join(lessonDir, reading.file), 'utf8'));
+          const sourceMarkdown = (await readFile(path.join(lessonDir, reading.file), 'utf8')).replace(/\r\n/g, '\n').replace(/\r/g, '\n');
+          const content = normalizeAliveInJesusMarkdown(sourceMarkdown);
           assert(content.length > 0 && !content.includes('GANTI DENGAN'), `${edition.id}/${lesson.id}/${reading.file}: published reading cannot be empty or a template`);
           readings.push({
             id: `${edition.programId}:id:${edition.id}:${lesson.id}:${reading.key}`,
@@ -114,6 +196,16 @@ export async function buildAliveInJesus(sourceRoot, outputRoot) {
           });
         }
 
+        const supplementaryReadings = [];
+        for (const resource of edition.supplementaryReadings ?? []) {
+          assert(dayKeyPattern.test(resource.key ?? '') && !seenKeys.has(resource.key), `${edition.id}: invalid supplementary key`);
+          seenKeys.add(resource.key);
+          assert(typeof resource.file === 'string' && !path.isAbsolute(resource.file) && !resource.file.split(/[\\/]/).includes('..'), `${edition.id}: invalid supplementary file`);
+          const resourceMarkdown = (await readFile(path.join(editionDir, resource.file), 'utf8')).replace(/\r\n/g, '\n').replace(/\r/g, '\n');
+          const content = normalizeAliveInJesusMarkdown(resourceMarkdown);
+          assert(resource.title && content.length, `${edition.id}: supplementary reading is empty`);
+          supplementaryReadings.push({ key: resource.key, title: resource.title, format: 'text/markdown', content, scope: 'edition' });
+        }
         const lessonUrl = `editions/${edition.id}/lessons/${lesson.id}/index.json`;
         lessonList.push({ id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate, url: lessonUrl });
         lessonDocuments.push({
@@ -128,9 +220,21 @@ export async function buildAliveInJesus(sourceRoot, outputRoot) {
             bookRole: edition.bookRole,
             lesson: { id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate },
             readings,
+            supplementaryReadings,
             pdfs: [],
           },
         });
+      }
+
+      if (edition.sourceReviewRequired === true) {
+        const review = await readJson(path.join(editionDir, 'source-review.json'));
+        assert(review.schemaVersion === 'alive-in-jesus-translation-review-v1', `${edition.id}: source-review.json is missing or invalid`);
+        assert(review.editionId === edition.id && review.status === 'approved', `${edition.id}: Indonesian translation is not approved for publication`);
+        assert(typeof review.reviewer === 'string' && review.reviewer.trim() && /^\d{4}-\d{2}-\d{2}$/.test(review.reviewedAt ?? ''), `${edition.id}: team reviewer and review date are required`);
+        assert(review.sourceAudit && review.sourceAudit.matchedFiles > 0 && review.sourceAudit.missingEnglish?.length === 0 && review.sourceAudit.missingIndonesian?.length === 0 && Object.keys(review.sourceAudit.sourceChecksums ?? {}).length === review.sourceAudit.matchedFiles, `${edition.id}: source/translation audit must pair every Markdown file before approval`);
+        const expected = await markdownFileHashes(editionDir);
+        const recorded = Object.fromEntries(Object.entries(review.translationFiles ?? {}).sort(([a], [b]) => a.localeCompare(b)));
+        assert(JSON.stringify(recorded) === JSON.stringify(expected), `${edition.id}: Markdown changed after team review; run the source audit and obtain renewed approval`);
       }
 
       const editionUrl = `editions/${edition.id}/index.json`;
@@ -154,6 +258,7 @@ export async function buildAliveInJesus(sourceRoot, outputRoot) {
         sourceUrl: edition.sourceUrl ?? null,
         attribution: edition.attribution,
         rightsStatement: edition.rightsStatement,
+        ...(Number.isFinite(edition.estimatedImageBytes) ? { estimatedImageBytes: edition.estimatedImageBytes } : {}),
         lessons: lessonList,
       };
       editions.push(publicEdition);
@@ -196,13 +301,15 @@ async function assetRevisions(document, edition, allPublished, assetDirectories,
   const value = document.value;
   const references = new Set();
   if (typeof value.cover === 'string') references.add(value.cover);
-  for (const reading of value.readings ?? []) {
+  for (const reading of [...(value.readings ?? []), ...(value.supplementaryReadings ?? [])]) {
     for (const match of reading.content.matchAll(/!\[[^\]]*\]\(([^)\s]+)(?:\s+[^)]*)?\)/g)) references.add(match[1]);
   }
   const assetDirectory = assetDirectories.find(asset => path.resolve(asset.destination) === path.resolve(outputRoot, 'editions', edition.id, 'assets'));
   const revisions = {};
   for (const reference of references) {
-    const url = new URL(reference, new URL(document.path, 'https://aiwerek-tech.github.io/sabatku-lessons/'));
+    const url = reference.startsWith('editions/')
+      ? new URL(reference, 'https://aiwerek-tech.github.io/sabatku-lessons/')
+      : new URL(reference, new URL(document.path, 'https://aiwerek-tech.github.io/sabatku-lessons/'));
     if (url.origin !== 'https://aiwerek-tech.github.io') continue;
     const prefix = `/sabatku-lessons/editions/${edition.id}/assets/`;
     if (!url.pathname.startsWith(prefix)) continue;

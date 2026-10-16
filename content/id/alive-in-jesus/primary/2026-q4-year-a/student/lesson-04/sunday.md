@@ -9,7 +9,7 @@ Yesus membantuku melakukan hal yang mustahil ketika aku tetap memfokuskan pandan
 **“Pandanglah kepada-Ku, dan selamatkanlah dirimu, hai segala ujung bumi! Sebab Akulah Allah, dan tidak ada yang lain” (Yesaya 45:22).**
 
 ^[Kata Pilihan Minggu Ini—Fokus:]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#647db4", "size": "xl"}}})\
-Berkonsentrasi pada sesuatu, memberikan perhatian penuh tanpa terganggu. kamu dapat memfokuskan mata, telinga, dan perhatian kamu pada seseorang atau sesuatu yang sedang terjadi. Ketika kamu mengerahkan seluruh energi dan usaha kamu pada sesuatu, kamu juga menjadikannya fokus kamu.
+Berkonsentrasi pada sesuatu, memberikan perhatian penuh tanpa terganggu. Kamu dapat memfokuskan mata, telinga, dan perhatian kamu pada seseorang atau sesuatu yang sedang terjadi. Ketika kamu mengerahkan seluruh energi dan usaha kamu pada sesuatu, kamu juga menjadikannya fokus kamu.
 
 {"style": {"text": {"color": "#3d8b5a", "size": "sm"}}}
 Pelajaran minggu ini didasarkan pada kisah Petrus berjalan menuju Yesus di atas air seperti yang terdapat dalam Matius 14:22-33, Markus 6:45-51, dan Yohanes 6:15-21. Beberapa wawasan juga diambil dari _Kerinduan Segala Zaman_, hlm. 377-382, dan _The Seventh-day Adventist Bible Commentary_, jilid 5, hlm. 415-417, untuk memperkaya pelajaran ini. **Bacaan Tambahan:** _The Bible Story_, jilid 8, hlm. 47, 48.

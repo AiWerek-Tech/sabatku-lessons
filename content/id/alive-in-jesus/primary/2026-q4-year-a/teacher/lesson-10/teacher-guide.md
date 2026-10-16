@@ -1,4 +1,4 @@
-## Bartimeus yang Buta
+## Bartimeus yang Tidak Dapat Melihat
 
 {"style": {"text": {"color": "#58B0E3"}}}
 **Referensi Alkitab**: Markus 10:46-52; Lukas 18:35-43
@@ -135,7 +135,7 @@ Semoga sukacita meluap di dalam diri Anda semua pada hari Sabat ini saat Anda me
 - **^[Pelajaran tentang Alam:]({"style": {"text": {"color":"#a771b0"}}})** “Kegembiraan Burung Beo”
 - **^[Keahlian:]({"style": {"text": {"color":"#a771b0"}}})** Bartimeus yang Buta
 - Ucapkan **^[Gagasan Utama]({"style": {"text": {"color":"#a771b0"}}})**dengan masker:**^[Yesus senang melihatku bersemangat tentang apa yang dapat Dia lakukan untukku.]({"style": {"text": {"color":"#a771b0"}}})**
-- **^[Tantangan Misi:]({"style": {"text": {"color":"#a771b0"}}})** Berdoalah untuk para misionaris global.
+- **^[Tantangan Misi:]({"style": {"text": {"color":"#a771b0"}}})** Berdoalah pekan ini bagi para misionaris yang melayani di berbagai negara.
 - **^[Tinjau dan Komitmenkan:]({"style": {"text": {"color":"#a771b0"}}})** Berjalanlah di sepanjang jejak kaki yang membawa pesan tentang kegembiraan mengikuti Yesus.
 - Menyanyi **^[“Semoga Tuhan menyertai Anda.”]({"style": {"text": {"color":"#a771b0"}}})**
 - **^[Berdoa.]({"style": {"text": {"color":"#a771b0"}}})**
@@ -385,7 +385,7 @@ Dengan mengenakan masker, bacalah **Ide Utama** bersama-sama, **“Yesus senang 
 
 **^[TANTANGAN MISI:]({"style": {"text": {"color":"#a771b0"}}}) Apa tujuan seorang misionaris?** (Untuk membagikan Yesus dan kebenaran dalam Firman-Nya kepada orang-orang yang belum mengenal-Nya.)
 
-Jelaskan bahwa para misionaris di seluruh dunia sangat antusias untuk membagikan Yesus kepada orang-orang yang belum mengenal-Nya. Tantangan Misi minggu ini adalah **berdoa untuk para misionaris global minggu ini**.
+Jelaskan bahwa para misionaris di berbagai negara bersemangat membagikan kabar tentang Yesus kepada orang-orang yang belum mengenal-Nya. Tantangan Misi minggu ini adalah **berdoa bagi pelayanan mereka**.
 
 **^[TINJAU dan SETUJUI:]({"style": {"text": {"color":"#a771b0"}}})**Bagikan bahwa ketika kita merasa gembira dengan apa yang telah Yesus lakukan bagi kita, kita akan ingin mengikuti Dia dan belajar lebih banyak tentang Dia. Kemudian kita akan berbagi dengan orang lain hal-hal menarik yang sedang Dia lakukan dalam hidup kita saat ini.**
 

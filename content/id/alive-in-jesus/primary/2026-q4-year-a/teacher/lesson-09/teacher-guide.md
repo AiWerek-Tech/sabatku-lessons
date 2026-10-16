@@ -45,14 +45,14 @@ Beberapa aspek dari keyakinan mendasar berikut tercermin dalam pelajaran ini:
 {"style": {"text": {"size": "lg"}}}
 **Kata Pilihan Minggu Ini**
 
-**Kasih sayang:** Kasih dalam tindakan, dan kasih yang tulus, teguh, dan penuh belas kasihan terhadap sesama. Kita tidak dapat memperoleh kasih sayang Allah, tetapi Dia menawarkannya kepada kita karena kasih-Nya begitu besar.”
+**Kasih Sayang:** Kasih yang diwujudkan dalam tindakan—tulus, setia, dan penuh kepedulian kepada sesama. Kita tidak dapat berusaha agar layak menerima kasih Allah, tetapi Ia memberikannya kepada kita karena kasih-Nya begitu besar.
 
 ---
 
 {"style": {"text": {"size": "lg"}}}
 **Ringkasan Pelajaran**
 
-Saat berjalan di Yerusalem, Yesus sampai di Kolam Bethesda, tempat diyakini bahwa orang sakit dapat disembuhkan jika mereka terlebih dahulu berada di dalam air ketika air itu bergejolak. Yesus melihat seorang pria yang tidak dapat berjalan selama 38 tahun terbaring di atas tikarnya. Ia telah kehilangan semua harapan, dan hati Yesus dipenuhi dengan kasih dan belas kasihan. Ia menunjukkan kebaikan hati-Nya dengan menyembuhkan pria itu, menyuruhnya untuk mengangkat tikarnya dan berjalan. Dengan sukacita pria itu membawa tikarnya ke bait suci, memuji Tuhan, yang membuat para pemimpin Yahudi marah. Yesus menemukan pria itu lagi dan mendorongnya untuk berhenti berbuat dosa. Pria itu menceritakan kepada semua orang yang dikenalnya tentang kasih penyembuhan Yesus.
+Saat berjalan di Yerusalem, Yesus tiba di Kolam Bethesda. Orang-orang percaya bahwa siapa pun yang pertama masuk ke air saat airnya beriak akan disembuhkan. Di sana, Yesus melihat seorang pria yang sudah 38 tahun tidak dapat berjalan, terbaring di atas tikarnya. Pria itu telah kehilangan harapan, dan hati Yesus tergerak oleh belas kasihan. Yesus menyembuhkannya dan menyuruhnya mengangkat tikarnya lalu berjalan. Dengan gembira, pria itu membawa tikarnya ke bait suci sambil memuji Tuhan. Hal itu membuat para pemimpin Yahudi marah. Yesus kemudian menemukannya lagi dan menasihatinya agar berhenti berbuat dosa. Pria itu pun menceritakan kepada semua orang yang dikenalnya tentang kasih Yesus yang menyembuhkan.
 
 ---
 
@@ -117,7 +117,7 @@ Semoga Anda dan anak-anak diberkati minggu ini saat Anda menjelajahi kebaikan ha
 **AKTIVITAS FOKUS** (5 MENIT)
 
 - {"style": {"block": {"backgroundColor": "#FFFCF6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
-- **^[Permainan:]({"style": {"text": {"color":"#e6b349"}}})** Lomba Menuju Kolam Renang
+- **^[Permainan:]({"style": {"text": {"color":"#e6b349"}}})** Lomba Menuju Kolam
 - **^[Membahas]({"style": {"text": {"color":"#e6b349"}}})** permainan dan memperkenalkan cerita hari ini.
 - Bagikan **^[Gagasan Utama: Kita melihat betapa besar kasih Yesus kepada kita melalui firman-Nya dan perbuatan-Nya yang baik.]({"style": {"text": {"color":"#e6b349"}}})**
 
@@ -128,17 +128,17 @@ Semoga Anda dan anak-anak diberkati minggu ini saat Anda menjelajahi kebaikan ha
 **UNGKAP KISAHNYA** (5 MENIT)
 
 - {"style": {"block": {"backgroundColor": "#FBFCFA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
-- **^[Aktivitas dan Diskusi:]({"style": {"text": {"color":"#00b7aa"}}})** Semangkuk buah atau camilan untuk menjelaskan makna welas asih
+- **^[Aktivitas dan Diskusi:]({"style": {"text": {"color":"#00b7aa"}}})** Semangkuk buah atau camilan untuk menjelaskan makna kasih sayang
 
 {"style": {"block": {"backgroundColor": "#F2ECF0", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **GABUNGKAN SEMUANYA** (20 MENIT)
 
 - {"style": {"block": {"backgroundColor": "#FDF9FA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
-- **^[Kartu Karakter 48: Disembuhkan di Kolam Renang]({"style": {"text": {"color":"#a771b0"}}})**
+- **^[Kartu Karakter 48: Disembuhkan di Kolam]({"style": {"text": {"color":"#a771b0"}}})**
 - **^[Ayat Hafalan dan Lagu Pujian:]({"style": {"text": {"color":"#a771b0"}}})** “Sebab gunung-gunung akan lenyap dan bukit-bukit akan bergeser, tetapi kasih setia-Ku tidak akan lenyap dari kamu” (Yesaya 54:10).
 - **^[Kisah Misi:]({"style": {"text": {"color":"#a771b0"}}})** “Kasih Sayang Tuhan untuk Seorang Anak Laki-Laki”
 - **^[Keahlian:]({"style": {"text": {"color":"#a771b0"}}})** Tikar Anyaman
-- **^[Tantangan Misi:]({"style": {"text": {"color":"#a771b0"}}})** Berikan donasi untuk misionaris global
+- **^[Tantangan Misi:]({"style": {"text": {"color":"#a771b0"}}})** Berikan persembahan untuk mendukung para misionaris yang melayani di berbagai negara.
 - **^[Tinjau dan Komitmenkan:]({"style": {"text": {"color":"#a771b0"}}})** Diskusikan lingkaran kasih Kristus yang tak berkesudahan. **^[Bagaimana Anda dapat menunjukkan kasih Tuhan yang tak berkesudahan kepada seseorang minggu ini?]({"style": {"text": {"color":"#a771b0"}}})**
 - Menyanyi **^[“Semoga Tuhan menyertai Anda.”]({"style": {"text": {"color":"#a771b0"}}})**
 - **^[Berdoa.]({"style": {"text": {"color":"#a771b0"}}})**
@@ -158,7 +158,7 @@ Mempersiapkan **^[Fakta Singkat Misi]({"style": {"text": {"color": "#58B0E3"}}})
 
 Tuliskan **Gagasan Utama** di **papan tulis** Anda, gunakan **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**, atau **cetak/tulis** dan tampilkan.
 
-Carilah **hula hoop** atau bentuk lingkaran lainnya (atau tali) untuk mewakili kolam renang.
+Carilah **hula hoop**, tali, atau benda lain yang dapat dibentuk menjadi lingkaran untuk melambangkan kolam.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Kisah Alkitab dan Penjelasannya**
@@ -172,7 +172,7 @@ Sediakan **semangkuk buah atau camilan sehat**, secukupnya untuk setiap anak.
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Satukan Semuanya**
 
-Cetak **^[Kartu Karakter 48: Disembuhkan di Kolam Renang]({"style": {"text": {"color": "#58B0E3"}}})** untuk setiap anak.
+Cetak **^[Kartu Karakter 48: Disembuhkan di Kolam]({"style": {"text": {"color": "#58B0E3"}}})** untuk setiap anak.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Bahan Kerajinan**
@@ -194,7 +194,7 @@ Cetak **^[templat kerajinan minggu ke-9]({"style": {"text": {"color": "#58B0E3"}
 	- “Semoga Tuhan menyertaimu”
 - Fakta Singkat Misi
 - PowerPoint Program Minggu ke-9
-- Kartu Karakter 48: Disembuhkan di Kolam Renang
+- Kartu Karakter 48: Disembuhkan di Kolam
 - Templat Kerajinan Minggu ke-9
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
@@ -291,14 +291,14 @@ Ajak anak-anak untuk berdiri, jika belum berdiri, dan nyanyikan lagu doa, **“T
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **AKTIVITAS FOKUS** (5 MENIT)
 
-**^[LAKUKAN:]({"style": {"text": {"color":"#e6b349"}}}) Mainkan “Lomba Menuju Kolam Renang.”** Letakkan hula hoop atau bentuk lingkaran atau garis luar lainnya di lantai di salah satu ujung ruangan untuk melambangkan kolam renang. Minta seorang sukarelawan berdiri di sebelahnya dengan membelakangi kelas. Anak-anak akan berdiri di ujung ruangan yang lain. Saat Anda mengatakan “Mulai,” permainan dimulai. Siswa akan menyelinap lebih dekat ke kolam renang dengan tujuan untuk masuk ke dalamnya tanpa tertangkap. Tetapi ketika orang yang berdiri di samping “kolam renang” berbalik, semua orang harus berhenti. Jika mereka melihat siapa pun bergerak, orang itu harus kembali ke garis start. Permainan berakhir ketika seseorang masuk ke dalam “kolam renang.”
+**^[LAKUKAN:]({"style": {"text": {"color":"#e6b349"}}}) Mainkan “Lomba Menuju Kolam.”** Letakkan hula hoop, tali berbentuk lingkaran, atau penanda lain di salah satu ujung ruangan untuk melambangkan kolam. Minta seorang sukarelawan berdiri di dekatnya dengan membelakangi kelas. Anak-anak berdiri di ujung ruangan yang lain. Saat Anda berkata, “Mulai,” mereka bergerak perlahan menuju kolam dan berusaha masuk tanpa tertangkap. Namun, ketika sukarelawan itu berbalik, semua anak harus berhenti. Jika ia melihat ada yang bergerak, anak itu harus kembali ke garis awal. Permainan berakhir ketika seseorang berhasil mencapai kolam.
 
-**^[DISKUSIKAN:]({"style": {"text": {"color":"#e6b349"}}})** Ceritakan betapa sulitnya masuk ke dalam kolam renang.
+**^[DISKUSIKAN:]({"style": {"text": {"color":"#e6b349"}}})** Ceritakan betapa sulitnya mencapai kolam.
 
-- **Bagaimana perasaan orang yang berhasil masuk ke kolam renang ketika akhirnya sampai di sana?**
+- **Bagaimana perasaan orang yang akhirnya berhasil mencapai kolam?**
 - **Bagaimana perasaan orang lain ketika mereka ketinggalan atau harus kembali ke awal antrean karena ketahuan bergerak?**
 
-**^[BAGIKAN:]({"style": {"text": {"color":"#e6b349"}}})** Hari ini kita akan mendengar tentang seorang pria yang mati-matian berusaha masuk ke dalam kolam renang. Ia terus menginginkannya selama bertahun-tahun, tetapi ia tidak berhasil. Hingga suatu hari Yesus datang dan menunjukkan kasih sayang-Nya kepadanya.
+**^[BAGIKAN:]({"style": {"text": {"color":"#e6b349"}}})** Hari ini kita akan mendengar tentang seorang pria yang selama bertahun-tahun berusaha mencapai kolam, tetapi selalu gagal. Suatu hari, Yesus datang dan menunjukkan kasih-Nya kepadanya.
 
 - **Apa arti kasih sayang?** (Ketika Anda peduli pada seseorang tetapi Anda juga bertindak dan melakukan sesuatu untuk mereka.)
 
@@ -314,9 +314,9 @@ Bagikan: Yesus memiliki kasih setia kepada semua orang. Mari kita temukan bagaim
 {"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **UNGKAP KISAHNYA** (5 MENIT)
 
-**^[LAKUKAN:]({"style": {"text": {"color":"#00b7aa"}}})**Letakkan semangkuk buah atau camilan sehat di atas meja di tengah ruangan. Katakan kepada anak-anak bahwa Anda sangat menyayangi mereka semua dan Anda berharap mereka tahu betapa Tuhan mengasihi mereka. Kemudian beri tahu anak-anak bahwa Anda memiliki hadiah untuk masing-masing dari mereka, tetapi pertama-tama, Anda perlu melihat apakah mereka memenuhi persyaratan. Beri tahu mereka apa persyaratannya. (Sengaja buat syarat-syaratnya tidak masuk akal dan sulit dicapai. Misalnya: Tinggi badanmu lebih dari enam kaki, kamu punya ular peliharaan, kamu bisa mengucapkan alfabet terbalik, kamu bisa melakukan handstand, kamu naik sepeda roda tiga ke gereja, dll.). Tanyakan kepada anak-anak apakah ada yang memenuhi semua persyaratan. (Tidak).
+**^[LAKUKAN:]({"style": {"text": {"color":"#00b7aa"}}})** Letakkan semangkuk buah atau camilan sehat di meja di tengah ruangan. Katakan kepada anak-anak bahwa Anda menyayangi mereka dan berharap mereka tahu betapa besar kasih Tuhan kepada mereka. Tunjukkan camilan itu dan katakan bahwa setiap anak boleh mendapatkannya, tetapi mereka harus memenuhi beberapa syarat terlebih dahulu. Sebutkan syarat-syarat yang sengaja dibuat tidak masuk akal dan sulit dipenuhi, misalnya: tingginya lebih dari 180 cm, memelihara ular, dapat menyebut alfabet dari Z ke A, mampu berdiri dengan tangan, atau datang ke gereja dengan sepeda roda tiga. Tanyakan apakah ada yang dapat memenuhi semua syarat itu. (Tidak.)
 
-Beritahu kelas bahwa Anda akan menghapus semua persyaratan. Anda ingin menunjukkan kasih sayang kepada setiap orang. Berikan hadiah kepada setiap anak.
+Katakan bahwa semua syarat itu dibatalkan. Bagikan camilan kepada setiap anak untuk menunjukkan bahwa kasih Tuhan diberikan kepada semua orang.
 
 **^[DISKUSIKAN:]({"style": {"text": {"color":"#00b7aa"}}})**
 
@@ -331,7 +331,7 @@ Ulangi **Gagasan Utama** ini bersama-sama: **Kita melihat betapa besar kasih Yes
 {"style": {"block": {"backgroundColor": "#F2ECF0", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **GABUNGKAN SEMUANYA** (20 MENIT)
 
-**^[AYAT HAFALAN:]({"style": {"text": {"color":"#a771b0"}}})** Berikan setiap anak **Kartu Karakter 48: Disembuhkan di Kolam Renang** untuk diletakkan di wadah penyimpanan mereka.
+**^[AYAT HAFALAN:]({"style": {"text": {"color":"#a771b0"}}})** Berikan setiap anak **Kartu Karakter 48: Disembuhkan di Kolam** untuk diletakkan di wadah penyimpanan mereka.
 
 Diskusikan gambar tersebut dan mintalah anak-anak untuk mengucapkan ayat hafalan, “Sebab gunung-gunung akan bergeser dan bukit-bukit akan berpindah, tetapi kasih setia-Ku tidak akan bergeser dari kamu” (Yesaya 54:10).
 
@@ -344,7 +344,7 @@ Kemudian nyanyikan **Lagu Ayat Alkitab** bersama-sama: **“Yesaya 54:10.”**
 
 **^[KISAH MISI:]({"style": {"text": {"color":"#a771b0"}}})**Bagikan kisah misi, **“Kemurahan Hati Tuhan bagi Seorang Anak Laki-Laki,”** dan diskusikan pertanyaan lanjutannya.
 
-**^[TANTANGAN MISI:]({"style": {"text": {"color":"#a771b0"}}})** Tantangan minggu ini adalah **memberi kepada misionaris global** dengan cara apa pun. Apakah Anda mengenal seseorang yang merupakan misionaris di luar negeri? Anda dapat meluangkan waktu Anda dengan mendoakan mereka setiap hari minggu ini, atau Anda dapat mengirimkan paket bantuan, surat, atau pesan yang menyemangati mereka.
+**^[TANTANGAN MISI:]({"style": {"text": {"color":"#a771b0"}}})** Tantangan pekan ini adalah mendukung para misionaris yang melayani di berbagai negara. Apakah Anda mengenal seseorang yang melayani sebagai misionaris di luar negeri? Anda dapat mendukung mereka dengan mendoakan mereka setiap hari pekan ini, mengirim paket bantuan atau surat, maupun mengirim pesan yang menyemangati.
 
 **^[KEAHLIAN:]({"style": {"text": {"color":"#a771b0"}}})**Tampilkan hasil kerajinan tikar anyaman Anda dan jelaskan cara membuatnya.**
 

@@ -27,4 +27,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Apa perbuatan baik yang bisa kamu lakukan untuk seseorang di lingkungan kamu, gereja, atau sekolah, untuk menunjukkan kecintaan kamu kepada Tuhan?
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukurlah kepada Tuhan bahwa kamu dapat meminta kepada-Nya apa yang kamu butuhkan.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan karena kamu dapat meminta kepada-Nya apa yang kamu butuhkan.

@@ -524,6 +524,46 @@ async function main() {
     }
   }
 
+  // Publish an image-size estimate for the pre-download choice. Bundled images
+  // are measured from unique referenced files; upstream-hosted images use the
+  // explicit measured estimate maintained with the edition metadata.
+  const imageBytesByEdition = new Map();
+  const measuredImageFiles = new Map();
+  for (const document of published) {
+    const editionId = document.value.editionId ?? document.value.id;
+    if (!editionId || !document.path.startsWith(`editions/${editionId}/`)) continue;
+    const paths = Object.keys(document.value.assetRevisions ?? {}).filter(asset => /\.(?:avif|gif|jpe?g|png|webp)$/i.test(asset));
+    const unique = new Set(imageBytesByEdition.get(editionId)?.paths ?? []);
+    for (const asset of paths) unique.add(asset);
+    imageBytesByEdition.set(editionId, { paths: [...unique] });
+  }
+  for (const [editionId, entry] of imageBytesByEdition) {
+    let bytes = 0;
+    for (const asset of entry.paths) {
+      if (!measuredImageFiles.has(asset)) {
+        const destination = path.resolve(outputRoot, ...asset.split('/'));
+        const directory = assetDirectories.find(item => destination.startsWith(`${path.resolve(item.destination)}${path.sep}`));
+        if (!directory) continue;
+        const relative = path.relative(path.resolve(directory.destination), destination);
+        const source = path.resolve(directory.source, relative);
+        measuredImageFiles.set(asset, (await readFile(source)).byteLength);
+      }
+      bytes += measuredImageFiles.get(asset) ?? 0;
+    }
+    const detail = publishedByPath.get(`editions/${editionId}/index.json`);
+    // Most local assets are measurable from the publisher bundle. If an edition
+    // references upstream-hosted images instead, retain its explicit measured
+    // estimate because those bytes are not part of the local publisher bundle.
+    const declaredEstimate=Number(detail?.value.estimatedImageBytes);
+    const estimate=Number.isFinite(declaredEstimate) && declaredEstimate>0 ? declaredEstimate : bytes;
+    imageBytesByEdition.set(editionId, { paths: entry.paths, bytes:estimate });
+    if (detail) detail.value.estimatedImageBytes = estimate;
+  }
+  for (const program of catalog.programs) for (const edition of program.editions ?? []) {
+    const estimate = imageBytesByEdition.get(edition.id)?.bytes;
+    if (estimate != null) edition.estimatedImageBytes = estimate;
+  }
+
   const checkOnly = process.argv.includes('--check');
   if (checkOnly) {
     console.log(`Valid: ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length + powerpointsEditions.length + realtimeFaithEditions.length + aliveInJesusEditions.reduce((sum, program) => sum + program.editions.length, 0)} published edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length - powerpointsEditions.length - realtimeFaithEditions.length - aliveInJesusEditions.reduce((sum, program) => sum + program.editions.length, 0)} lesson document(s), ${supplementPublications.resourceCount} published supplement resource(s).`);

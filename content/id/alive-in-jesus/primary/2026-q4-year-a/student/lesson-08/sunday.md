@@ -40,7 +40,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[TANTANGAN MISI:]({"style": {"text": {"typeface": "Trashbone-Regular"}}}) Ceritakan kepada temanmu apa yang telah kamu pelajari tentang para misionaris di Sekolah Sabat baru-baru ini.
 
 {"style": {"block": {"backgroundColor": "#eef0f1", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#56666f"}}}
-^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Gambarlah garis luar angka 7 yang besar dengan gaya "gelembung" di selembar kertas. Gunakan spidol atau krayon agar garis luarnya menonjol. Di dalam angka 7, tuliskan hal-hal baik tentang Sabat yang telah diingatkan kepada kamu oleh bacaan hari ini, seperti: karunia dari Tuhan, sukacita. kamu akan menambahkan ide-ide sepanjang minggu.
+^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Gambarlah garis luar angka 7 yang besar dengan gaya "gelembung" di selembar kertas. Gunakan spidol atau krayon agar garis luarnya menonjol. Di dalam angka 7, tuliskan hal-hal baik tentang Sabat yang telah diingatkan kepada kamu oleh bacaan hari ini, seperti: karunia dari Tuhan, sukacita. Kamu akan menambahkan ide-ide sepanjang minggu.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
 ^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan atas karunia hari Sabat dan mintalah kepada-Nya untuk membantu kamu mengenali kasih dan kuasa kreatif-Nya saat kamu meluangkan waktu bersama-Nya pada hari yang telah Dia berkati.

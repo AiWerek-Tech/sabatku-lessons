@@ -20,7 +20,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 - Orang sakit itu tidak dapat menyembuhkan tubuhnya sendiri; ia membutuhkan Yesus. Dapatkah kamu membuat pikiran dan perbuatanmu semuanya murni, sempurna, dan baik? (Tidak.) Siapa yang kamu butuhkan untuk menyembuhkanmu dari dosa?
 
 {"style": {"block": {"backgroundColor": "#eef0f1", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#56666f"}}}
-^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Pria yang disembuhkan itu pergi ke bait suci untuk berterima kasih kepada Tuhan. Pergilah berjalan-jalan ke tempat favorit kamu di luar ruangan dan ucapkan terima kasih kepada Tuhan atas berkat-Nya di sana. kamu mungkin ingin memperhatikan alam dengan saksama di sepanjang jalan, dan berterima kasih kepada-Nya atas apa yang kamu lihat.
+^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Pria yang disembuhkan itu pergi ke bait suci untuk berterima kasih kepada Tuhan. Pergilah berjalan-jalan ke tempat favorit kamu di luar ruangan dan ucapkan terima kasih kepada Tuhan atas berkat-Nya di sana. Kamu mungkin ingin memperhatikan alam dengan saksama di sepanjang jalan, dan berterima kasih kepada-Nya atas apa yang kamu lihat.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukurlah kepada Tuhan karena Dia ingin menyembuhkan hati, tubuh, dan pikiranmu.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan karena Dia ingin menyembuhkan hati, tubuh, dan pikiranmu.

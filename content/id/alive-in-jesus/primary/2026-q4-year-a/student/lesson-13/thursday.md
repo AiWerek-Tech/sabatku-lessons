@@ -28,4 +28,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Yesus akan datang kembali, segera! Kabar ini terlalu baik untuk dirahasiakan. Mintalah Tuhan untuk menunjukkan kepadamu kepada siapa harus memberi tahu hari ini.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukurlah kepada Tuhan bahwa suatu hari nanti Dia akan memanggil kembali semua sahabat-Nya yang telah meninggal!
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan karena suatu hari nanti Dia akan membangkitkan kembali semua sahabat-Nya yang telah meninggal!

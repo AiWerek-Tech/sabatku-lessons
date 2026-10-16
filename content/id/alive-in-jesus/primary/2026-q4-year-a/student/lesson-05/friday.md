@@ -1,15 +1,15 @@
 {"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/05/image7.png)
 
-Kasih sayang bagaikan hadiah yang terus memberi. Itu berawal dari Tuhan, seperti yang dikatakan Mazmur 86:15. “Tetapi Engkau, ya TUHAN, adalah Allah yang penuh belas kasihan, dan murah hati, sabar dan berlimpah rahmat dan kebenaran.”
+Belas kasihan itu seperti hadiah yang terus mendatangkan kebaikan. Semuanya bermula dari Allah, seperti tertulis dalam Mazmur 86:15: “Tetapi Engkau, ya TUHAN, adalah Allah yang penuh belas kasihan dan murah hati, panjang sabar, berlimpah kasih setia dan kebenaran.”
 
-Ketika berada di bumi, Yesus menunjukkan seperti apa belas kasihan itu. Ia berbelas kasihan kepada mereka yang hidupnya sulit; mereka yang tidak memahami kasih Allah atau kebenaran tentang dosa; mereka yang hidup dengan disabilitas dan penyakit yang tidak dapat disembuhkan; mereka yang menderita penolakan; mereka yang kesepian. Bahkan, Ia berbelas kasihan kepada semua orang yang menderita, bahkan dalam hal-hal terkecil sekalipun.
+Selama hidup di dunia, Yesus menunjukkan belas kasihan melalui tindakan-Nya. Ia menolong orang-orang yang sedang menghadapi kesulitan, yang belum memahami kasih Allah atau kebenaran tentang dosa, yang hidup dengan disabilitas atau penyakit yang tak tersembuhkan, yang mengalami penolakan, dan yang merasa kesepian. Bahkan, Yesus peduli kepada siapa pun yang menderita, sekecil apa pun masalahnya.
 
-Ketika orang-orang itu diperlakukan dengan belas kasih, atau melihat belas kasih dalam tindakan, mereka cenderung menjadi orang yang penuh belas kasih. Hal yang sama berlaku untuk kita. Meskipun Yesus tidak ada di bumi saat ini, kita dapat melihat dan mengalami belas kasih-Nya ketika orang lain membagikannya. Kemudian kita dapat meneruskan karunia itu kepada orang lain. **Bacalah Zakharia 7:9.**
+Ketika orang menerima belas kasihan atau melihatnya diwujudkan dalam tindakan, mereka pun terdorong untuk berbelas kasihan kepada orang lain. Hal yang sama berlaku bagi kita. Meskipun Yesus saat ini tidak berada di bumi, kita dapat melihat dan mengalami belas kasihan-Nya melalui kebaikan orang lain. Lalu, kita dapat meneruskan karunia itu kepada sesama. **Bacalah Zakharia 7:9.**
 
-Pikirkan cara-cara kamu dapat menyebarkan belas kasih. kamu bisa duduk bersama teman sekelas yang kesepian, memaafkan kata-kata yang tidak baik, mendengarkan seseorang dengan saksama, berbagi bola di sekolah, menepuk punggung teman kamu ketika mereka melakukan pekerjaan dengan baik, atau menyemangati seseorang yang gagal. Semakin kita mempraktikkan belas kasih, semakin kita menunjukkan kepada orang lain seperti apa Yesus itu.
+Pikirkan cara-cara untuk menunjukkan belas kasihan kepada orang lain. Kamu bisa duduk bersama teman sekelas yang kesepian, memaafkan kata-kata yang menyakitkan, mendengarkan seseorang dengan saksama, berbagi bola di sekolah, menepuk bahu temanmu saat ia melakukan sesuatu dengan baik, atau menyemangati seseorang yang gagal. Semakin kita berbelas kasihan, semakin kita menunjukkan kepada orang lain seperti apa Yesus.
 
-Ingatlah: setiap orang diberkati oleh belas kasih, baik ketika mereka menerimanya maupun ketika mereka memberikannya.
+Ingatlah bahwa setiap orang diberkati oleh belas kasihan, baik saat menerimanya maupun saat memberikannya.
 
 {"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/05/image8.png)
@@ -25,10 +25,10 @@ PIKIRKAN... LALU DISKUSIKAN:
 \
 ^[Berbagi dan Memuji]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Nyanyikan himne “Mencari yang Hilang” (The Seventh-day Adventist Hymnal, no. 373) atau lagu pujian favorit lainnya tentang membantu sesama.\
-• Buatlah rantai kasih sayang. kamu akan membutuhkan potongan kertas tipis dan selotip atau stapler. Mintalah anggota keluarga untuk menuliskan tindakan kasih sayang yang telah mereka lihat dilakukan oleh anggota keluarga lainnya minggu ini. Buatlah rantai kertas saat kamu membaca setiap tulisan. Rekatkan/jepit ujung potongan kertas pertama, lalu masukkan potongan kertas berikutnya dan seterusnya.\
+• Buatlah rantai belas kasihan. Siapkan potongan kertas tipis serta selotip atau stapler. Mintalah setiap anggota keluarga menuliskan tindakan belas kasihan yang mereka lihat dilakukan anggota keluarga lain pekan ini. Bacalah setiap tulisan sambil menyambungkan potongan-potongan kertas menjadi rantai. Rekatkan atau jepit ujung potongan pertama, lalu sambungkan potongan berikutnya, dan seterusnya.\
 \
 ^[Jurnal Keluarga]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
-• Hal baru apa yang kamu pelajari tentang welas asih dari cerita minggu ini?\
+• Hal baru apa yang kamu pelajari tentang belas kasihan dari cerita minggu ini?\
 • Kisah ini mengingatkan saya untuk bersyukur kepada Tuhan atas…\
 \
 ^[Berdoa]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\

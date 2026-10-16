@@ -18,7 +18,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 - Bagaimana perasaanmu ketika orang lain sedih?
 
 {"style": {"block": {"backgroundColor": "#eef0f1", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#56666f"}}}
-^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Ubah ayat hafalan kamu menjadi pembatas buku. kamu bisa menggunakan kertas dan pena, atau mencoba alat daring seperti Canva. Cetak dan doakan orang yang mungkin akan kamu beri pembatas buku ini.
+^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Ubah ayat hafalan kamu menjadi pembatas buku. Kamu bisa menggunakan kertas dan pena, atau mencoba alat daring seperti Canva. Cetak dan doakan orang yang mungkin akan kamu beri pembatas buku ini.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukurlah kepada Tuhan atas simpati yang Dia rasakan terhadap orang-orang yang sedih dan menderita.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan atas belas kasihan-Nya kepada orang-orang yang sedih dan menderita.

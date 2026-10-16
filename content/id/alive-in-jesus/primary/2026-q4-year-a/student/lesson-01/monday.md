@@ -25,4 +25,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Orang tua kamu terkadang sangat lelah di penghujung hari yang sibuk. Lain kali kamu melihat betapa lelahnya mereka, tawarkan bantuan untuk mengerjakan sesuatu (atau kerjakan untuk mereka) agar mereka bisa beristirahat dengan tenang. Berdoalah agar Tuhan mengisi mereka dengan energi baru!
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) **Bacalah Mazmur 4:8.** Doakan ayat ini kepada Tuhan. kamu mungkin ingin mendoakannya lagi sebelum tidur.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) **Bacalah Mazmur 4:8.** Doakan ayat ini kepada Tuhan. Kamu mungkin ingin mendoakannya lagi sebelum tidur.

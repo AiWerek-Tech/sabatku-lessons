@@ -21,11 +21,13 @@
   "startDate": "2026-09-27",
   "endDate": "2026-12-26",
   "cover": "editions/2026-q4-aij-primary-student/assets/cover.png",
+  "estimatedImageBytes": 38928531,
   "sourceName": "Alive in Jesus · Primary",
   "sourceUrl": "https://primary.aliveinjesus.info/students",
   "attribution": "© 2026 General Conference of Seventh-day Adventists®. Edisi Bahasa Indonesia diterjemahkan oleh tim SabatKu.",
   "rightsStatement": "Terjemahan tim SabatKu. Hak atas materi sumber tetap pada pemiliknya.",
   "publicationStatus": "published",
+  "sourceReviewRequired": true,
   "lessons": [
     {
       "id": "lesson-01",
@@ -103,6 +105,12 @@
       "id": "lesson-13",
       "title": "“Lazarus, Keluarlah!”",
       "startDate": "2026-12-20",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-family",
+      "title": "Bacaan Tambahan untuk Keluarga",
+      "startDate": "2026-09-27",
       "endDate": "2026-12-26"
     }
   ]

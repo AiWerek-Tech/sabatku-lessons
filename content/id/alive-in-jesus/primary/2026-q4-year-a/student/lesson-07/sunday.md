@@ -40,7 +40,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Carilah Danau Galilea dan temukan Kapernaum di peta Alkitab. Bayangkan betapa gembiranya penduduk Kapernaum melihat Yesus kembali ke kota mereka.
 
 {"style": {"block": {"backgroundColor": "#f8f1ec", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#dd8f53"}}}
-^[TANTANGAN MISI:]({"style": {"text": {"typeface": "Trashbone-Regular"}}}) Dengarkan Adventist World Radio bersama keluarga kamu. Bersiaplah untuk berbagi tentang suatu tempat di mana Tuhan menggunakan misionaris global.
+^[TANTANGAN MISI:]({"style": {"text": {"typeface": "Trashbone-Regular"}}}) Dengarkan siaran Adventist World Radio bersama keluargamu. Bersiaplah menceritakan salah satu tempat para misionaris melayani.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
 ^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Apa janji Alkitab favoritmu? Doakan janji itu dalam hati kepada Tuhan dan ucapkan terima kasih kepada-Nya karena kamu selalu dapat mempercayai-Nya.

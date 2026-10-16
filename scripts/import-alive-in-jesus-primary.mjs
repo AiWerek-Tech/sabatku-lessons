@@ -92,7 +92,6 @@ async function main() {
   const teacherSource = path.join(sourceRoot, 'AIJ_Primary_Teacher_2026_Q4_ID_MD');
   const studentTarget = path.join(targetRoot, 'student');
   const teacherTarget = path.join(targetRoot, 'teacher');
-  const parentTarget = path.join(targetRoot, 'family');
   await mkdir(targetRoot, { recursive: true });
 
   const studentLessons = [];
@@ -118,6 +117,32 @@ async function main() {
     studentLessons.push({ id: lessonId, title: weekTitle, startDate: readings[0].date, endDate: readings.at(-1).date, readings });
   }
   assert(weekDates[0] === '2026-09-27' && weekDates[13] === '2026-12-26', 'Primary Q4 2026 dates do not match the supplied edition.');
+
+  const familyFolders = [
+    ['00-primary-parents', 'primary-parents.md', 'Surat untuk Orang Tua'],
+    ['00-short-devotions', 'short-devotions.md', 'Renungan Singkat untuk Keluarga'],
+    ['00-primary-friends', 'primary-friends.md', 'Primary Friends'],
+    ['00-music-and-podcasts', '00-music-and-podcasts.md', 'Musik dan Podcast'],
+  ];
+  const familyReadings = [];
+  for (const [folder, file, title] of familyFolders) {
+    const sourceFile = path.join(studentSource, folder, file);
+    const { content, title: sourceTitle } = await markdownFile(sourceFile, title);
+    const key = ({
+      '00-primary-parents': 'parents-letter',
+      '00-short-devotions': 'family-devotions',
+      '00-primary-friends': 'primary-friends',
+      '00-music-and-podcasts': 'music-and-podcasts',
+    })[folder];
+    familyReadings.push({ key, title: sourceTitle || title, date: '2026-09-27', file: `${key}.md`, content });
+  }
+  studentLessons.push({
+    id: 'unit-resource-family',
+    title: 'Bacaan Tambahan untuk Keluarga',
+    startDate: '2026-09-27',
+    endDate: '2026-12-26',
+    readings: familyReadings,
+  });
 
   const studentEdition = roleEdition(
     'student-guide', '2026-q4-aij-primary-student', 'Alive in Jesus · Primary · Panduan Murid · Triwulan IV 2026',
@@ -180,35 +205,11 @@ async function main() {
   await writeRoleEdition(teacherTarget, teacherEdition);
   await cp(path.join(sourceRoot, 'cover teacher.png'), path.join(teacherTarget, 'assets/cover.png'));
 
-  const familyFolders = [
-    ['00-primary-parents', 'primary-parents.md', 'Surat untuk Orang Tua'],
-    ['00-short-devotions', 'short-devotions.md', 'Renungan Singkat untuk Keluarga'],
-    ['00-primary-friends', 'primary-friends.md', 'Primary Friends'],
-    ['00-music-and-podcasts', '00-music-and-podcasts.md', 'Musik dan Podcast'],
-  ];
-  const familyLessons = [];
-  for (const [index, [folder, file, title]] of familyFolders.entries()) {
-    const sourceFile = path.join(studentSource, folder, file);
-    const { content, title: sourceTitle } = await markdownFile(sourceFile, title);
-    familyLessons.push({
-      id: `unit-family-${String(index + 1).padStart(2, '0')}`,
-      title: sourceTitle || title,
-      startDate: '2026-09-27',
-      endDate: '2026-12-26',
-      readings: [{ key: 'resource', title: sourceTitle || title, date: '2026-09-27', file: 'resource.md', content }],
-    });
-  }
-  const familyEdition = roleEdition(
-    'family-resources', '2026-q4-aij-primary-family', 'Alive in Jesus · Primary · Ruang Orang Tua · Triwulan IV 2026',
-    'https://primary.aliveinjesus.info/students', null, familyLessons,
-  );
-  await writeRoleEdition(parentTarget, familyEdition);
-
   const teacherIntroduction = frontmatter(await readFile(path.join(teacherSource, 'introduction.md'), 'utf8')).body;
   const studentIntroduction = frontmatter(await readFile(path.join(studentSource, 'introduction.md'), 'utf8')).body;
   await writeFile(path.join(studentTarget, 'introduction.md'), studentIntroduction, 'utf8');
   await writeFile(path.join(teacherTarget, 'introduction.md'), teacherIntroduction, 'utf8');
-  console.log(`Imported Primary student, parent/family, and teacher resources to ${path.relative(repositoryRoot, targetRoot)}.`);
+  console.log(`Imported Primary student and teacher books, with family readings inside the student edition, to ${path.relative(repositoryRoot, targetRoot)}.`);
 }
 
 main().catch(error => { console.error(error.message); process.exitCode = 1; });

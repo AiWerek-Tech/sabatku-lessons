@@ -1,4 +1,4 @@
-## Pria dengan Empat Sahabat yang Penuh Iman
+## Seorang Pria dan Empat Sahabat yang Beriman
 
 {"style": {"text": {"color": "#58B0E3"}}}
 **Referensi Alkitab**: Matius 9:1-8; Markus 2:1-12; Lukas 5:17-26
@@ -8,7 +8,7 @@
 {"style": {"text": {"size": "lg"}}}
 **Gagasan Utama**
 
-Teman-teman yang saleh membawaku kepada Yesus, yang memiliki kuasa untuk menyembuhkan tubuhku dan mengampuni dosa-dosaku.
+Sahabat-sahabat yang setia kepada Tuhan membawaku kepada Yesus. Dia berkuasa menyembuhkan tubuhku dan mengampuni dosa-dosaku.
 
 ---
 
@@ -22,9 +22,9 @@ Teman-teman yang saleh membawaku kepada Yesus, yang memiliki kuasa untuk menyemb
 {"style": {"text": {"size": "lg"}}}
 **Referensi**
 
-_Kerinduan Segala Zaman_, hlm. 267-271\
-_Komentar Alkitab Gereja Advent Hari Ketujuh_, jilid 5, hlm. 579-582\
-_Kisah Alkitab_, jilid 7, hlm. 174-176
+_Kerinduan Segala Zaman_, hlm. 267–271\
+_Komentar Alkitab Gereja Advent Hari Ketujuh_, jilid 5, hlm. 579–582\
+_Kisah Alkitab_, jilid 7, hlm. 174–176
 
 ---
 
@@ -46,7 +46,7 @@ Beberapa aspek dari keyakinan mendasar berikut tercermin dalam pelajaran ini:
 {"style": {"text": {"size": "lg"}}}
 **Kata Pilihan Minggu Ini**
 
-**Teman:** Teman adalah seseorang yang telah kita kenal dengan baik dan senang menghabiskan waktu bersamanya. Seseorang yang kita percayai untuk membantu dan setia.
+**Teman:** Teman adalah orang yang kita kenal baik dan senang kita ajak menghabiskan waktu. Kita percaya kepadanya karena ia suka menolong dan setia.
 
 ---
 
@@ -92,7 +92,7 @@ Semoga Anda dan anak-anak diberkati saat Anda menjelajahi makna persahabatan yan
 ## Garis Besar Program Sederhana
 
 {"style": {"text": {"color": "#F4793B"}}}
-**Gagasan Utama:** Teman-teman yang saleh membawa saya kepada Yesus, yang memiliki kuasa untuk menyembuhkan tubuh saya dan mengampuni dosa-dosa saya.
+**Gagasan Utama:** Sahabat-sahabat yang setia kepada Tuhan membawa saya kepada Yesus. Dia berkuasa menyembuhkan tubuh saya dan mengampuni dosa-dosa saya.
 
 {"style": {"block": {"backgroundColor": "#E4E4E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **KEDATANGAN AWAL**
@@ -120,7 +120,7 @@ Semoga Anda dan anak-anak diberkati saat Anda menjelajahi makna persahabatan yan
 
 - {"style": {"block": {"backgroundColor": "#FFFCF6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - **^[Pelajaran Praktis:]({"style": {"text": {"color":"#e6b349"}}})** Menggendong teman di atas seprai besar.
-- Bagikan **^[Gagasan Utama: Teman-teman yang saleh membawa saya kepada Yesus, yang memiliki kuasa untuk menyembuhkan tubuh saya dan mengampuni dosa-dosa saya.]({"style": {"text": {"color":"#e6b349"}}})**
+- Bagikan **^[Gagasan Utama: Sahabat-sahabat yang setia kepada Tuhan membawa saya kepada Yesus. Dia berkuasa menyembuhkan tubuh saya dan mengampuni dosa-dosa saya.]({"style": {"text": {"color":"#e6b349"}}})**
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **KISAH ALKITAB** (15 MENIT)
@@ -220,7 +220,7 @@ Cetak **^[templat kerajinan minggu ke-3]({"style": {"text": {"color": "#58B0E3"}
 ## Garis Besar Program Lengkap
 
 {"style": {"text": {"color": "#F4793B"}}}
-**Gagasan Utama:** Teman-teman yang saleh membawa saya kepada Yesus, yang memiliki kuasa untuk menyembuhkan tubuh saya dan mengampuni dosa-dosa saya.
+**Gagasan Utama:** Sahabat-sahabat yang setia kepada Tuhan membawa saya kepada Yesus. Dia berkuasa menyembuhkan tubuh saya dan mengampuni dosa-dosa saya.
 
 {"style": {"block": {"backgroundColor": "#E4E4E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **KEDATANGAN LEBIH AWAL** (10 MENIT SEBELUM SEKOLAH SABAT DIMULAI)
@@ -384,7 +384,7 @@ Putar **Daftar Putar Lagu Ayat Alkitab** setiap tiga bulan sekali dengan volume 
 
 Mintalah mereka untuk menggenggam tangan teman mereka dengan lembut ketika mereka sudah memikirkan sebuah nama. Sampaikan bahwa sama seperti pria dalam kisah Alkitab hari ini diberkati karena memiliki teman-teman yang saleh, kita dapat memilih untuk menjadi teman yang saleh bagi seseorang minggu ini.
 
-- **Bagaimana Anda dapat menggunakan tangan Anda minggu ini untuk mulai membawa diri kepada Yesus?**
+- **Bagaimana Anda dapat menggunakan tangan Anda minggu ini untuk mulai mendekat kepada Yesus?**
 
 Ingatkan anak-anak bahwa menjadi teman yang penuh kasih sayang adalah langkah pertama yang penting.
 
@@ -399,7 +399,7 @@ Ingatkan anak-anak bahwa menjadi teman yang penuh kasih sayang adalah langkah pe
 ## \"Pria dengan Empat Sahabat yang Penuh Iman\"
 
 {"style": {"text": {"color": "#F4793B"}}}
-**Gagasan Utama:** Teman-teman yang saleh membawa saya kepada Yesus, yang memiliki kuasa untuk menyembuhkan tubuh saya dan mengampuni dosa-dosa saya.
+**Gagasan Utama:** Sahabat-sahabat yang setia kepada Tuhan membawa saya kepada Yesus. Dia berkuasa menyembuhkan tubuh saya dan mengampuni dosa-dosa saya.
 
 Saat Anda bersiap untuk membagikan cerita ini, silakan baca panduan siswa untuk narasi lengkap dan detailnya. Untuk memaksimalkan keterlibatan, hindari membacakan cerita kepada anak-anak. Lihat saran bercerita di bagian depan publikasi ini.
 
@@ -417,9 +417,9 @@ Saat Anda bersiap untuk membagikan cerita ini, silakan baca panduan siswa untuk 
 {"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **CERITAKAN KISAHNYA**
 
-^[►]({"style": {"text": {"color":"#d34d5e"}}}) Ia tidak bisa menggerakkan lengannya; ia tidak bisa menggerakkan kakinya. Pria dari Kapernaum itu menderita kelumpuhan. Ia hanya bisa berbaring diam di atas tikarnya sementara waktu berlalu perlahan. Ia menyesal karena kesakitan dan tidak bisa bergerak. Tetapi ia lebih menyesal lagi atas pilihan-pilihan berdosa dan tidak sehat yang telah ia buat sehingga membuatnya sakit. ^[(Lego atau boneka kayu)]({"style": {"text": {"color":"#d34d5e"}}}).
+^[►]({"style": {"text": {"color":"#d34d5e"}}}) Ia tidak bisa menggerakkan lengannya; ia tidak bisa menggerakkan kakinya. Pria dari Kapernaum itu lumpuh. Ia hanya bisa berbaring diam di atas tikarnya sementara waktu berlalu perlahan. Ia menyesal karena kesakitan dan tidak bisa bergerak. Tetapi ia lebih menyesal lagi atas pilihan-pilihan berdosa dan tidak sehat yang telah ia buat sehingga membuatnya sakit. ^[(Lego atau boneka kayu)]({"style": {"text": {"color":"#d34d5e"}}}).
 
-Dia telah meminta bantuan kepada para dokter dan pendeta, tetapi mereka mengabaikannya. Mereka keliru percaya bahwa penderitaannya adalah hukuman Tuhan atas dosa-dosanya. Itu sama sekali bukan sifat Tuhan!
+Ia pernah meminta bantuan para dokter dan imam, tetapi mereka mengabaikannya. Mereka keliru percaya bahwa penderitaannya adalah hukuman Tuhan atas dosa-dosanya. Itu sama sekali bukan sifat Tuhan!
 
 Suatu hari pria itu mendengar kabar terbaik! Yesus telah kembali ke kota! Semua orang tahu apa artinya itu bagi penduduk kota yang sakit dan menderita: mukjizat, kisah-kisah menakjubkan tentang kerajaan Allah, penghiburan, dan harapan.
 

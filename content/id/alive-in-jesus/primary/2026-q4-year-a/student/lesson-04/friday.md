@@ -34,4 +34,4 @@ Nyanyikan lagu Alkitab minggu ini dan doakan ayat hafalan kamu kepada Tuhan:\
 “Aku akan memandang kepada-Mu dan diselamatkan. . . . Karena Engkaulah Allah dan tidak ada yang lain” (lihat Yesaya 45:22).\
 \
 ^[UNTUK ORANG TUA:]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
-Yesus ingin melakukan hal yang mustahil untukmu juga! Saat kamu menghadapi tantangan sebagai orang tua, kamu dapat mengklaim janji Allah: “Engkau akan menjaga dia dalam damai sejahtera yang sempurna, yang pikirannya tetap tertuju kepada-Mu, karena dia percaya kepada-Mu” (Yesaya 26:3).
+Yesus juga ingin melakukan hal-hal yang mustahil bagimu! Saat menghadapi tantangan dalam mengasuh anak, berpeganglah pada janji Allah ini: “Engkau akan menjaga dia dalam damai sejahtera yang sempurna, yang pikirannya tetap tertuju kepada-Mu, karena dia percaya kepada-Mu” (Yesaya 26:3).

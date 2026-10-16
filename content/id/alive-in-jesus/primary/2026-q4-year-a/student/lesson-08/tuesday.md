@@ -24,4 +24,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Atur pengatur waktu selama lima menit dan cobalah melakukan semua yang perlu kamu lakukan dengan punggung membungkuk. Setelah itu, tanyakan pada diri sendiri: Seberapa mudah atau sulitkah melakukan hal-hal tersebut? Apa yang tidak mungkin dilakukan? Seberapa besar rasa empati saya terhadap mereka yang hidup dengan disabilitas fisik?
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukur kepada Tuhan atas teladan yang Yesus berikan kepada kita ketika Dia memberkati seseorang yang membutuhkan pada hari Sabat.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan atas teladan yang Yesus berikan kepada kita ketika Dia memberkati seseorang yang membutuhkan pada hari Sabat.

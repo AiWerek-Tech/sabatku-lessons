@@ -15,7 +15,7 @@ Ketika kuasa Tuhan bekerja dalam hidup kita, inilah gambaran kasih Tuhan dalam h
 - Bersikap baik kepada seseorang meskipun kamu tidak ingin melakukannya.
 - Membiarkan seseorang bergabung dalam permainan kamu, meskipun mereka tidak bermain dengan baik.
 - Bersabar dan memaafkan ketika seseorang melakukan kesalahan.
-- Bersikap welas asih saat melihat seseorang menderita, meskipun itu kesalahan mereka sendiri.
+- Tunjukkan belas kasihan saat melihat seseorang menderita, sekalipun penderitaannya disebabkan oleh kesalahannya sendiri.
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#d26127", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:

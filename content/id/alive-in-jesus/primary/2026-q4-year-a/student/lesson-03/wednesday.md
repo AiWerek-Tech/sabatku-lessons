@@ -23,4 +23,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Pergilah berjalan-jalan di alam atau di tempat yang tenang dan mintalah pengampunan dari Tuhan. Bayangkan wajah-Nya yang tersenyum saat Dia berkata, “Dosa-dosamu telah diampuni” (Matius 9:2).
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukurlah kepada Yesus karena telah menjadi sahabat terbaik.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan karena Yesus telah menjadi sahabat terbaikmu.

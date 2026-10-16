@@ -80,7 +80,7 @@ Yesus adalah orang asing di bumi kita, dengan sedikit harta benda dan tanpa temp
 
 Yesus adalah bagian dari Keilahian dan mengenal sukacita hubungan yang mendalam dengan Bapa-Nya dan Roh Kudus, tetapi juga dengan para malaikat dan ciptaan-Nya. Dia memahami sukacita, kedamaian, dan kasih hingga tingkat yang hanya dapat kita bayangkan.
 
-Sungguh melegakan mengetahui bahwa Yesus memahami persis apa yang kita rasakan, dan bahkan lebih dari itu. Ia memahami kesedihan di hati ibu dalam kisah minggu ini, dan Ia senang memberikan sukacita kepadanya. Ia sangat tertarik pada detail kehidupan kita dan memperhatikan baik momen besar maupun kecil dalam hari-hari kita. Tidak peduli bagaimana perasaan kita atau apa yang kita alami, Ia ingin menjadi bagian dari hari-hari kita. Ia berkata kepada kita, “Datanglah kepada-Ku, semua yang lelah dan berbeban berat, dan Aku akan memberi kamu istirahat. ... kamu akan mendapat ketenangan jiwa” (Matius 11:28, 29).
+Sungguh melegakan mengetahui bahwa Yesus memahami persis apa yang kita rasakan, dan bahkan lebih dari itu. Ia memahami kesedihan di hati ibu dalam kisah minggu ini, dan Ia senang memberikan sukacita kepadanya. Ia sangat tertarik pada detail kehidupan kita dan memperhatikan baik momen besar maupun kecil dalam hari-hari kita. Tidak peduli bagaimana perasaan kita atau apa yang kita alami, Ia ingin menjadi bagian dari hari-hari kita. Ia berkata kepada kita, “Datanglah kepada-Ku, semua yang lelah dan berbeban berat, dan Aku akan memberi kamu istirahat. ... Kamu akan mendapat ketenangan jiwa” (Matius 11:28, 29).
 
 “Hati kasih-Nya tersentuh oleh kesedihan kita dan bahkan oleh ungkapan kesedihan kita. . . . Tidak ada hal sekecil apa pun yang menyangkut kedamaian kita yang terlalu kecil untuk Dia perhatikan. . . . Tidak ada malapetaka yang dapat menimpa anak-anak-Nya yang paling kecil . . . yang tidak diperhatikan oleh Bapa surgawi kita, atau yang tidak Dia minati secara langsung” (Ellen G. White, _Steps to Christ_, hlm. 100).
 
@@ -460,7 +460,7 @@ Bacalah skenario-skenario berikut dan diskusikan dengan anak-anak bagaimana mere
 {"style": {"text": {"color":"#58b0e3"}}}
 1. Kucing peliharaan Anita baru saja meninggal. Kamu melihatnya di sekolah dan tahu bahwa dia sedih. Bagaimana kamu bisa menunjukkan simpati?
 2. Ayah Adam kehilangan pekerjaannya. Ia sedang mencari pekerjaan lain, tetapi pekerjaan sulit ditemukan. Sementara itu, keluarga harus berhemat, jadi Adam tidak bisa ikut denganmu pergi ke toko. Apa yang bisa kamu lakukan untuk berbagi harapan yang kamu miliki?
-3. Sergei tinggal di tempat yang jarang sekali terkena sinar matahari. Seringkali suram dan kelabu. Bagaimana dia bisa merasakan kegembiraan?
+3. Sergei tinggal di tempat yang jarang mendapat sinar matahari. Cuacanya sering mendung dan kelabu. Bagaimana ia dapat tetap merasakan sukacita?
 
 ---
 

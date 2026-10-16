@@ -20,10 +20,10 @@ PIKIRKAN... LALU DISKUSIKAN:
 - Jika kamu mengenal seseorang yang mengalami gangguan pendengaran atau bicara, apa yang dapat kamu lakukan untuk membantu meringankan hidup mereka?
 
 {"style": {"block": {"backgroundColor": "#f3eff2", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#885d79"}}}
-^[OBROLAN IMAN BERSAMA ORANG TUA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Ceritakan pengalaman kamu saat kamu diperlakukan dengan penuh kasih sayang dan apa arti hal itu bagi kamu.
+^[OBROLAN IMAN BERSAMA ORANG TUA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Ceritakan pengalaman kamu saat kamu diperlakukan dengan penuh belas kasihan dan apa arti hal itu bagi kamu.
 
 {"style": {"block": {"backgroundColor": "#eef0f1", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#56666f"}}}
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Untuk membantu kamu memahami bagaimana rasanya menjadi tuli, tonton program TV Kristen tanpa suara dan cobalah membaca gerak bibir dari apa yang dikatakan. Kemudian, dengan bantuan orang tua, cari pelajaran bahasa isyarat daring dan pelajari beberapa isyarat untuk menyapa seseorang.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukur kepada Tuhan atas belas kasih dan perhatian-Nya.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan atas belas kasih dan perhatian-Nya.

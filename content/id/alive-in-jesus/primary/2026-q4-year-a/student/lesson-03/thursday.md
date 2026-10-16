@@ -9,7 +9,7 @@ Seketika itu juga pria itu melompat berdiri. Ia sembuh seluruhnya! Tubuhnya berd
 
 Yesus telah membuktikan bahwa Dia adalah Putra Allah! Dia memiliki kuasa untuk menyembuhkan hati yang berdosa dan terluka dengan pengampunan, dan juga tubuh yang terluka.
 
-Saat pria yang telah disembuhkan itu pulang, ia memuji Tuhan! Tuhan telah menyembuhkannya, dan itu patut dirayakan! kamu bisa yakin keempat temannya juga berlari di sampingnya, memuji Tuhan bersama teman mereka yang bahagia. Mereka telah membantunya menemukan Yesus, dan sekarang mereka semua dapat bersukacita bersama atas mukjizat kehidupan barunya.
+Saat pria yang telah disembuhkan itu pulang, ia memuji Tuhan! Tuhan telah menyembuhkannya, dan itu patut dirayakan! Kamu bisa yakin keempat temannya juga berlari di sampingnya, memuji Tuhan bersama teman mereka yang bahagia. Mereka telah membantunya menemukan Yesus, dan sekarang mereka semua dapat bersukacita bersama atas mukjizat kehidupan barunya.
 
 Banyak orang lain yang menyaksikan penyembuhan luar biasa itu dan mendengar kisahnya juga diberkati. Pria ini adalah bukti bahwa Yesus tidak menjauhkan orang-orang yang telah berbuat salah. Dia tidak mengabaikan penderitaan mereka, seperti yang dilakukan para imam dan dokter. Sebaliknya, Yesus mengundang mereka untuk diampuni, berbahagia, dan menjalani hidup baru bersama-Nya. Sahabat terbaikmu, Yesus, akan selalu melakukan hal yang sama untukmu.
 

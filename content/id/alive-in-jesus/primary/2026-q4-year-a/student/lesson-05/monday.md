@@ -27,4 +27,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Siapa di keluargamu yang mungkin butuh pelukan saat ini? Berikan mereka pelukan!
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan atas orang-orang dalam hidupmu yang menunjukkan kasih sayang dan kepedulian kepadamu.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan atas orang-orang dalam hidupmu yang menunjukkan belas kasihan dan kepedulian kepadamu.

@@ -1,4 +1,4 @@
-## Sentuhan Penyembuhan
+## Sentuhan yang Menyembuhkan
 
 {"style": {"text": {"color": "#58B0E3"}}}
 **Referensi Alkitab**: Markus 5:25-34; Lukas 8:43-48
@@ -137,7 +137,7 @@ Saat Anda dan anak-anak menjelajahi cerita minggu ini, semoga Anda ditarik kepad
 - **^[Ayat Hafalan dan Lagu Pujian:]({"style": {"text": {"color":"#a771b0"}}})** “Aku datang supaya mereka mempunyai hidup, dan mempunyai hidup yang lebih berlimpah” (Yohanes 10:10).
 - **^[Pelajaran tentang Alam:]({"style": {"text": {"color":"#a771b0"}}})** “Semut yang Gigih”
 - **^[Keahlian:]({"style": {"text": {"color":"#a771b0"}}})** Raihlah Yesus Jack-in-the-box
-- **^[Tantangan Misi:]({"style": {"text": {"color":"#a771b0"}}})** Dengarkan Adventist World Radio bersama keluarga Anda. Bersiaplah untuk berbagi tentang suatu tempat di mana Tuhan menggunakan misionaris global.
+- **^[Tantangan Misi:]({"style": {"text": {"color":"#a771b0"}}})** Dengarkan Adventist World Radio bersama keluarga Anda. Bersiaplah menceritakan salah satu tempat para misionaris melayani.
 - **^[Tinjau dan Komitmenkan:]({"style": {"text": {"color":"#a771b0"}}})**Apa yang ingin Anda ingat tentang Yesus minggu ini? Bagikan jawaban Anda**^[Gagasan Utama: Yesus dapat menyembuhkan saya ketika saya mengulurkan tangan kepada-Nya.]({"style": {"text": {"color":"#a771b0"}}})**
 - Menyanyi **^[“Semoga Tuhan menyertai Anda.”]({"style": {"text": {"color":"#a771b0"}}})**
 - **^[Berdoa.]({"style": {"text": {"color":"#a771b0"}}})**
@@ -387,7 +387,7 @@ Putar **daftar putar Lagu Ayat Alkitab** dengan volume rendah di latar belakang 
 
 - **Apakah Anda menemukan teman yang ingin belajar lebih banyak tentang Yesus? Apakah Anda melakukan sesuatu untuk membantu mereka?** (Berikan mereka panduan belajar Alkitab Sekolah Sabat, Alkitab, atau tumpangan ke gereja.)
 
-Tantangan Misi minggu ini adalah: **Dengarkan Adventist World Radio bersama keluarga Anda. Bersiaplah untuk berbagi tentang suatu tempat di mana Tuhan menggunakan misionaris global.** Mungkin Anda akan menemukan cerita tentang misionaris yang membantu orang lain merasa lebih baik atau yang menunjukkan kepada orang lain bahwa Tuhan memberi kita kehidupan yang lebih baik ketika kita mengenal-Nya.
+Tantangan Misi minggu ini adalah: **Dengarkan Adventist World Radio bersama keluarga Anda. Bersiaplah menceritakan salah satu tempat para misionaris melayani.** Mungkin Anda akan menemukan kisah tentang misionaris yang menolong orang lain atau menunjukkan bahwa mengenal Tuhan membawa hidup yang lebih baik.
 
 **^[TINJAU dan SETUJUI:]({"style": {"text": {"color":"#a771b0"}}}) Apa yang ingin Anda ingat tentang Yesus minggu ini?**
 

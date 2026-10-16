@@ -18,4 +18,4 @@ Sebagai keluarga, siapkan paket hadiah untuk seseorang yang kamu kenal yang seda
 - Bagikan juga barang-barang kecil lainnya seperti: mainan lunak kecil, tisu, sabun, buku, bunga segar.
 - Bungkus setiap hadiah (kecuali bunga). Lampirkan kartu janji pada setiap hadiah, dan masukkan ke dalam kotak atau tas.
 - _Jika kotak kamu polos, kamu bisa membungkusnya dengan kertas kado, atau menggambar gambar untuk menghiasnya._
-- _Serahkan paket bantuan kamu kepada orang yang sakit. kamu juga dapat membacakan ayat hafalan atau menyanyikan lagu untuk mereka._
+- _Serahkan paket bantuan kamu kepada orang yang sakit. Kamu juga dapat membacakan ayat hafalan atau menyanyikan lagu untuk mereka._

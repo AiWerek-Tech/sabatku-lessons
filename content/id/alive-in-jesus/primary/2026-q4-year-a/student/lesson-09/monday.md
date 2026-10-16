@@ -28,4 +28,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Buatlah gulungan tempat tidur dengan memotong selembar kain atau kertas untuk mewakili selimut. Tulis Ide Besar minggu ini atau ayat hafalan kamu di atasnya. Gulung dan ikat dengan tali. (Ini akan digunakan sebagai alat peraga saat menceritakan kisah pada Jumat malam.)
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukurlah kepada Tuhan karena Dia mengasihimu dengan penuh kasih sayang-Nya.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan atas kasih-Nya kepadamu.

@@ -22,10 +22,10 @@ PIKIRKAN... LALU DISKUSIKAN:
 - Lain kali jika kamu menghadapi masalah, apa yang akan kamu lakukan, karena kamu tahu bahwa Yesus memiliki kuasa atas segala sesuatu di bumi?
 
 {"style": {"block": {"backgroundColor": "#f3eff2", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#885d79"}}}
-^[OBROLAN IMAN BERSAMA ORANG TUA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Ceritakan kepada anak kamu tentang seseorang yang kamu kenal yang memiliki iman yang besar, dan bagaimana iman itu menginspirasi kamu.
+^[OBROLAN IMAN BERSAMA ORANG TUA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Ceritakan kepada anakmu tentang seseorang yang kamu kenal dan memiliki iman yang kuat. Jelaskan juga bagaimana iman orang itu menguatkanmu.
 
 {"style": {"block": {"backgroundColor": "#eef0f1", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#56666f"}}}
-^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Carilah orang dewasa lain untuk diwawancarai tentang siapa yang telah membantu mereka memiliki iman yang besar kepada Yesus.
+^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Wawancarailah orang dewasa lain. Tanyakan siapa yang menolong mereka bertumbuh dalam iman kepada Yesus.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
 ^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Mintalah kepada Tuhan untuk membantu kamu membagikan iman kamu.

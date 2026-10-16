@@ -24,4 +24,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Lihatlah foto dirimu saat masih bayi, dan foto dirimu yang diambil baru-baru ini. Perhatikan betapa banyak kamu telah tumbuh! Seberapa besar imanmu saat masih bayi? Seberapa besar imanmu telah tumbuh sejak saat itu?
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukurlah kepada Tuhan bahwa orang lain telah membagikan kabar baik tentang Yesus kepada kamu.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan karena ada seseorang yang telah membagikan kabar baik tentang Yesus kepadamu.

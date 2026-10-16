@@ -9,7 +9,7 @@ Iman kini memenuhi hatinya. Kekhawatiran, keraguan, dan ketakutan telah lenyap. 
 
 Kemudian bangsawan itu melakukan sesuatu yang mengejutkan. Meskipun ia bisa dengan mudah menuruni bukit menuju Kapernaum sebelum malam tiba, ia tidak terburu-buru pulang. Imannya yang baru kepada Yesus begitu kuat sehingga ia merasa tidak perlu bergegas pulang untuk mencari bukti mukjizat tersebut. Mungkin ia berhenti sejenak untuk beristirahat dan memuji Tuhan. Mungkin ia menghabiskan waktu di tengah kerumunan, mendengarkan dan belajar dari Mesias yang sekarang ia percayai. Apa pun yang ia pilih untuk lakukan, ia melakukannya dengan hati yang penuh syukur.
 
-Alkitab mengatakan kepada kita, “Iman berarti yakin akan hal-hal yang kita harapkan. Dan iman berarti mengetahui bahwa sesuatu itu nyata meskipun kita tidak melihatnya” (Ibrani 11:1). Ketika kamu menyerahkan kekhawatiran kamu kepada Yesus, kamu dapat memiliki iman bahwa Dia peduli kepada kamu. kamu dapat mempercayai janji-janji-Nya dan memilih untuk bertindak sesuai dengan janji-janji tersebut.
+Alkitab mengatakan kepada kita, “Iman berarti yakin akan hal-hal yang kita harapkan. Dan iman berarti mengetahui bahwa sesuatu itu nyata meskipun kita tidak melihatnya” (Ibrani 11:1). Ketika kamu menyerahkan kekhawatiran kamu kepada Yesus, kamu dapat memiliki iman bahwa Dia peduli kepada kamu. Kamu dapat mempercayai janji-janji-Nya dan memilih untuk bertindak sesuai dengan janji-janji tersebut.
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#cf6951", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:
@@ -24,4 +24,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Jiplaklah bentuk tangan kamu. Tulis kata "iman" di atasnya, satu huruf di setiap jari. Pajanglah sebagai pengingat bahwa Tuhan akan menumbuhkan iman kamu.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukurlah kepada Tuhan atas mereka yang telah mengajari kamu untuk memiliki iman yang kuat.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan atas orang-orang yang telah mengajarimu untuk memiliki iman yang kuat.

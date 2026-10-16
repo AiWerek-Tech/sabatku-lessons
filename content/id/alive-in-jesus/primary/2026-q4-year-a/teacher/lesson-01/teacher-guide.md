@@ -43,7 +43,7 @@ Beberapa aspek dari keyakinan mendasar berikut tercermin dalam pelajaran ini:
 {"style": {"text": {"size": "lg"}}}
 **Kata Pilihan Minggu Ini**
 
-**Kedamaian:** Kedamaian adalah perasaan tenang, damai, aman, dan puas yang kita miliki di dalam hati, bahkan ketika ada masalah di sekitar kita. Kedamaian juga merupakan waktu tanpa pertengkaran, atau keramaian, atau kesibukan. Kita memiliki kedamaian sejati ketika kita percaya kepada Tuhan.
+**Damai sejahtera:** Perasaan tenang, tenteram, aman, dan puas yang kita rasakan di dalam hati, bahkan saat ada masalah di sekitar kita. Damai sejahtera juga berarti keadaan tanpa pertengkaran, kerumunan yang berdesakan, atau kesibukan. Kita mengalami damai sejahtera sejati ketika percaya kepada Tuhan.
 
 ---
 

@@ -12,7 +12,7 @@ Banyak orang diberkati melalui iman bangsawan itu. Ia hanya meminta mukjizat pen
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:
 
-- Bangsawan itu membagikan imannya kepada keluarga dan rumah tangganya. Dengan siapa kamu dapat membagikan iman kamu? Berdoalah agar diberi kesempatan untuk berbagi dengan orang tersebut, dan agar mereka memilih untuk percaya kepada Yesus.
+- Bangsawan itu membagikan imannya kepada keluarga dan semua orang yang tinggal serumah dengannya. Kepada siapa kamu dapat menceritakan imanmu? Berdoalah agar mendapat kesempatan untuk berbagi dengannya dan agar ia memilih untuk percaya kepada Yesus.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 ^[Jumat Malam]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\

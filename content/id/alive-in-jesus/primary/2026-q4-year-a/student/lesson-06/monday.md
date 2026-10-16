@@ -11,7 +11,7 @@ Ia bergerak mendekati Yesus, begitu pula banyak orang lain. Saat kerumunan orang
 
 Wanita itu hanya fokus pada satu hal: mendekat kepada Yesus. 1 Timotius 6:12 menggambarkan fokusnya dengan baik. Ayat itu mengatakan, “Berjuanglah dalam perjuangan iman yang baik.” Dia tidak berjuang melawan musuh—dia berjuang untuk mendekat kepada Yesus.
 
-Yesus senang melihat kita terus berusaha mendekat kepada-Nya. Karena kita hidup di dunia yang penuh dosa, Dia mungkin tampak jauh kadang-kadang, tetapi Dia selalu ada di sana untuk kita. Kita dapat “memperjuangkan perjuangan iman yang baik” dengan terus-menerus mengulurkan tangan kepada-Nya. Kita dapat berdoa kepada-Nya dan meminta pertolongan Roh Kudus. Kita dapat membaca Firman-Nya dan mengklaim janji-Nya untuk selalu dekat, bahkan ketika kita merasa Dia tidak dekat. **Bacalah bagian terakhir dari Matius 28:20.**
+Yesus senang melihat kita juga terus berusaha mendekat kepada-Nya. Karena hidup di dunia yang penuh dosa, kadang-kadang Ia terasa jauh, tetapi Ia selalu menyertai kita. Kita dapat “bertanding dalam pertandingan iman yang benar” dengan terus datang kepada-Nya. Kita dapat berdoa dan memohon pertolongan Roh Kudus. Kita juga dapat membaca firman-Nya dan berpegang pada janji-Nya bahwa Ia selalu dekat, bahkan ketika kita tidak merasakan kehadiran-Nya. **Bacalah bagian terakhir Matius 28:20.**
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#b0475e", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:

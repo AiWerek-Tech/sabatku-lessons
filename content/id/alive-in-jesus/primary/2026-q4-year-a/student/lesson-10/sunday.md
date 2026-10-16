@@ -45,10 +45,10 @@ PIKIRKAN... LALU DISKUSIKAN:
 - Apa hal yang telah kamu pelajari tentang Yesus yang membuat kamu bersemangat?
 
 {"style": {"block": {"backgroundColor": "#f8f1ec", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#dd8f53"}}}
-^[TANTANGAN MISI:]({"style": {"text": {"typeface": "Trashbone-Regular"}}}) Bicaralah dengan keluarga kamu tentang bagaimana kamu dapat memberikan dukungan kepada misionaris global.
+^[TANTANGAN MISI:]({"style": {"text": {"typeface": "Trashbone-Regular"}}}) Bicaralah dengan keluargamu tentang cara kamu dapat mendukung para misionaris yang melayani di berbagai negara.
 
 {"style": {"block": {"backgroundColor": "#eef0f1", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#56666f"}}}
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Carilah Yerikho di peta Alkitab. Sekarang, carilah semua daerah lain yang disebutkan dalam pelajaran hari ini untuk melihat ke mana antusiasme terhadap Yesus telah menyebar.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukurlah kepada Tuhan karena kamu telah memiliki kesempatan untuk belajar tentang Yesus, seperti yang dilakukan Bartimeus.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan karena kamu mendapat kesempatan belajar tentang Yesus, seperti Bartimeus.

@@ -11,7 +11,7 @@ Yesus memuji dan menanggapi iman perwira itu karena imannya hidup, bukan mati. Y
 PIKIRKAN... LALU DISKUSIKAN:
 
 - Bagaimana perasaanmu, mengetahui bahwa Yesus melihat dan menanggapi imanmu kepada-Nya?
-- kamu mungkin merasa iman kamu terlalu kecil untuk diperhatikan. Apa yang bisa kamu doakan? **Bacalah Lukas 17:5.**
+- Mungkin kamu merasa imanmu terlalu kecil untuk diperhatikan. Apa yang dapat kamu doakan? **Bacalah Lukas 17:5.**
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 ^[Jumat Malam]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\

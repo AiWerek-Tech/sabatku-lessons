@@ -27,4 +27,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Mintalah anggota keluarga untuk membantu kamu menemukan denyut nadi dan menghitung berapa kali jantung kamu berdetak dalam satu menit. Denyut nadi menunjukkan bahwa seseorang masih hidup. Berlari-larilah, lalu periksa denyut nadi kamu lagi. Apa yang terjadi pada denyut nadi kamu? Ketika kita mati, denyut nadi kita berhenti. Ketika Yesus kembali, Dia akan memberi kita hidup kekal.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukurlah kepada Yesus karena Dia memiliki kuasa atas kematian dan dapat melakukan hal yang mustahil!
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan karena Yesus berkuasa atas kematian dan sanggup melakukan hal yang mustahil!

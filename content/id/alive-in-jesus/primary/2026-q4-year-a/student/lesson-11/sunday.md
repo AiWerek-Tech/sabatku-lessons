@@ -9,7 +9,7 @@ Yesus melihat kebutuhanku dan menanggapi imanku kepada-Nya.
 **“Pergilah, dan seperti yang telah kamu percayai, demikianlah akan terjadi kepadamu” (Matius 8:13).**
 
 ^[Kata Pilihan Minggu Ini—Iman:]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#b36757", "size": "xl"}}})\
-Alkitab mengatakan kepada kita bahwa “iman adalah dasar dari segala sesuatu yang kita harapkan dan bukti dari segala sesuatu yang belum kita lihat” (Ibrani 11:1). Ini berarti bahwa kita dapat mengetahui bahwa sesuatu itu nyata, meskipun kita tidak melihatnya. kamu dapat percaya bahwa Tuhan mengasihi kamu, menyelamatkan kamu, dan ingin menghabiskan kekekalan bersama kamu—kamu dapat beriman kepada-Nya!
+Alkitab mengatakan kepada kita bahwa “iman adalah dasar dari segala sesuatu yang kita harapkan dan bukti dari segala sesuatu yang belum kita lihat” (Ibrani 11:1). Ini berarti bahwa kita dapat mengetahui bahwa sesuatu itu nyata, meskipun kita tidak melihatnya. Kamu dapat percaya bahwa Tuhan mengasihi kamu, menyelamatkan kamu, dan ingin menghabiskan kekekalan bersama kamu—kamu dapat beriman kepada-Nya!
 
 {"style": {"text": {"color": "#3d8b5a", "size": "sm"}}}
 Pelajaran minggu ini didasarkan pada kisah penyembuhan hamba perwira Romawi seperti yang terdapat dalam Lukas 7:1-10 dan Matius 8:5-13. Beberapa wawasan juga diambil dari _Kerinduan Segala Zaman_, hlm. 315-318, dan _The Seventh-day Adventist Bible Commentary_, jilid 5, hlm. 752-756, untuk memperkaya pelajaran ini.
@@ -26,7 +26,7 @@ Perwira Romawi dan hambanya adalah teman yang tidak terduga. Pada masa dan tempa
 
 Perwira Romawi itu tidak hanya bersikap baik secara tak terduga kepada pelayannya—ia juga baik dan hormat kepada orang-orang Yahudi. Ini sangat tidak biasa, karena sejak Romawi menaklukkan tanah air Yahudi dan memerintah dengan kejam, Romawi dan Yahudi saling membenci. Tetapi perwira itu telah menggantikan kebencian dengan kebaikan. Ia berteman dengan tetangga-tetangga Yahudinya dan menghormati ibadah mereka. Mungkin teman-teman ini dan iman mereka dapat membantu pelayannya…
 
-Yesus kita yang penuh kasih menaruh dalam hati kita untuk berteman dengan orang-orang yang mungkin tidak kita duga akan berteman dengan mereka, seperti halnya seorang perwira Romawi yang berteman dengan budaknya. Alkitab mengingatkan kita untuk "bersikap ramah dan penuh kasih sayang satu sama lain dengan kasih persaudaraan" (Roma 12:10). Apa lagi yang Alkitab katakan tentang perbedaan kita? **Bacalah Galatia 3:28.**
+Yesus yang penuh kasih menggerakkan hati kita untuk berteman dengan orang-orang yang mungkin tidak kita sangka akan menjadi teman kita, seperti perwira Romawi yang berteman dengan hambanya. Alkitab mengingatkan kita, “Hendaklah kamu saling mengasihi sebagai saudara dan saling mendahului dalam memberi hormat” (Roma 12:10). Apa lagi yang Alkitab katakan tentang perbedaan kita? **Bacalah Galatia 3:28.**
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#7c9843", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:

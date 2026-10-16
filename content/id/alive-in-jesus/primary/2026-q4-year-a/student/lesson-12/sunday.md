@@ -9,7 +9,7 @@ Yesus dapat menghibur kita saat kita sedih, memberi kita harapan dan sukacita.
 **“Karena Aku akan mengubah ratapan mereka menjadi sukacita, akan menghibur mereka, dan akan membuat mereka bersukacita, bukan berduka cita” (Yeremia 31:13).**
 
 ^[Kata Pilihan Minggu Ini—Simpati:]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#d49e3a", "size": "xl"}}})\
-Memiliki pengertian dan kepedulian yang baik terhadap orang lain ketika mereka sedih, menderita, atau mengalami masa sulit. Misalnya, Chloe bersimpati kepada Alex ketika dia sangat sedih karena kucingnya mati.
+Memahami dan ikut peduli saat orang lain sedih, menderita, atau menghadapi masa sulit. Misalnya, Chloe menunjukkan simpati kepada Alex saat ia sangat sedih karena kucingnya mati.
 
 {"style": {"text": {"color": "#3d8b5a", "size": "sm"}}}
 Pelajaran minggu ini didasarkan pada Lukas 7:11-17; _Kerinduan Segala Zaman_, hlm. 318-320; _The Seventh-day Adventist Bible Commentary_, vol. 5, hlm. 756-758. **Bacaan Tambahan:** _The Bible Story_, vol. 7, hlm. 180-183.
@@ -41,4 +41,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Carilah sesuatu di sekitar rumah kamu atau di luar rumah yang ukurannya bisa cepat membesar: bola salju, gelembung sabun, mainan pegas, dan lain sebagainya. Tunjukkan kepada teman kamu dan jelaskan mengapa semakin banyak orang mengikuti Yesus.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukurlah kepada Tuhan bahwa kamu adalah salah satu dari semakin banyak orang yang telah mengenal dan mengikuti Yesus.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan karena kamu mengenal dan mengikuti Yesus bersama banyak orang lain.

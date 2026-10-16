@@ -1,0 +1,32 @@
+{
+  "id": "unit-resource-family",
+  "title": "Bacaan Tambahan untuk Keluarga",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "parents-letter",
+      "title": "Kepada Orang Tua Terhormat",
+      "date": "2026-09-27",
+      "file": "parents-letter.md"
+    },
+    {
+      "key": "family-devotions",
+      "title": "Renungan Pribadi untuk Anak Pratama",
+      "date": "2026-09-27",
+      "file": "family-devotions.md"
+    },
+    {
+      "key": "primary-friends",
+      "title": "Halo, Anak-anak!",
+      "date": "2026-09-27",
+      "file": "primary-friends.md"
+    },
+    {
+      "key": "music-and-podcasts",
+      "title": "Musik dan Podcast",
+      "date": "2026-09-27",
+      "file": "music-and-podcasts.md"
+    }
+  ]
+}

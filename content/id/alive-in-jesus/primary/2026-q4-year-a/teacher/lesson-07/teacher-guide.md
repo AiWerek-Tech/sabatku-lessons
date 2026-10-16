@@ -1,4 +1,4 @@
-## Putri Yairus
+## Anak Perempuan Yairus
 
 {"style": {"text": {"color": "#58B0E3"}}}
 **Referensi Alkitab**: Markus 5:21-24; 35-43; Lukas 8:40-56; Matius 9:18, 19, 23-26

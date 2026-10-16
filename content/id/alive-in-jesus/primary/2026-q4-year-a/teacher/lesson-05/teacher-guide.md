@@ -46,7 +46,7 @@ Beberapa aspek dari keyakinan mendasar berikut tercermin dalam pelajaran ini:
 {"style": {"text": {"size": "lg"}}}
 **Kata Pilihan Minggu Ini**
 
-**Kasih Sayang:** Kasih sayang adalah memperhatikan ketika orang membutuhkan bantuan atau sedang terluka, lalu ingin melakukan sesuatu untuk memperbaiki keadaan mereka.
+**Belas Kasihan:** Belas kasihan berarti menyadari saat seseorang membutuhkan bantuan atau sedang terluka, lalu tergerak untuk melakukan sesuatu agar keadaannya menjadi lebih baik.
 
 ---
 
@@ -294,15 +294,15 @@ Nyanyikan lagu doa, **“Aku Berlutut dan Berdoa.”**
 Secara berpasangan, ajak anak-anak untuk mendiskusikan satu pertanyaan masing-masing:
 
 - **Apakah ada seseorang yang menunjukkan belas kasihan kepada saya minggu lalu? Bagaimana caranya?**
-- **Apakah saya menunjukkan rasa empati kepada seseorang minggu lalu? Bagaimana caranya?**
+- **Apakah saya menunjukkan belas kasihan kepada seseorang minggu lalu? Bagaimana caranya?**
 
 **^[LAKUKAN:]({"style": {"text": {"color":"#e6b349"}}})** Game: **Pass It On**
 
-Ajak anak-anak duduk melingkar. Katakan kepada mereka bahwa Anda memiliki hadiah yang akan Anda edarkan sambil musik dimainkan. Mari kita bayangkan hadiah itu bernama "kasih sayang." Ketika musik berhenti, orang yang memegang hadiah dapat membuka satu lapisannya. Mereka akan membaca kartu mereka dalam hati dan memeragakan apa yang tertulis di dalamnya sementara anak-anak lain menebak tindakan mereka. Semua anak akan menerima hati dari tengah.
+Ajak anak-anak duduk melingkar. Katakan kepada mereka bahwa Anda memiliki hadiah yang akan Anda edarkan sambil musik dimainkan. Mari kita bayangkan hadiah itu bernama "belas kasihan." Ketika musik berhenti, orang yang memegang hadiah dapat membuka satu lapisannya. Mereka akan membaca kartu mereka dalam hati dan memeragakan apa yang tertulis di dalamnya sementara anak-anak lain menebak tindakan mereka. Semua anak akan menerima hati dari tengah.
 
 Jelaskan bahwa kisah kita minggu ini mengajarkan kita bagaimana Yesus menunjukkan belas kasih kepada orang-orang di sekitar-Nya. Kita dapat belajar dari-Nya dan menunjukkan belas kasih kepada orang lain seperti yang Dia lakukan, karena “kasih Allah adalah untuk… semua orang.”
 
-**^[MEMBACA:]({"style": {"text": {"color":"#e6b349"}}})**Bacalah Ide Utama bersama-sama: **Kasih sayang Yesus kepada semua orang menunjukkan bahwa mereka dikasihi dan diterima.**
+**^[MEMBACA:]({"style": {"text": {"color":"#e6b349"}}})**Bacalah Ide Utama bersama-sama: **Belas kasihan Yesus kepada semua orang menunjukkan bahwa mereka dikasihi dan diterima.**
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **KISAH ALKITAB** (15 MENIT)
@@ -323,7 +323,7 @@ Ajak anak yang lebih besar ke depan untuk menebak kata lain melalui sentuhan. Mi
 - **Seperti apa tantangan itu? Apakah sulit atau mudah untuk menebaknya melalui sentuhan?**
 - **Apa arti "menghargai" seseorang?** (Menghargai, menghormati, melibatkan, menerima, memperlakukan sebagai sesuatu yang istimewa dan penting.)
 - **Bagaimana orang-orang dalam kisah hari ini tahu bahwa mereka dikasihi dan dihargai oleh Yesus?** (Ia menyentuh mereka ketika orang lain tidak; Ia penuh perhatian, peduli, dan membela mereka; Ia menyembuhkan mereka; Ia membantu menumbuhkan iman mereka kepada-Nya.)
-- **Bagaimana kita bisa mulai menjadi penyayang dan penuh kasih sayang seperti Yesus?** (Angkat gambar hati Anda dari Aktivitas Fokus sebagai contoh.) (Mintalah Yesus untuk mengubah kita; luangkan waktu bersama-Nya dalam doa; belajarlah dari kisah-kisah Alkitab.)
+- **Bagaimana kita dapat menunjukkan belas kasihan seperti Yesus?** (Angkat gambar hati dari Aktivitas Fokus sebagai contoh. Ajak anak-anak meminta Yesus mengubah hati mereka, meluangkan waktu bersama-Nya dalam doa, dan belajar dari kisah-kisah Alkitab.)
 
 **Poin Pembelajaran:** Yesus menggunakan perkataan dan perbuatan-Nya untuk menunjukkan kepada orang lain bahwa mereka penting, istimewa, dan sangat berharga bagi-Nya. Ia ingin kita mengikuti teladan-Nya. Kita dapat memulainya dengan mengundang-Nya untuk memenuhi hati kita dengan kasih-Nya dan dengan meluangkan waktu bersama-Nya setiap hari.
 
@@ -374,11 +374,11 @@ Jika waktu memungkinkan, mintalah anak-anak untuk melihat di bawah kursi mereka 
 
 **^[TANTANGAN MISI:]({"style": {"text": {"color":"#a771b0"}}})**Tantangan Misi Minggu Ini adalah:** **Tindak lanjuti dengan seorang teman yang mungkin pernah mengunjungi Sekolah Sabat atau yang telah Anda ceritakan tentang Yesus. Cari tahu apa yang mungkin mereka butuhkan untuk mempelajari lebih lanjut tentang Yesus.** (Apakah mereka membutuhkan panduan belajar Alkitab, Alkitab, atau tumpangan ke gereja?) Bicaralah dengan keluarga Anda tentang bagaimana Anda dapat membantu mereka.**
 
-**^[TINJAU dan SETUJUI:]({"style": {"text": {"color":"#a771b0"}}})**Ucapkan kembali Gagasan Utama ini bersama-sama: **Kasih sayang Yesus kepada semua orang menunjukkan bahwa mereka dikasihi dan diterima.**
+**^[TINJAU dan SETUJUI:]({"style": {"text": {"color":"#a771b0"}}})**Ucapkan kembali Gagasan Utama ini bersama-sama: **Belas kasihan Yesus kepada semua orang menunjukkan bahwa mereka dikasihi dan diterima.**
 
-Angkat beberapa **kertas kado** dari Aktivitas Fokus Anda. Ingatkan anak-anak bahwa **kasih sayang itu seperti hadiah yang terus memberi**. Itu dimulai dari Tuhan, dan Dia ingin kita terus meneruskannya.
+Angkat beberapa **kertas kado** dari Aktivitas Fokus Anda. Ingatkan anak-anak bahwa **belas kasihan itu seperti hadiah yang terus mendatangkan kebaikan**. Belas kasihan berasal dari Tuhan, dan Ia ingin kita meneruskannya kepada orang lain.
 
-- **Ide-ide tentang welas asih mana dari pelajaran hari ini yang akan Anda tunjukkan kepada orang lain minggu ini?**
+- **Tindakan belas kasihan apa yang akan Anda lakukan untuk orang lain minggu ini?**
 
 **^[BERDOA:]({"style": {"text": {"color":"#a771b0"}}})** Nyanyikan lagu “Semoga Tuhan menyertaimu.”** Kemudian berdoalah bersama anak-anak Anda dan mintalah Tuhan untuk membantu setiap dari mereka menunjukkan belas kasih kepada orang lain minggu ini, dengan menelaah kasih Yesus.
 

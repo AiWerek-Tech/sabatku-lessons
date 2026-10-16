@@ -1,4 +1,4 @@
-## “Lazarus, Keluarlah”
+## “Lazarus, Keluarlah!”
 
 {"style": {"text": {"color": "#58B0E3"}}}
 **Referensi Alkitab**: Yohanes 11:1-44
@@ -385,7 +385,7 @@ Kemudian, buka penutup gambar dan beri anak-anak waktu untuk melihatnya dengan s
 
 Ajak anak-anak untuk menggulingkan batu di atas kerajinan mereka, dan jika mereka mau, ucapkan doa **“Terima Kasih, Yesus!”**
 
-**^[BERDOA:]({"style": {"text": {"color":"#a771b0"}}})** Nyanyikan lagu penutup, **“Semoga Tuhan menyertai Anda.”** Kemudian berdoalah bersama anak-anak Anda dan ucapkan terima kasih kepada Tuhan karena Dia memiliki kuasa atas kematian. Bersyukurlah kepada-Nya karena kita dapat menantikan kekekalan bersama-Nya dan sekali lagi bertemu dengan teman dan keluarga yang telah meninggal karena percaya kepada-Nya.
+**^[BERDOA:]({"style": {"text": {"color":"#a771b0"}}})** Nyanyikan lagu penutup, **“Semoga Tuhan Menyertaimu.”** Kemudian berdoalah bersama anak-anak dan bersyukurlah kepada Tuhan atas kuasa-Nya atas kematian. Kita juga dapat bersyukur karena kelak kita akan hidup bersama-Nya selamanya dan berjumpa kembali dengan keluarga serta teman-teman yang meninggal dalam iman kepada-Nya.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3] Semoga Tuhan menyertaimu {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 

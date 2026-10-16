@@ -20,4 +20,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Buatlah adonan lumpur atau garam, lalu pipihkan menjadi lingkaran. Gunakan tongkat untuk menggambar wajah tersenyum di lumpur yang masih basah. Biarkan mengering di tempat yang hangat. Ceritakan kisah minggu ini kepada anggota keluarga menggunakan wajah kamu yang sudah kering.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Puji Tuhan atas orang tua dan orang dewasa yang mendidikmu dengan penuh kasih sayang.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Puji Tuhan atas orang tua dan orang dewasa yang mendidikmu dengan penuh belas kasihan.

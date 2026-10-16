@@ -26,4 +26,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Cobalah makan malam sambil menutup mata. Kemudian bagikan apa yang kamu pelajari hari ini tentang kebohongan Setan.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Syukur kepada Tuhan atas belas kasih-Nya, dan karena dengan sabar dan penuh kasih mengajari kita kebenaran tentang Dia.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Bersyukurlah kepada Tuhan atas belas kasih-Nya, dan karena dengan sabar dan penuh kasih mengajari kita kebenaran tentang Dia.

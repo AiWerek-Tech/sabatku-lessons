@@ -72,7 +72,7 @@ Anak-anak akan:
 {"style": {"text": {"color": "#58b0e3"}}}
 **Kepada Guru Sekolah Sabat yang terhormat,**
 
-Hari Sabat. Ini adalah waktu istirahat dari kesibukan seminggu, waktu untuk melepaskan diri dari tekanan pekerjaan—waktu yang diberkati yang dikhususkan oleh Pencipta kita untuk-Nya. Ini adalah hari di mana Tuhan dapat menjadi fokus kita. Ini juga merupakan waktu untuk menyegarkan diri setiap minggu sebelum kita melanjutkan ke minggu yang sibuk berikutnya. Tuhan tahu kita akan membutuhkannya untuk kesehatan kita dan untuk keluarga kita. Waktu suci ini adalah berkat yang luar biasa dari-Nya.
+Hari Sabat adalah waktu untuk beristirahat dari kesibukan sepanjang pekan dan melepaskan diri sejenak dari tekanan pekerjaan—waktu istimewa yang ditetapkan Pencipta kita untuk bersekutu dengan-Nya. Pada hari ini, kita dapat memusatkan perhatian kepada Tuhan. Sabat juga menyegarkan kita sebelum kembali menjalani pekan yang sibuk. Tuhan tahu bahwa kita memerlukan waktu ini demi kesehatan dan keluarga kita. Waktu yang suci ini adalah berkat yang luar biasa dari-Nya.
 
 Seperti halnya segala kebaikan yang diberikan Allah kepada kita, Setan telah berusaha untuk menghancurkan atau memutarbalikkan karunia Sabat. Selama berabad-abad musuh telah bekerja tanpa lelah untuk menjauhkan manusia dari kebenaran Sabat, dan pada akhirnya menjauhkan mereka dari Kristus. Ia ingin kita berpikir bahwa ini tentang menaati aturan-aturan tertentu; ia ingin kita berpikir bahwa Allah membatasi kita, padahal sebenarnya, Yesus berkata kepada kita, “Dan kamu akan mengenal kebenaran, dan kebenaran itu akan membebaskan kamu” (Yohanes 8:32).
 
