@@ -1,0 +1,50 @@
+{
+  "id": "lesson-12",
+  "title": "Mukjizat di Nain",
+  "startDate": "2026-12-13",
+  "endDate": "2026-12-19",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Mukjizat di Nain",
+      "date": "2026-12-13",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Pemandangan yang Menyedihkan",
+      "date": "2026-12-14",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Dua Kelompok Bertemu",
+      "date": "2026-12-15",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Bangkitlah!",
+      "date": "2026-12-16",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Kuasa atas Maut",
+      "date": "2026-12-17",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Mata yang Memperhatikan",
+      "date": "2026-12-18",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Ayahku",
+      "date": "2026-12-19",
+      "file": "sabbath.md"
+    }
+  ]
+}

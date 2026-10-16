@@ -1,0 +1,14 @@
+{
+  "id": "lesson-11",
+  "title": "Pelayan Sang Perwira",
+  "startDate": "2026-12-06",
+  "endDate": "2026-12-12",
+  "readings": [
+    {
+      "key": "teacher-guide",
+      "title": "Panduan Guru · Pelayan Sang Perwira",
+      "date": "2026-12-12",
+      "file": "teacher-guide.md"
+    }
+  ]
+}

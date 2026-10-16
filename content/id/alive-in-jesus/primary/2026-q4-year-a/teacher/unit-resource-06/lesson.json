@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-06",
+  "title": "Musik",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "resource",
+      "title": "Musik",
+      "date": "2026-09-27",
+      "file": "resource.md"
+    }
+  ]
+}

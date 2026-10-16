@@ -1,0 +1,50 @@
+{
+  "id": "lesson-07",
+  "title": "Anak Perempuan Yairus",
+  "startDate": "2026-11-08",
+  "endDate": "2026-11-14",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Anak Perempuan Yairus",
+      "date": "2026-11-08",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Seorang Anak Perempuan yang Sangat Sakit",
+      "date": "2026-11-09",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Berita Besar",
+      "date": "2026-11-10",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Rumah Kesedihan",
+      "date": "2026-11-11",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Jantung Berdetak Lagi",
+      "date": "2026-11-12",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Rumah Sukacita",
+      "date": "2026-11-13",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Jantungmu yang Berdetak",
+      "date": "2026-11-14",
+      "file": "sabbath.md"
+    }
+  ]
+}

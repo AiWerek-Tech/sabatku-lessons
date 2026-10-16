@@ -1,0 +1,14 @@
+{
+  "id": "lesson-12",
+  "title": "Mukjizat di Nain",
+  "startDate": "2026-12-13",
+  "endDate": "2026-12-19",
+  "readings": [
+    {
+      "key": "teacher-guide",
+      "title": "Panduan Guru · Mukjizat di Nain",
+      "date": "2026-12-19",
+      "file": "teacher-guide.md"
+    }
+  ]
+}

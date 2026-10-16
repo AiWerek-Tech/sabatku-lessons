@@ -1,0 +1,50 @@
+{
+  "id": "lesson-06",
+  "title": "Sentuhan yang Menyembuhkan",
+  "startDate": "2026-11-01",
+  "endDate": "2026-11-07",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Sentuhan yang Menyembuhkan",
+      "date": "2026-11-01",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Terus Mengikuti Yesus",
+      "date": "2026-11-02",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Menjangkau",
+      "date": "2026-11-03",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "“Siapa yang Menyentuh Pakaianku?”",
+      "date": "2026-11-04",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Seorang Anak Perempuan Allah",
+      "date": "2026-11-05",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Terima kasih",
+      "date": "2026-11-06",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Paket Hadiah untuk Orang Sakit",
+      "date": "2026-11-07",
+      "file": "sabbath.md"
+    }
+  ]
+}

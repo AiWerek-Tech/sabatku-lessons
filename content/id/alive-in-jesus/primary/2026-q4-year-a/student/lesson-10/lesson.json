@@ -1,0 +1,50 @@
+{
+  "id": "lesson-10",
+  "title": "Bartimeus yang Tidak Dapat Melihat",
+  "startDate": "2026-11-29",
+  "endDate": "2026-12-05",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Bartimeus yang Tidak Dapat Melihat",
+      "date": "2026-11-29",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Itu Yesus!",
+      "date": "2026-11-30",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Jangan pernah menyerah!",
+      "date": "2026-12-01",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Pertemuan yang Menggembirakan",
+      "date": "2026-12-02",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Di tengah keramaian",
+      "date": "2026-12-03",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Mengikuti Yesus",
+      "date": "2026-12-04",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Memahami Kebutaan",
+      "date": "2026-12-05",
+      "file": "sabbath.md"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-04",
+  "title": "Kartu Karakter",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "resource",
+      "title": "Kartu Karakter",
+      "date": "2026-09-27",
+      "file": "resource.md"
+    }
+  ]
+}

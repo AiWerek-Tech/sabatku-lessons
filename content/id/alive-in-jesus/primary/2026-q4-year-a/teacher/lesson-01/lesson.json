@@ -1,0 +1,14 @@
+{
+  "id": "lesson-01",
+  "title": "Yesus Menenangkan Badai",
+  "startDate": "2026-09-27",
+  "endDate": "2026-10-03",
+  "readings": [
+    {
+      "key": "teacher-guide",
+      "title": "Panduan Guru · Yesus Menenangkan Badai",
+      "date": "2026-10-03",
+      "file": "teacher-guide.md"
+    }
+  ]
+}

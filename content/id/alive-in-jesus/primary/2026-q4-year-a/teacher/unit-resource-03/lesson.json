@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-03",
+  "title": "Sumber Kerajinan",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "resource",
+      "title": "Sumber Kerajinan",
+      "date": "2026-09-27",
+      "file": "resource.md"
+    }
+  ]
+}

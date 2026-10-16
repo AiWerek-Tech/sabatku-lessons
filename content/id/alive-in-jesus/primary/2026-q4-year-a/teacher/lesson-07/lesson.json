@@ -1,0 +1,14 @@
+{
+  "id": "lesson-07",
+  "title": "Putri Yairus",
+  "startDate": "2026-11-08",
+  "endDate": "2026-11-14",
+  "readings": [
+    {
+      "key": "teacher-guide",
+      "title": "Panduan Guru · Putri Yairus",
+      "date": "2026-11-14",
+      "file": "teacher-guide.md"
+    }
+  ]
+}

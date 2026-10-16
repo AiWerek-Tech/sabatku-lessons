@@ -1,0 +1,14 @@
+{
+  "id": "lesson-02",
+  "title": "Disembuhkan dari Jauh",
+  "startDate": "2026-10-04",
+  "endDate": "2026-10-10",
+  "readings": [
+    {
+      "key": "teacher-guide",
+      "title": "Panduan Guru · Disembuhkan dari Jauh",
+      "date": "2026-10-10",
+      "file": "teacher-guide.md"
+    }
+  ]
+}

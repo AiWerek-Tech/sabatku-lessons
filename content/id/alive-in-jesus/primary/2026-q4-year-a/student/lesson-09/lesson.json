@@ -1,0 +1,50 @@
+{
+  "id": "lesson-09",
+  "title": "Disembuhkan di Kolam Bethesda",
+  "startDate": "2026-11-22",
+  "endDate": "2026-11-28",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Disembuhkan di Kolam Bethesda",
+      "date": "2026-11-22",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Bertemu dengan Yesus",
+      "date": "2026-11-23",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Keajaiban yang Tak Terduga",
+      "date": "2026-11-24",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Siapa yang menyembuhkanmu?",
+      "date": "2026-11-25",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Ucapan Syukur di Bait Suci",
+      "date": "2026-11-26",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Mengasihi Sesama",
+      "date": "2026-11-27",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Keindahan dari Dalam",
+      "date": "2026-11-28",
+      "file": "sabbath.md"
+    }
+  ]
+}

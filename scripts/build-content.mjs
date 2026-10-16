@@ -1,6 +1,7 @@
 import { buildPowerpoints } from './build-powerpoints.mjs';
 import { buildRealtimeFaith } from './build-realtime-faith.mjs';
 import { buildCornerstone } from './build-cornerstone.mjs';
+import { buildAliveInJesus } from './build-alive-in-jesus.mjs';
 import { readFile, readdir, mkdir, rm, writeFile, cp } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -446,6 +447,11 @@ async function main() {
   const realtimeFaithEditions = realtimeFaith.editions;
   published.push(...realtimeFaith.published);
   assetDirectories.push(...realtimeFaith.assetDirectories);
+  const aliveInJesus = await buildAliveInJesus(sourceRoot,outputRoot);
+  const aliveInJesusEditions = aliveInJesus.editions;
+  const aliveInJesusPublications = aliveInJesusEditions.flatMap(program => program.editions);
+  published.push(...aliveInJesus.published);
+  assetDirectories.push(...aliveInJesus.assetDirectories);
   const programMetadata = {
     powerpoints: {audienceCategory: "children-youth", ageRange: {min:10,max:14,unit:"years"},programRole:"curriculum",audienceLabel:{id:"Junior/Earliteen",en:"Junior/Earliteen"}},
     cornerstone: {audienceCategory: 'children-youth', ageRange: {min:15,max:18,unit:'years'},programRole:'curriculum',audienceLabel:{id:'Remaja',en:'Youth'}},
@@ -463,13 +469,27 @@ async function main() {
       audienceLabel: { id: 'Pemuda Dewasa', en: 'Youth Adult' }
     }
   };
-  const withAudience = program => ({ ...program, ...programMetadata[program.id] });
+  const withAudience = program => {
+    const aliveEdition=program.editions?.find(edition=>edition.trackId);
+    const inferredMetadata=aliveEdition ? {
+      audienceCategory:'children-youth',ageRange:aliveInJesusAgeRange(aliveEdition.trackId),programRole:'curriculum',
+      audienceLabel:{id:aliveInJesusTrackLabel(aliveEdition.trackId),en:aliveInJesusTrackLabel(aliveEdition.trackId)},
+    } : {};
+    return { ...program, ...inferredMetadata, ...programMetadata[program.id] };
+  };
   // Keep downloaded edition and lesson documents self-describing, not only the catalog index.
-  for (const edition of [...editions, ...egwEditions, ...inverseEditions, ...cornerstoneEditions, ...powerpointsEditions, ...realtimeFaithEditions]) {
-    Object.assign(edition, programMetadata[edition.programId]);
+  for (const edition of [...editions, ...egwEditions, ...inverseEditions, ...cornerstoneEditions, ...powerpointsEditions, ...realtimeFaithEditions, ...aliveInJesusPublications]) {
+    Object.assign(edition, programMetadata[edition.programId] ?? {
+      audienceCategory: 'children-youth', ageRange: aliveInJesusAgeRange(edition.trackId), programRole: 'curriculum',
+      audienceLabel: { id: aliveInJesusTrackLabel(edition.trackId), en: aliveInJesusTrackLabel(edition.trackId) },
+    });
   }
   for (const document of published) {
-    Object.assign(document.value, programMetadata[document.value.programId]);
+    const edition = aliveInJesusPublications.find(item => item.id === document.value.editionId || item.id === document.value.id);
+    Object.assign(document.value, programMetadata[document.value.programId] ?? (edition ? {
+      audienceCategory: 'children-youth', ageRange: aliveInJesusAgeRange(edition.trackId), programRole: 'curriculum',
+      audienceLabel: { id: aliveInJesusTrackLabel(edition.trackId), en: aliveInJesusTrackLabel(edition.trackId) },
+    } : {}));
   }
   const catalog = {
     schemaVersion: 'sabatku-lessons-catalog-v1',
@@ -481,14 +501,17 @@ async function main() {
       ...(inverseEditions.length ? [withAudience({ id: 'inverse', locale: 'id', title: 'InVerse · Pemuda Dewasa', editions: inverseEditions })] : []),
       ...(cornerstoneEditions.length ? [withAudience({id:'cornerstone',locale:'id',title:'Cornerstone Connections · Remaja',editions:cornerstoneEditions})] : []),
       ...(powerpointsEditions.length ? [withAudience({id:"powerpoints",locale:"id",title:"Junior PowerPoints",editions:powerpointsEditions})] : []),
-      ...(realtimeFaithEditions.length ? [withAudience({id:'realtime-faith',locale:'id',title:'Real-Time Faith · Teen',editions:realtimeFaithEditions})] : [])
+      ...(realtimeFaithEditions.length ? [withAudience({id:'realtime-faith',locale:'id',title:'Real-Time Faith · Teen',editions:realtimeFaithEditions})] : []),
+      ...aliveInJesusEditions.map(program => withAudience(program))
     ]
   };
 
   // Keep metadata changes separate from reading-content revisions. Titles and dates
   // are published in this small manifest, so they can change without re-downloading text.
   const publishedByPath = new Map(published.map(document => [document.path, document]));
-  for (const document of published) document.value.assetRevisions = await documentAssetRevisions(document, assetDirectories);
+  for (const document of published) {
+    if (!document.value.assetRevisions) document.value.assetRevisions = await documentAssetRevisions(document, assetDirectories);
+  }
   for (const document of published) {
     if (!/^editions\/[^/]+\/index\.json$/.test(document.path) || !Array.isArray(document.value.lessons)) continue;
     for (const lesson of document.value.lessons) {
@@ -503,7 +526,7 @@ async function main() {
 
   const checkOnly = process.argv.includes('--check');
   if (checkOnly) {
-    console.log(`Valid: ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length + powerpointsEditions.length + realtimeFaithEditions.length} published edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length - powerpointsEditions.length - realtimeFaithEditions.length} lesson document(s), ${supplementPublications.resourceCount} published supplement resource(s).`);
+    console.log(`Valid: ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length + powerpointsEditions.length + realtimeFaithEditions.length + aliveInJesusEditions.reduce((sum, program) => sum + program.editions.length, 0)} published edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length - powerpointsEditions.length - realtimeFaithEditions.length - aliveInJesusEditions.reduce((sum, program) => sum + program.editions.length, 0)} lesson document(s), ${supplementPublications.resourceCount} published supplement resource(s).`);
     return;
   }
 
@@ -521,7 +544,15 @@ async function main() {
     catch (error) { if (error.code !== 'ENOENT') throw error; }
   }
   await writeFile(path.join(outputRoot, '.nojekyll'), '', 'utf8');
-  console.log(`Built ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length + powerpointsEditions.length + realtimeFaithEditions.length} edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length - powerpointsEditions.length - realtimeFaithEditions.length} lesson document(s), and ${supplementPublications.resourceCount} supplement resource(s) into public/.`);
+  console.log(`Built ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length + powerpointsEditions.length + realtimeFaithEditions.length + aliveInJesusEditions.reduce((sum, program) => sum + program.editions.length, 0)} edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length - powerpointsEditions.length - realtimeFaithEditions.length - aliveInJesusEditions.reduce((sum, program) => sum + program.editions.length, 0)} lesson document(s), and ${supplementPublications.resourceCount} supplement resource(s) into public/.`);
+}
+
+function aliveInJesusAgeRange(trackId) {
+  return ({ babies: { min: 0, max: 12, unit: 'months' }, beginner: { min: 1, max: 3, unit: 'years' }, kindergarten: { min: 4, max: 6, unit: 'years' }, primary: { min: 7, max: 9, unit: 'years' }, junior: { min: 10, max: 12, unit: 'years' }, teen: { min: 13, max: 14, unit: 'years' }, youth: { min: 15, max: 18, unit: 'years' } })[trackId] ?? null;
+}
+
+function aliveInJesusTrackLabel(trackId) {
+  return ({ babies: 'Baby Steps', beginner: 'Beginners', kindergarten: 'Kindergarten', primary: 'Primary', junior: 'Junior', teen: 'Teen', youth: 'Youth' })[trackId] ?? trackId;
 }
 
 main().catch(error => { console.error(error.message); process.exitCode = 1; });

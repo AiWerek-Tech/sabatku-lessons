@@ -1,0 +1,137 @@
+{
+  "id": "2026-q4-aij-primary-teacher",
+  "programId": "alive-in-jesus-pr-pb",
+  "locale": "id",
+  "trackId": "primary",
+  "cycleId": "year-a",
+  "bookRole": "teacher-guide",
+  "structureType": "track-specific-companion-resource",
+  "dayOrder": null,
+  "title": "Alive in Jesus · Primary · Panduan Guru · Triwulan IV 2026",
+  "description": "Alive in Jesus · Primary · Tahun A · Triwulan IV 2026",
+  "theme": "Yesus Dapat Melakukan Segala Sesuatu",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "cover": "editions/2026-q4-aij-primary-teacher/assets/cover.png",
+  "sourceName": "Alive in Jesus · Primary",
+  "sourceUrl": "https://primary.aliveinjesus.info/teachers",
+  "attribution": "© 2026 General Conference of Seventh-day Adventists®. Edisi Bahasa Indonesia diterjemahkan oleh tim SabatKu.",
+  "rightsStatement": "Terjemahan tim SabatKu. Hak atas materi sumber tetap pada pemiliknya.",
+  "publicationStatus": "published",
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "title": "Yesus Menenangkan Badai",
+      "startDate": "2026-09-27",
+      "endDate": "2026-10-03"
+    },
+    {
+      "id": "lesson-02",
+      "title": "Disembuhkan dari Jauh",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-10"
+    },
+    {
+      "id": "lesson-03",
+      "title": "Pria dengan Empat Sahabat yang Penuh Iman",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-17"
+    },
+    {
+      "id": "lesson-04",
+      "title": "Yesus Berjalan di Atas Air",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-24"
+    },
+    {
+      "id": "lesson-05",
+      "title": "Yesus Menunjukkan Belas Kasih",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-31"
+    },
+    {
+      "id": "lesson-06",
+      "title": "Sentuhan Penyembuhan",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-07"
+    },
+    {
+      "id": "lesson-07",
+      "title": "Putri Yairus",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-14"
+    },
+    {
+      "id": "lesson-08",
+      "title": "Penyembuhan di Hari Sabat",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-21"
+    },
+    {
+      "id": "lesson-09",
+      "title": "Disembuhkan di Kolam Bethesda",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-28"
+    },
+    {
+      "id": "lesson-10",
+      "title": "Bartimeus yang Buta",
+      "startDate": "2026-11-29",
+      "endDate": "2026-12-05"
+    },
+    {
+      "id": "lesson-11",
+      "title": "Pelayan Sang Perwira",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-12"
+    },
+    {
+      "id": "lesson-12",
+      "title": "Mukjizat di Nain",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-19"
+    },
+    {
+      "id": "lesson-13",
+      "title": "“Lazarus, Keluarlah”",
+      "startDate": "2026-12-20",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-01",
+      "title": "Tentang Kurikulum Primary",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-02",
+      "title": "Tips Menceritakan Kisah Alkitab",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-03",
+      "title": "Sumber Kerajinan",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-04",
+      "title": "Kartu Karakter",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-05",
+      "title": "Fakta Misi",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-06",
+      "title": "Musik",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    }
+  ]
+}

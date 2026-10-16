@@ -1,0 +1,50 @@
+{
+  "id": "lesson-04",
+  "title": "Yesus Berjalan di Atas Air",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-24",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Yesus Berjalan di Atas Air",
+      "date": "2026-10-18",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Rencana Gagal Total",
+      "date": "2026-10-19",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Terjebak dalam Badai",
+      "date": "2026-10-20",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Jangan Takut",
+      "date": "2026-10-21",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Berjalan di Atas Air",
+      "date": "2026-10-22",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Berfokus pada Yesus",
+      "date": "2026-10-23",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Si Pejalan di Atas Air",
+      "date": "2026-10-24",
+      "file": "sabbath.md"
+    }
+  ]
+}

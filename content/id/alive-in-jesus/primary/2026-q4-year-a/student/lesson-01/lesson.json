@@ -1,0 +1,50 @@
+{
+  "id": "lesson-01",
+  "title": "Yesus Menenangkan Badai",
+  "startDate": "2026-09-27",
+  "endDate": "2026-10-03",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Yesus Menenangkan Badai",
+      "date": "2026-09-27",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Istirahat dan Tidur",
+      "date": "2026-09-28",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Kilat... Guntur... Debur!",
+      "date": "2026-09-29",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Damai Sejahtera yang Sempurna",
+      "date": "2026-09-30",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Tenanglah, Diamlah!",
+      "date": "2026-10-01",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Damai yang Dibagikan",
+      "date": "2026-10-02",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Doa Mendesak Joao",
+      "date": "2026-10-03",
+      "file": "sabbath.md"
+    }
+  ]
+}

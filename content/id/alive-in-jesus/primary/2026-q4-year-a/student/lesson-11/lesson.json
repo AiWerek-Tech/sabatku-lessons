@@ -1,0 +1,50 @@
+{
+  "id": "lesson-11",
+  "title": "Hamba Seorang Perwira",
+  "startDate": "2026-12-06",
+  "endDate": "2026-12-12",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Hamba Seorang Perwira",
+      "date": "2026-12-06",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Iman Bertumbuh",
+      "date": "2026-12-07",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Merasa Tidak Layak",
+      "date": "2026-12-08",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Cukup Ucapkan Sepatah Kata",
+      "date": "2026-12-09",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Iman yang Besar!",
+      "date": "2026-12-10",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Iman dalam Tindakan",
+      "date": "2026-12-11",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Tuhan Menumbuhkan Sebuah Mukjizat",
+      "date": "2026-12-12",
+      "file": "sabbath.md"
+    }
+  ]
+}

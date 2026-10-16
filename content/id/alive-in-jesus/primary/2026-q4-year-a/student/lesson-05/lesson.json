@@ -1,0 +1,50 @@
+{
+  "id": "lesson-05",
+  "title": "Yesus Menunjukkan Belas Kasih",
+  "startDate": "2026-10-25",
+  "endDate": "2026-10-31",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Yesus Menunjukkan Belas Kasih",
+      "date": "2026-10-25",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Sentuhan Penyembuhan",
+      "date": "2026-10-26",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Telinga untuk Mendengar, Lidah untuk Berbicara",
+      "date": "2026-10-27",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Kebutaan Rohani",
+      "date": "2026-10-28",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "“Aku Percaya!”",
+      "date": "2026-10-29",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Meneruskan Belas Kasih",
+      "date": "2026-10-30",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Seni dan Kerajinan",
+      "date": "2026-10-31",
+      "file": "sabbath.md"
+    }
+  ]
+}

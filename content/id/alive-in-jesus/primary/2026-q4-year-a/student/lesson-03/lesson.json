@@ -1,0 +1,50 @@
+{
+  "id": "lesson-03",
+  "title": "Seorang Pria dan Empat Sahabat yang Beriman",
+  "startDate": "2026-10-11",
+  "endDate": "2026-10-17",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Seorang Pria dan Empat Sahabat yang Beriman",
+      "date": "2026-10-11",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Harapan Bertumbuh",
+      "date": "2026-10-12",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Empat Sahabat yang Beriman",
+      "date": "2026-10-13",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Dosamu Sudah Diampuni!",
+      "date": "2026-10-14",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Diampuni dan Disembuhkan!",
+      "date": "2026-10-15",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Rumah yang Penuh Pujian",
+      "date": "2026-10-16",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Membimbing Teman-teman kepada Yesus",
+      "date": "2026-10-17",
+      "file": "sabbath.md"
+    }
+  ]
+}
