@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-10-18",
+  "method": "HTTP HEAD",
+  "assetCount": 302,
+  "unavailable": [],
+  "roles": {
+    "student": {
+      "images": 111,
+      "audio": 25,
+      "imageBytesIncludingCover": 25108628
+    },
+    "teacher": {
+      "images": 144,
+      "audio": 48,
+      "imageBytesIncludingCover": 47957046
+    }
+  }
+}

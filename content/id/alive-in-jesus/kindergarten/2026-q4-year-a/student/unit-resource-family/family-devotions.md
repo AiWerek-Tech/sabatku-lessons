@@ -1,0 +1,14 @@
+Salah satu keterampilan hidup terpenting yang dapat Anda ajarkan kepada anak Anda adalah mencari Tuhan setiap hari dalam ibadah pribadi. Meskipun anak Anda baru berusia 4, 5, atau 6 tahun, belum terlalu dini untuk mulai mengajarkannya melalui langkah-langkah sederhana.
+
+**Bagaimana cara saya mengajari anak Kindergarten saya untuk mengarahkan hatinya kepada Yesus?**
+
+1. **BERDOA**: Setiap hari, doakan agar hati anak Anda terbuka kepada Yesus dan agar pikirannya memahami kisah-kisah Alkitab yang Anda bacakan.
+2. **DALAM MOMEN SEHARI-HARI**: Temukan cara untuk berbicara tentang Yesus dalam momen sehari-hari—di alam terbuka, saat Anda memasak, dan saat Anda mengajari mereka berinteraksi dengan orang lain. Yang terpenting, carilah cara yang tulus untuk berbicara tentang bagaimana Anda mengasihi Yesus dalam momen-momen harian Anda bersama.
+3. **TEMPAT IBADAH ANDA**: Pilih kursi, ambang jendela, atau tempat tetap di mana Anda akan membaca Alkitab dan berdoa setiap hari. Lakukan ini di bagian rumah yang terlihat, seperti ruang keluarga, agar anak Anda melihat Anda meluangkan waktu bersama Yesus.
+4. **TEMPAT IBADAH ANAK ANDA**: Buatlah tempat khusus bagi anak Anda untuk menghabiskan waktu bersama Yesus setiap hari (pada waktu yang sama dengan Anda). Pastikan mainan atau hal-hal yang mengalihkan perhatian lainnya disingkirkan dari dekatnya, dan anak Anda tidak lapar atau lelah pada saat itu.
+5. **WAKTU BERSAMA YESUS**: Jelaskan kepada anak Anda bahwa setiap hari, pada waktu yang tetap, Anda berdua akan meluangkan waktu bersama Yesus. Sampaikan bahwa ketika Ibu/Ayah meluangkan waktu bersama Yesus, mereka juga akan meluangkan waktu bersama Yesus. Pada waktu ini, Anda dan anak tidak mengobrol atau membaca cerita bersama, sebab masing-masing meluangkan waktu pribadi bersama Yesus. Berikan contoh dan jelaskan langkah-langkah sederhana ini:
+- Panjatkan doa singkat bersama anak Anda.
+- Dorong anak Anda untuk melihat Alkitab bergambar dan merenungkan kisah-kisahnya serta apa yang diceritakan tentang Tuhan.
+- Ajak anak Anda untuk bernyanyi atau berdoa kepada Yesus setelah lima hingga tujuh menit untuk mengakhiri waktu renungan pribadi mereka. Anda dapat menambah waktu ini seiring bertambahnya usia anak Anda.
+
+**“Hendaklah anak-anak muda [anak-anak dan remaja] diajarkan untuk mencintai studi Alkitab. Hendaklah tempat pertama dalam pikiran dan kasih sayang kita diberikan kepada Kitab Suci, karena di dalamnya terdapat pengetahuan yang kita butuhkan di atas segalanya. . . . Untuk melakukan pekerjaan ini, orang tua sendiri harus mengenal Firman Tuhan. . . . Dan alih-alih mengucapkan kata-kata yang sia-sia dan menceritakan kisah-kisah kosong kepada anak-anak mereka, mereka akan berbicara dengan mereka tentang hal-hal yang berkaitan dengan Alkitab”** (Ellen G. White, _Child Guidance_, hlm. 513).

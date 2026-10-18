@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-storytelling",
+  "title": "Petunjuk Bercerita",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "resource",
+      "title": "Petunjuk Bercerita",
+      "date": "2026-09-27",
+      "file": "resource.md"
+    }
+  ]
+}

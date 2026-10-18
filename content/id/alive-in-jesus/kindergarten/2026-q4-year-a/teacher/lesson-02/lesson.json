@@ -1,0 +1,56 @@
+{
+  "id": "lesson-02",
+  "title": "“Kumohon, Sembuhkanlah Anakku”",
+  "startDate": "2026-10-04",
+  "endDate": "2026-10-10",
+  "readings": [
+    {
+      "key": "overview",
+      "title": "Ikhtisar Pelajaran",
+      "date": "2026-10-10",
+      "file": "overview.md"
+    },
+    {
+      "key": "a-quiet-moment",
+      "title": "Saat Teduh Guru",
+      "date": "2026-10-10",
+      "file": "a-quiet-moment.md"
+    },
+    {
+      "key": "simple-program-outline",
+      "title": "Garis Besar Program",
+      "date": "2026-10-10",
+      "file": "simple-program-outline.md"
+    },
+    {
+      "key": "program-preparation",
+      "title": "Persiapan Program",
+      "date": "2026-10-10",
+      "file": "program-preparation.md"
+    },
+    {
+      "key": "full-program-outline",
+      "title": "Program Lengkap",
+      "date": "2026-10-10",
+      "file": "full-program-outline.md"
+    },
+    {
+      "key": "tell-the-story",
+      "title": "Ceritakan Kisahnya",
+      "date": "2026-10-10",
+      "file": "tell-the-story.md"
+    },
+    {
+      "key": "nature-lesson",
+      "title": "Pelajaran Alam",
+      "date": "2026-10-10",
+      "file": "nature-lesson.md"
+    },
+    {
+      "key": "craft",
+      "title": "Kerajinan",
+      "date": "2026-10-10",
+      "file": "craft.md"
+    }
+  ]
+}

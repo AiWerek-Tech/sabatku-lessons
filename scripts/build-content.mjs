@@ -11,7 +11,7 @@ import { buildSupplements } from './build-supplements.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const sourceRoot = path.join(root, 'content');
-const outputRoot = path.join(root, 'public');
+const outputRoot = path.join(root, process.argv.includes('--preview-drafts') ? 'public-preview' : 'public');
 const dayOrder = ['sabbath', 'sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday'];
 const datePattern = /^\d{4}-\d{2}-\d{2}$/;
 const idPattern = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
@@ -447,7 +447,7 @@ async function main() {
   const realtimeFaithEditions = realtimeFaith.editions;
   published.push(...realtimeFaith.published);
   assetDirectories.push(...realtimeFaith.assetDirectories);
-  const aliveInJesus = await buildAliveInJesus(sourceRoot,outputRoot);
+  const aliveInJesus = await buildAliveInJesus(sourceRoot,outputRoot,{ includeDrafts: process.argv.includes('--preview-drafts') });
   const aliveInJesusEditions = aliveInJesus.editions;
   const aliveInJesusPublications = aliveInJesusEditions.flatMap(program => program.editions);
   published.push(...aliveInJesus.published);
@@ -584,7 +584,7 @@ async function main() {
     catch (error) { if (error.code !== 'ENOENT') throw error; }
   }
   await writeFile(path.join(outputRoot, '.nojekyll'), '', 'utf8');
-  console.log(`Built ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length + powerpointsEditions.length + realtimeFaithEditions.length + aliveInJesusEditions.reduce((sum, program) => sum + program.editions.length, 0)} edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length - powerpointsEditions.length - realtimeFaithEditions.length - aliveInJesusEditions.reduce((sum, program) => sum + program.editions.length, 0)} lesson document(s), and ${supplementPublications.resourceCount} supplement resource(s) into public/.`);
+  console.log(`Built ${editions.length + egwEditions.length + inverseEditions.length + cornerstoneEditions.length + powerpointsEditions.length + realtimeFaithEditions.length + aliveInJesusEditions.reduce((sum, program) => sum + program.editions.length, 0)} edition(s), ${published.length - editions.length - egwEditions.length - inverseEditions.length - cornerstoneEditions.length - powerpointsEditions.length - realtimeFaithEditions.length - aliveInJesusEditions.reduce((sum, program) => sum + program.editions.length, 0)} lesson document(s), and ${supplementPublications.resourceCount} supplement resource(s) into ${path.relative(root, outputRoot)}/.`);
 }
 
 function aliveInJesusAgeRange(trackId) {

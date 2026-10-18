@@ -1,0 +1,50 @@
+{
+  "id": "lesson-08",
+  "title": "Selamat Hari Sabat",
+  "startDate": "2026-11-15",
+  "endDate": "2026-11-21",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Selamat Hari Sabat",
+      "date": "2026-11-15",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Tangan yang Sembuh",
+      "date": "2026-11-16",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Seorang Wanita dengan Sakit Punggung",
+      "date": "2026-11-17",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Pandangan Baru",
+      "date": "2026-11-18",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Sentuhan Penyembuhan",
+      "date": "2026-11-19",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Sebuah Karunia dari Tuhan",
+      "date": "2026-11-20",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Aktivitas Senyum Bahagia",
+      "date": "2026-11-21",
+      "file": "sabbath.md"
+    }
+  ]
+}

@@ -1,0 +1,2417 @@
+{
+  "schemaVersion": "alive-in-jesus-translation-audit-v1",
+  "englishFiles": 96,
+  "indonesianFiles": 96,
+  "matchedFiles": 96,
+  "missingIndonesian": [],
+  "missingEnglish": [],
+  "flaggedPairCount": 3,
+  "pairs": [
+    {
+      "path": "00-kindergarten-friends/kindergarten-friends.md",
+      "englishSha256": "b8ac01f7ed82f7a06497fb8527ec661a5b75d2452c779305b82ad2af27b55608",
+      "indonesianSha256": "74239e7099f993f8a08a81352817d7c0205ab96502eaf62ba5d3577037d20de0",
+      "english": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "00-kindergarten-parents/kindergarten-parents.md",
+      "englishSha256": "7c6e764fb92682ae22a36eaa582e226efbfe536c44b3fd00517348670270bf2b",
+      "indonesianSha256": "8233d5fc71ce424959287735dcf1cda7b2ce244beac51b421257498a16b16fcf",
+      "english": {
+        "paragraphs": 7,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 7,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "00-music-and-podcasts/00-music-and-podcasts.md",
+      "englishSha256": "2f427484cd95ca5504a92f70b5125bac1f62f17ba7f2440f2d3b8dced8922e31",
+      "indonesianSha256": "4123e0916c01025354c601fbfc3426f85a5c36faa5af39f2231be8eef2c689f6",
+      "english": {
+        "paragraphs": 43,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 13,
+        "separators": 2,
+        "rawAudioMetadata": 26
+      },
+      "indonesian": {
+        "paragraphs": 43,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 13,
+        "separators": 2,
+        "rawAudioMetadata": 26
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "00-short-devotions/short-devotions.md",
+      "englishSha256": "969392f98919738b6f123272f6ac644d02b13ae3a777e44bff855d16c3e6bbf4",
+      "indonesianSha256": "c29865ca69740f161b35f3a766434a711094c06aba92be5d9e297813138cc293",
+      "english": {
+        "paragraphs": 5,
+        "bulletItems": 8,
+        "images": 0,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 5,
+        "bulletItems": 8,
+        "images": 0,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "01/01.md",
+      "englishSha256": "c76da8509bfa66a1e05c112f9aaf17c4fadc4ad229dd3885deb7bf8b16c77d50",
+      "indonesianSha256": "c765ef697eb3885e3b81690785b0b2ddb657b962d083fd5d59a5d754bfad3690",
+      "english": {
+        "paragraphs": 20,
+        "bulletItems": 2,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 7,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 20,
+        "bulletItems": 2,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 7,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "01/02.md",
+      "englishSha256": "00e29ebed0113fbfb7678c71d7600ff77dc743b5fb6e420860050cb4abd119fa",
+      "indonesianSha256": "6cc9374ebcb5b4e44be5b9529554a2243a40a0f39163786bf2ae158f415a5f71",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "01/03.md",
+      "englishSha256": "cd82cfda2ec921fb0d93946da01030fb67b3c1e6c58a9289ce22692ce9570dc2",
+      "indonesianSha256": "8e7612b90e5aa7c5cc29f783021dede1631e02632eb396b211968ee56db84b40",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "01/04.md",
+      "englishSha256": "f64e4b19bb96a745061cc51f177929109975877cebfef994a7702bb123ff6802",
+      "indonesianSha256": "21ecad40a86e9d2be5914e6f8012057615187b5bf5df9a27f634b4614afa456b",
+      "english": {
+        "paragraphs": 11,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 11,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "01/05.md",
+      "englishSha256": "616418d55fad834c9698b509f9a6b5d65ae55362a12e9113d62faa5dc857c1b4",
+      "indonesianSha256": "f1ab28e0946dbbb6183e3ea1bdbe71f327eb35780c372fb102f031037045eb93",
+      "english": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "01/06.md",
+      "englishSha256": "0aaf3c53172fc5a35916d30f2c20e551cfcd0de19e5f06fa458b608c9db0fb3d",
+      "indonesianSha256": "db36631d230f0b167da1e3d35224b1427c03880984e0008df364bc4a35fa4ab0",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "01/07.md",
+      "englishSha256": "1cae13064de0ba0385c0385bbc556bd0bc005597671a520c555e4760e6b8d240",
+      "indonesianSha256": "049bc0b6b24fd6077aa56e61fcf2087c810cf423108358e5a178e4475c524a3d",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02/01.md",
+      "englishSha256": "286665cc5efe4cc26242e9b858272afdf455abc749fd9c3dde7da241162fb720",
+      "indonesianSha256": "537567c15aeaf765bb7c9b6e5bc0edf490c2949d25ea63821dc241373016876f",
+      "english": {
+        "paragraphs": 18,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 18,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02/02.md",
+      "englishSha256": "01a9e0ba4c8dbfc715b1b330341abf23039de7f88614c5b3d41c26486b8db02c",
+      "indonesianSha256": "8d70fdc49cca7ca1973b82a7d4eba5779704ab2b445a752191edc5cdb174761c",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02/03.md",
+      "englishSha256": "916f7cb7c20da7b7a650509d20da5e377ef9ee75899b549b546a61ea7371bcc1",
+      "indonesianSha256": "d2f8208c4bd8f7b8afe99bf2522afcbe4b282a2e367fdeab3d576e5e4a99c942",
+      "english": {
+        "paragraphs": 11,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 11,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02/04.md",
+      "englishSha256": "2d62d634a14804fc3ca269c6b787b572c340fe2afa925e94c5421c1ae5205fd5",
+      "indonesianSha256": "6141a54d8390b2a7f91bfd2133aa655ca4a05b93488da21109b049a641aa2058",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02/05.md",
+      "englishSha256": "df210b945670ad9d9266d82b3bd549e39363453a8f7bc10a775f118defabd800",
+      "indonesianSha256": "e5d01eb6bd5631e5a8f7d4067b3e1a4f5982ce1275e280244e4d45466ff1197f",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [
+        "scriptureLikeRefs: EN 5, ID 4"
+      ],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02/06.md",
+      "englishSha256": "eeb157acc9d1f60e29ab72dd1acad797de3ccca0aa2c1bc2a2501cc7b16e7396",
+      "indonesianSha256": "79f027872df0fbeb80fad158a04e5c8b661ece0782bc72a4e6b4d683e4dccaeb",
+      "english": {
+        "paragraphs": 11,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 11,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02/07.md",
+      "englishSha256": "def874572b21bdc33ddb0f17032441258a9f8797b99f128e2742ccaa28feb004",
+      "indonesianSha256": "20b13fd2320b3f7d01c47d8b03c69568d31f2044386cc545f02e1060827b1472",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 1,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 1,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "03/01.md",
+      "englishSha256": "3ba9b7c8ec3f67c2541ef37bebd1d923b705a1feb680be3d0a8760e5e460fdab",
+      "indonesianSha256": "928e999ddf5cf90b93c690ae7fefde8069c1f296efc9ee8989897a8765aa8367",
+      "english": {
+        "paragraphs": 19,
+        "bulletItems": 3,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 19,
+        "bulletItems": 3,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "03/02.md",
+      "englishSha256": "7a64a018e19a3aecff2b8c84eb43c4a8a3e634d2468add66d09077a0583deaf3",
+      "indonesianSha256": "8a2cf3d0c3bd985ce57a9b0dad4ecfad26fcac12992934a4fcfe4fbb5382378a",
+      "english": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "03/03.md",
+      "englishSha256": "f13a4b7077fd3b0258b3915314cd87588c1e1f4a31d4a238149503d018c9180a",
+      "indonesianSha256": "41c31ea2b9dae2afabcacd8bfa7199a2d39a3f89110223392548b28b13c06312",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "03/04.md",
+      "englishSha256": "a0c153adaac3cd4ed12f965f750a37f4b2dad70ea904c07e4f645e05e82e2e0f",
+      "indonesianSha256": "664ec68a2e6c6cd1675fd6b8214c6fa9636a0be77cb15c3ead03c59705884c49",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "03/05.md",
+      "englishSha256": "d5d869c7e72e26b9787fc03151b52cf3e589c3463f16d537877dc2091819f0cf",
+      "indonesianSha256": "2c1251fe4578c1c0cf9bfed5a5d42149e9863f926067d8c30730cf3bef55e33f",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "03/06.md",
+      "englishSha256": "4e218de1c5654bd8e8a2e535a27f1e331d03b0f33bbd463c3e53c824a9e171af",
+      "indonesianSha256": "1a30dc3dcd72d5011c7f9a63cb8b31033cbd75c98e46e54555301f582ddc1cc6",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "03/07.md",
+      "englishSha256": "82d92eb8d9733b72b09763744e0446c29640d1bd609ee1fa9662a951cb1ba551",
+      "indonesianSha256": "989e6968c36a36380e89f9118dc391bfdc55633fe71f95723524953be7ee5a28",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 2,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 1,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 2,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 1,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "04/01.md",
+      "englishSha256": "5db3b8936289088fdafddecd37663db4df7dee7c89226313e4343ed649675a2e",
+      "indonesianSha256": "c9cfe11c18406795f3ccb85b4c1544b21595ea7d6644cacc644c4fd765c8d689",
+      "english": {
+        "paragraphs": 20,
+        "bulletItems": 2,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 6,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 20,
+        "bulletItems": 2,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 6,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "04/02.md",
+      "englishSha256": "34455a51216b3d680c6676370650960122905d54dc2da6af015df5dbfe338cc3",
+      "indonesianSha256": "7dbdf691d9451ce5a699c333538d663c08d50a75569c3c532985fd47f47c2b09",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 4,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 4,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "04/03.md",
+      "englishSha256": "313889b9ba8b7679779721d275bff64453520c48e02935b2c8f97d4ff8190a54",
+      "indonesianSha256": "efe43deeb13ce3e84a58251770c4c5e810904b23dbd07e774fd7a5337c1f1a6d",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "04/04.md",
+      "englishSha256": "3bc2fa08ec2c880a0ec1650bfd8f49c900bd9f09bdf496474f9a4e93ed7e2b33",
+      "indonesianSha256": "9229ab074705806df0b307b25bea1301809e9ef8aa8c9e21cb4dc2f1b48ba69a",
+      "english": {
+        "paragraphs": 17,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 17,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "04/05.md",
+      "englishSha256": "6469344f73078aeb1d9f866f66c1006795caf04ecebbe6c64d4b74b5625ef37c",
+      "indonesianSha256": "7db86db69cdec0f0a7ed138e1e2143f7d14d5e4948c9fedfd11cf746ae0e8c15",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 3,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 3,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "04/06.md",
+      "englishSha256": "7fb828c68d87999f18a48a70bf2f4fe56f22b7b7ed6a53619a251591853cdc17",
+      "indonesianSha256": "ae203f43943c2971336059b9190feb57849811388baa4e4595ac2e6917023b1f",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "04/07.md",
+      "englishSha256": "62b44952e7f2be32fb1d5094a68eb0fc9074c465e357dfb9a39ac7ced1dfa2ae",
+      "indonesianSha256": "ef4ed716248506c1caefbb7435c9baa8aed7be9af2ac2d1ca3d11ea7efa423f4",
+      "english": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "05/01.md",
+      "englishSha256": "e6f7462902ce8197589c4fdaa8540fa73bd13b5ac7b17720ed5e8c75562d0f5e",
+      "indonesianSha256": "f2b033c6289821bd825ffe062604300f7fd0c809cd1b674f74f93956053c311d",
+      "english": {
+        "paragraphs": 21,
+        "bulletItems": 2,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 9,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 21,
+        "bulletItems": 2,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 9,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "05/02.md",
+      "englishSha256": "a9d3ab38d555c6ade2b0aa5b91b62f1cad1d75b63804a9eedcbc781147639888",
+      "indonesianSha256": "6a40a0a972ffab3ac8b8729065c80fa6d79900566b088861864838a6c217a14f",
+      "english": {
+        "paragraphs": 16,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 16,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "05/03.md",
+      "englishSha256": "e93c080ccadd2e2a434121334d25747732b26fa6895458e66991947a9949e57a",
+      "indonesianSha256": "59652b820d96da07e69518c79d92a1530256e9cecabe1aef54b1461e2e55b48c",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "05/04.md",
+      "englishSha256": "cc786524f9ace6b2945ed56058531dfdfad706a3908a231a20331d71b134acc3",
+      "indonesianSha256": "1f921514794f0ac6b942a84f194ab333c9bd71fdb0a12b987bf17e96b951ccf8",
+      "english": {
+        "paragraphs": 17,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 17,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "05/05.md",
+      "englishSha256": "c617b4f2bbd8604921c7c2140ca7d368bae08a72d2484ceac585360ee88b76bc",
+      "indonesianSha256": "e8b7908d43b0910199d01a4b04794e336bf2c40f0e6a4c8b932f083e7ea8fdb7",
+      "english": {
+        "paragraphs": 18,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 7,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 18,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 7,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "05/06.md",
+      "englishSha256": "021d949cb468311a9025f37ca05be4686d8f79f12ad6991a9b0415390e44e0bb",
+      "indonesianSha256": "ea7cbe1945bda949d07caa8f247d419eacd3a7faddcb5557b21d4500f1531ee8",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "05/07.md",
+      "englishSha256": "1e8f813c1c078bdc9b68f7ea987d8d71965183e58eedc1de0c6be9ffc6dc0825",
+      "indonesianSha256": "14d5144f95ffe60c6ab339686802daaa4925bdbcd7320e3e30e1c56d7ceaf303",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 2,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 2,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "06/01.md",
+      "englishSha256": "cfbc67d6608619d9e8d50b52d96b8819636e7f939b87752e6c34f8dedcd05b8e",
+      "indonesianSha256": "70612191be96845c6e60bdd250203768967911647cf180553618a0052d2d0736",
+      "english": {
+        "paragraphs": 19,
+        "bulletItems": 2,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 6,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 19,
+        "bulletItems": 2,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 6,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "06/02.md",
+      "englishSha256": "1c038ef735d2b7262472df6239ac42f54cc4acdcb88007f0be64def2dfc320dd",
+      "indonesianSha256": "c6a7d5371ffd24553630ac4ebc9e0ce66a035db54bfc18ce7dc7f0c6f5dd6338",
+      "english": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "06/03.md",
+      "englishSha256": "f8d39f98f273572a95d516734b4b8254d4af9361aba77d123dac3cda1be340e2",
+      "indonesianSha256": "34ac3297fc0c433c0b2dea7a64cc427f91ee8db45c4474658bd4b076b1e5421c",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "06/04.md",
+      "englishSha256": "d57c44393c785c535bcfc3716d89c9499c1cfcc046efc39f6ddcf2eb6930af4c",
+      "indonesianSha256": "a1609aa7fd107c1556f4515096c233c8dcbcd4087340673eeecead76274e394e",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "06/05.md",
+      "englishSha256": "bcad15e5422270b271217f68c168d50fa14350188efdb80627a41fef99071f59",
+      "indonesianSha256": "63b45926bffcad27f1834b14bfc62d001517be60aa98854f192f35af089e21b0",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "06/06.md",
+      "englishSha256": "07d8a0860d8dfd4096f97dc0d42fd7c82966aa22a2ffc4cfabab883384087c16",
+      "indonesianSha256": "b8a16edfdf4cbba88a0a08a796037fe4a455bfb17aa0a684671c921979812d45",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "06/07.md",
+      "englishSha256": "15ad71f9269860a21216fd0630bdd84b19c45cac044ace3ae5dbd58ca70681ea",
+      "indonesianSha256": "280ae60fece01c42b1c24dcf5afc8e2577abd0a7405806f17153b1ffb337dfd3",
+      "english": {
+        "paragraphs": 10,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 10,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "07/01.md",
+      "englishSha256": "9d86ed85b894bb7827b6622c19bc2b4d801d116cecc8f1fee5cfdd99687fa7ca",
+      "indonesianSha256": "8d84240f3431460d1ed51df01fcd389389d9dd679412423f8b91da267467a20c",
+      "english": {
+        "paragraphs": 21,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 6,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 21,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 6,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "07/02.md",
+      "englishSha256": "b47d5cbf56c9a8c892228dcc04f462c3fdd0f45a78ca4427c393268dd7cd068d",
+      "indonesianSha256": "68a7f4a39484b3aa030fb9a222f6061f970406545453c679ef313da47e4c9af5",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "07/03.md",
+      "englishSha256": "6fe4d6e14e0ff547cc3f27b5f7c1b3bf2c3cf9942e00a5dd23abd2e2d427649c",
+      "indonesianSha256": "770459ae3fbf9697463a340e8be9eed839dcabced2feae567796ce6aeeffed88",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "07/04.md",
+      "englishSha256": "71b7dfdede4216c811b77bfd6e4c702a0983c53d4ab6018feb5a2d90fa300d97",
+      "indonesianSha256": "a816eead31e8ccce7abf8b06e04c7f3c066cabc5a0b560e55394050598b3c4f4",
+      "english": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "07/05.md",
+      "englishSha256": "48a0709473c511707a69fc79d69f8f66bbd762aa9d8985964579901a1903ff71",
+      "indonesianSha256": "b6fa4b898c690725f1265b64bf9801e6190703266ebf4963d80243c6aaa35a00",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "07/06.md",
+      "englishSha256": "b3a6aeb94dd65f62c3dcedf5363b3cca88c16f89de572530dd3ba2e0cfe8df83",
+      "indonesianSha256": "66191cdb4447e7f119b7808c57823622e673c06b335cdbdd50809b08df24755a",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "07/07.md",
+      "englishSha256": "0c036ed439d69864b92bbc6f68b960850c65393b521fdb662ed9700184eeac5d",
+      "indonesianSha256": "acf15e6761d4ba9738d9aa1516555c1d92616856778bea289fc5d456031c0b78",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 12,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 12,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "08/01.md",
+      "englishSha256": "7d0e655d41b081ce0538e5ff652f8f9a7056207db68e798c10ea471a259249d7",
+      "indonesianSha256": "cdc268e3dfa1e2fb61a42d7f6d63c1f7ad0cf5af56326be8f27ed4a06cd8fc7f",
+      "english": {
+        "paragraphs": 22,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 11,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 22,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 12,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [
+        "scriptureLikeRefs: EN 11, ID 12"
+      ],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "08/02.md",
+      "englishSha256": "2150cbae25ae4bbcbb0cda8cadfc01340b2ef357c2d924e2a89d117ccca4b661",
+      "indonesianSha256": "b17ef146c3a097e840f57b14c9035dbb3d56f4435b2b6093e28616316634834f",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "08/03.md",
+      "englishSha256": "874a776a4b8a914e8ea218278d68ba5f1b1ed143ff4d2cb4be1c4eb005d2a45a",
+      "indonesianSha256": "dd2885647a18c19ca86202b34941bac940d77a5509b49a96a2dee2f2b498df0f",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "08/04.md",
+      "englishSha256": "e27e895ccccd7beca5ecdc6e5d70a20785cd2fefcb7351f11c1502412c341158",
+      "indonesianSha256": "fe9c7c99f49a7a468652acd203237084ed1140214a12c8f0636ef52c99d61cdc",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "08/05.md",
+      "englishSha256": "f816e4f373020b2aa82587db483d1e7de55eb6f7376146ead02f03d7f3add3b0",
+      "indonesianSha256": "c9a4fc3b16a96a3a38eae6c44805f16db74d11cd207394f341b663c2af7659da",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "08/06.md",
+      "englishSha256": "4a0da38a6d0b8944e15c5be474f3a03f58ef697aea79845b5f82b3691b18419e",
+      "indonesianSha256": "d75f26d7f80891112d9205e84bc5cb0c6808178779be6a9b27a5c5c45ad1dab8",
+      "english": {
+        "paragraphs": 19,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 19,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "08/07.md",
+      "englishSha256": "05703920eaa70b87b583cce442c65ba2792eab1ff28c146dddb59f20623975f1",
+      "indonesianSha256": "6b8f04bd87d18e99f8376ceee47e1d60bdb067d5f89e0a333fe91eb0a1831a31",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "09/01.md",
+      "englishSha256": "be10752df5ec2e98afca5652cb3f2953478f6367dc72b329fe4258408f184c7e",
+      "indonesianSha256": "d8f0ce0659d13525df90fd27c4e0246817d466f4582d56a9e499970e4fa8f467",
+      "english": {
+        "paragraphs": 18,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 18,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "09/02.md",
+      "englishSha256": "be44fe9e1fff818da01106753079a0072827a117d10771bcb55c2c50273788d2",
+      "indonesianSha256": "9edfcbeac500032cb1ef4d7fbad78b0d5ceb6176c19f532022f74d5f36df411e",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "09/03.md",
+      "englishSha256": "5553ac0561372fe4958eb956f559aa6ea2b6cc3e6402d0f13aa2c1f21eac9e28",
+      "indonesianSha256": "88208c8938d0187708c57e8618b822999a13baeb878b907e5f6f44dfaeaa0720",
+      "english": {
+        "paragraphs": 18,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 18,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "09/04.md",
+      "englishSha256": "dd6af3e21894316d6896c96c99dd25653953a493098f39ac015eded60418f83a",
+      "indonesianSha256": "77836c92e6103f7f5b095ebf2bfb0a1fc2e97b142e55f99a0f9def3988205260",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "09/05.md",
+      "englishSha256": "784463bc9f9378f93028ba4006e8c00a8ba48c5aa116e627a14400407242d91c",
+      "indonesianSha256": "396bb971f0a01d8c917264f77c3eca4983f444baeedd5b6fa9a9ddcbc33dd23b",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "09/06.md",
+      "englishSha256": "f629bb0612161e85f46ce1a89081fe41622b87663286db1d45ba3ba662920067",
+      "indonesianSha256": "ca15818d29c8ddfaa425bcf6e03dc218565b99b78d986688715e586cba0471fc",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "09/07.md",
+      "englishSha256": "f3e487be129d19be49c1308e7008c0d833fcdf14ef4a74bfd0b35ec58a7ce632",
+      "indonesianSha256": "54a8027f7b78db60df59c482cb9545efcb1d82810124e3c13f856a4308f31bf9",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 1,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 1,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "10/01.md",
+      "englishSha256": "723f799a5de16a42667ed3ebb1aa338c07cad823bd899e24fd29b8f27f04e5c0",
+      "indonesianSha256": "a93573e3fd0c5c50b5da6a411603e59951417357d924a994dcc211a5a19cd6b3",
+      "english": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 3,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 3,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "10/02.md",
+      "englishSha256": "27cc9d1472d98dc0ab572991d3dec8cb8e8d2d8456bb4d5e8f15f8eb004024ef",
+      "indonesianSha256": "2a81b40dfc2e8b016a793ac57c68920405aa966dbfcdeb3d4c85658ff8ca289f",
+      "english": {
+        "paragraphs": 16,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 16,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "10/03.md",
+      "englishSha256": "ece57649108e34a00ebebd9ce05393931bd8976e2bca49cab35bd6b086888d07",
+      "indonesianSha256": "ce1e6874a053e763fec3018b0a2093a4aac01bd99218f6895e0d1684a839cf4d",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "10/04.md",
+      "englishSha256": "c9e2430e8a53e919ad5e161551266c231aaa1eaeadd562e68a3d454b4baf101c",
+      "indonesianSha256": "50c81654e63e6ac815d8425d22f5637b2fdd391f83ae267f657a464b1304e152",
+      "english": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "10/05.md",
+      "englishSha256": "626bc1d7133870c407978dbbeff9e7b60f5ea8260dc4b2b60a90b9b131b5b535",
+      "indonesianSha256": "876daae8f13ebfe32a95ee9ccbb8ec2fd2dfa661169c7b7c8c9188e31b830b07",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 6,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 6,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "10/06.md",
+      "englishSha256": "f7f26c4e816b686f45ce4e6f94ca0054421486d7ab58626fb872d21ccc108ff4",
+      "indonesianSha256": "712de5cd04333b98f279c00fc847ce78096c34e1d9c197989153ceaa7a0412cf",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "10/07.md",
+      "englishSha256": "016ba9bc7e0c84f81f27efb3fa1aa98960ff50ab32ac4cb422610072a63db538",
+      "indonesianSha256": "bae2bad4d780ccdee048702d97c742ee13442bbb619dc6161d38c6fed7d8389c",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "11/01.md",
+      "englishSha256": "dcab2d64fd813bd930ae091bd99a30f56b597923cdfec7b2332858d4fb083c19",
+      "indonesianSha256": "066dc6ec44ce9fa232e45d829fc85bdaa708979171fc6da6a2222efcb2010b37",
+      "english": {
+        "paragraphs": 18,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 18,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "11/02.md",
+      "englishSha256": "36f5af712ff8363deaca0af9ee8009ecbca6451eaacae546e559d77789a621a0",
+      "indonesianSha256": "9c298e387996035b0adf95adcbe5477bb22aea3134505bc8cd7664b1095c0991",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "11/03.md",
+      "englishSha256": "0946ef789a27876a195cbd817a96f27e8a7f234c338364409bd2dff25d02b003",
+      "indonesianSha256": "2d6087c3a1995d9c59d6b95103392ecbdb4a34daf0ed3f61fae59637e8682f27",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "11/04.md",
+      "englishSha256": "888b014d504e2bb30c33aabd06bbde5df4bf6237ccd14f6f323bc0affc6765df",
+      "indonesianSha256": "a2684fd13d18234732c060af7b96874280051962d02cef1e82c988718ce8bfac",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "11/05.md",
+      "englishSha256": "8ab06ed66f53503ff022a256a4845c1c695d2aee86450b4241b01d46df64a35b",
+      "indonesianSha256": "7280613cbea6e67456c19692fdf393e3951af8bcc6f63b3b0376c3f70dbe1411",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "11/06.md",
+      "englishSha256": "204ebfc2cfa1a528ad27335e5110b4c3f5694dc4c27433b76d3e746c49f9d9ff",
+      "indonesianSha256": "751812648206fe0861ab5c5fa17162162da2c468ee8d29ad340806f2e2cb0306",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 6,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 6,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "11/07.md",
+      "englishSha256": "35c1c8813dc82db878baa1b1cb437991af1a0ad99a90acf0991c09bcd1483832",
+      "indonesianSha256": "f9465e2a3b25a23b04373ff0e572e38c06b1b953b2c1d462fa53e06dca754e36",
+      "english": {
+        "paragraphs": 4,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 4,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "12/01.md",
+      "englishSha256": "e76c8b9c539251be865df91dc988654f4b1a95f824bbdaa8bd8ba1bb5c99ec3d",
+      "indonesianSha256": "781ece60eba907b8843ad46b2e89066432550d0be315d7539be4fceec4f9f3c8",
+      "english": {
+        "paragraphs": 19,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 19,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "12/02.md",
+      "englishSha256": "4cdfda66779869d1cac246dfb868deb863c176bab1ec952213e0c0e3b5af1713",
+      "indonesianSha256": "8d62790618ffa3efd46ad81882b80c63f4fb4c5f14135f2967a34b150c3dbf6c",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "12/03.md",
+      "englishSha256": "ef5bb8ce90b0763ebe5204b58d2dd518ea30824c0bb8c24006166d25a3142add",
+      "indonesianSha256": "101692764bc9c22034feb06b8510fa5941272ea738ae231b492a382d3fad42f0",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "12/04.md",
+      "englishSha256": "f0c49932700450207826a53edac2ff8d27bd4d055c98cc77bf740eae61f9bc48",
+      "indonesianSha256": "d331a03eda52e2a61d268cbe568ee20a947ea47bf085e2e1978ae3548ddb5207",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "12/05.md",
+      "englishSha256": "048851ceb384062ed9f53a5eb85b83a92b20c623472f23c09bca2942a33a47ee",
+      "indonesianSha256": "103b53928580244a33d4b211f24fe43f027813d370a287bf29632098d64a991d",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "12/06.md",
+      "englishSha256": "b03b5b87dfd5845545cb76466ec5219d186c6fef37a2b3a167026a760f7613fa",
+      "indonesianSha256": "2f550309c183ecdc75861cdce61de32bd0ec03306cbeba44643e2a395f4c773f",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 2,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "12/07.md",
+      "englishSha256": "b1cc98ca28d5d0716f89debec5e1bf042301f67d732a86382c35455f547064f3",
+      "indonesianSha256": "f81e46b20db54d2c84495b1f769eda5745100d4c0852fa6b10c2ea727a983ca9",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 0,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 0,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "13/01.md",
+      "englishSha256": "c3bc3e1fe7eae3a29728ad58fbe7be9669b29341119ee4b1281d47150927de6e",
+      "indonesianSha256": "37ebd6d9d7010f6df058c651c20ed13bfd2cc44142d3d0b95efa1e16ccff8da7",
+      "english": {
+        "paragraphs": 18,
+        "bulletItems": 2,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 18,
+        "bulletItems": 2,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "13/02.md",
+      "englishSha256": "3cb96495791eb6e589bca7ae3b2b86b67b626b3c7bebf6f033b723b2f014615f",
+      "indonesianSha256": "888eed3ed95ce7386a254cbced7732d77e440d1b281812ca51a2499be44c64c9",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "13/03.md",
+      "englishSha256": "16ec4b739b30a508b700e84d7e0718f4bbdaf90ed2f5396d58e3b0f69b44db3e",
+      "indonesianSha256": "cae6bdb55313d3d2f0e17307894dde716a781b0dfd2aa7dd5de8d35e0d58e69f",
+      "english": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 2,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "13/04.md",
+      "englishSha256": "12ed9c3d42b314c09bf3fcb8dbd386844379746fe08adbf8435f791e0cb0228c",
+      "indonesianSha256": "c3acb5202455bb47f0d98cbf7f90d21abbb1e4ff615e667c5c983ed5b6dd863f",
+      "english": {
+        "paragraphs": 17,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 8,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 17,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 9,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [
+        "scriptureLikeRefs: EN 8, ID 9"
+      ],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "13/05.md",
+      "englishSha256": "7928c121904f5b939ce8251cccccb805391206b4bde5450796457c047b2174e7",
+      "indonesianSha256": "fa11a9a66e8709185e688b5d1713cb1210588d79323def0d8e875f19a75bd1a6",
+      "english": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 16,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "13/06.md",
+      "englishSha256": "24b13847f42b897fdb94eb4be816ed50f6c4d4f75127461528b5ab32d5770858",
+      "indonesianSha256": "26e704d2b9cd0028c0852774846524ca740ec674693361bfd0a568d89fb9b9d6",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 1,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "13/07.md",
+      "englishSha256": "57cd4c6c2e7cba3875d431a32cf32a714a19bfb9bd11e1966d161cce8f76c11e",
+      "indonesianSha256": "4cffe5b4f92c6cbe6701c708871e174d6a15fe78d6a9d5ab9ae6425b0d63e63d",
+      "english": {
+        "paragraphs": 15,
+        "bulletItems": 0,
+        "images": 2,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 15,
+        "bulletItems": 0,
+        "images": 2,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "introduction.md",
+      "englishSha256": "fa1284d195b6ac1c087e8068791d3449967fbea220e1314ced16d3b09e2c5e2e",
+      "indonesianSha256": "d2088af168a000e01d59faa831fab7b230caf1a6aca3339b1e246af7f6906ea5",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 0,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 0,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "lesson-07",
+  "title": "“Anak Perempuan, Bangunlah!”",
+  "startDate": "2026-11-08",
+  "endDate": "2026-11-14",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "“Anak Perempuan, Bangunlah!”",
+      "date": "2026-11-08",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Terburu-buru dan Khawatir",
+      "date": "2026-11-09",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "“Silakan datang cepat!”",
+      "date": "2026-11-10",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Percayalah saja!",
+      "date": "2026-11-11",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Tidur Nyenyak",
+      "date": "2026-11-12",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "“Anakku, Berdirilah!”",
+      "date": "2026-11-13",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Dia datang!",
+      "date": "2026-11-14",
+      "file": "sabbath.md"
+    }
+  ]
+}

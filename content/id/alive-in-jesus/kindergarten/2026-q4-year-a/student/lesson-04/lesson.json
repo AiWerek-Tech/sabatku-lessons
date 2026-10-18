@@ -1,0 +1,50 @@
+{
+  "id": "lesson-04",
+  "title": "Berjalan di Atas Air",
+  "startDate": "2026-10-18",
+  "endDate": "2026-10-24",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Berjalan di Atas Air",
+      "date": "2026-10-18",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Yesus Berdoa",
+      "date": "2026-10-19",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "“Tolong!”",
+      "date": "2026-10-20",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Berjalan di atas Air!",
+      "date": "2026-10-21",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "“Selamatkan Aku!”",
+      "date": "2026-10-22",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Sungguh teman yang baik!",
+      "date": "2026-10-23",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Pendaki Cerdas",
+      "date": "2026-10-24",
+      "file": "sabbath.md"
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "schemaVersion": "alive-in-jesus-translation-review-v1",
+  "editionId": "2026-q4-aij-kindergarten-student",
+  "status": "needs-team-review",
+  "sourceLocale": "en",
+  "targetLocale": "id",
+  "reviewer": null,
+  "reviewedAt": null,
+  "note": "Generated checksum baseline. A reviewer must complete the source comparison and approve it before publication.",
+  "sourceAudit": {
+    "englishFiles": 96,
+    "indonesianFiles": 96,
+    "matchedFiles": 96,
+    "missingIndonesian": [],
+    "missingEnglish": [],
+    "flaggedPairCount": 3,
+    "sourceChecksums": {
+      "00-kindergarten-friends/kindergarten-friends.md": {
+        "english": "b8ac01f7ed82f7a06497fb8527ec661a5b75d2452c779305b82ad2af27b55608",
+        "indonesian": "74239e7099f993f8a08a81352817d7c0205ab96502eaf62ba5d3577037d20de0"
+      },
+      "00-kindergarten-parents/kindergarten-parents.md": {
+        "english": "7c6e764fb92682ae22a36eaa582e226efbfe536c44b3fd00517348670270bf2b",
+        "indonesian": "8233d5fc71ce424959287735dcf1cda7b2ce244beac51b421257498a16b16fcf"
+      },
+      "00-music-and-podcasts/00-music-and-podcasts.md": {
+        "english": "2f427484cd95ca5504a92f70b5125bac1f62f17ba7f2440f2d3b8dced8922e31",
+        "indonesian": "4123e0916c01025354c601fbfc3426f85a5c36faa5af39f2231be8eef2c689f6"
+      },
+      "00-short-devotions/short-devotions.md": {
+        "english": "969392f98919738b6f123272f6ac644d02b13ae3a777e44bff855d16c3e6bbf4",
+        "indonesian": "c29865ca69740f161b35f3a766434a711094c06aba92be5d9e297813138cc293"
+      },
+      "01/01.md": {
+        "english": "c76da8509bfa66a1e05c112f9aaf17c4fadc4ad229dd3885deb7bf8b16c77d50",
+        "indonesian": "c765ef697eb3885e3b81690785b0b2ddb657b962d083fd5d59a5d754bfad3690"
+      },
+      "01/02.md": {
+        "english": "00e29ebed0113fbfb7678c71d7600ff77dc743b5fb6e420860050cb4abd119fa",
+        "indonesian": "6cc9374ebcb5b4e44be5b9529554a2243a40a0f39163786bf2ae158f415a5f71"
+      },
+      "01/03.md": {
+        "english": "cd82cfda2ec921fb0d93946da01030fb67b3c1e6c58a9289ce22692ce9570dc2",
+        "indonesian": "8e7612b90e5aa7c5cc29f783021dede1631e02632eb396b211968ee56db84b40"
+      },
+      "01/04.md": {
+        "english": "f64e4b19bb96a745061cc51f177929109975877cebfef994a7702bb123ff6802",
+        "indonesian": "21ecad40a86e9d2be5914e6f8012057615187b5bf5df9a27f634b4614afa456b"
+      },
+      "01/05.md": {
+        "english": "616418d55fad834c9698b509f9a6b5d65ae55362a12e9113d62faa5dc857c1b4",
+        "indonesian": "f1ab28e0946dbbb6183e3ea1bdbe71f327eb35780c372fb102f031037045eb93"
+      },
+      "01/06.md": {
+        "english": "0aaf3c53172fc5a35916d30f2c20e551cfcd0de19e5f06fa458b608c9db0fb3d",
+        "indonesian": "db36631d230f0b167da1e3d35224b1427c03880984e0008df364bc4a35fa4ab0"
+      },
+      "01/07.md": {
+        "english": "1cae13064de0ba0385c0385bbc556bd0bc005597671a520c555e4760e6b8d240",
+        "indonesian": "049bc0b6b24fd6077aa56e61fcf2087c810cf423108358e5a178e4475c524a3d"
+      },
+      "02/01.md": {
+        "english": "286665cc5efe4cc26242e9b858272afdf455abc749fd9c3dde7da241162fb720",
+        "indonesian": "537567c15aeaf765bb7c9b6e5bc0edf490c2949d25ea63821dc241373016876f"
+      },
+      "02/02.md": {
+        "english": "01a9e0ba4c8dbfc715b1b330341abf23039de7f88614c5b3d41c26486b8db02c",
+        "indonesian": "8d70fdc49cca7ca1973b82a7d4eba5779704ab2b445a752191edc5cdb174761c"
+      },
+      "02/03.md": {
+        "english": "916f7cb7c20da7b7a650509d20da5e377ef9ee75899b549b546a61ea7371bcc1",
+        "indonesian": "d2f8208c4bd8f7b8afe99bf2522afcbe4b282a2e367fdeab3d576e5e4a99c942"
+      },
+      "02/04.md": {
+        "english": "2d62d634a14804fc3ca269c6b787b572c340fe2afa925e94c5421c1ae5205fd5",
+        "indonesian": "6141a54d8390b2a7f91bfd2133aa655ca4a05b93488da21109b049a641aa2058"
+      },
+      "02/05.md": {
+        "english": "df210b945670ad9d9266d82b3bd549e39363453a8f7bc10a775f118defabd800",
+        "indonesian": "e5d01eb6bd5631e5a8f7d4067b3e1a4f5982ce1275e280244e4d45466ff1197f"
+      },
+      "02/06.md": {
+        "english": "eeb157acc9d1f60e29ab72dd1acad797de3ccca0aa2c1bc2a2501cc7b16e7396",
+        "indonesian": "79f027872df0fbeb80fad158a04e5c8b661ece0782bc72a4e6b4d683e4dccaeb"
+      },
+      "02/07.md": {
+        "english": "def874572b21bdc33ddb0f17032441258a9f8797b99f128e2742ccaa28feb004",
+        "indonesian": "20b13fd2320b3f7d01c47d8b03c69568d31f2044386cc545f02e1060827b1472"
+      },
+      "03/01.md": {
+        "english": "3ba9b7c8ec3f67c2541ef37bebd1d923b705a1feb680be3d0a8760e5e460fdab",
+        "indonesian": "928e999ddf5cf90b93c690ae7fefde8069c1f296efc9ee8989897a8765aa8367"
+      },
+      "03/02.md": {
+        "english": "7a64a018e19a3aecff2b8c84eb43c4a8a3e634d2468add66d09077a0583deaf3",
+        "indonesian": "8a2cf3d0c3bd985ce57a9b0dad4ecfad26fcac12992934a4fcfe4fbb5382378a"
+      },
+      "03/03.md": {
+        "english": "f13a4b7077fd3b0258b3915314cd87588c1e1f4a31d4a238149503d018c9180a",
+        "indonesian": "41c31ea2b9dae2afabcacd8bfa7199a2d39a3f89110223392548b28b13c06312"
+      },
+      "03/04.md": {
+        "english": "a0c153adaac3cd4ed12f965f750a37f4b2dad70ea904c07e4f645e05e82e2e0f",
+        "indonesian": "664ec68a2e6c6cd1675fd6b8214c6fa9636a0be77cb15c3ead03c59705884c49"
+      },
+      "03/05.md": {
+        "english": "d5d869c7e72e26b9787fc03151b52cf3e589c3463f16d537877dc2091819f0cf",
+        "indonesian": "2c1251fe4578c1c0cf9bfed5a5d42149e9863f926067d8c30730cf3bef55e33f"
+      },
+      "03/06.md": {
+        "english": "4e218de1c5654bd8e8a2e535a27f1e331d03b0f33bbd463c3e53c824a9e171af",
+        "indonesian": "1a30dc3dcd72d5011c7f9a63cb8b31033cbd75c98e46e54555301f582ddc1cc6"
+      },
+      "03/07.md": {
+        "english": "82d92eb8d9733b72b09763744e0446c29640d1bd609ee1fa9662a951cb1ba551",
+        "indonesian": "989e6968c36a36380e89f9118dc391bfdc55633fe71f95723524953be7ee5a28"
+      },
+      "04/01.md": {
+        "english": "5db3b8936289088fdafddecd37663db4df7dee7c89226313e4343ed649675a2e",
+        "indonesian": "c9cfe11c18406795f3ccb85b4c1544b21595ea7d6644cacc644c4fd765c8d689"
+      },
+      "04/02.md": {
+        "english": "34455a51216b3d680c6676370650960122905d54dc2da6af015df5dbfe338cc3",
+        "indonesian": "7dbdf691d9451ce5a699c333538d663c08d50a75569c3c532985fd47f47c2b09"
+      },
+      "04/03.md": {
+        "english": "313889b9ba8b7679779721d275bff64453520c48e02935b2c8f97d4ff8190a54",
+        "indonesian": "efe43deeb13ce3e84a58251770c4c5e810904b23dbd07e774fd7a5337c1f1a6d"
+      },
+      "04/04.md": {
+        "english": "3bc2fa08ec2c880a0ec1650bfd8f49c900bd9f09bdf496474f9a4e93ed7e2b33",
+        "indonesian": "9229ab074705806df0b307b25bea1301809e9ef8aa8c9e21cb4dc2f1b48ba69a"
+      },
+      "04/05.md": {
+        "english": "6469344f73078aeb1d9f866f66c1006795caf04ecebbe6c64d4b74b5625ef37c",
+        "indonesian": "7db86db69cdec0f0a7ed138e1e2143f7d14d5e4948c9fedfd11cf746ae0e8c15"
+      },
+      "04/06.md": {
+        "english": "7fb828c68d87999f18a48a70bf2f4fe56f22b7b7ed6a53619a251591853cdc17",
+        "indonesian": "ae203f43943c2971336059b9190feb57849811388baa4e4595ac2e6917023b1f"
+      },
+      "04/07.md": {
+        "english": "62b44952e7f2be32fb1d5094a68eb0fc9074c465e357dfb9a39ac7ced1dfa2ae",
+        "indonesian": "ef4ed716248506c1caefbb7435c9baa8aed7be9af2ac2d1ca3d11ea7efa423f4"
+      },
+      "05/01.md": {
+        "english": "e6f7462902ce8197589c4fdaa8540fa73bd13b5ac7b17720ed5e8c75562d0f5e",
+        "indonesian": "f2b033c6289821bd825ffe062604300f7fd0c809cd1b674f74f93956053c311d"
+      },
+      "05/02.md": {
+        "english": "a9d3ab38d555c6ade2b0aa5b91b62f1cad1d75b63804a9eedcbc781147639888",
+        "indonesian": "6a40a0a972ffab3ac8b8729065c80fa6d79900566b088861864838a6c217a14f"
+      },
+      "05/03.md": {
+        "english": "e93c080ccadd2e2a434121334d25747732b26fa6895458e66991947a9949e57a",
+        "indonesian": "59652b820d96da07e69518c79d92a1530256e9cecabe1aef54b1461e2e55b48c"
+      },
+      "05/04.md": {
+        "english": "cc786524f9ace6b2945ed56058531dfdfad706a3908a231a20331d71b134acc3",
+        "indonesian": "1f921514794f0ac6b942a84f194ab333c9bd71fdb0a12b987bf17e96b951ccf8"
+      },
+      "05/05.md": {
+        "english": "c617b4f2bbd8604921c7c2140ca7d368bae08a72d2484ceac585360ee88b76bc",
+        "indonesian": "e8b7908d43b0910199d01a4b04794e336bf2c40f0e6a4c8b932f083e7ea8fdb7"
+      },
+      "05/06.md": {
+        "english": "021d949cb468311a9025f37ca05be4686d8f79f12ad6991a9b0415390e44e0bb",
+        "indonesian": "ea7cbe1945bda949d07caa8f247d419eacd3a7faddcb5557b21d4500f1531ee8"
+      },
+      "05/07.md": {
+        "english": "1e8f813c1c078bdc9b68f7ea987d8d71965183e58eedc1de0c6be9ffc6dc0825",
+        "indonesian": "14d5144f95ffe60c6ab339686802daaa4925bdbcd7320e3e30e1c56d7ceaf303"
+      },
+      "06/01.md": {
+        "english": "cfbc67d6608619d9e8d50b52d96b8819636e7f939b87752e6c34f8dedcd05b8e",
+        "indonesian": "70612191be96845c6e60bdd250203768967911647cf180553618a0052d2d0736"
+      },
+      "06/02.md": {
+        "english": "1c038ef735d2b7262472df6239ac42f54cc4acdcb88007f0be64def2dfc320dd",
+        "indonesian": "c6a7d5371ffd24553630ac4ebc9e0ce66a035db54bfc18ce7dc7f0c6f5dd6338"
+      },
+      "06/03.md": {
+        "english": "f8d39f98f273572a95d516734b4b8254d4af9361aba77d123dac3cda1be340e2",
+        "indonesian": "34ac3297fc0c433c0b2dea7a64cc427f91ee8db45c4474658bd4b076b1e5421c"
+      },
+      "06/04.md": {
+        "english": "d57c44393c785c535bcfc3716d89c9499c1cfcc046efc39f6ddcf2eb6930af4c",
+        "indonesian": "a1609aa7fd107c1556f4515096c233c8dcbcd4087340673eeecead76274e394e"
+      },
+      "06/05.md": {
+        "english": "bcad15e5422270b271217f68c168d50fa14350188efdb80627a41fef99071f59",
+        "indonesian": "63b45926bffcad27f1834b14bfc62d001517be60aa98854f192f35af089e21b0"
+      },
+      "06/06.md": {
+        "english": "07d8a0860d8dfd4096f97dc0d42fd7c82966aa22a2ffc4cfabab883384087c16",
+        "indonesian": "b8a16edfdf4cbba88a0a08a796037fe4a455bfb17aa0a684671c921979812d45"
+      },
+      "06/07.md": {
+        "english": "15ad71f9269860a21216fd0630bdd84b19c45cac044ace3ae5dbd58ca70681ea",
+        "indonesian": "280ae60fece01c42b1c24dcf5afc8e2577abd0a7405806f17153b1ffb337dfd3"
+      },
+      "07/01.md": {
+        "english": "9d86ed85b894bb7827b6622c19bc2b4d801d116cecc8f1fee5cfdd99687fa7ca",
+        "indonesian": "8d84240f3431460d1ed51df01fcd389389d9dd679412423f8b91da267467a20c"
+      },
+      "07/02.md": {
+        "english": "b47d5cbf56c9a8c892228dcc04f462c3fdd0f45a78ca4427c393268dd7cd068d",
+        "indonesian": "68a7f4a39484b3aa030fb9a222f6061f970406545453c679ef313da47e4c9af5"
+      },
+      "07/03.md": {
+        "english": "6fe4d6e14e0ff547cc3f27b5f7c1b3bf2c3cf9942e00a5dd23abd2e2d427649c",
+        "indonesian": "770459ae3fbf9697463a340e8be9eed839dcabced2feae567796ce6aeeffed88"
+      },
+      "07/04.md": {
+        "english": "71b7dfdede4216c811b77bfd6e4c702a0983c53d4ab6018feb5a2d90fa300d97",
+        "indonesian": "a816eead31e8ccce7abf8b06e04c7f3c066cabc5a0b560e55394050598b3c4f4"
+      },
+      "07/05.md": {
+        "english": "48a0709473c511707a69fc79d69f8f66bbd762aa9d8985964579901a1903ff71",
+        "indonesian": "b6fa4b898c690725f1265b64bf9801e6190703266ebf4963d80243c6aaa35a00"
+      },
+      "07/06.md": {
+        "english": "b3a6aeb94dd65f62c3dcedf5363b3cca88c16f89de572530dd3ba2e0cfe8df83",
+        "indonesian": "66191cdb4447e7f119b7808c57823622e673c06b335cdbdd50809b08df24755a"
+      },
+      "07/07.md": {
+        "english": "0c036ed439d69864b92bbc6f68b960850c65393b521fdb662ed9700184eeac5d",
+        "indonesian": "acf15e6761d4ba9738d9aa1516555c1d92616856778bea289fc5d456031c0b78"
+      },
+      "08/01.md": {
+        "english": "7d0e655d41b081ce0538e5ff652f8f9a7056207db68e798c10ea471a259249d7",
+        "indonesian": "cdc268e3dfa1e2fb61a42d7f6d63c1f7ad0cf5af56326be8f27ed4a06cd8fc7f"
+      },
+      "08/02.md": {
+        "english": "2150cbae25ae4bbcbb0cda8cadfc01340b2ef357c2d924e2a89d117ccca4b661",
+        "indonesian": "b17ef146c3a097e840f57b14c9035dbb3d56f4435b2b6093e28616316634834f"
+      },
+      "08/03.md": {
+        "english": "874a776a4b8a914e8ea218278d68ba5f1b1ed143ff4d2cb4be1c4eb005d2a45a",
+        "indonesian": "dd2885647a18c19ca86202b34941bac940d77a5509b49a96a2dee2f2b498df0f"
+      },
+      "08/04.md": {
+        "english": "e27e895ccccd7beca5ecdc6e5d70a20785cd2fefcb7351f11c1502412c341158",
+        "indonesian": "fe9c7c99f49a7a468652acd203237084ed1140214a12c8f0636ef52c99d61cdc"
+      },
+      "08/05.md": {
+        "english": "f816e4f373020b2aa82587db483d1e7de55eb6f7376146ead02f03d7f3add3b0",
+        "indonesian": "c9a4fc3b16a96a3a38eae6c44805f16db74d11cd207394f341b663c2af7659da"
+      },
+      "08/06.md": {
+        "english": "4a0da38a6d0b8944e15c5be474f3a03f58ef697aea79845b5f82b3691b18419e",
+        "indonesian": "d75f26d7f80891112d9205e84bc5cb0c6808178779be6a9b27a5c5c45ad1dab8"
+      },
+      "08/07.md": {
+        "english": "05703920eaa70b87b583cce442c65ba2792eab1ff28c146dddb59f20623975f1",
+        "indonesian": "6b8f04bd87d18e99f8376ceee47e1d60bdb067d5f89e0a333fe91eb0a1831a31"
+      },
+      "09/01.md": {
+        "english": "be10752df5ec2e98afca5652cb3f2953478f6367dc72b329fe4258408f184c7e",
+        "indonesian": "d8f0ce0659d13525df90fd27c4e0246817d466f4582d56a9e499970e4fa8f467"
+      },
+      "09/02.md": {
+        "english": "be44fe9e1fff818da01106753079a0072827a117d10771bcb55c2c50273788d2",
+        "indonesian": "9edfcbeac500032cb1ef4d7fbad78b0d5ceb6176c19f532022f74d5f36df411e"
+      },
+      "09/03.md": {
+        "english": "5553ac0561372fe4958eb956f559aa6ea2b6cc3e6402d0f13aa2c1f21eac9e28",
+        "indonesian": "88208c8938d0187708c57e8618b822999a13baeb878b907e5f6f44dfaeaa0720"
+      },
+      "09/04.md": {
+        "english": "dd6af3e21894316d6896c96c99dd25653953a493098f39ac015eded60418f83a",
+        "indonesian": "77836c92e6103f7f5b095ebf2bfb0a1fc2e97b142e55f99a0f9def3988205260"
+      },
+      "09/05.md": {
+        "english": "784463bc9f9378f93028ba4006e8c00a8ba48c5aa116e627a14400407242d91c",
+        "indonesian": "396bb971f0a01d8c917264f77c3eca4983f444baeedd5b6fa9a9ddcbc33dd23b"
+      },
+      "09/06.md": {
+        "english": "f629bb0612161e85f46ce1a89081fe41622b87663286db1d45ba3ba662920067",
+        "indonesian": "ca15818d29c8ddfaa425bcf6e03dc218565b99b78d986688715e586cba0471fc"
+      },
+      "09/07.md": {
+        "english": "f3e487be129d19be49c1308e7008c0d833fcdf14ef4a74bfd0b35ec58a7ce632",
+        "indonesian": "54a8027f7b78db60df59c482cb9545efcb1d82810124e3c13f856a4308f31bf9"
+      },
+      "10/01.md": {
+        "english": "723f799a5de16a42667ed3ebb1aa338c07cad823bd899e24fd29b8f27f04e5c0",
+        "indonesian": "a93573e3fd0c5c50b5da6a411603e59951417357d924a994dcc211a5a19cd6b3"
+      },
+      "10/02.md": {
+        "english": "27cc9d1472d98dc0ab572991d3dec8cb8e8d2d8456bb4d5e8f15f8eb004024ef",
+        "indonesian": "2a81b40dfc2e8b016a793ac57c68920405aa966dbfcdeb3d4c85658ff8ca289f"
+      },
+      "10/03.md": {
+        "english": "ece57649108e34a00ebebd9ce05393931bd8976e2bca49cab35bd6b086888d07",
+        "indonesian": "ce1e6874a053e763fec3018b0a2093a4aac01bd99218f6895e0d1684a839cf4d"
+      },
+      "10/04.md": {
+        "english": "c9e2430e8a53e919ad5e161551266c231aaa1eaeadd562e68a3d454b4baf101c",
+        "indonesian": "50c81654e63e6ac815d8425d22f5637b2fdd391f83ae267f657a464b1304e152"
+      },
+      "10/05.md": {
+        "english": "626bc1d7133870c407978dbbeff9e7b60f5ea8260dc4b2b60a90b9b131b5b535",
+        "indonesian": "876daae8f13ebfe32a95ee9ccbb8ec2fd2dfa661169c7b7c8c9188e31b830b07"
+      },
+      "10/06.md": {
+        "english": "f7f26c4e816b686f45ce4e6f94ca0054421486d7ab58626fb872d21ccc108ff4",
+        "indonesian": "712de5cd04333b98f279c00fc847ce78096c34e1d9c197989153ceaa7a0412cf"
+      },
+      "10/07.md": {
+        "english": "016ba9bc7e0c84f81f27efb3fa1aa98960ff50ab32ac4cb422610072a63db538",
+        "indonesian": "bae2bad4d780ccdee048702d97c742ee13442bbb619dc6161d38c6fed7d8389c"
+      },
+      "11/01.md": {
+        "english": "dcab2d64fd813bd930ae091bd99a30f56b597923cdfec7b2332858d4fb083c19",
+        "indonesian": "066dc6ec44ce9fa232e45d829fc85bdaa708979171fc6da6a2222efcb2010b37"
+      },
+      "11/02.md": {
+        "english": "36f5af712ff8363deaca0af9ee8009ecbca6451eaacae546e559d77789a621a0",
+        "indonesian": "9c298e387996035b0adf95adcbe5477bb22aea3134505bc8cd7664b1095c0991"
+      },
+      "11/03.md": {
+        "english": "0946ef789a27876a195cbd817a96f27e8a7f234c338364409bd2dff25d02b003",
+        "indonesian": "2d6087c3a1995d9c59d6b95103392ecbdb4a34daf0ed3f61fae59637e8682f27"
+      },
+      "11/04.md": {
+        "english": "888b014d504e2bb30c33aabd06bbde5df4bf6237ccd14f6f323bc0affc6765df",
+        "indonesian": "a2684fd13d18234732c060af7b96874280051962d02cef1e82c988718ce8bfac"
+      },
+      "11/05.md": {
+        "english": "8ab06ed66f53503ff022a256a4845c1c695d2aee86450b4241b01d46df64a35b",
+        "indonesian": "7280613cbea6e67456c19692fdf393e3951af8bcc6f63b3b0376c3f70dbe1411"
+      },
+      "11/06.md": {
+        "english": "204ebfc2cfa1a528ad27335e5110b4c3f5694dc4c27433b76d3e746c49f9d9ff",
+        "indonesian": "751812648206fe0861ab5c5fa17162162da2c468ee8d29ad340806f2e2cb0306"
+      },
+      "11/07.md": {
+        "english": "35c1c8813dc82db878baa1b1cb437991af1a0ad99a90acf0991c09bcd1483832",
+        "indonesian": "f9465e2a3b25a23b04373ff0e572e38c06b1b953b2c1d462fa53e06dca754e36"
+      },
+      "12/01.md": {
+        "english": "e76c8b9c539251be865df91dc988654f4b1a95f824bbdaa8bd8ba1bb5c99ec3d",
+        "indonesian": "781ece60eba907b8843ad46b2e89066432550d0be315d7539be4fceec4f9f3c8"
+      },
+      "12/02.md": {
+        "english": "4cdfda66779869d1cac246dfb868deb863c176bab1ec952213e0c0e3b5af1713",
+        "indonesian": "8d62790618ffa3efd46ad81882b80c63f4fb4c5f14135f2967a34b150c3dbf6c"
+      },
+      "12/03.md": {
+        "english": "ef5bb8ce90b0763ebe5204b58d2dd518ea30824c0bb8c24006166d25a3142add",
+        "indonesian": "101692764bc9c22034feb06b8510fa5941272ea738ae231b492a382d3fad42f0"
+      },
+      "12/04.md": {
+        "english": "f0c49932700450207826a53edac2ff8d27bd4d055c98cc77bf740eae61f9bc48",
+        "indonesian": "d331a03eda52e2a61d268cbe568ee20a947ea47bf085e2e1978ae3548ddb5207"
+      },
+      "12/05.md": {
+        "english": "048851ceb384062ed9f53a5eb85b83a92b20c623472f23c09bca2942a33a47ee",
+        "indonesian": "103b53928580244a33d4b211f24fe43f027813d370a287bf29632098d64a991d"
+      },
+      "12/06.md": {
+        "english": "b03b5b87dfd5845545cb76466ec5219d186c6fef37a2b3a167026a760f7613fa",
+        "indonesian": "2f550309c183ecdc75861cdce61de32bd0ec03306cbeba44643e2a395f4c773f"
+      },
+      "12/07.md": {
+        "english": "b1cc98ca28d5d0716f89debec5e1bf042301f67d732a86382c35455f547064f3",
+        "indonesian": "f81e46b20db54d2c84495b1f769eda5745100d4c0852fa6b10c2ea727a983ca9"
+      },
+      "13/01.md": {
+        "english": "c3bc3e1fe7eae3a29728ad58fbe7be9669b29341119ee4b1281d47150927de6e",
+        "indonesian": "37ebd6d9d7010f6df058c651c20ed13bfd2cc44142d3d0b95efa1e16ccff8da7"
+      },
+      "13/02.md": {
+        "english": "3cb96495791eb6e589bca7ae3b2b86b67b626b3c7bebf6f033b723b2f014615f",
+        "indonesian": "888eed3ed95ce7386a254cbced7732d77e440d1b281812ca51a2499be44c64c9"
+      },
+      "13/03.md": {
+        "english": "16ec4b739b30a508b700e84d7e0718f4bbdaf90ed2f5396d58e3b0f69b44db3e",
+        "indonesian": "cae6bdb55313d3d2f0e17307894dde716a781b0dfd2aa7dd5de8d35e0d58e69f"
+      },
+      "13/04.md": {
+        "english": "12ed9c3d42b314c09bf3fcb8dbd386844379746fe08adbf8435f791e0cb0228c",
+        "indonesian": "c3acb5202455bb47f0d98cbf7f90d21abbb1e4ff615e667c5c983ed5b6dd863f"
+      },
+      "13/05.md": {
+        "english": "7928c121904f5b939ce8251cccccb805391206b4bde5450796457c047b2174e7",
+        "indonesian": "fa11a9a66e8709185e688b5d1713cb1210588d79323def0d8e875f19a75bd1a6"
+      },
+      "13/06.md": {
+        "english": "24b13847f42b897fdb94eb4be816ed50f6c4d4f75127461528b5ab32d5770858",
+        "indonesian": "26e704d2b9cd0028c0852774846524ca740ec674693361bfd0a568d89fb9b9d6"
+      },
+      "13/07.md": {
+        "english": "57cd4c6c2e7cba3875d431a32cf32a714a19bfb9bd11e1966d161cce8f76c11e",
+        "indonesian": "4cffe5b4f92c6cbe6701c708871e174d6a15fe78d6a9d5ab9ae6425b0d63e63d"
+      },
+      "introduction.md": {
+        "english": "fa1284d195b6ac1c087e8068791d3449967fbea220e1314ced16d3b09e2c5e2e",
+        "indonesian": "d2088af168a000e01d59faa831fab7b230caf1a6aca3339b1e246af7f6906ea5"
+      }
+    }
+  },
+  "translationFiles": {
+    "introduction.md": "ebba0a2d9a8ac775fddbb9906ad5514c60d686f8f97da0a2a0bbb5f61e52f4ac",
+    "lesson-01/friday.md": "aa7016f898741a4b8998b4177d2047ff1a8e0452933e6fe2f5c4d304fa268809",
+    "lesson-01/monday.md": "d4668850f99299aa34a5144ac26919f39b38b6850f44c5240c626925e1ce8220",
+    "lesson-01/sabbath.md": "722259e48ad94f12454e1e0d2887a69801327d63367a9392610eb304e697f03b",
+    "lesson-01/sunday.md": "50015c5ea26de9786338bb9f0a446723e27723e296054f5545eb6ece79ab9da3",
+    "lesson-01/thursday.md": "38398d0711e6b34d5e9800715cb5914536e18531004bf1227a89395ab84f2590",
+    "lesson-01/tuesday.md": "93ead144c10ce1045d0ac5936d19ff2cf6a06bd28c63566e7d432c1ee8122308",
+    "lesson-01/wednesday.md": "cff8fae11b2b5fb8711a346a01649e6579a0a1b6b1ce3871fb78152e792c680b",
+    "lesson-02/friday.md": "e6d6666c5dc532f5d6370dc3acf7a68149a8073c94fe4644ddefe388ef4555db",
+    "lesson-02/monday.md": "f812fefdde07442e5426e3c42f17182da2e2e583d5714dcff73985d3271032c1",
+    "lesson-02/sabbath.md": "eb9c1ffe3263cf9f56d768cafdf6186bf7d9dd263e314ef8a51c43877c1404c9",
+    "lesson-02/sunday.md": "6177907d7504ab2f633739080f5474977a127ec38aad6a9e55b8bb875195bc88",
+    "lesson-02/thursday.md": "eef0abbeca202e19074b11b107725031d6149e01dc12b131bb2a8a2c3e406e0d",
+    "lesson-02/tuesday.md": "b6b1393786b2b253c70ce9dec86ef113df79eed01607ebc1679db0a8bfe82be2",
+    "lesson-02/wednesday.md": "c6ebb2cabcea5565bafb3f27d91c1156ef4a45a056c274c4f7c23da8e78ec28d",
+    "lesson-03/friday.md": "5aa33c1ae144d48f55779e4421fece38d911827335b742faec8db277b6b9bffa",
+    "lesson-03/monday.md": "a55162ff05c57edf6330e0cf2208766897fb210c359285cb069efb0c0d7df0c2",
+    "lesson-03/sabbath.md": "702a140c9b8883d5f91e720b32f1c220541bad2601a249eb154c2dd57cc20f7f",
+    "lesson-03/sunday.md": "6b32785e787691e1c17f5d3b3adb839211fdc9758a22ea2b79e81bd2b3130306",
+    "lesson-03/thursday.md": "0a7edd2a17ed8941d7ae0f515fb76915b242a2d5a13f13091f5dfb222a4e1af1",
+    "lesson-03/tuesday.md": "a89e6f99e8b7c2444b054b3226e639ea9e7973727d49af7162df6a2f7bb19fb1",
+    "lesson-03/wednesday.md": "3f1b4f7e6e9630f4adc7794aebf38aa708d70647465fd885fc824e5fd99d92e9",
+    "lesson-04/friday.md": "ceb36d58b1ba5765a2db9db56c8577e2e5b4fce50142ed246c56050fe9534e56",
+    "lesson-04/monday.md": "1d013d3fd6ade79528493090a2309e1e596350d6de9a967ef1dcd8f38552c7e7",
+    "lesson-04/sabbath.md": "312f599aee06950692efb66a7e0227d45f9049d0ee6c723544eb51f27b4927e5",
+    "lesson-04/sunday.md": "95cda71aff8ed48b014cd4d29a14e83c9713cf7ac93d835091b57a8e3b32e8dd",
+    "lesson-04/thursday.md": "ae3603f7507378068e9d66071f7acfdbb244cb863f605daf625e4391a64dc508",
+    "lesson-04/tuesday.md": "8280358fd3af091f48c9f552977be6c01a942c459f6f8491c33a6ed26feecc51",
+    "lesson-04/wednesday.md": "c8f09374e3443607c476a9451117f16dbee7929448ef2c7995eb49733db1b6f0",
+    "lesson-05/friday.md": "b8c3d1c30b2018af7e0ab0383e5fd42c31aaba8fdbc1cf2289f2cc2a290e3d99",
+    "lesson-05/monday.md": "13448d0340611712e500c0bf9772ebcd88a6ecf0727b9c72ddc813d29726d426",
+    "lesson-05/sabbath.md": "11243eaa763d1e291c56324a034cd97c3947a031b43ff9c7d7589973ff106a6b",
+    "lesson-05/sunday.md": "eac4cb0a47265ab456c75de6665e614744573dcbe27573253478f07772fc2654",
+    "lesson-05/thursday.md": "85d7c5b3ee6637ee6011ab67ddd13048aa4ec039b88d8f591dd2f60562a109f0",
+    "lesson-05/tuesday.md": "8c2724a3499efae4854f2979ef15b5ac0074408fc008a3c4d2f2ee2a0ccef8ba",
+    "lesson-05/wednesday.md": "cacc8aaa30ca1dafde2a71982e11870336f059068f7e2ebe8b492f67312b34c1",
+    "lesson-06/friday.md": "867cd98e88d446ecf413e2f911b299ec36905fbc77fbf308f82eb863a8a75103",
+    "lesson-06/monday.md": "2d8919af5f6195ed9915be933237e660c8a4a6bb049a7f1a0447b22d2271f6f5",
+    "lesson-06/sabbath.md": "e9d4146e9735af4cb169c0971e1b27effbd244d0fb10e4d0752589ab07f2d29c",
+    "lesson-06/sunday.md": "61e418322da2a36f6813c996abb0718c2d5191015b08a042205fa56f12d2fb23",
+    "lesson-06/thursday.md": "c7d4fbab675108d8280a7e793a6644b6a7aea25a408456b1631dc35ebe8626fc",
+    "lesson-06/tuesday.md": "073d56186d763a7910b31a4a5d3b17ed55e262f0d612cefe1953b11d25876e64",
+    "lesson-06/wednesday.md": "0b7c6fc7d5935cfeb03df76ea73320c2e045f3a5b5fb52691039c702cde5c96a",
+    "lesson-07/friday.md": "2319a7d3d544356535f0dccb9131066ba16fc665885182438e4e7c16c324978c",
+    "lesson-07/monday.md": "65b8da9799e4ded6e088e4107e05b91ffb59a6e40a5b9123e9f9e6034fb8a188",
+    "lesson-07/sabbath.md": "1f417f5b65a2fa75623e2bf1726fe66cb583c4d0a227dc22b6b93ee3bd5ac656",
+    "lesson-07/sunday.md": "04880c553344bea7050bcb33fb90fdff3ade73ca93959c181f29796a570890cf",
+    "lesson-07/thursday.md": "9c4ac43f06c25386d902ec88938252943051550eff73861af9f8d1a742e9e3e1",
+    "lesson-07/tuesday.md": "9b4cc38e4c4f3226ef128f78884adfe47f2772645c9b2afceac40020c8826540",
+    "lesson-07/wednesday.md": "7d6d8deb2cefae9ea3b7aafaaf56f90624d41ac97abfcad9d3ac835befcd0968",
+    "lesson-08/friday.md": "722457c9212b16a2a0f1ebe0343b477d1e523e4b8f55f2c6eeca69a773f64675",
+    "lesson-08/monday.md": "076d3ba3af67ab11c05a3246ec174d3e22336562c78b930bc10a663bdad40d22",
+    "lesson-08/sabbath.md": "f6b27a0be2d15288d88ef4174912e3ecebcb89f53528891209d9e15186a58ac1",
+    "lesson-08/sunday.md": "c2f1e3a69cd44817be855c664fe6633b50d26b9e0c2b8fede510e0593410ff25",
+    "lesson-08/thursday.md": "4ac258bb078830c5a3f9d13cf5653ca703a864dd5df6e52065daf2ac4e5e008b",
+    "lesson-08/tuesday.md": "65ee3abe9250c53d567167f69bef7b65168a35e7ad0f993b77074558061547a1",
+    "lesson-08/wednesday.md": "11547231300e232c132c92ae51d4ea255f5c8938f80548f96b7bcd7849ee91ff",
+    "lesson-09/friday.md": "89cc08d4e66764ede661c19d5265fbb05e1eaaeba7a8d2d5f5100861995bcd17",
+    "lesson-09/monday.md": "2a8e02bffb1f6700108adc7f2af3a898410ac3c0a7b0af64f8f53d381641e830",
+    "lesson-09/sabbath.md": "3829f033f1abfad7472649204e81ca8aeb985cd0773578b6ecfe0a795f15cece",
+    "lesson-09/sunday.md": "406245e280ff3ae99122fd435293f8d388075af8a17be6e793fd876aa744f191",
+    "lesson-09/thursday.md": "a7b27dba96723478627759fbbba1603f628e7d2d9b1d7ffa84399bc1dd6465bb",
+    "lesson-09/tuesday.md": "e746e88f028553909b9b2c87f561b511a6c2cd5ca1704c84d5d1e41919bd9243",
+    "lesson-09/wednesday.md": "90196a2ab125c5afaed85ca2622c04cedea554c4de6d0e08f5133386083d541f",
+    "lesson-10/friday.md": "fabe8c293c836581f72239ee9cb26a48eccfe1d9262a107ac582db9a2c42c438",
+    "lesson-10/monday.md": "e89c23452326e5db576fa9c11c09d12fa840b2355653fc57e58ba33ad40d810c",
+    "lesson-10/sabbath.md": "4cc16f88169217e172cd87933b532db8c858928ce19aed4ba9dbd6ada1e24dc8",
+    "lesson-10/sunday.md": "03971fc3bd74924dbf18547e2a58d831b66963d07fc61939350d3196a7125166",
+    "lesson-10/thursday.md": "3e02e5ac82520376c13d44858e77425b7456e574f39b720eb5c357e577787db6",
+    "lesson-10/tuesday.md": "aa87d2888f195d931f97c4f7e2895834c135b2907d87f92c29e6e6769f8c7ab0",
+    "lesson-10/wednesday.md": "87022d7a3e9611989f8887c9cb222c2521d3561d93ef17e72c7a036c4cf9f3a7",
+    "lesson-11/friday.md": "36263e5b697e28126046c83ea71db2ee0d3ff6e7268a360091b356ed41b6eaec",
+    "lesson-11/monday.md": "198d9e1052324bdd553490621ef15b9b47958181bf60a5242a3891b1366e0a0e",
+    "lesson-11/sabbath.md": "fa4696aedf68ba8052f7dbfbe48ebda78d8d2d4e41e5413b56ca0592be3bf40a",
+    "lesson-11/sunday.md": "bc1907af94241b4c8a447597bbe85090eb54ee505622ba87c19144208f7df27a",
+    "lesson-11/thursday.md": "7b52c55fc1459d4b35bb88383cde91292dfb878752ec2d6801def18e43a5c2a0",
+    "lesson-11/tuesday.md": "bb86be686637b3ad57b746a129a170009d20b4497fc52788c25e414aa9e44f89",
+    "lesson-11/wednesday.md": "28b6e2454eb3cf62eb69f2d318dfaa5d251ab50f6abca5e9d73a5de6a63b5f81",
+    "lesson-12/friday.md": "68f80d982c81190fe4c41c4ea04292e1d883343a1627750be029ce9c05aa8058",
+    "lesson-12/monday.md": "deda7ce0c1e5c1bddea80c5f4bd046033d6983c041c70d53faf19e7df886db4a",
+    "lesson-12/sabbath.md": "25692e0933818b5710e4fdb6ca7fc8876b9b139ee0f05e0dbe22a28ad04c2aca",
+    "lesson-12/sunday.md": "373202dc560fb034f2caca095652733585a2f4c23f046ac7e30fd1aa2eb002dd",
+    "lesson-12/thursday.md": "93d403091e0a8986553ab311d8c68a51de721e954a6db71741ed10adf9dda074",
+    "lesson-12/tuesday.md": "9f7c77bd389b48ed84262e34df9ac1317a1a1a1db12869f770db37fec855b242",
+    "lesson-12/wednesday.md": "fe8abb5ea49509bb3df1adef5cd69fbd7a2749817dc09f62c383a18c728eb85e",
+    "lesson-13/friday.md": "2deb79fec59ac7016a4d01e017d8b451e73026e1e2832339f71d6691e7acfed8",
+    "lesson-13/monday.md": "14a66c0b0cb48a27f74627271dd7a1b6cf6a00ce3b814262604cfcf55f0af93a",
+    "lesson-13/sabbath.md": "11baa53ba8bedb9e1c49f5671c31824fa2f4b5f946b2ec42e26f245a3772537c",
+    "lesson-13/sunday.md": "a2c39f387bbeed2a3cb68d10501078bf21369b7b08131238a4974d9452fa168c",
+    "lesson-13/thursday.md": "5074c448de996ec7415da67673f3067a7e301ceeb89adb17b81c18aa59a4644d",
+    "lesson-13/tuesday.md": "a8b094a973db57ec53ebe7ce8576234bcb7bc45e73fbf3cba700e468874e418b",
+    "lesson-13/wednesday.md": "1176e6b877778433873c2a6d5b687c0fa7703c21601290bccf890abc5329d8ee",
+    "unit-resource-family/family-devotions.md": "8631aabd5a9339af3d9e77af584f64aa1a6a062cc5722353486b7f1cba2064c9",
+    "unit-resource-family/kindergarten-friends.md": "aa6e9670a7036032ce78d13881a073a852766eab1af7387fc14c558678c01980",
+    "unit-resource-family/music-and-podcasts.md": "98991d570ae8e952af29480e31bf474776d89b6f86e9b9d8fc7f2ac98070d5cf",
+    "unit-resource-family/parents-letter.md": "eba862be87fb7e3f6b821d81276494c431be3b3b51bfb182bcf9e09243f4fbdc"
+  }
+}

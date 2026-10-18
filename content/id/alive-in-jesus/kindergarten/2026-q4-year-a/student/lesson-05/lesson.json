@@ -1,0 +1,50 @@
+{
+  "id": "lesson-05",
+  "title": "Sahabat bagi yang Kesepian",
+  "startDate": "2026-10-25",
+  "endDate": "2026-10-31",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Sahabat bagi yang Kesepian",
+      "date": "2026-10-25",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "“Kamu Bisa Membuatku Bersih!”",
+      "date": "2026-10-26",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Meluap!",
+      "date": "2026-10-27",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Kejutan Berlumpur",
+      "date": "2026-10-28",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "“Aku Bisa Melihat!”",
+      "date": "2026-10-29",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Mendengar dan Berbicara Lagi",
+      "date": "2026-10-30",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Pencarian Sensorik",
+      "date": "2026-10-31",
+      "file": "sabbath.md"
+    }
+  ]
+}

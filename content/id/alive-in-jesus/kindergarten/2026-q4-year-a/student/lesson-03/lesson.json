@@ -1,0 +1,50 @@
+{
+  "id": "lesson-03",
+  "title": "Membawa Teman kepada Yesus",
+  "startDate": "2026-10-11",
+  "endDate": "2026-10-17",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Membawa Teman kepada Yesus",
+      "date": "2026-10-11",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Sahabat Baik Berbagi Kabar Baik",
+      "date": "2026-10-12",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Ide yang Mengejutkan",
+      "date": "2026-10-13",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Sahabat yang Setia dan Dapat Dipercaya",
+      "date": "2026-10-14",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Keajaiban Lainnya",
+      "date": "2026-10-15",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "“Terima kasih, Yesus”",
+      "date": "2026-10-16",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Kehidupan yang Berubah dan Teman-Teman Baru",
+      "date": "2026-10-17",
+      "file": "sabbath.md"
+    }
+  ]
+}

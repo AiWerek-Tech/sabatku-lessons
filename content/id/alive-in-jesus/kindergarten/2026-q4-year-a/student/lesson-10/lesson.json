@@ -1,0 +1,50 @@
+{
+  "id": "lesson-10",
+  "title": "Bartimeus yang Berseru-seru",
+  "startDate": "2026-11-29",
+  "endDate": "2026-12-05",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Bartimeus yang Berseru-seru",
+      "date": "2026-11-29",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "“Apa yang Kudengar Itu?”",
+      "date": "2026-11-30",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Gangguan Berisik!",
+      "date": "2026-12-01",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Yesus Mendengar",
+      "date": "2026-12-02",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Mata Terbuka",
+      "date": "2026-12-03",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Kata-kata di Air",
+      "date": "2026-12-04",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "“Yesus… Tolonglah aku!”",
+      "date": "2026-12-05",
+      "file": "sabbath.md"
+    }
+  ]
+}

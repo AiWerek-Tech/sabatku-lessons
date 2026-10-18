@@ -1,5 +1,6 @@
 node_modules/
 public/
+public-preview/
 .DS_Store
 Thumbs.db
 /tmp/

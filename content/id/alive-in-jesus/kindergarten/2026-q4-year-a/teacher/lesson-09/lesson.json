@@ -1,0 +1,56 @@
+{
+  "id": "lesson-09",
+  "title": "“Angkat Tilammu dan Berjalanlah!”",
+  "startDate": "2026-11-22",
+  "endDate": "2026-11-28",
+  "readings": [
+    {
+      "key": "overview",
+      "title": "Ikhtisar Pelajaran",
+      "date": "2026-11-28",
+      "file": "overview.md"
+    },
+    {
+      "key": "a-quiet-moment",
+      "title": "Saat Teduh Guru",
+      "date": "2026-11-28",
+      "file": "a-quiet-moment.md"
+    },
+    {
+      "key": "simple-program-outline",
+      "title": "Garis Besar Program",
+      "date": "2026-11-28",
+      "file": "simple-program-outline.md"
+    },
+    {
+      "key": "program-preparation",
+      "title": "Persiapan Program",
+      "date": "2026-11-28",
+      "file": "program-preparation.md"
+    },
+    {
+      "key": "full-program-outline",
+      "title": "Program Lengkap",
+      "date": "2026-11-28",
+      "file": "full-program-outline.md"
+    },
+    {
+      "key": "tell-the-story",
+      "title": "Ceritakan Kisahnya",
+      "date": "2026-11-28",
+      "file": "tell-the-story.md"
+    },
+    {
+      "key": "mission-story",
+      "title": "Kisah Misi",
+      "date": "2026-11-28",
+      "file": "mission-story.md"
+    },
+    {
+      "key": "craft",
+      "title": "Kerajinan",
+      "date": "2026-11-28",
+      "file": "craft.md"
+    }
+  ]
+}

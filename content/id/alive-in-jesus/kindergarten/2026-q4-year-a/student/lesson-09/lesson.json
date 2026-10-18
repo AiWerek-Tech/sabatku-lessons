@@ -1,0 +1,50 @@
+{
+  "id": "lesson-09",
+  "title": "“Angkat Tilammu dan Berjalanlah!”",
+  "startDate": "2026-11-22",
+  "endDate": "2026-11-28",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "“Angkat Tilammu dan Berjalanlah!”",
+      "date": "2026-11-22",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Membutuhkan Bantuan",
+      "date": "2026-11-23",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Keajaiban di Tepi Kolam Renang",
+      "date": "2026-11-24",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Melompat Kegembiraan",
+      "date": "2026-11-25",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Diampuni dan Bebas!",
+      "date": "2026-11-26",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Membebaskan",
+      "date": "2026-11-27",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Bernyanyi untuk Ayah",
+      "date": "2026-11-28",
+      "file": "sabbath.md"
+    }
+  ]
+}

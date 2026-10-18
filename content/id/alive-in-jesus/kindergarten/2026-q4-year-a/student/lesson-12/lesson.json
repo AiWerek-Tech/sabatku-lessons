@@ -1,0 +1,50 @@
+{
+  "id": "lesson-12",
+  "title": "Kejutan di Tengah Pemakaman",
+  "startDate": "2026-12-13",
+  "endDate": "2026-12-19",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Kejutan di Tengah Pemakaman",
+      "date": "2026-12-13",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Pemakaman yang Menyedihkan",
+      "date": "2026-12-14",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Tidur Paling Nyenyak",
+      "date": "2026-12-15",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Pelukan Terbaik!",
+      "date": "2026-12-16",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Perayaan Pemakaman",
+      "date": "2026-12-17",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Harapan!",
+      "date": "2026-12-18",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Menaburkan Kelopak Kebahagiaan",
+      "date": "2026-12-19",
+      "file": "sabbath.md"
+    }
+  ]
+}

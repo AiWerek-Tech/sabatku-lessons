@@ -8,7 +8,8 @@
     "validate": "node scripts/build-content.mjs --check",
     "build:content": "node scripts/build-content.mjs",
     "audit:aij-translations": "node scripts/audit-alive-in-jesus-translations.mjs",
-    "test": "node --test tests/*.test.mjs"
+    "test": "node --test tests/*.test.mjs",
+    "preview:aij": "node scripts/build-content.mjs --preview-drafts"
   },
   "engines": {
     "node": ">=20"

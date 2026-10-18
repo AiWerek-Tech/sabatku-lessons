@@ -1,0 +1,50 @@
+{
+  "id": "lesson-11",
+  "title": "Prajurit yang Penuh Iman",
+  "startDate": "2026-12-06",
+  "endDate": "2026-12-12",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Prajurit yang Penuh Iman",
+      "date": "2026-12-06",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Utusan Yahudi",
+      "date": "2026-12-07",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Dia datang!",
+      "date": "2026-12-08",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Iman Terbesar",
+      "date": "2026-12-09",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "Sembuh!",
+      "date": "2026-12-10",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Tantangan Kepercayaan",
+      "date": "2026-12-11",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Kencan Makan Siang dengan Bebek",
+      "date": "2026-12-12",
+      "file": "sabbath.md"
+    }
+  ]
+}

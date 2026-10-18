@@ -1,0 +1,117 @@
+{
+  "id": "2026-q4-aij-kindergarten-student",
+  "programId": "alive-in-jesus-kd-pb",
+  "locale": "id",
+  "trackId": "kindergarten",
+  "cycleId": "year-a",
+  "bookRole": "student-guide",
+  "structureType": "weekly-story-with-daily-reading",
+  "dayOrder": [
+    "sunday",
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "sabbath"
+  ],
+  "title": "Alive in Jesus · Kindergarten · Panduan Murid · Triwulan IV 2026",
+  "description": "Kindergarten · Usia 4–6 tahun · Tahun A · Triwulan IV 2026",
+  "theme": "Yesus Mampu Melakukan Apa Saja",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "cover": "editions/2026-q4-aij-kindergarten-student/assets/cover.png",
+  "sourceName": "Alive in Jesus · Kindergarten",
+  "sourceUrl": "https://kindergarten.aliveinjesus.info/students?year=yearA&quarter=quarter4",
+  "attribution": "© 2026 General Conference of Seventh-day Adventists®. Terjemahan Bahasa Indonesia oleh tim SabatKu.",
+  "rightsStatement": "Hak atas materi sumber tetap pada pemiliknya.",
+  "publicationStatus": "draft",
+  "sourceReviewRequired": true,
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "title": "Yesus Menenangkan Badai",
+      "startDate": "2026-09-27",
+      "endDate": "2026-10-03"
+    },
+    {
+      "id": "lesson-02",
+      "title": "“Kumohon, Sembuhkanlah Anakku”",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-10"
+    },
+    {
+      "id": "lesson-03",
+      "title": "Membawa Teman kepada Yesus",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-17"
+    },
+    {
+      "id": "lesson-04",
+      "title": "Berjalan di Atas Air",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-24"
+    },
+    {
+      "id": "lesson-05",
+      "title": "Sahabat bagi yang Kesepian",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-31"
+    },
+    {
+      "id": "lesson-06",
+      "title": "Sentuhan pada Jubah-Nya",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-07"
+    },
+    {
+      "id": "lesson-07",
+      "title": "“Anak Perempuan, Bangunlah!”",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-14"
+    },
+    {
+      "id": "lesson-08",
+      "title": "Selamat Hari Sabat",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-21"
+    },
+    {
+      "id": "lesson-09",
+      "title": "“Angkat Tilammu dan Berjalanlah!”",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-28"
+    },
+    {
+      "id": "lesson-10",
+      "title": "Bartimeus yang Berseru-seru",
+      "startDate": "2026-11-29",
+      "endDate": "2026-12-05"
+    },
+    {
+      "id": "lesson-11",
+      "title": "Prajurit yang Penuh Iman",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-12"
+    },
+    {
+      "id": "lesson-12",
+      "title": "Kejutan di Tengah Pemakaman",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-19"
+    },
+    {
+      "id": "lesson-13",
+      "title": "“Bangunlah, Lazarus!”",
+      "startDate": "2026-12-20",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-family",
+      "title": "Bahan Pendamping Keluarga",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    }
+  ],
+  "estimatedImageBytes": 25108628
+}

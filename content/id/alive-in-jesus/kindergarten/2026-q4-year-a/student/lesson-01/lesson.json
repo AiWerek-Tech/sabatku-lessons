@@ -1,0 +1,50 @@
+{
+  "id": "lesson-01",
+  "title": "Yesus Menenangkan Badai",
+  "startDate": "2026-09-27",
+  "endDate": "2026-10-03",
+  "readings": [
+    {
+      "key": "sunday",
+      "title": "Yesus Menenangkan Badai",
+      "date": "2026-09-27",
+      "file": "sunday.md"
+    },
+    {
+      "key": "monday",
+      "title": "Istirahat yang Tenang",
+      "date": "2026-09-28",
+      "file": "monday.md"
+    },
+    {
+      "key": "tuesday",
+      "title": "Dari Tenang Menjadi Menakutkan",
+      "date": "2026-09-29",
+      "file": "tuesday.md"
+    },
+    {
+      "key": "wednesday",
+      "title": "Tidur Nyenyak",
+      "date": "2026-09-30",
+      "file": "wednesday.md"
+    },
+    {
+      "key": "thursday",
+      "title": "“Tenanglah, Berdiamlah!”",
+      "date": "2026-10-01",
+      "file": "thursday.md"
+    },
+    {
+      "key": "friday",
+      "title": "Kedamaian di Hatiku",
+      "date": "2026-10-02",
+      "file": "friday.md"
+    },
+    {
+      "key": "sabbath",
+      "title": "Yesus Menenangkan Badai",
+      "date": "2026-10-03",
+      "file": "sabbath.md"
+    }
+  ]
+}

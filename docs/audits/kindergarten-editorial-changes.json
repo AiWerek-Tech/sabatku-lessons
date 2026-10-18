@@ -1,0 +1,462 @@
+{
+  "date": "2026-10-18",
+  "status": "editorial-revision-needs-team-review",
+  "baseline": "First recorded editorial pass per file; original source checksums are in source-audit manifests.",
+  "changes": [
+    {
+      "file": "student/lesson-02/tuesday.md",
+      "before": "dbe35cd9d7753c40ad65cd0976954ec1479dfcaacfd4ae3d308bd332f349d5f7",
+      "after": "b6b1393786b2b253c70ce9dec86ef113df79eed01607ebc1679db0a8bfe82be2"
+    },
+    {
+      "file": "student/lesson-05/wednesday.md",
+      "before": "9add731400050f0c211a3f0767e0380a6ff2a06955a18c671581c6aff983a676",
+      "after": "cacc8aaa30ca1dafde2a71982e11870336f059068f7e2ebe8b492f67312b34c1"
+    },
+    {
+      "file": "student/lesson-06/friday.md",
+      "before": "f3412b83c206f06ce029ef718a2e862b9efa0caca1b0503cc943f387e6c17a93",
+      "after": "867cd98e88d446ecf413e2f911b299ec36905fbc77fbf308f82eb863a8a75103"
+    },
+    {
+      "file": "student/lesson-06/monday.md",
+      "before": "c3277166fc713a01550f72dcf9956e7a01f107202cc9b9b1aca6be03e304bb37",
+      "after": "2d8919af5f6195ed9915be933237e660c8a4a6bb049a7f1a0447b22d2271f6f5"
+    },
+    {
+      "file": "student/lesson-06/sunday.md",
+      "before": "0f5b512006a24ebcb6c25982e1e20b26a4486077701256f9ff63ea054fc8f406",
+      "after": "61e418322da2a36f6813c996abb0718c2d5191015b08a042205fa56f12d2fb23"
+    },
+    {
+      "file": "student/lesson-07/friday.md",
+      "before": "6edf000610a88d3d738166417635cdc54c2fea314f770d0ef6c53f1d9aaa581f",
+      "after": "2319a7d3d544356535f0dccb9131066ba16fc665885182438e4e7c16c324978c"
+    },
+    {
+      "file": "student/lesson-07/monday.md",
+      "before": "bce8bdbbad7fe68339453115b22bf7af257f0fad241e33753ec705b287eaa57d",
+      "after": "65b8da9799e4ded6e088e4107e05b91ffb59a6e40a5b9123e9f9e6034fb8a188"
+    },
+    {
+      "file": "student/lesson-07/wednesday.md",
+      "before": "52672968be1d28b9e65e49d3bdffea0f1d71a753a172802a3fab1975ca6aa006",
+      "after": "7d6d8deb2cefae9ea3b7aafaaf56f90624d41ac97abfcad9d3ac835befcd0968"
+    },
+    {
+      "file": "student/lesson-08/friday.md",
+      "before": "33f48389330dbcbb5b2314ae5783da65f084bdae12fa0726006903b576df2b77",
+      "after": "722457c9212b16a2a0f1ebe0343b477d1e523e4b8f55f2c6eeca69a773f64675"
+    },
+    {
+      "file": "student/lesson-08/monday.md",
+      "before": "b704a729f0d84d47dab752fe41d1f7bc74dee275e5355682f50a4a46c43df869",
+      "after": "076d3ba3af67ab11c05a3246ec174d3e22336562c78b930bc10a663bdad40d22"
+    },
+    {
+      "file": "student/lesson-08/tuesday.md",
+      "before": "1a53f2e851d3ead37d43575eaf90139bd0b6531014761aadfe80ef69172fd4a3",
+      "after": "65ee3abe9250c53d567167f69bef7b65168a35e7ad0f993b77074558061547a1"
+    },
+    {
+      "file": "student/lesson-09/friday.md",
+      "before": "e02dd7a8aa8dd207348a0bc3fc2f7fb4301330073022705ef54eff982d6a8b45",
+      "after": "89cc08d4e66764ede661c19d5265fbb05e1eaaeba7a8d2d5f5100861995bcd17"
+    },
+    {
+      "file": "student/lesson-09/wednesday.md",
+      "before": "8d2da428d97787cc4da4257d2bef90d20449b0ef4e17127437d026a5a6864c74",
+      "after": "90196a2ab125c5afaed85ca2622c04cedea554c4de6d0e08f5133386083d541f"
+    },
+    {
+      "file": "student/lesson-10/friday.md",
+      "before": "f54258441ca22df6315de5e9a6825ad38eb229e8cca152abc264a1813b50b37e",
+      "after": "fabe8c293c836581f72239ee9cb26a48eccfe1d9262a107ac582db9a2c42c438"
+    },
+    {
+      "file": "student/lesson-10/monday.md",
+      "before": "a1c4a3a52a5eeff7f51e07c4100ab94982eb05c778573f52d6aa7dedc1277167",
+      "after": "e89c23452326e5db576fa9c11c09d12fa840b2355653fc57e58ba33ad40d810c"
+    },
+    {
+      "file": "student/lesson-10/sunday.md",
+      "before": "6801315e0740820fd0b138d61ca6cd77956adbe189ef2ffbfb2700aee8d42657",
+      "after": "03971fc3bd74924dbf18547e2a58d831b66963d07fc61939350d3196a7125166"
+    },
+    {
+      "file": "student/lesson-11/friday.md",
+      "before": "7d4c26765c5c9ebc0f97da0f8ae649b1546204f9ec8701016f04e26a0f4cb0fa",
+      "after": "36263e5b697e28126046c83ea71db2ee0d3ff6e7268a360091b356ed41b6eaec"
+    },
+    {
+      "file": "student/lesson-11/monday.md",
+      "before": "e88c9dc1475e270cc0a117d812ac051193487400425c997d795a3111a1c7b199",
+      "after": "198d9e1052324bdd553490621ef15b9b47958181bf60a5242a3891b1366e0a0e"
+    },
+    {
+      "file": "student/lesson-12/friday.md",
+      "before": "ee0fa36e661b3242111b68b6ebb9334793fce78639c65112bda173f1de9d3e75",
+      "after": "68f80d982c81190fe4c41c4ea04292e1d883343a1627750be029ce9c05aa8058"
+    },
+    {
+      "file": "student/lesson-12/sabbath.md",
+      "before": "e33e814896c190dc202ec980045619a728fe807935edb8e864bb152e6d1c07de",
+      "after": "25692e0933818b5710e4fdb6ca7fc8876b9b139ee0f05e0dbe22a28ad04c2aca"
+    },
+    {
+      "file": "student/lesson-13/friday.md",
+      "before": "f6a0559462e38c2652964d536c952bc60644d7a0e9429e29993533b08f721e06",
+      "after": "2deb79fec59ac7016a4d01e017d8b451e73026e1e2832339f71d6691e7acfed8"
+    },
+    {
+      "file": "student/lesson-13/sunday.md",
+      "before": "0627d4a2838f2d28f0cadcfc7bd12c776843b527b237fc37da8ac02be360d0b7",
+      "after": "a2c39f387bbeed2a3cb68d10501078bf21369b7b08131238a4974d9452fa168c"
+    },
+    {
+      "file": "student/unit-resource-family/music-and-podcasts.md",
+      "before": "d88f0b0e1e5f00620425e833e49efb2ecba7593bc2484e06ef48365644a19890",
+      "after": "98991d570ae8e952af29480e31bf474776d89b6f86e9b9d8fc7f2ac98070d5cf"
+    },
+    {
+      "file": "teacher/lesson-01/full-program-outline.md",
+      "before": "d1bda21c608213baf838029b5f1182dd460c34b1097b302009a0793a4ab71ca1",
+      "after": "29a614bf6657db619bf65f14363704e632bcfa041fddc23b911d271dba3f86af"
+    },
+    {
+      "file": "teacher/lesson-01/program-preparation.md",
+      "before": "f1a5be8417dbf4fce76cf8b00b5a8d70dcae673ea772d5322635137687640a31",
+      "after": "5da6c83ab182610a84e73c70c22a003620be5b1d46c640c456d75c8544772aa2"
+    },
+    {
+      "file": "teacher/lesson-01/tell-the-story.md",
+      "before": "88d639b22c3b7f22da2350dbdfe6bc00cfce5e11d1f50da4d5ffc07af10d5b81",
+      "after": "86b5d9a4dffc374e2dd5a6b3c4073de7e9241be7f35c35faa6c69da6f68a9318"
+    },
+    {
+      "file": "teacher/lesson-02/a-quiet-moment.md",
+      "before": "7753dadb8fc9d068860cb8e6f09de4b433b6e3d7e9ad1becae80d9f34fb85ed0",
+      "after": "002061c83c273f9666715637b97ca4e3fce4d182c75bca213dc79eae0dfecb50"
+    },
+    {
+      "file": "teacher/lesson-02/craft.md",
+      "before": "0e23086ecfe02d5b880d42a391740aee07ba356a1734dd99cb2b62d7195290f8",
+      "after": "aec12eeff6893a9843a086bafe4b076ec760aacf2bed91ada23381bec5966e9d"
+    },
+    {
+      "file": "teacher/lesson-02/full-program-outline.md",
+      "before": "62b6beeef15368897ffe722b210f360718c80c8ac9c626bd8491d8d8857b1188",
+      "after": "4d8353a9bbccca6c015fb707169c2d5509e8d7ba8a48cfce6cbee6f909d0af7e"
+    },
+    {
+      "file": "teacher/lesson-02/nature-lesson.md",
+      "before": "ac66836647d5ab045089ad836df4191034ea13d1ea513041432f5eb063c328ff",
+      "after": "d91c4cbb3e71ec74de9a23ad565598e7f798bfabec18ffaef79ce94e855fd59d"
+    },
+    {
+      "file": "teacher/lesson-02/program-preparation.md",
+      "before": "2ff9b7e5bb0cd2e4ae5d6b72852f283b59ab3661ddacf8f9f53142991742f3dc",
+      "after": "2c3f78ec7d092391fa536d14fac23ce6f66f9a8b79810b58f884f63f6678a654"
+    },
+    {
+      "file": "teacher/lesson-02/tell-the-story.md",
+      "before": "46e93c318b46f522bda1436c723c55cc25d7d299e9edd4140b7c5c3dcea02134",
+      "after": "c0249a1cea538ab7145a25f392281f374fa6c10a734bdd07a33f7b9213ef314f"
+    },
+    {
+      "file": "teacher/lesson-03/a-quiet-moment.md",
+      "before": "fc9650d4493d77f377173895886398d32bbb0fe6236283bfeadce88252664449",
+      "after": "3be38528853197bdcdc485b45b5069a77e0700fd186d57bde6461214043f7b22"
+    },
+    {
+      "file": "teacher/lesson-03/craft.md",
+      "before": "27e87430c578bbbd3ce80c313f4c86364639ae1aff65586b1c76e961c45bbe97",
+      "after": "44f089916c6ec8f0b7219f77f6773fcafcf7c62fa6e19b7387f4455972216869"
+    },
+    {
+      "file": "teacher/lesson-03/full-program-outline.md",
+      "before": "63bccebda37b189a5fc596b0e4afca9e51ed3abfeeeee03384688f5365b26f97",
+      "after": "02ebca61b4fe2019cd96c729ff71b3791bf44dd21d89b097177e198b5c654d26"
+    },
+    {
+      "file": "teacher/lesson-03/program-preparation.md",
+      "before": "5f4f7704788a8149c5a79b264dd29151f3a32829f2b2fea2dcd96b41affe8dba",
+      "after": "fbf0d1e9da3e579168ad8bb6a418d6fae2c81de99f0814f729d78da58cd2cc26"
+    },
+    {
+      "file": "teacher/lesson-03/simple-program-outline.md",
+      "before": "b892381343c1efddfa0e034e7c96f700a44cf26fb2369e884507418b444e93c5",
+      "after": "c89293969ab97afa02cc2fc2b69492c1eeba8460c9d158c0eff70ac986b8d5b8"
+    },
+    {
+      "file": "teacher/lesson-03/tell-the-story.md",
+      "before": "72b5a8da863ec4a7f674d058d8e0964c621c358b5eb41039f78f5dddd7020cdf",
+      "after": "7db4ab9db395d8cff704367a6e7645909614ae5558d51a7ea24c972aa3068fc2"
+    },
+    {
+      "file": "teacher/lesson-04/craft.md",
+      "before": "b3fe3c003097d45723f1089cddf084904349080843641b25feb538ff5cd17111",
+      "after": "66b765eb23e8d89ce9b1b61bba7221aff3020f0780ee7652ecad7b7a802523c0"
+    },
+    {
+      "file": "teacher/lesson-04/full-program-outline.md",
+      "before": "1afd6f61a5168f2966b49fa9a01e89620b87a4685f1b8b813a1e3b9d05928e55",
+      "after": "b2738d321c79c0beb1fa6b9a3c34f95537e7c3f94c83a2a811b3aa3f466ef3d5"
+    },
+    {
+      "file": "teacher/lesson-04/program-preparation.md",
+      "before": "31c9aeab9d31592b549b9fc3688dc2fcfe83cc9d6a09df0adf14654f47224b92",
+      "after": "48a6c263cad450da4c49612cb994596bceda94e6e16a6ceeb073507584f8fa76"
+    },
+    {
+      "file": "teacher/lesson-04/tell-the-story.md",
+      "before": "06648da26a359facce475904b5eaa028a3ad13ecf2e30c36e28d16a407e5e45f",
+      "after": "efbb607a8e0b40810ccdb5ac177dd349fedb7554a8e28af13a22eff95ac25b84"
+    },
+    {
+      "file": "teacher/lesson-05/craft.md",
+      "before": "27e1512af5cdc99d983e434ef60ee4ad529e58e28581c85b1b04a0ac4c396227",
+      "after": "c4e8c9a7111a8f03bed612e84e74c4acd5b9a2742a41c4901aed189c651f016b"
+    },
+    {
+      "file": "teacher/lesson-05/full-program-outline.md",
+      "before": "d19d4f93beecd2d9a8f11c22ebb5af75b85a01ff037ca320e685863cf0b9ff64",
+      "after": "b61958320ad55e55109bf09caf382caecbe7bb2a2054a5218db20c6d4b63fe09"
+    },
+    {
+      "file": "teacher/lesson-05/mission-story.md",
+      "before": "1220fe5042b58c6e3710b0334c8b33c65fda4bb6991a7fd43c05fd6a9caa049b",
+      "after": "8f467f5af5f5da3ff23bfc9ddc8d8d24ccd4cb6c66ad6ac2ae780efd652a2f40"
+    },
+    {
+      "file": "teacher/lesson-05/program-preparation.md",
+      "before": "0f3b3844f30a4c5220cd5a074cafb33b4ae9323583fdff328bb1f16466f95780",
+      "after": "a1d7fd714bb2c4a135da44b0c014c4df975bf9c0d247aac86f1f259c19a99f82"
+    },
+    {
+      "file": "teacher/lesson-05/simple-program-outline.md",
+      "before": "d6c62a15c2a624e267e1f831bfcbf648028f0d2dbba588e5a6df0e19cd53fd32",
+      "after": "c65a51d48075bc51f711d199f842ee64da68aa0816a3c639fc80f922d88d63d0"
+    },
+    {
+      "file": "teacher/lesson-05/tell-the-story.md",
+      "before": "674f3460402cc850de31f4f7d9c70f4570ac7b2e99938e2181de887311116f51",
+      "after": "7f31e0e3dc82d002ede066eb00f99be7be17c8c3886d6455d89c27c74f84f514"
+    },
+    {
+      "file": "teacher/lesson-06/a-quiet-moment.md",
+      "before": "a78e37c5251b82cec54b32520608f101d050c68759c15d4098198c9d6b451594",
+      "after": "742305bfaf97e9e3539e4135c56efa422aeacf659575dd49494273e09e39420f"
+    },
+    {
+      "file": "teacher/lesson-06/craft.md",
+      "before": "a2c353229923de15a2cdd86e2f9594c50e637a5d10a0b3f34e112288bd4e1639",
+      "after": "3a1499b2a9fa0c5c1ad0d0e2c23042ba58a59acd9ea06266d20f7dcd555116f5"
+    },
+    {
+      "file": "teacher/lesson-06/full-program-outline.md",
+      "before": "4f0f1d5a896b014af869aa1dd7addd090a3e19839d0983f29fd8af925476d78a",
+      "after": "30022b56cc8302ccb3e3c7c1cb7e90683ec107ad3a151d5ad46d69e587ac5cc9"
+    },
+    {
+      "file": "teacher/lesson-06/program-preparation.md",
+      "before": "acc29e7e306701e2029eaf845afdaa516b588fbd111982a4ab0894e49013dd7a",
+      "after": "d38b09f87dfd3e3c5f759f19d33ab3323f8f713e08e5b261d45c2bcbe162fd4c"
+    },
+    {
+      "file": "teacher/lesson-06/tell-the-story.md",
+      "before": "32c6cbf10a338277ed5c0c5974b2007ae80fb5ca608958bc6ac6e84463deb83b",
+      "after": "c64c70713b2476360cc554b16ac60c2b49f33fddbf05268cd40a12c0f23e29b7"
+    },
+    {
+      "file": "teacher/lesson-07/craft.md",
+      "before": "8cf086a49a70ce9168956985f0f319dde340b441b7bfe198abeed7b7ef444248",
+      "after": "e182e7498565da26a3b2c378ade21ccc89073ae4b907dc98c71bf97cf491f6e7"
+    },
+    {
+      "file": "teacher/lesson-07/full-program-outline.md",
+      "before": "ff4c6ae02cb1cc44a16d971c64f1d97d2df7a6dbaf7c780a700e7a65608f2519",
+      "after": "77b65f89ea75300be8843311d6032cb6c29bebaacec00696ea0b3ed9646842c4"
+    },
+    {
+      "file": "teacher/lesson-07/program-preparation.md",
+      "before": "159be5fb8b5616e12313d8bcb96158bc7d7822cfd32c552ef76337fd63512813",
+      "after": "ce5a686588e6d574a45a6bae2bfd1def1ca424b9f7330a795d8e01d375bd802b"
+    },
+    {
+      "file": "teacher/lesson-07/simple-program-outline.md",
+      "before": "d6dd8b10bdbe06c6cbd8f9ea30b0c442586986881c9f418d71b4f46606ae3761",
+      "after": "1e1dbd38644ae4342d6a8a390dad33891039db10961623394c5b1b97aef0b534"
+    },
+    {
+      "file": "teacher/lesson-07/tell-the-story.md",
+      "before": "dc892a0ca698e751a8b3c9ddfbd0b891f8e793f456930445d87183c8ab76707d",
+      "after": "103f7da0d699bcbfa49e21edcc3dde3391451fdfcdfb73f89baf1bd310fc6257"
+    },
+    {
+      "file": "teacher/lesson-08/a-quiet-moment.md",
+      "before": "d83b84af71ba4457a6926c2ce0778a9dfcc31d7b6efe4a3c98ac8c9ea5677527",
+      "after": "ebdec7c477e0d4cd03a3173014b656fe4ec9976e5d14f572e4bf781921eb864a"
+    },
+    {
+      "file": "teacher/lesson-08/full-program-outline.md",
+      "before": "9a48cd298a412960332efb0fd05ca18ea8f02e07517d789ff1f2f90769aa6991",
+      "after": "364a86254adc7f2eecb29d04a97f4bab5c6630fb4953ee1ef4fda51cb5c01ef2"
+    },
+    {
+      "file": "teacher/lesson-08/nature-lesson.md",
+      "before": "82cef727931dcef51173f6794b86d0af2f75c2b1b03b162ebf76f1829fe76b57",
+      "after": "72f200271e3179029c10b551c33f6a26c5a56b332be8768b05515698b5ed0437"
+    },
+    {
+      "file": "teacher/lesson-08/program-preparation.md",
+      "before": "c0baca4e131b3818d651b83f890e20d866e5be45c14213732dadc4d7229c2c2d",
+      "after": "a88e4b3dedffcd9e07e7ed8e06cd0757abb837f78bff2d305ea76c8cb91660e0"
+    },
+    {
+      "file": "teacher/lesson-08/simple-program-outline.md",
+      "before": "9534e420fb7835d0c6adf3adc40c31bb686a638f0c0fa68b49ffa8fb4d1ac630",
+      "after": "e179e6b5cb26298f0bd7bcf8dc4e32f82d0ef905bc2931f3de4ce9537dace667"
+    },
+    {
+      "file": "teacher/lesson-08/tell-the-story.md",
+      "before": "fc63bd3728bb96f1127352353d3bb8544f0533b2f0a2363c67ad54fc36699ee5",
+      "after": "0c2375f63a324283c649bd39d5eac7b6c2586767ae7e4cc63ebc778be1276d29"
+    },
+    {
+      "file": "teacher/lesson-09/craft.md",
+      "before": "77b7ab83b8e3b9674e59c346f8924020724bb79e0ef2243b4ed099cb216846d8",
+      "after": "847125a929c46208c0854d4f9b29bc96f612ea8842f91d5472967afa0d980ff1"
+    },
+    {
+      "file": "teacher/lesson-09/full-program-outline.md",
+      "before": "da9ecedb7b260a96fe5fdeeb470df3c899ef9e3dac38fd49cbf1ec447bc11bf0",
+      "after": "d7b4801f17839ecad9e19d62e36630e34b4ba8f0e95e1c6ed9a50e7b30181cb1"
+    },
+    {
+      "file": "teacher/lesson-09/program-preparation.md",
+      "before": "deed7b8a4dd5aa971c673c952ad9751ab86bd7dfbf9e1d347fbf25f4c3231b42",
+      "after": "4ae67819d148b19c84ae8ced833d3814ab27fe1072fb49ab81af92d7b3478384"
+    },
+    {
+      "file": "teacher/lesson-09/tell-the-story.md",
+      "before": "06cbcaeb05685a152c35a10f5809d6906b8a024011444beba5e7a89462a1d9e9",
+      "after": "81b6c93fe354d03fea45caf35caddef0588edb6cd9ede72ce649ba02b2ec1dc8"
+    },
+    {
+      "file": "teacher/lesson-10/a-quiet-moment.md",
+      "before": "deb37b9758e3c9f5a9d047e7005f175d31ebf156a135be106c5855841c0f862c",
+      "after": "a96760da6de4a95655eb9d12ab1fafb7b38f5d360f6df70353c9130b7d01a7ea"
+    },
+    {
+      "file": "teacher/lesson-10/craft.md",
+      "before": "1eb6d829ee118f32e5473d6218f63047bf8934b19acd1d325c4df79f39c373d8",
+      "after": "111be64b25f5b4a7c4c69c1256be3183f81e0178700140abbbe42461ef1d92df"
+    },
+    {
+      "file": "teacher/lesson-10/full-program-outline.md",
+      "before": "5f7f19c6bc1e78760f56e26a7182386fe58ce16368abaa92960474d798dbd417",
+      "after": "d997dc3a6e342758430d637988b443868919b6a0132407a68e0c3dbc91700cf8"
+    },
+    {
+      "file": "teacher/lesson-10/program-preparation.md",
+      "before": "a1742d7fba09f5c59f3dd3d14269e87de357336d283e6467cc253751512e7607",
+      "after": "b1e8600419d43ed081fa371eed2cbd70266e6a8a17244603e3ee5267f23fde0c"
+    },
+    {
+      "file": "teacher/lesson-10/tell-the-story.md",
+      "before": "60c349a413322aa26ec27c14e6b5a2ef0bbfd061badb61724253260265891d50",
+      "after": "56473234d061cf336742f0cba4ac90a2950dc33d8ff4f0cdf673a9d8e0db9a56"
+    },
+    {
+      "file": "teacher/lesson-11/a-quiet-moment.md",
+      "before": "bcb32894b3a0eda5b34810e62180369de52ff8c33269a14cb1c11bde1496b464",
+      "after": "1be952546f0edbef73a4f0e69d2d778632f8baa98b59327ac82924b6d1febdc6"
+    },
+    {
+      "file": "teacher/lesson-11/craft.md",
+      "before": "ea6d2c7528e2c7a8688ad98170c98b24802dea14cd04b63f5e14235adcb8cb48",
+      "after": "0442a61fa4304f4fa019fdd00ee5778f1da683cf904ac51d4419bf3063899489"
+    },
+    {
+      "file": "teacher/lesson-11/full-program-outline.md",
+      "before": "4280fc74aea45b395b70e556afc3937ff4841020eaba96b77f98dd8745ce890b",
+      "after": "1bebd87348830cf4507a3f601e084ce68e8e766c67c5ea5f9df486f531a6c27e"
+    },
+    {
+      "file": "teacher/lesson-11/program-preparation.md",
+      "before": "aa095ff3e88f2671be4583ec17467cc62a0f91230e58ded39ee038528a332d4f",
+      "after": "db64a33629c903e043da00d9fbc9ded0dfb9aa8733170321bede38d160469450"
+    },
+    {
+      "file": "teacher/lesson-11/simple-program-outline.md",
+      "before": "903a7b338b3bc94729517bc65b07605da9b18440928455856cdf2b14d0295ca4",
+      "after": "0f35e3880b663bd0315c7745120b3a58d91c962caa9e29ed08a41940fd88ac98"
+    },
+    {
+      "file": "teacher/lesson-11/tell-the-story.md",
+      "before": "7776b0dd95c99e92e07709a9792f6d32a898fb6f9b04b6da8cca7100fbd6bb87",
+      "after": "4f47ea72affa920b2dc73fb32b8baaee68bf79e914c3cd28059900e1d707e9bf"
+    },
+    {
+      "file": "teacher/lesson-12/full-program-outline.md",
+      "before": "dc3d6a8ec3dfde435003b3e359b3326d5f3b5128db7ad2318d3d7e0c1fc4669d",
+      "after": "50a1a02fe2179ff6eff863ec9f6f02f11c4cd08259727d5b386a004937a8f283"
+    },
+    {
+      "file": "teacher/lesson-12/program-preparation.md",
+      "before": "b585931f915c90d2f8a25d8cf554e13637af59982c2a9978842cda6ac0ae9946",
+      "after": "bb596df97ac361e44c27bdbf570d71cd65fb36236a499903b6369f166de1ec85"
+    },
+    {
+      "file": "teacher/lesson-12/tell-the-story.md",
+      "before": "2121a78bd3be3dd0049b56d52daa7ceb66e162a14e6cd948708ffd31ae2cba13",
+      "after": "84ff59ec7b5c6ac0ddfb0c62f4e5c09de18b46d5d74780ba4336a533b44007e9"
+    },
+    {
+      "file": "teacher/lesson-13/full-program-outline.md",
+      "before": "0ed4129eecdeeb31fbb38629a4b0a13006f567bbbf67ea4b57b486b7fa926a11",
+      "after": "d137ac8bab8e4a20ac484317c2e5c68fef80c81bd89c60efcde251b8f4060feb"
+    },
+    {
+      "file": "teacher/lesson-13/program-preparation.md",
+      "before": "e6e347b0dc1942151ca16b07a20cd1ad00267014d707f401e07a77f134b37861",
+      "after": "a11ce0d5e2e5426d0d2fd6607b4982ec56d461dcf3601c5c2f76971aac760eb8"
+    },
+    {
+      "file": "teacher/lesson-13/tell-the-story.md",
+      "before": "9598cd5f8a54c5d4d5a01da9db092540f976e82f8b18c907c728592984803ace",
+      "after": "2b43a2ca2f357b61981ad8f199dd5fd7b77c39fc0b326bb578ce5d7f110860ac"
+    },
+    {
+      "file": "teacher/unit-resource-about-curriculum/resource.md",
+      "before": "2746bde084f1841fb166dcb804d80b5d1a2aec03de819e1115d658be0c7e4021",
+      "after": "5e7102f757900f4cd6b7418ae8af466814b361e3f8b909f26a49822cff18ccee"
+    },
+    {
+      "file": "teacher/unit-resource-music/resource.md",
+      "before": "aa02d3dceccda64123c5cc8a009d6cb7b0cd8c0ad56c01f5cb38523a7027ffa6",
+      "after": "5ddeee96714f23456cacfeb51ee10d3fe463a8f7beb6898b45a832c76f0dc916"
+    },
+    {
+      "file": "teacher/unit-resource-nature-cards/resource.md",
+      "before": "16e0b08262291d7ba0780abc05859fd61664caef649894578bad97a2c2ae2fd5",
+      "after": "9f11fdd23c899d5ae28687307cfdff9a3c13c52819cecc23e9d1fef6967b84c7"
+    },
+    {
+      "file": "teacher/unit-resource-quarter-overview/resource.md",
+      "before": "bc33d651e66dfa003e3a2d7fa3047e4c99094723d04734f2283a4ec35fc8eceb",
+      "after": "ef349845adaca29de40c91d524b57f2bc005b640d05fb0a4057023d73a0e756f"
+    },
+    {
+      "file": "teacher/unit-resource-quarterly-crafts/resource.md",
+      "before": "2ce330c18daaee10549aa550871700dbfe162a98a8342769e42082b43462cb22",
+      "after": "c6d3e2cc37ee580a1c8faf75e8099e88d1f534933e6821948b326448df2fc5eb"
+    },
+    {
+      "file": "teacher/unit-resource-storytelling/resource.md",
+      "before": "cd875a787cec516bcb07e265e3d784b91af4f5d0edfe05b0b80099590482c746",
+      "after": "6ed44ed2b25eeff1a0c7afa26b3e8cdeea7c89e35f36890931d8096a1654a45e"
+    }
+  ]
+}

@@ -19,7 +19,7 @@ export function normalizeAliveInJesusMarkdown(markdown) {
       let style = {};
       try { style = JSON.parse(styleLine[1]).style ?? {}; } catch { /* Ignore malformed presentation metadata. */ }
       const textStyle = style.text ?? {};
-      styledHeadingNext = !style.block?.backgroundColor && textStyle.typeface === 'Trashbone-Regular' && textStyle.size === 'xl';
+      styledHeadingNext = !style.block?.backgroundColor && ['Trashbone-Regular', 'DKWhaleSong-Regular'].includes(textStyle.typeface) && textStyle.size === 'xl';
       calloutNext = Boolean(style.block?.backgroundColor);
       continue;
     }
@@ -63,7 +63,7 @@ export function normalizeAliveInJesusMarkdown(markdown) {
       // Standalone bold labels are semantic section titles in the source book.
       line = `### ${line.trim().replace(/^\*\*(.+)\*\*$/, '$1')}`;
       semanticHeading = true;
-    } else if (calloutNext && line.trim()) {
+    } else if (calloutNext && line.trim() && !/^\s*(?:[-*+]\s+|\d+[.)]\s+)/.test(line)) {
       line = `> ${line.trim()}`;
     }
     if (explicitLineBreak && !semanticHeading) line += '\\';
@@ -115,7 +115,7 @@ function isInside(date, start, end) {
 }
 
 /** Build track-specific Alive in Jesus publications without imposing one cadence or day order. */
-export async function buildAliveInJesus(sourceRoot, outputRoot) {
+export async function buildAliveInJesus(sourceRoot, outputRoot, { includeDrafts = false } = {}) {
   const root = path.join(sourceRoot, 'id', 'alive-in-jesus');
   const editions = [];
   const published = [];
@@ -145,6 +145,7 @@ export async function buildAliveInJesus(sourceRoot, outputRoot) {
       for (const editionDir of publicationDirs) {
       const edition = await readJson(path.join(editionDir, 'edition.json'));
       if (edition.publicationStatus === 'withdrawn') continue;
+      if (edition.publicationStatus === 'draft' && !includeDrafts) continue;
       assert(typeof edition.id === 'string' && idPattern.test(edition.id), `${trackId}/${cycleFolder.name}: edition id must use lowercase kebab-case`);
       assert(edition.programId === `alive-in-jesus-${trackProgramSuffix[trackId] ?? trackId}`, `${edition.id}: programId must map to its AIJ track`);
       assert(edition.trackId === trackId && edition.locale === 'id', `${edition.id}: trackId and Indonesian locale are required`);
@@ -226,7 +227,7 @@ export async function buildAliveInJesus(sourceRoot, outputRoot) {
         });
       }
 
-      if (edition.sourceReviewRequired === true) {
+      if (edition.sourceReviewRequired === true && !(includeDrafts && edition.publicationStatus === 'draft')) {
         const review = await readJson(path.join(editionDir, 'source-review.json'));
         assert(review.schemaVersion === 'alive-in-jesus-translation-review-v1', `${edition.id}: source-review.json is missing or invalid`);
         assert(review.editionId === edition.id && review.status === 'approved', `${edition.id}: Indonesian translation is not approved for publication`);
