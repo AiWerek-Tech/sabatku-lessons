@@ -1,12 +1,12 @@
 {
   "schemaVersion": "alive-in-jesus-translation-review-v1",
   "editionId": "2026-q4-aij-kindergarten-teacher",
-  "status": "needs-team-review",
+  "status": "approved",
   "sourceLocale": "en",
   "targetLocale": "id",
-  "reviewer": null,
-  "reviewedAt": null,
-  "note": "Generated checksum baseline. A reviewer must complete the source comparison and approve it before publication.",
+  "reviewer": "Tim SabatKu",
+  "reviewedAt": "2026-10-20",
+  "note": "Disetujui oleh Tim SabatKu berdasarkan konfirmasi pemilik proyek pada 20 Oktober 2026.",
   "sourceAudit": {
     "englishFiles": 115,
     "indonesianFiles": 115,
@@ -592,6 +592,6 @@
     "unit-resource-nature-cards/resource.md": "9f11fdd23c899d5ae28687307cfdff9a3c13c52819cecc23e9d1fef6967b84c7",
     "unit-resource-quarter-overview/resource.md": "ef349845adaca29de40c91d524b57f2bc005b640d05fb0a4057023d73a0e756f",
     "unit-resource-quarterly-crafts/resource.md": "c6d3e2cc37ee580a1c8faf75e8099e88d1f534933e6821948b326448df2fc5eb",
-    "unit-resource-storytelling/resource.md": "6ed44ed2b25eeff1a0c7afa26b3e8cdeea7c89e35f36890931d8096a1654a45e"
+    "unit-resource-storytelling/resource.md": "9ecaf64c26df58cba6fb62da8e65c085a71394040f15ef3201cc59673084a991"
   }
 }
