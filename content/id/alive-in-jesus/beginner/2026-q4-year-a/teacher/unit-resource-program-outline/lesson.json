@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-program-outline",
+  "title": "Garis Besar Program",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "program-outline",
+      "title": "Garis Besar Program",
+      "date": "2026-09-27",
+      "file": "program-outline.md"
+    }
+  ]
+}

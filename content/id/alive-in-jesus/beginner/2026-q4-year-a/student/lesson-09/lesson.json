@@ -1,0 +1,26 @@
+{
+  "id": "lesson-09",
+  "title": "Malaikat yang Bercahaya",
+  "startDate": "2026-11-22",
+  "endDate": "2026-11-28",
+  "readings": [
+    {
+      "key": "story",
+      "title": "Malaikat yang Bercahaya",
+      "date": "2026-11-22",
+      "file": "story.md"
+    },
+    {
+      "key": "play",
+      "title": "Bermain Sepanjang Hari",
+      "date": "2026-11-22",
+      "file": "play.md"
+    },
+    {
+      "key": "parent-reflection",
+      "title": "Untuk Orang Tua",
+      "date": "2026-11-22",
+      "file": "parent-reflection.md"
+    }
+  ]
+}

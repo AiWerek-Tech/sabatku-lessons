@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-quiet-moment",
+  "title": "Saat Teduh Guru",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "quiet-moment",
+      "title": "Saat Teduh Guru",
+      "date": "2026-09-27",
+      "file": "quiet-moment.md"
+    }
+  ]
+}

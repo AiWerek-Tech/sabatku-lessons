@@ -1,0 +1,1086 @@
+{
+  "schemaVersion": "alive-in-jesus-translation-audit-v1",
+  "englishFiles": 43,
+  "indonesianFiles": 43,
+  "matchedFiles": 43,
+  "missingIndonesian": [],
+  "missingEnglish": [],
+  "flaggedPairCount": 0,
+  "pairs": [
+    {
+      "path": "00-introduction/introduction.md",
+      "englishSha256": "4f87ea55b1bdc822d78b9fbe18fb992fff43a1791d11c0ba9ed40e4c6742c1c2",
+      "indonesianSha256": "6734cc8dbce8e7c15bb1e673227b7fd8a80a306eb368804c4fff162f17b885b1",
+      "english": {
+        "paragraphs": 8,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 8,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "00-little-devotions/little-devotions.md",
+      "englishSha256": "51e3b89f5524e80a0b7f7d65e5752e746c7ceb4edb411a8e26965ca8d38cb38c",
+      "indonesianSha256": "3af4900c14f7e521ddd7136837c8dd31eb3009ad008203bb3aa444668233ee51",
+      "english": {
+        "paragraphs": 4,
+        "bulletItems": 5,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 4,
+        "bulletItems": 5,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "00-music-and-podcasts/00-music-podcasts.md",
+      "englishSha256": "30e4b9243d47e41bcbbc8b2b2dbe63bbf399f921ce5b8aa706b1db7120849366",
+      "indonesianSha256": "a22a6cab9747bfa6f0be17d280e2769978926be3fbb0160725c4fa596a212304",
+      "english": {
+        "paragraphs": 30,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "indonesian": {
+        "paragraphs": 30,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "01/01-story.md",
+      "englishSha256": "839fc02ee22f868ff6ff4332157ce6a106ddfc8ddaf5bde248c089118136d1a9",
+      "indonesianSha256": "a6f737024c87b20682931b68457a2bcb644b7a6e91aa43bcb620760ffe499797",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "01/02-play.md",
+      "englishSha256": "0893fc3aa9c35468f4958cd26da27426bb0e7c359be460f5a8570b4e02fc3fe0",
+      "indonesianSha256": "6d3a6ceab30931289b3e3fe0ab4c008ccc2f8eabd100a54792e167ec3491b612",
+      "english": {
+        "paragraphs": 11,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 11,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "01/03-the-heart-of-the-matter.md",
+      "englishSha256": "0b714b05556713d4d5023e2a29f79c75958b04891e79dc1c451758d560680268",
+      "indonesianSha256": "b585b1b703573205c181b7b2d011e4286bb6e2af6a5f6f3bceb590b84d41bc64",
+      "english": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02/01-story.md",
+      "englishSha256": "5507deb2439ca2639b3fa9fa2532dcc07cd79d80f8b57d46ffcfe8b6d16bf191",
+      "indonesianSha256": "c3c51432c434240bb5012c278c57849674ff1a3c3b142950d6506d68e307a27c",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02/02-play.md",
+      "englishSha256": "e9459451bb659a05ed2e5a3f85cffc9fbb13cb53ca26a13a7f2137b09855bfdf",
+      "indonesianSha256": "def897a1900cc95f3d0645b842cfd71eb09381b0aa43f9b8d1b5600a04182cc1",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02/03-the-heart-of-the-matter.md",
+      "englishSha256": "3e1d97d8321a91872cebab1acc27ecc75f1f7b13d6e2559e677277bd660fe29f",
+      "indonesianSha256": "2151bbcd3288c4058e6288d1c9becb92fc6051da3f0d8d3e80f27c91aa4f9bee",
+      "english": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "03/01-story.md",
+      "englishSha256": "cd0c2a006667dd87c032d432efa55937c451737c8ddea99e72c744a16ba7b9a1",
+      "indonesianSha256": "ffaefe77c9d49c39303260a15b10f2e622026b5ce4619470beda34a5a66c8ef2",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "03/02-play.md",
+      "englishSha256": "4138ecfdc750549cc251efad1884992fd2b5fb1ec69cc4af37fb07afd0ae9c67",
+      "indonesianSha256": "12f523d003f38069f6c1dae099252d9c18e95270358548349763a81f014d746a",
+      "english": {
+        "paragraphs": 10,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 10,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "03/03-the-heart-of-the-matter.md",
+      "englishSha256": "b948d3963d19f685f5ed5439c4f71484f2b1e97a293c72876ed8766cd3f90b53",
+      "indonesianSha256": "4f6e8af780bfd80c2bf8afa32757297f23e3016027df2c98040f6d8aa258dac3",
+      "english": {
+        "paragraphs": 4,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 4,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "04/01-story.md",
+      "englishSha256": "f76c52ad3eb5bdb920164bddb12dd5a2553c840179696fe768d484ab36e671b5",
+      "indonesianSha256": "cccbc282ee0195103d24d998160c16f7e559f0481f6bfd1e125212977e5a305d",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "04/02-play.md",
+      "englishSha256": "81c7e16f09f1ac8ae2307b13e737e0b3893bcebcd4b9e94c1b0924475f68a21f",
+      "indonesianSha256": "a5e3094498b41992cfa424b375e489d939502802bb77be75f93ee9574c51a678",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "04/03-the-heart-of-the-matter.md",
+      "englishSha256": "1cbbae37e0f2aed0c83062d74bc761f42759ad3c0ca973dd448522d188b1bfa7",
+      "indonesianSha256": "21fbb7a80c2ece58a5b3ad7c5c26c773446f8427a9573d61e42ba08783453768",
+      "english": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "05/01-story.md",
+      "englishSha256": "991fb3bd34e00843fc0e389b2203fcc3c50a9a0650e7571074dad62efd9ed317",
+      "indonesianSha256": "380c080b7b85ae92aaa8687e5f099b90309a9d30720ca2541bed6024b7d63358",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "05/02-play.md",
+      "englishSha256": "82833def14f642d8c705512a45fd6d9c12c3df54edbe2e7154bd8987247e6a8f",
+      "indonesianSha256": "937c1e8a468145e33a62143726ac3b3f634da267b0a0a4a5586486f811af3bc3",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "05/03-the-heart-of-the-matter.md",
+      "englishSha256": "3dcd68c95ddc7d06cfd383f2ba781f779af66c3fdd54c5750e14c41bdfbe0270",
+      "indonesianSha256": "9853553f70f3874e7dad1e7e1d4742abc9bfb2eb2e7e24db5b1cf856e12cfa8a",
+      "english": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "06/01-story.md",
+      "englishSha256": "c3da141951c11ee7d2b4ef4e0b1d1f2e2b76d33b0cb6b5a1d53266171863bc35",
+      "indonesianSha256": "f2e9ce4ff6da0189c03433e2db66346d354b46b2da93fd70ddd1891182e1d151",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 6,
+        "styleBlocks": 9,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 6,
+        "styleBlocks": 9,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "06/02-play.md",
+      "englishSha256": "6438949ad27738cb94dbf80e96d08357bc2611eae9e76e8711a397969ddf777e",
+      "indonesianSha256": "0c44621948f3ee4c8e83a46e23a1ba5b19a128056154a70f3a037aad003c21c4",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "06/03-the-heart-of-the-matter.md",
+      "englishSha256": "3b818928ba0b0651cd3c8146ed3bb14261e12516009a5cf619a420dc6764f591",
+      "indonesianSha256": "b38290a9df8fdbfb2ea9ba5ea13580b87ff6bb9457656216e61116f69099e634",
+      "english": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "07/01-story.md",
+      "englishSha256": "554694646805b93987b37600ef6a24315be5bd3e635beef2476d2593fcbc85c8",
+      "indonesianSha256": "889658e881e984af70584a996f8da3275478ff8c8fe750a1692006312633f5c7",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "07/02-play.md",
+      "englishSha256": "1c62bc890746eea60ca2968b3b88eaaf4acc936a78be35552e8b0c7bc9b29957",
+      "indonesianSha256": "b42caacecc12038fef15189fc74252f9ebb6198892ba7bfcf8c0c2a1ec3f31e2",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "07/03-the-heart-of-the-matter.md",
+      "englishSha256": "b46117b512ec729eccacf01106e52cd3a2be765667d0da40194e2519c3bf70d6",
+      "indonesianSha256": "21e733c83d6f32bb894cdd8399ea77979cd0dfa4ba92562a10edd15006ff3a2d",
+      "english": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "08/01-story.md",
+      "englishSha256": "011fb2c434565418377b090cc70548820b9d1b86dd32cee14ed1a540f14cd6d2",
+      "indonesianSha256": "26c798acadbd90c4b93bc1c45392496b0e6872fae8ad22df5679efb65164df93",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 8,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 8,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "08/02-play.md",
+      "englishSha256": "070d1857700b02d93f5c7beb6df30b5a011e467ee7077b6bb8b3a08a3d904456",
+      "indonesianSha256": "53fee97d232cdda6213dc6fbd76126c1c1602bb720ae4b2c211ce45633901452",
+      "english": {
+        "paragraphs": 10,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 10,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "08/03-the-heart-of-the-matter.md",
+      "englishSha256": "29a72f2bc6c39f6bb1e22f0b5040c74f1af4db1404caf3f8c7788f6abab30981",
+      "indonesianSha256": "beb28e001920b08559d2bde5ed0893abc1c6529c2f70dd75a241c887db9c4176",
+      "english": {
+        "paragraphs": 5,
+        "bulletItems": 8,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 5,
+        "bulletItems": 8,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "09/01-story.md",
+      "englishSha256": "b7a301d75952622fe07a0fa98cb2fb4208dbd8a85b393e70744e9a2898c04445",
+      "indonesianSha256": "663a9f64dfba5011d09d6fe16b83722c44003eede956a5e2fd401398364b92f9",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "09/02-play.md",
+      "englishSha256": "20484139814525fc5af7649e61feb33280e7b20a5cc1e785c1d5916d4b89bbb3",
+      "indonesianSha256": "f815a68017a30ef886b49342d66f4697670654bf0a42287cf06fff4e90f51087",
+      "english": {
+        "paragraphs": 11,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 11,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "09/03-the-heart-of-the-matter.md",
+      "englishSha256": "8ff8b9b8213b20c9365e41a4eb46d8a5bcd33c6bc4f56789ecaac5e8e79e657c",
+      "indonesianSha256": "54caa9c184a6c8afcbf51c1d38fc16504009be304c8108afcb1fd5b130bbc46a",
+      "english": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "10/01-story.md",
+      "englishSha256": "87ef19319ed7c01e00c3b8378b65d126d2249fd72a5b645d5fdfa1c7473213f6",
+      "indonesianSha256": "d1642d309c210eb5a2ada01407297ef23379b54e140967cede6a8f8bee19802a",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "10/02-play.md",
+      "englishSha256": "9b6673ae828cdee41d38442ed993e0b55c4d41450e41d6e2ba69893a086cb313",
+      "indonesianSha256": "313fb6cf009e9d8b3ba31db5c6f40e9f3e6a8187d98bd85730b3527e3c34ebea",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "10/03-the-heart-of-the-matter.md",
+      "englishSha256": "155743272bd854a47a1c991b18e90c9371bcfc54970c6060a803e658e93af61d",
+      "indonesianSha256": "aae68e7853b73ad9c2510d1d964c49992d4780c1c3765cba8b89bcf5032eff45",
+      "english": {
+        "paragraphs": 7,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 7,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "11/01-story.md",
+      "englishSha256": "f61fc4d632388cdb1022e1bc6238fd123653420a9d52a18f782da57e58833566",
+      "indonesianSha256": "4ceb796e8663c30d9eed3f64f9956cae87ac759c9049866b56b2e80bc57e8ae0",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 8,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 8,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "11/02-play.md",
+      "englishSha256": "45d4e9567bc7e0920dede7562ad4c063344ef08322b9c5e47bfbf56e8503b0fe",
+      "indonesianSha256": "acf83b414d23717e15bd6b519ea9f4073a6a93ee3fcec05d4a6e57774b095ff7",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "11/03-the-heart-of-the-matter.md",
+      "englishSha256": "440abb729d93d3fa93e4804cdd5c8225d8a224692ed4573000e60cb91581ad4e",
+      "indonesianSha256": "f63eadfb5625b9b126d7b335825ff6735f654c7bebc9f6eee633fab8bb0caaa8",
+      "english": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "12/01-story.md",
+      "englishSha256": "a320cfbb46b5fa78d228fd9a9509ba2bc3c4e23eee2691c4a961c291f5431f19",
+      "indonesianSha256": "b8925037c94284d20d88edebfc06cf1a4be4f3b255d1d03bb58592cec1bf1089",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "12/02-play.md",
+      "englishSha256": "1f50a8c57e3c294b0bbb7fac5c4a391cc6a63dacc3beac54c0cbe5db8e5de456",
+      "indonesianSha256": "5b5f57374997c5f3aaaa907dcd4db007180bb04e534fd3cf030e03726270f673",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "12/03-the-heart-of-the-matter.md",
+      "englishSha256": "6a413eae52369943a49e63b9d0a40c87c734f6f48d93f05fdf0295beee453e2f",
+      "indonesianSha256": "8413d06bc63d17b8b730a37a8257fbc659573b1c898acd06614b588706504b4b",
+      "english": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "13/01-story.md",
+      "englishSha256": "ab38bddec719059d891638fee6432b03cde0384af8374ea62d87cfa823e4ebda",
+      "indonesianSha256": "129faefff9f1380ef58aee09f797f4eb9721ccc2f6a373064a943eea71124a32",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 4,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "13/02-play.md",
+      "englishSha256": "cb2a7378c215e3ef43555a430f117e9cfb97d235326e4c705bf7df7bf03295f8",
+      "indonesianSha256": "795ce46fc21d6186380845afc4076e0979a17768a204b2a8b6b5e3e780e2d522",
+      "english": {
+        "paragraphs": 10,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 10,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "13/03-the-heart-of-the-matter.md",
+      "englishSha256": "6897a333f82c4b83dd2a111ab08f53060d50a0ea56926b5ce6f6b86347b076ef",
+      "indonesianSha256": "1d51680d323060c9a81a098c880c811cf70b05eb36ad3e5a845c770e87fc3738",
+      "english": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "introduction.md",
+      "englishSha256": "6b1bbf6c89dbdf8b4a6bb64140a742af96eddc707ce36f4f089638bfc39ad38b",
+      "indonesianSha256": "7ecdef06a57eaf0c82fc818c74c642ee36b865d6fa37e5ad63f809d41c36d804",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 0,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 0,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    }
+  ]
+}

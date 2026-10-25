@@ -1,0 +1,26 @@
+{
+  "id": "lesson-05",
+  "title": "Boas yang Baik Hati",
+  "startDate": "2026-10-25",
+  "endDate": "2026-10-31",
+  "readings": [
+    {
+      "key": "story",
+      "title": "Boas yang Baik Hati",
+      "date": "2026-10-25",
+      "file": "story.md"
+    },
+    {
+      "key": "play",
+      "title": "Bermain Sepanjang Hari",
+      "date": "2026-10-25",
+      "file": "play.md"
+    },
+    {
+      "key": "parent-reflection",
+      "title": "Untuk Orang Tua",
+      "date": "2026-10-25",
+      "file": "parent-reflection.md"
+    }
+  ]
+}

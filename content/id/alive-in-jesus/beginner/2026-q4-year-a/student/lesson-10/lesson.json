@@ -1,0 +1,26 @@
+{
+  "id": "lesson-10",
+  "title": "Perjalanan ke Betlehem",
+  "startDate": "2026-11-29",
+  "endDate": "2026-12-05",
+  "readings": [
+    {
+      "key": "story",
+      "title": "Perjalanan ke Betlehem",
+      "date": "2026-11-29",
+      "file": "story.md"
+    },
+    {
+      "key": "play",
+      "title": "Bermain Sepanjang Hari",
+      "date": "2026-11-29",
+      "file": "play.md"
+    },
+    {
+      "key": "parent-reflection",
+      "title": "Untuk Orang Tua",
+      "date": "2026-11-29",
+      "file": "parent-reflection.md"
+    }
+  ]
+}

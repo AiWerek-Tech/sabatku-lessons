@@ -1,0 +1,62 @@
+{
+  "id": "lesson-11",
+  "title": "Lahir di Kandang",
+  "startDate": "2026-12-06",
+  "endDate": "2026-12-12",
+  "readings": [
+    {
+      "key": "welcome",
+      "title": "Penyambutan dan Permainan Sensori",
+      "date": "2026-12-12",
+      "file": "welcome.md"
+    },
+    {
+      "key": "praise",
+      "title": "Memuji Tuhan",
+      "date": "2026-12-12",
+      "file": "praise.md"
+    },
+    {
+      "key": "prayer",
+      "title": "Berdoa",
+      "date": "2026-12-12",
+      "file": "prayer.md"
+    },
+    {
+      "key": "story",
+      "title": "Cerita Alkitab Interaktif",
+      "date": "2026-12-12",
+      "file": "story.md"
+    },
+    {
+      "key": "memory-verse",
+      "title": "Ayat Hafalan",
+      "date": "2026-12-12",
+      "file": "memory-verse.md"
+    },
+    {
+      "key": "offering",
+      "title": "Persembahan",
+      "date": "2026-12-12",
+      "file": "offering.md"
+    },
+    {
+      "key": "nature",
+      "title": "Mengenal Alam",
+      "date": "2026-12-12",
+      "file": "nature.md"
+    },
+    {
+      "key": "craft",
+      "title": "Kegiatan Orang Tua dan Anak",
+      "date": "2026-12-12",
+      "file": "craft.md"
+    },
+    {
+      "key": "goodbye",
+      "title": "Penutup",
+      "date": "2026-12-12",
+      "file": "goodbye.md"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Apa yang perlu Anda kerjakan pekan ini? Mungkin bekerja, mengurus rumah, merawat keluarga, berolahraga, menjaga pola makan, serta melayani di gereja. Kadang daftar itu terasa terlalu panjang. Kita perlu mengurangi beberapa hal agar dapat memusatkan perhatian pada yang sungguh penting.
+
+Bantuan pasangan, sahabat, atau anak dapat menguatkan hati. Bahkan pertolongan ramah dari orang yang belum dikenal dapat terasa seperti tangan Tuhan yang mengingatkan bahwa Ia melihat dan dekat dengan kita.
+
+Saat menolong sesama, Anda juga menyatakan perhatian Tuhan. “Kita harus memandang setiap kewajiban, betapapun sederhananya, sebagai sesuatu yang kudus karena merupakan bagian dari pelayanan kepada Allah. Doa kita setiap hari seharusnya, ‘Tuhan, tolong aku melakukan yang terbaik. Ajari aku bekerja lebih baik. Berikan tenaga dan sukacita. Tolong aku menyatakan pelayanan kasih Juruselamat dalam pekerjaanku’” (Ellen G. White, _The Ministry of Healing_, hlm. 474). Bayangkan Yesus mengulurkan tangan-Nya yang kuat dan lembut untuk menolong Anda. Ia menguatkan hati agar Anda mengerjakan segala sesuatu dengan segenap hati, seperti bagi-Nya dan bukan bagi manusia (Kolose 3:23).
+
+Triwulan ini, ingatkan anak-anak bahwa mereka dapat menjadi penolong Tuhan dan membawa pengaruh baik meskipun masih kecil. Saat Anda menyediakan waktu untuk melayani, mintalah Tuhan menerangi hati Anda yang rela. Kiranya anak-anak pun terdorong untuk melayani-Nya dengan sepenuh hati.

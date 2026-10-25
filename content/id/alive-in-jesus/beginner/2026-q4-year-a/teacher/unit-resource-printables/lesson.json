@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-printables",
+  "title": "Bahan Cetak",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "printables",
+      "title": "Bahan Cetak",
+      "date": "2026-09-27",
+      "file": "printables.md"
+    }
+  ]
+}

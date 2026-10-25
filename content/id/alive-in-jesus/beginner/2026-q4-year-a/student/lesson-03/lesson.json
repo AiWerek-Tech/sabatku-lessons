@@ -1,0 +1,26 @@
+{
+  "id": "lesson-03",
+  "title": "Samuel Mendengarkan Tuhan",
+  "startDate": "2026-10-11",
+  "endDate": "2026-10-17",
+  "readings": [
+    {
+      "key": "story",
+      "title": "Samuel Mendengarkan Tuhan",
+      "date": "2026-10-11",
+      "file": "story.md"
+    },
+    {
+      "key": "play",
+      "title": "Bermain Sepanjang Hari",
+      "date": "2026-10-11",
+      "file": "play.md"
+    },
+    {
+      "key": "parent-reflection",
+      "title": "Untuk Orang Tua",
+      "date": "2026-10-11",
+      "file": "parent-reflection.md"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lesson-08",
+  "title": "Aku Bisa Menolong Tuhan",
+  "startDate": "2026-11-15",
+  "endDate": "2026-11-21",
+  "readings": [
+    {
+      "key": "story",
+      "title": "Aku Bisa Menolong Tuhan",
+      "date": "2026-11-15",
+      "file": "story.md"
+    },
+    {
+      "key": "play",
+      "title": "Bermain Sepanjang Hari",
+      "date": "2026-11-15",
+      "file": "play.md"
+    },
+    {
+      "key": "parent-reflection",
+      "title": "Untuk Orang Tua",
+      "date": "2026-11-15",
+      "file": "parent-reflection.md"
+    }
+  ]
+}

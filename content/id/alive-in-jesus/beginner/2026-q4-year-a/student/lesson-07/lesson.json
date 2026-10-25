@@ -1,0 +1,26 @@
+{
+  "id": "lesson-07",
+  "title": "Aku Bisa Membantu Orang Lain",
+  "startDate": "2026-11-08",
+  "endDate": "2026-11-14",
+  "readings": [
+    {
+      "key": "story",
+      "title": "Aku Bisa Membantu Orang Lain",
+      "date": "2026-11-08",
+      "file": "story.md"
+    },
+    {
+      "key": "play",
+      "title": "Bermain Sepanjang Hari",
+      "date": "2026-11-08",
+      "file": "play.md"
+    },
+    {
+      "key": "parent-reflection",
+      "title": "Untuk Orang Tua",
+      "date": "2026-11-08",
+      "file": "parent-reflection.md"
+    }
+  ]
+}

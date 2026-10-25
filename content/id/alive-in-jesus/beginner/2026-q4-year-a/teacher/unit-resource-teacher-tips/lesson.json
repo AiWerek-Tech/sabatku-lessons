@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-teacher-tips",
+  "title": "Petunjuk untuk Guru",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "teacher-tips",
+      "title": "Petunjuk untuk Guru",
+      "date": "2026-09-27",
+      "file": "teacher-tips.md"
+    }
+  ]
+}

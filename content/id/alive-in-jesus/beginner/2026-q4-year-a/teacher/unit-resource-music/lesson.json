@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-music",
+  "title": "Musik untuk Kelas",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "music",
+      "title": "Musik untuk Kelas",
+      "date": "2026-09-27",
+      "file": "music.md"
+    }
+  ]
+}

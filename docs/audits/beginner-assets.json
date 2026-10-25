@@ -1,0 +1,1159 @@
+{
+  "date": "2026-10-25",
+  "checked": 192,
+  "failures": [],
+  "assets": [
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/002-beginner-sabbath-school-overview/overview.png",
+      "status": 200,
+      "bytes": 306003,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/01-tick-tock.mp3",
+      "status": 200,
+      "bytes": 789524,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/02-the-sabbath.mp3",
+      "status": 200,
+      "bytes": 766955,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/03-gods-little-helper.mp3",
+      "status": 200,
+      "bytes": 889417,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/04-im-a-little-helper.mp3",
+      "status": 200,
+      "bytes": 697573,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3",
+      "status": 200,
+      "bytes": 703007,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/06-when-a-mother-calls.mp3",
+      "status": 200,
+      "bytes": 803735,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/07-with-jesus-in-the-family.mp3",
+      "status": 200,
+      "bytes": 1265998,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3",
+      "status": 200,
+      "bytes": 876460,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3",
+      "status": 200,
+      "bytes": 727666,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10-hebrews-13-16.mp3",
+      "status": 200,
+      "bytes": 701565,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10a.jpg",
+      "status": 200,
+      "bytes": 137705,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10b.jpg",
+      "status": 200,
+      "bytes": 99227,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10c.jpg",
+      "status": 200,
+      "bytes": 90039,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10d.jpg",
+      "status": 200,
+      "bytes": 136072,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3",
+      "status": 200,
+      "bytes": 786181,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11a.jpg",
+      "status": 200,
+      "bytes": 134986,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11b.jpg",
+      "status": 200,
+      "bytes": 113136,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11c.jpg",
+      "status": 200,
+      "bytes": 108130,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11d.jpg",
+      "status": 200,
+      "bytes": 118200,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11e.jpg",
+      "status": 200,
+      "bytes": 111515,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3",
+      "status": 200,
+      "bytes": 565206,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12a.jpg",
+      "status": 200,
+      "bytes": 97512,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12b.jpg",
+      "status": 200,
+      "bytes": 69234,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12c.jpg",
+      "status": 200,
+      "bytes": 171835,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3",
+      "status": 200,
+      "bytes": 951693,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13a.jpg",
+      "status": 200,
+      "bytes": 71752,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13b.jpg",
+      "status": 200,
+      "bytes": 76250,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13c.jpg",
+      "status": 200,
+      "bytes": 58269,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13d.jpg",
+      "status": 200,
+      "bytes": 75081,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13e.jpg",
+      "status": 200,
+      "bytes": 219500,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/14-christmas-star.mp3",
+      "status": 200,
+      "bytes": 868519,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/15-riding-on-a-camel.mp3",
+      "status": 200,
+      "bytes": 1228800,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/16-ill-share-my-home.mp3",
+      "status": 200,
+      "bytes": 915748,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/17-it-was-a-happy-day.mp3",
+      "status": 200,
+      "bytes": 878968,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/18-baby-jesus.mp3",
+      "status": 200,
+      "bytes": 2366066,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/19-who-is-jesus.mp3",
+      "status": 200,
+      "bytes": 861413,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/1a.jpg",
+      "status": 200,
+      "bytes": 106699,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/1b.jpg",
+      "status": 200,
+      "bytes": 96104,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/1c.jpg",
+      "status": 200,
+      "bytes": 62555,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/1d.jpg",
+      "status": 200,
+      "bytes": 66537,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/20-matthew-1-21.mp3",
+      "status": 200,
+      "bytes": 905320,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2025-04-bg-craft-file-01.pdf",
+      "status": 200,
+      "bytes": 18297,
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2025-04-bg-craft-file-09.pdf",
+      "status": 200,
+      "bytes": 12982,
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2025-04-bg-craft-file-10.pdf",
+      "status": 200,
+      "bytes": 14712,
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2025-04-bg-craft-file-13.pdf",
+      "status": 200,
+      "bytes": 23506,
+      "type": "application/pdf"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2a.jpg",
+      "status": 200,
+      "bytes": 139259,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2b.jpg",
+      "status": 200,
+      "bytes": 45490,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2c.jpg",
+      "status": 200,
+      "bytes": 53025,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2d.jpg",
+      "status": 200,
+      "bytes": 61672,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2e.jpg",
+      "status": 200,
+      "bytes": 79750,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2f.jpg",
+      "status": 200,
+      "bytes": 79411,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/2g.jpg",
+      "status": 200,
+      "bytes": 85802,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/3a.jpg",
+      "status": 200,
+      "bytes": 105430,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/3b.jpg",
+      "status": 200,
+      "bytes": 113863,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/3c.jpg",
+      "status": 200,
+      "bytes": 145110,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/4a.jpg",
+      "status": 200,
+      "bytes": 124454,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/4b.jpg",
+      "status": 200,
+      "bytes": 108956,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/4c.jpg",
+      "status": 200,
+      "bytes": 118360,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/5a.jpg",
+      "status": 200,
+      "bytes": 177183,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/5b.jpg",
+      "status": 200,
+      "bytes": 79878,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/5c.jpg",
+      "status": 200,
+      "bytes": 113685,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/5d.jpg",
+      "status": 200,
+      "bytes": 145562,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/5e.jpg",
+      "status": 200,
+      "bytes": 58615,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/6a.jpg",
+      "status": 200,
+      "bytes": 106512,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/6b.jpg",
+      "status": 200,
+      "bytes": 52422,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/6c.jpg",
+      "status": 200,
+      "bytes": 52743,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/6d.jpg",
+      "status": 200,
+      "bytes": 47874,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/7a.jpg",
+      "status": 200,
+      "bytes": 60985,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/7b.jpg",
+      "status": 200,
+      "bytes": 41777,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/7c.jpg",
+      "status": 200,
+      "bytes": 53364,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/7d.jpg",
+      "status": 200,
+      "bytes": 51115,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/7e.jpg",
+      "status": 200,
+      "bytes": 77784,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/7f.jpg",
+      "status": 200,
+      "bytes": 67574,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/8a.jpg",
+      "status": 200,
+      "bytes": 136092,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/8b.jpg",
+      "status": 200,
+      "bytes": 67587,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/8c.jpg",
+      "status": 200,
+      "bytes": 71068,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/8d.jpg",
+      "status": 200,
+      "bytes": 100513,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9a.jpg",
+      "status": 200,
+      "bytes": 82319,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9b.jpg",
+      "status": 200,
+      "bytes": 33371,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9c.jpg",
+      "status": 200,
+      "bytes": 38716,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9d.jpg",
+      "status": 200,
+      "bytes": 51585,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9e.jpg",
+      "status": 200,
+      "bytes": 47740,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9f.jpg",
+      "status": 200,
+      "bytes": 51019,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/9g.jpg",
+      "status": 200,
+      "bytes": 35764,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/animal-family-poster-01.jpg",
+      "status": 200,
+      "bytes": 1911648,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/animal-family-poster-02.jpg",
+      "status": 200,
+      "bytes": 1998816,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/animal-family-poster-03.jpg",
+      "status": 200,
+      "bytes": 1602852,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/animal-family-poster-04.jpg",
+      "status": 200,
+      "bytes": 1950942,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/animal-family-poster-05.jpg",
+      "status": 200,
+      "bytes": 1631079,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/animal-family-poster-06.jpg",
+      "status": 200,
+      "bytes": 1560316,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-01.jpg",
+      "status": 200,
+      "bytes": 3116355,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-02.jpg",
+      "status": 200,
+      "bytes": 3672535,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-03.jpg",
+      "status": 200,
+      "bytes": 2949302,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-04.jpg",
+      "status": 200,
+      "bytes": 3553484,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-05.jpg",
+      "status": 200,
+      "bytes": 3392457,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-06.jpg",
+      "status": 200,
+      "bytes": 3123193,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-07.jpg",
+      "status": 200,
+      "bytes": 2908386,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-08.jpg",
+      "status": 200,
+      "bytes": 3130445,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-09.jpg",
+      "status": 200,
+      "bytes": 2676031,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-10.jpg",
+      "status": 200,
+      "bytes": 3201829,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-11.jpg",
+      "status": 200,
+      "bytes": 3584138,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-12.jpg",
+      "status": 200,
+      "bytes": 3014459,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-13.jpg",
+      "status": 200,
+      "bytes": 2785665,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3",
+      "status": 200,
+      "bytes": 9539472,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/memory-verse-poster-01.jpg",
+      "status": 200,
+      "bytes": 433744,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/memory-verse-poster-02.jpg",
+      "status": 200,
+      "bytes": 425333,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/picture-of-jesus.jpg",
+      "status": 200,
+      "bytes": 891968,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/sand.mp4",
+      "status": 200,
+      "bytes": 86081808,
+      "type": "video/mp4"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3",
+      "status": 200,
+      "bytes": 10656100,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/01/00.png",
+      "status": 200,
+      "bytes": 1170374,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/01/01.png",
+      "status": 200,
+      "bytes": 591795,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/01/02.png",
+      "status": 200,
+      "bytes": 2070222,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/01/03.png",
+      "status": 200,
+      "bytes": 1098589,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/02/00.png",
+      "status": 200,
+      "bytes": 1153691,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/02/01.png",
+      "status": 200,
+      "bytes": 659659,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/02/02.png",
+      "status": 200,
+      "bytes": 705399,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/02/03.png",
+      "status": 200,
+      "bytes": 1195172,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/03/00.png",
+      "status": 200,
+      "bytes": 1321157,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/03/01.png",
+      "status": 200,
+      "bytes": 712478,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/03/02.png",
+      "status": 200,
+      "bytes": 696080,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/03/03.png",
+      "status": 200,
+      "bytes": 1250756,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/04/00.png",
+      "status": 200,
+      "bytes": 1262261,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/04/01.png",
+      "status": 200,
+      "bytes": 585962,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/04/02.png",
+      "status": 200,
+      "bytes": 632533,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/04/03.png",
+      "status": 200,
+      "bytes": 1163748,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/05/00.png",
+      "status": 200,
+      "bytes": 1291523,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/05/01.png",
+      "status": 200,
+      "bytes": 687407,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/05/02.png",
+      "status": 200,
+      "bytes": 656850,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/05/03.png",
+      "status": 200,
+      "bytes": 1232312,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/06/00.png",
+      "status": 200,
+      "bytes": 1234203,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/06/01.png",
+      "status": 200,
+      "bytes": 1358068,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/06/02.png",
+      "status": 200,
+      "bytes": 1436280,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/06/03.png",
+      "status": 200,
+      "bytes": 1571806,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/06/04.png",
+      "status": 200,
+      "bytes": 1265175,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/06/05.png",
+      "status": 200,
+      "bytes": 1042129,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/07/00.png",
+      "status": 200,
+      "bytes": 1339211,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/07/01.png",
+      "status": 200,
+      "bytes": 668084,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/07/02.png",
+      "status": 200,
+      "bytes": 622705,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/07/03.png",
+      "status": 200,
+      "bytes": 1063887,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/08/00.png",
+      "status": 200,
+      "bytes": 1195838,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/08/01.png",
+      "status": 200,
+      "bytes": 2006996,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/08/02.png",
+      "status": 200,
+      "bytes": 633901,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/08/03.png",
+      "status": 200,
+      "bytes": 1038320,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/09/00.png",
+      "status": 200,
+      "bytes": 1270764,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/09/01.png",
+      "status": 200,
+      "bytes": 664653,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/09/02.png",
+      "status": 200,
+      "bytes": 655856,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/09/03.png",
+      "status": 200,
+      "bytes": 1219257,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/10/00.png",
+      "status": 200,
+      "bytes": 1125826,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/10/01.png",
+      "status": 200,
+      "bytes": 696766,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/10/02.png",
+      "status": 200,
+      "bytes": 728962,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/10/03.png",
+      "status": 200,
+      "bytes": 1253897,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/11/00.png",
+      "status": 200,
+      "bytes": 1331409,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/11/01.png",
+      "status": 200,
+      "bytes": 656021,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/11/02.png",
+      "status": 200,
+      "bytes": 740801,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/11/03.png",
+      "status": 200,
+      "bytes": 1237053,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/12/00.png",
+      "status": 200,
+      "bytes": 1303299,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/12/01.png",
+      "status": 200,
+      "bytes": 633161,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/12/02.png",
+      "status": 200,
+      "bytes": 648893,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/12/03.png",
+      "status": 200,
+      "bytes": 1276419,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/13/00.png",
+      "status": 200,
+      "bytes": 1198441,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/13/01.png",
+      "status": 200,
+      "bytes": 560128,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/13/02.png",
+      "status": 200,
+      "bytes": 608515,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/13/03.png",
+      "status": 200,
+      "bytes": 1219160,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3",
+      "status": 200,
+      "bytes": 10283719,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2",
+      "status": 200,
+      "bytes": 10283719,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-02.mp3",
+      "status": 200,
+      "bytes": 9582802,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-02.mp3?updated2",
+      "status": 200,
+      "bytes": 9582802,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-03.mp3",
+      "status": 200,
+      "bytes": 11127579,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-03.mp3?updated2",
+      "status": 200,
+      "bytes": 11127579,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-04.mp3",
+      "status": 200,
+      "bytes": 11015357,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-04.mp3?updated2",
+      "status": 200,
+      "bytes": 11015357,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-05.mp3",
+      "status": 200,
+      "bytes": 11929434,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-05.mp3?updated2",
+      "status": 200,
+      "bytes": 11929434,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-06.mp3",
+      "status": 200,
+      "bytes": 11932568,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-06.mp3?updated2",
+      "status": 200,
+      "bytes": 11932568,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-07.mp3",
+      "status": 200,
+      "bytes": 10911912,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-07.mp3?updated2",
+      "status": 200,
+      "bytes": 10911912,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-08.mp3",
+      "status": 200,
+      "bytes": 12226603,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-08.mp3?updated2",
+      "status": 200,
+      "bytes": 12226603,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-09.mp3",
+      "status": 200,
+      "bytes": 11295599,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-09.mp3?updated2",
+      "status": 200,
+      "bytes": 11295599,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-10.mp3",
+      "status": 200,
+      "bytes": 11886175,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-10.mp3?updated2",
+      "status": 200,
+      "bytes": 11886175,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-11.mp3",
+      "status": 200,
+      "bytes": 10738877,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-11.mp3?updated2",
+      "status": 200,
+      "bytes": 10738877,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-12.mp3",
+      "status": 200,
+      "bytes": 10640448,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-12.mp3?updated2",
+      "status": 200,
+      "bytes": 10640448,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-13.mp3",
+      "status": 200,
+      "bytes": 10636686,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-13.mp3?updated2",
+      "status": 200,
+      "bytes": 10636686,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/scripture-song-heb-13-16.mp3",
+      "status": 200,
+      "bytes": 701565,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/scripture-song-mt-1-21.mp3",
+      "status": 200,
+      "bytes": 905320,
+      "type": "audio/mpeg"
+    }
+  ]
+}

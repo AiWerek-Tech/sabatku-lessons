@@ -1,0 +1,238 @@
+{
+  "schemaVersion": "alive-in-jesus-translation-review-v1",
+  "editionId": "2026-q4-aij-beginner-student",
+  "status": "approved",
+  "sourceLocale": "en",
+  "targetLocale": "id",
+  "reviewer": "Codex (audit editorial dan integrasi; publikasi atas instruksi pemilik proyek)",
+  "reviewedAt": "2026-10-25",
+  "note": "Audit pasangan sumber Inggris–Indonesia dan revisi editorial diselesaikan. Pemilik proyek meminta status diterbitkan setelah audit. Ini bukan klaim pemeriksaan manusia oleh Tim SabatKu.",
+  "sourceAudit": {
+    "englishFiles": 43,
+    "indonesianFiles": 43,
+    "matchedFiles": 43,
+    "missingIndonesian": [],
+    "missingEnglish": [],
+    "flaggedPairCount": 0,
+    "sourceChecksums": {
+      "00-introduction/introduction.md": {
+        "english": "4f87ea55b1bdc822d78b9fbe18fb992fff43a1791d11c0ba9ed40e4c6742c1c2",
+        "indonesian": "6734cc8dbce8e7c15bb1e673227b7fd8a80a306eb368804c4fff162f17b885b1"
+      },
+      "00-little-devotions/little-devotions.md": {
+        "english": "51e3b89f5524e80a0b7f7d65e5752e746c7ceb4edb411a8e26965ca8d38cb38c",
+        "indonesian": "3af4900c14f7e521ddd7136837c8dd31eb3009ad008203bb3aa444668233ee51"
+      },
+      "00-music-and-podcasts/00-music-podcasts.md": {
+        "english": "30e4b9243d47e41bcbbc8b2b2dbe63bbf399f921ce5b8aa706b1db7120849366",
+        "indonesian": "a22a6cab9747bfa6f0be17d280e2769978926be3fbb0160725c4fa596a212304"
+      },
+      "01/01-story.md": {
+        "english": "839fc02ee22f868ff6ff4332157ce6a106ddfc8ddaf5bde248c089118136d1a9",
+        "indonesian": "a6f737024c87b20682931b68457a2bcb644b7a6e91aa43bcb620760ffe499797"
+      },
+      "01/02-play.md": {
+        "english": "0893fc3aa9c35468f4958cd26da27426bb0e7c359be460f5a8570b4e02fc3fe0",
+        "indonesian": "6d3a6ceab30931289b3e3fe0ab4c008ccc2f8eabd100a54792e167ec3491b612"
+      },
+      "01/03-the-heart-of-the-matter.md": {
+        "english": "0b714b05556713d4d5023e2a29f79c75958b04891e79dc1c451758d560680268",
+        "indonesian": "b585b1b703573205c181b7b2d011e4286bb6e2af6a5f6f3bceb590b84d41bc64"
+      },
+      "02/01-story.md": {
+        "english": "5507deb2439ca2639b3fa9fa2532dcc07cd79d80f8b57d46ffcfe8b6d16bf191",
+        "indonesian": "c3c51432c434240bb5012c278c57849674ff1a3c3b142950d6506d68e307a27c"
+      },
+      "02/02-play.md": {
+        "english": "e9459451bb659a05ed2e5a3f85cffc9fbb13cb53ca26a13a7f2137b09855bfdf",
+        "indonesian": "def897a1900cc95f3d0645b842cfd71eb09381b0aa43f9b8d1b5600a04182cc1"
+      },
+      "02/03-the-heart-of-the-matter.md": {
+        "english": "3e1d97d8321a91872cebab1acc27ecc75f1f7b13d6e2559e677277bd660fe29f",
+        "indonesian": "2151bbcd3288c4058e6288d1c9becb92fc6051da3f0d8d3e80f27c91aa4f9bee"
+      },
+      "03/01-story.md": {
+        "english": "cd0c2a006667dd87c032d432efa55937c451737c8ddea99e72c744a16ba7b9a1",
+        "indonesian": "ffaefe77c9d49c39303260a15b10f2e622026b5ce4619470beda34a5a66c8ef2"
+      },
+      "03/02-play.md": {
+        "english": "4138ecfdc750549cc251efad1884992fd2b5fb1ec69cc4af37fb07afd0ae9c67",
+        "indonesian": "12f523d003f38069f6c1dae099252d9c18e95270358548349763a81f014d746a"
+      },
+      "03/03-the-heart-of-the-matter.md": {
+        "english": "b948d3963d19f685f5ed5439c4f71484f2b1e97a293c72876ed8766cd3f90b53",
+        "indonesian": "4f6e8af780bfd80c2bf8afa32757297f23e3016027df2c98040f6d8aa258dac3"
+      },
+      "04/01-story.md": {
+        "english": "f76c52ad3eb5bdb920164bddb12dd5a2553c840179696fe768d484ab36e671b5",
+        "indonesian": "cccbc282ee0195103d24d998160c16f7e559f0481f6bfd1e125212977e5a305d"
+      },
+      "04/02-play.md": {
+        "english": "81c7e16f09f1ac8ae2307b13e737e0b3893bcebcd4b9e94c1b0924475f68a21f",
+        "indonesian": "a5e3094498b41992cfa424b375e489d939502802bb77be75f93ee9574c51a678"
+      },
+      "04/03-the-heart-of-the-matter.md": {
+        "english": "1cbbae37e0f2aed0c83062d74bc761f42759ad3c0ca973dd448522d188b1bfa7",
+        "indonesian": "21fbb7a80c2ece58a5b3ad7c5c26c773446f8427a9573d61e42ba08783453768"
+      },
+      "05/01-story.md": {
+        "english": "991fb3bd34e00843fc0e389b2203fcc3c50a9a0650e7571074dad62efd9ed317",
+        "indonesian": "380c080b7b85ae92aaa8687e5f099b90309a9d30720ca2541bed6024b7d63358"
+      },
+      "05/02-play.md": {
+        "english": "82833def14f642d8c705512a45fd6d9c12c3df54edbe2e7154bd8987247e6a8f",
+        "indonesian": "937c1e8a468145e33a62143726ac3b3f634da267b0a0a4a5586486f811af3bc3"
+      },
+      "05/03-the-heart-of-the-matter.md": {
+        "english": "3dcd68c95ddc7d06cfd383f2ba781f779af66c3fdd54c5750e14c41bdfbe0270",
+        "indonesian": "9853553f70f3874e7dad1e7e1d4742abc9bfb2eb2e7e24db5b1cf856e12cfa8a"
+      },
+      "06/01-story.md": {
+        "english": "c3da141951c11ee7d2b4ef4e0b1d1f2e2b76d33b0cb6b5a1d53266171863bc35",
+        "indonesian": "f2e9ce4ff6da0189c03433e2db66346d354b46b2da93fd70ddd1891182e1d151"
+      },
+      "06/02-play.md": {
+        "english": "6438949ad27738cb94dbf80e96d08357bc2611eae9e76e8711a397969ddf777e",
+        "indonesian": "0c44621948f3ee4c8e83a46e23a1ba5b19a128056154a70f3a037aad003c21c4"
+      },
+      "06/03-the-heart-of-the-matter.md": {
+        "english": "3b818928ba0b0651cd3c8146ed3bb14261e12516009a5cf619a420dc6764f591",
+        "indonesian": "b38290a9df8fdbfb2ea9ba5ea13580b87ff6bb9457656216e61116f69099e634"
+      },
+      "07/01-story.md": {
+        "english": "554694646805b93987b37600ef6a24315be5bd3e635beef2476d2593fcbc85c8",
+        "indonesian": "889658e881e984af70584a996f8da3275478ff8c8fe750a1692006312633f5c7"
+      },
+      "07/02-play.md": {
+        "english": "1c62bc890746eea60ca2968b3b88eaaf4acc936a78be35552e8b0c7bc9b29957",
+        "indonesian": "b42caacecc12038fef15189fc74252f9ebb6198892ba7bfcf8c0c2a1ec3f31e2"
+      },
+      "07/03-the-heart-of-the-matter.md": {
+        "english": "b46117b512ec729eccacf01106e52cd3a2be765667d0da40194e2519c3bf70d6",
+        "indonesian": "21e733c83d6f32bb894cdd8399ea77979cd0dfa4ba92562a10edd15006ff3a2d"
+      },
+      "08/01-story.md": {
+        "english": "011fb2c434565418377b090cc70548820b9d1b86dd32cee14ed1a540f14cd6d2",
+        "indonesian": "26c798acadbd90c4b93bc1c45392496b0e6872fae8ad22df5679efb65164df93"
+      },
+      "08/02-play.md": {
+        "english": "070d1857700b02d93f5c7beb6df30b5a011e467ee7077b6bb8b3a08a3d904456",
+        "indonesian": "53fee97d232cdda6213dc6fbd76126c1c1602bb720ae4b2c211ce45633901452"
+      },
+      "08/03-the-heart-of-the-matter.md": {
+        "english": "29a72f2bc6c39f6bb1e22f0b5040c74f1af4db1404caf3f8c7788f6abab30981",
+        "indonesian": "beb28e001920b08559d2bde5ed0893abc1c6529c2f70dd75a241c887db9c4176"
+      },
+      "09/01-story.md": {
+        "english": "b7a301d75952622fe07a0fa98cb2fb4208dbd8a85b393e70744e9a2898c04445",
+        "indonesian": "663a9f64dfba5011d09d6fe16b83722c44003eede956a5e2fd401398364b92f9"
+      },
+      "09/02-play.md": {
+        "english": "20484139814525fc5af7649e61feb33280e7b20a5cc1e785c1d5916d4b89bbb3",
+        "indonesian": "f815a68017a30ef886b49342d66f4697670654bf0a42287cf06fff4e90f51087"
+      },
+      "09/03-the-heart-of-the-matter.md": {
+        "english": "8ff8b9b8213b20c9365e41a4eb46d8a5bcd33c6bc4f56789ecaac5e8e79e657c",
+        "indonesian": "54caa9c184a6c8afcbf51c1d38fc16504009be304c8108afcb1fd5b130bbc46a"
+      },
+      "10/01-story.md": {
+        "english": "87ef19319ed7c01e00c3b8378b65d126d2249fd72a5b645d5fdfa1c7473213f6",
+        "indonesian": "d1642d309c210eb5a2ada01407297ef23379b54e140967cede6a8f8bee19802a"
+      },
+      "10/02-play.md": {
+        "english": "9b6673ae828cdee41d38442ed993e0b55c4d41450e41d6e2ba69893a086cb313",
+        "indonesian": "313fb6cf009e9d8b3ba31db5c6f40e9f3e6a8187d98bd85730b3527e3c34ebea"
+      },
+      "10/03-the-heart-of-the-matter.md": {
+        "english": "155743272bd854a47a1c991b18e90c9371bcfc54970c6060a803e658e93af61d",
+        "indonesian": "aae68e7853b73ad9c2510d1d964c49992d4780c1c3765cba8b89bcf5032eff45"
+      },
+      "11/01-story.md": {
+        "english": "f61fc4d632388cdb1022e1bc6238fd123653420a9d52a18f782da57e58833566",
+        "indonesian": "4ceb796e8663c30d9eed3f64f9956cae87ac759c9049866b56b2e80bc57e8ae0"
+      },
+      "11/02-play.md": {
+        "english": "45d4e9567bc7e0920dede7562ad4c063344ef08322b9c5e47bfbf56e8503b0fe",
+        "indonesian": "acf83b414d23717e15bd6b519ea9f4073a6a93ee3fcec05d4a6e57774b095ff7"
+      },
+      "11/03-the-heart-of-the-matter.md": {
+        "english": "440abb729d93d3fa93e4804cdd5c8225d8a224692ed4573000e60cb91581ad4e",
+        "indonesian": "f63eadfb5625b9b126d7b335825ff6735f654c7bebc9f6eee633fab8bb0caaa8"
+      },
+      "12/01-story.md": {
+        "english": "a320cfbb46b5fa78d228fd9a9509ba2bc3c4e23eee2691c4a961c291f5431f19",
+        "indonesian": "b8925037c94284d20d88edebfc06cf1a4be4f3b255d1d03bb58592cec1bf1089"
+      },
+      "12/02-play.md": {
+        "english": "1f50a8c57e3c294b0bbb7fac5c4a391cc6a63dacc3beac54c0cbe5db8e5de456",
+        "indonesian": "5b5f57374997c5f3aaaa907dcd4db007180bb04e534fd3cf030e03726270f673"
+      },
+      "12/03-the-heart-of-the-matter.md": {
+        "english": "6a413eae52369943a49e63b9d0a40c87c734f6f48d93f05fdf0295beee453e2f",
+        "indonesian": "8413d06bc63d17b8b730a37a8257fbc659573b1c898acd06614b588706504b4b"
+      },
+      "13/01-story.md": {
+        "english": "ab38bddec719059d891638fee6432b03cde0384af8374ea62d87cfa823e4ebda",
+        "indonesian": "129faefff9f1380ef58aee09f797f4eb9721ccc2f6a373064a943eea71124a32"
+      },
+      "13/02-play.md": {
+        "english": "cb2a7378c215e3ef43555a430f117e9cfb97d235326e4c705bf7df7bf03295f8",
+        "indonesian": "795ce46fc21d6186380845afc4076e0979a17768a204b2a8b6b5e3e780e2d522"
+      },
+      "13/03-the-heart-of-the-matter.md": {
+        "english": "6897a333f82c4b83dd2a111ab08f53060d50a0ea56926b5ce6f6b86347b076ef",
+        "indonesian": "1d51680d323060c9a81a098c880c811cf70b05eb36ad3e5a845c770e87fc3738"
+      },
+      "introduction.md": {
+        "english": "6b1bbf6c89dbdf8b4a6bb64140a742af96eddc707ce36f4f089638bfc39ad38b",
+        "indonesian": "7ecdef06a57eaf0c82fc818c74c642ee36b865d6fa37e5ad63f809d41c36d804"
+      }
+    }
+  },
+  "translationFiles": {
+    "introduction.md": "c4cf4c9872fd650952d8e2eb1278c30caa4c7033158eec98e7947912da2c6d1b",
+    "lesson-01/parent-reflection.md": "15cdaf7257ccea4fa9333342d0000a9025d928723d3034139ecc0235701787ab",
+    "lesson-01/play.md": "16974b451c7bfe7ad877939d746b8575d15b87f8db03cf69c434b2f88ef8f2f0",
+    "lesson-01/story.md": "0d1fc28eeb851f89d486f89398efc51c20b6646fd87f44c26908635648b37ade",
+    "lesson-02/parent-reflection.md": "1b1db9c8a7985f25e56bd219b5ced34231ba9fc46fdd12118ebd8d2f95bbec68",
+    "lesson-02/play.md": "71b962861c9fd7471484f6bc71ed012743599debcf0148736aed9fd74763890a",
+    "lesson-02/story.md": "389ec92ec8f5a60b4590440086ca54caffbfde48bac177d989339db23c58809c",
+    "lesson-03/parent-reflection.md": "03e39945d0d568bf73dd584a3028c54d142c94c654de5645b96219748f1af7db",
+    "lesson-03/play.md": "23554cb4e8a8b50873929903c82bd22d0b865b098e014876d79dfafa693a0fbd",
+    "lesson-03/story.md": "f7b374697234e8a349e3ca5e1951d9e50d7845ad738f25a968841152f5994e75",
+    "lesson-04/parent-reflection.md": "07239f263400d80497a481b6be94f728182ec7c4d97559b068191b9fb12ba099",
+    "lesson-04/play.md": "2f4f577fd5acdc957bd3ff25e063ff31634acf8530c632e7b5aeb3f0d79c745b",
+    "lesson-04/story.md": "588b8fdbe65f47f9a3db1cd0486aaeadefd71744f1f50bd4456a8aa47cbd4554",
+    "lesson-05/parent-reflection.md": "52105e68340493fd137d5c30f3e1cb456ea870fe300caf3366087e3c3f2fe9c7",
+    "lesson-05/play.md": "816ad816cc23f66ada37a03a1c04e28c7778fba0323b332ccc2f29b43cdb18be",
+    "lesson-05/story.md": "7df6cc1494cce69431c6e72b8e27761795fcc6022d21ca33b2f48e7beac00c72",
+    "lesson-06/parent-reflection.md": "a19d8c4720b6b7137e9aa0d6a6468f1df16edf1e74b8c3b9d0b19e7137077906",
+    "lesson-06/play.md": "080b34b2443fe5b5db61cc4196eccd8212eadb6df622abb22d884d1c1e015073",
+    "lesson-06/story.md": "92bbc892d647020ca1158ebb9733668c346dbcb929740134f9eb77ae15843d01",
+    "lesson-07/parent-reflection.md": "778403332578f880eb3922086d24a4758e052b983a0b2b520a53fb13a372bf56",
+    "lesson-07/play.md": "d7547616c1540742cc380ba435af537b584099e5294035395cd74f9cb171dec2",
+    "lesson-07/story.md": "65eacce387f884d346d023d75aac0664b790fd073f40b4f75e474c931c74d176",
+    "lesson-08/parent-reflection.md": "4b49b77e9a89eb5c51f932d9b8706e307fede07430724d6abb106d8844c9b0f1",
+    "lesson-08/play.md": "fc133aadb5491772a6517eb509d3cb7a5a0c70007354a49b798632bfeffb9e63",
+    "lesson-08/story.md": "961e8ce018306b8e1f9a8b7e6cf72d5183a0731f7f9d12c6121de8f96aa302a8",
+    "lesson-09/parent-reflection.md": "0a18b6df0c996a7898ddbdf09e8c125ec907de05567fc8d516c98f896bdaeaa4",
+    "lesson-09/play.md": "636aefe48c53fae5993ffb8315b4247648ea38aa861921000ef8117d2af2a1f2",
+    "lesson-09/story.md": "10d507256a1588ed5b4d1b482fefb3125bea48ad604b49f223241fd4b5773bf2",
+    "lesson-10/parent-reflection.md": "9ab15350cf9dec23d52fbc5325afacfe1b289df1b17ef729b539517c7c419c7f",
+    "lesson-10/play.md": "10b6d05bd54abd58d8fb9dc1294fea2406cb68ad85d98535103e10e59292f9fb",
+    "lesson-10/story.md": "21e4779213bc3597c991552ff5f216d6785ea9b535e29505e153ede6a497d429",
+    "lesson-11/parent-reflection.md": "f06415721ff5a992ae221326ad56294f26e371ce6e00b7878d148466aa3ff3f4",
+    "lesson-11/play.md": "c791dc802459f5f2887b131acacfb6bc1293fdf3f794c86f7fef2e393895555d",
+    "lesson-11/story.md": "c262021bbac06a32335f2c3a16a8aac7ce144769d290cfef4a33fe61a5ff90aa",
+    "lesson-12/parent-reflection.md": "49f95738a4c8c63ee5e143ba32fe598e83355db05f6b93db4466998e1dd6f51d",
+    "lesson-12/play.md": "13babd8c303881b7b1f5f0db3c8f7f7624a79d3f3199e305ad971017ac6fa673",
+    "lesson-12/story.md": "ea1e71cda962268ad8e65bf6859ee11e73ae0bfe20cda727a66b38eb6d086051",
+    "lesson-13/parent-reflection.md": "9bd611daef6fc66e464698e8291f4245e93c990c0bfabb3505f1de98c82eb2ec",
+    "lesson-13/play.md": "d27bef566bfb230c590be5c65e06fe11332e91fb26cc380ff18ef033c8dcf931",
+    "lesson-13/story.md": "552901f7ecfa08bc4173d16cfdc57bed7d0f3fe2d917ab33d6bb1df5abcc98cd",
+    "unit-resource-family/family-devotions.md": "904f864b664fb31bc8ced70fba973c80949ad4ba450c60d0287e1070fbf58f7b",
+    "unit-resource-family/music-and-podcasts.md": "1aab2f6de2485f42867d6ad6e9fd9cd6b066583b8b7d83a3f6829ba4726eea01",
+    "unit-resource-family/parents-letter.md": "ad648d014e8ad52ac2a6139cc83123063f141741a3984c4ec8710f3a4e652ee3"
+  },
+  "approvalBasis": "Instruksi pengguna pada 25 Oktober 2026: audit ulang dan ubah dari draft ke publikasikan jika selesai."
+}

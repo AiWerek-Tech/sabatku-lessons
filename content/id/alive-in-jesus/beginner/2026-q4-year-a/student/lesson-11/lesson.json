@@ -1,0 +1,26 @@
+{
+  "id": "lesson-11",
+  "title": "Lahir di Kandang",
+  "startDate": "2026-12-06",
+  "endDate": "2026-12-12",
+  "readings": [
+    {
+      "key": "story",
+      "title": "Lahir di Kandang",
+      "date": "2026-12-06",
+      "file": "story.md"
+    },
+    {
+      "key": "play",
+      "title": "Bermain Sepanjang Hari",
+      "date": "2026-12-06",
+      "file": "play.md"
+    },
+    {
+      "key": "parent-reflection",
+      "title": "Untuk Orang Tua",
+      "date": "2026-12-06",
+      "file": "parent-reflection.md"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "lesson-08",
+  "title": "Aku Bisa Menolong Tuhan",
+  "startDate": "2026-11-15",
+  "endDate": "2026-11-21",
+  "readings": [
+    {
+      "key": "welcome",
+      "title": "Penyambutan dan Permainan Sensori",
+      "date": "2026-11-21",
+      "file": "welcome.md"
+    },
+    {
+      "key": "praise",
+      "title": "Memuji Tuhan",
+      "date": "2026-11-21",
+      "file": "praise.md"
+    },
+    {
+      "key": "prayer",
+      "title": "Berdoa",
+      "date": "2026-11-21",
+      "file": "prayer.md"
+    },
+    {
+      "key": "story",
+      "title": "Cerita Alkitab Interaktif",
+      "date": "2026-11-21",
+      "file": "story.md"
+    },
+    {
+      "key": "memory-verse",
+      "title": "Ayat Hafalan",
+      "date": "2026-11-21",
+      "file": "memory-verse.md"
+    },
+    {
+      "key": "offering",
+      "title": "Persembahan",
+      "date": "2026-11-21",
+      "file": "offering.md"
+    },
+    {
+      "key": "nature",
+      "title": "Mengenal Alam",
+      "date": "2026-11-21",
+      "file": "nature.md"
+    },
+    {
+      "key": "craft",
+      "title": "Kegiatan Orang Tua dan Anak",
+      "date": "2026-11-21",
+      "file": "craft.md"
+    },
+    {
+      "key": "goodbye",
+      "title": "Penutup",
+      "date": "2026-11-21",
+      "file": "goodbye.md"
+    }
+  ]
+}

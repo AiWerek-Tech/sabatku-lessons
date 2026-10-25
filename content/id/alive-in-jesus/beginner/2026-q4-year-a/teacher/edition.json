@@ -1,0 +1,157 @@
+{
+  "id": "2026-q4-aij-beginner-teacher",
+  "programId": "alive-in-jesus-bg-pb",
+  "locale": "id",
+  "trackId": "beginner",
+  "cycleId": "year-a",
+  "bookRole": "teacher-guide",
+  "structureType": "repeating-quarter-program-with-weekly-variations",
+  "dayOrder": null,
+  "title": "Alive in Jesus · Beginner · Panduan Guru · Triwulan IV 2026",
+  "description": "Beginner · Usia 1–3 tahun · Tahun A · Triwulan IV 2026",
+  "theme": "Aku Bisa Menjadi Penolong Tuhan",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "cover": "editions/2026-q4-aij-beginner-teacher/assets/cover.png",
+  "sourceName": "Alive in Jesus · Beginner",
+  "sourceUrl": "https://beginner.aliveinjesus.info/",
+  "attribution": "© 2026 General Conference of Seventh-day Adventists®. Terjemahan Bahasa Indonesia oleh tim SabatKu.",
+  "rightsStatement": "Hak atas materi sumber tetap pada pemiliknya.",
+  "publicationStatus": "published",
+  "sourceReviewRequired": true,
+  "estimatedImageBytes": 59969112,
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "title": "Hana Berdoa Memohon Bayi",
+      "startDate": "2026-09-27",
+      "endDate": "2026-10-03"
+    },
+    {
+      "id": "lesson-02",
+      "title": "Seorang Penolong Kecil",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-10"
+    },
+    {
+      "id": "lesson-03",
+      "title": "Samuel Mendengarkan Tuhan",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-17"
+    },
+    {
+      "id": "lesson-04",
+      "title": "Rut dan Naomi",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-24"
+    },
+    {
+      "id": "lesson-05",
+      "title": "Boas yang Baik Hati",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-31"
+    },
+    {
+      "id": "lesson-06",
+      "title": "Aku Bisa Membantu Keluargaku",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-07"
+    },
+    {
+      "id": "lesson-07",
+      "title": "Aku Bisa Membantu Orang Lain",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-14"
+    },
+    {
+      "id": "lesson-08",
+      "title": "Aku Bisa Menolong Tuhan",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-21"
+    },
+    {
+      "id": "lesson-09",
+      "title": "Malaikat yang Bercahaya",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-28"
+    },
+    {
+      "id": "lesson-10",
+      "title": "Perjalanan ke Betlehem",
+      "startDate": "2026-11-29",
+      "endDate": "2026-12-05"
+    },
+    {
+      "id": "lesson-11",
+      "title": "Lahir di Kandang",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-12"
+    },
+    {
+      "id": "lesson-12",
+      "title": "Para Gembala",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-19"
+    },
+    {
+      "id": "lesson-13",
+      "title": "Orang-Orang Majus",
+      "startDate": "2026-12-20",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-about-beginner",
+      "title": "Mengenal Anak Beginner",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-teacher-tips",
+      "title": "Petunjuk untuk Guru",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-quarter-overview",
+      "title": "Ikhtisar Triwulan",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-quiet-moment",
+      "title": "Saat Teduh Guru",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-preparation",
+      "title": "Persiapan Bahan dan Alat",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-program-outline",
+      "title": "Garis Besar Program",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-printables",
+      "title": "Bahan Cetak",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-crafts",
+      "title": "Prakarya Pekanan",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    },
+    {
+      "id": "unit-resource-music",
+      "title": "Musik untuk Kelas",
+      "startDate": "2026-09-27",
+      "endDate": "2026-12-26"
+    }
+  ]
+}

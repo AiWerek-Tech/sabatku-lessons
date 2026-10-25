@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-about-beginner",
+  "title": "Mengenal Anak Beginner",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "about-beginner",
+      "title": "Mengenal Anak Beginner",
+      "date": "2026-09-27",
+      "file": "about-beginner.md"
+    }
+  ]
+}

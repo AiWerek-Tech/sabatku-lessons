@@ -1,0 +1,62 @@
+{
+  "id": "lesson-02",
+  "title": "Seorang Penolong Kecil",
+  "startDate": "2026-10-04",
+  "endDate": "2026-10-10",
+  "readings": [
+    {
+      "key": "welcome",
+      "title": "Penyambutan dan Permainan Sensori",
+      "date": "2026-10-10",
+      "file": "welcome.md"
+    },
+    {
+      "key": "praise",
+      "title": "Memuji Tuhan",
+      "date": "2026-10-10",
+      "file": "praise.md"
+    },
+    {
+      "key": "prayer",
+      "title": "Berdoa",
+      "date": "2026-10-10",
+      "file": "prayer.md"
+    },
+    {
+      "key": "story",
+      "title": "Cerita Alkitab Interaktif",
+      "date": "2026-10-10",
+      "file": "story.md"
+    },
+    {
+      "key": "memory-verse",
+      "title": "Ayat Hafalan",
+      "date": "2026-10-10",
+      "file": "memory-verse.md"
+    },
+    {
+      "key": "offering",
+      "title": "Persembahan",
+      "date": "2026-10-10",
+      "file": "offering.md"
+    },
+    {
+      "key": "nature",
+      "title": "Mengenal Alam",
+      "date": "2026-10-10",
+      "file": "nature.md"
+    },
+    {
+      "key": "craft",
+      "title": "Kegiatan Orang Tua dan Anak",
+      "date": "2026-10-10",
+      "file": "craft.md"
+    },
+    {
+      "key": "goodbye",
+      "title": "Penutup",
+      "date": "2026-10-10",
+      "file": "goodbye.md"
+    }
+  ]
+}

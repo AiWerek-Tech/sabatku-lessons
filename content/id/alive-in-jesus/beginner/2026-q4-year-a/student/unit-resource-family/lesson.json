@@ -1,0 +1,26 @@
+{
+  "id": "unit-resource-family",
+  "title": "Bahan Pendamping Keluarga",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "parents-letter",
+      "title": "Surat untuk Orang Tua",
+      "date": "2026-09-27",
+      "file": "parents-letter.md"
+    },
+    {
+      "key": "family-devotions",
+      "title": "Renungan Singkat",
+      "date": "2026-09-27",
+      "file": "family-devotions.md"
+    },
+    {
+      "key": "music-and-podcasts",
+      "title": "Musik dan Podcast",
+      "date": "2026-09-27",
+      "file": "music-and-podcasts.md"
+    }
+  ]
+}

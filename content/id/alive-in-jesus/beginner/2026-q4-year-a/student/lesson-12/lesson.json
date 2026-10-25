@@ -1,0 +1,26 @@
+{
+  "id": "lesson-12",
+  "title": "Para Gembala",
+  "startDate": "2026-12-13",
+  "endDate": "2026-12-19",
+  "readings": [
+    {
+      "key": "story",
+      "title": "Para Gembala",
+      "date": "2026-12-13",
+      "file": "story.md"
+    },
+    {
+      "key": "play",
+      "title": "Bermain Sepanjang Hari",
+      "date": "2026-12-13",
+      "file": "play.md"
+    },
+    {
+      "key": "parent-reflection",
+      "title": "Untuk Orang Tua",
+      "date": "2026-12-13",
+      "file": "parent-reflection.md"
+    }
+  ]
+}

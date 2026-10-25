@@ -1,0 +1,62 @@
+{
+  "id": "lesson-07",
+  "title": "Aku Bisa Membantu Orang Lain",
+  "startDate": "2026-11-08",
+  "endDate": "2026-11-14",
+  "readings": [
+    {
+      "key": "welcome",
+      "title": "Penyambutan dan Permainan Sensori",
+      "date": "2026-11-14",
+      "file": "welcome.md"
+    },
+    {
+      "key": "praise",
+      "title": "Memuji Tuhan",
+      "date": "2026-11-14",
+      "file": "praise.md"
+    },
+    {
+      "key": "prayer",
+      "title": "Berdoa",
+      "date": "2026-11-14",
+      "file": "prayer.md"
+    },
+    {
+      "key": "story",
+      "title": "Cerita Alkitab Interaktif",
+      "date": "2026-11-14",
+      "file": "story.md"
+    },
+    {
+      "key": "memory-verse",
+      "title": "Ayat Hafalan",
+      "date": "2026-11-14",
+      "file": "memory-verse.md"
+    },
+    {
+      "key": "offering",
+      "title": "Persembahan",
+      "date": "2026-11-14",
+      "file": "offering.md"
+    },
+    {
+      "key": "nature",
+      "title": "Mengenal Alam",
+      "date": "2026-11-14",
+      "file": "nature.md"
+    },
+    {
+      "key": "craft",
+      "title": "Kegiatan Orang Tua dan Anak",
+      "date": "2026-11-14",
+      "file": "craft.md"
+    },
+    {
+      "key": "goodbye",
+      "title": "Penutup",
+      "date": "2026-11-14",
+      "file": "goodbye.md"
+    }
+  ]
+}

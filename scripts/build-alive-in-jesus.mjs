@@ -19,11 +19,14 @@ export function normalizeAliveInJesusMarkdown(markdown) {
       let style = {};
       try { style = JSON.parse(styleLine[1]).style ?? {}; } catch { /* Ignore malformed presentation metadata. */ }
       const textStyle = style.text ?? {};
-      styledHeadingNext = !style.block?.backgroundColor && ['Trashbone-Regular', 'DKWhaleSong-Regular'].includes(textStyle.typeface) && textStyle.size === 'xl';
+      styledHeadingNext = !style.block?.backgroundColor && (['Trashbone-Regular', 'DKWhaleSong-Regular'].includes(textStyle.typeface) && textStyle.size === 'xl' || textStyle.typeface === 'Omnes-BlackItalic' && textStyle.size === 'lg');
       calloutNext = Boolean(style.block?.backgroundColor);
       continue;
     }
     if (/^\s*(?:-{3,}|\*{3,}|_{3,})\s*$/.test(line)) continue;
+    if (/^\s*(?:;;;|\^\^\^)\s*$/.test(line)) continue;
+    const video = /^\s*!v\[(https:\/\/[^\]]+)\]\s*$/.exec(line);
+    if (video) { output.push(`[▶ Video demonstrasi](${video[1]})`); continue; }
     if (line.trim() === '```') continue;
     if (line.startsWith('```=')) {
       output.push(`### ${line.slice(4).trim()}`);

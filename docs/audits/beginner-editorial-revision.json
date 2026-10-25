@@ -1,0 +1,609 @@
+{
+  "date": "2026-10-25",
+  "status": "editorially-reviewed-publication-authorized",
+  "pairs": [
+    {
+      "role": "student",
+      "source": "00-introduction/introduction.md",
+      "englishSha256": "4f87ea55b1bdc822d78b9fbe18fb992fff43a1791d11c0ba9ed40e4c6742c1c2",
+      "originalIndonesianSha256": "6734cc8dbce8e7c15bb1e673227b7fd8a80a306eb368804c4fff162f17b885b1",
+      "revisedSha256": "7703da4573099f22d7d13b4440c6ca590407abb6b7f9aae3eb6eb7751959f598",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "00-little-devotions/little-devotions.md",
+      "englishSha256": "51e3b89f5524e80a0b7f7d65e5752e746c7ceb4edb411a8e26965ca8d38cb38c",
+      "originalIndonesianSha256": "3af4900c14f7e521ddd7136837c8dd31eb3009ad008203bb3aa444668233ee51",
+      "revisedSha256": "51bcee0316b8eeef5ba501e9761d3a893da44612eb759943c289101c4bd007d6",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "00-music-and-podcasts/00-music-podcasts.md",
+      "englishSha256": "30e4b9243d47e41bcbbc8b2b2dbe63bbf399f921ce5b8aa706b1db7120849366",
+      "originalIndonesianSha256": "a22a6cab9747bfa6f0be17d280e2769978926be3fbb0160725c4fa596a212304",
+      "revisedSha256": "ed1b3e610801b87b75ed65a097b8489b69a5bdd9052cba41a215b6051039ea29",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "01/01-story.md",
+      "englishSha256": "839fc02ee22f868ff6ff4332157ce6a106ddfc8ddaf5bde248c089118136d1a9",
+      "originalIndonesianSha256": "a6f737024c87b20682931b68457a2bcb644b7a6e91aa43bcb620760ffe499797",
+      "revisedSha256": "74eeb6b8c69a96f6d25ca9a5193995a90565cd2dd4efa0e5e8667cca255359cb",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "01/02-play.md",
+      "englishSha256": "0893fc3aa9c35468f4958cd26da27426bb0e7c359be460f5a8570b4e02fc3fe0",
+      "originalIndonesianSha256": "6d3a6ceab30931289b3e3fe0ab4c008ccc2f8eabd100a54792e167ec3491b612",
+      "revisedSha256": "af758acd8b882bd0021d9b4c573db82c2236b4a4f35d5a30f6bc804f10f7c2dc",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "01/03-the-heart-of-the-matter.md",
+      "englishSha256": "0b714b05556713d4d5023e2a29f79c75958b04891e79dc1c451758d560680268",
+      "originalIndonesianSha256": "b585b1b703573205c181b7b2d011e4286bb6e2af6a5f6f3bceb590b84d41bc64",
+      "revisedSha256": "2c20c36cd13dc2057ab0c86ddb69f3c9650c4538f62b55ed506cbdd3a6806faa",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "02/01-story.md",
+      "englishSha256": "5507deb2439ca2639b3fa9fa2532dcc07cd79d80f8b57d46ffcfe8b6d16bf191",
+      "originalIndonesianSha256": "c3c51432c434240bb5012c278c57849674ff1a3c3b142950d6506d68e307a27c",
+      "revisedSha256": "748c57143583f033cb440e36847496aa13a48575a4809d989d6615d0b00f8696",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "02/02-play.md",
+      "englishSha256": "e9459451bb659a05ed2e5a3f85cffc9fbb13cb53ca26a13a7f2137b09855bfdf",
+      "originalIndonesianSha256": "def897a1900cc95f3d0645b842cfd71eb09381b0aa43f9b8d1b5600a04182cc1",
+      "revisedSha256": "850b96302bb0f990bee16cdee186a4195133064638b77db308f9f3aeb7904eba",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "02/03-the-heart-of-the-matter.md",
+      "englishSha256": "3e1d97d8321a91872cebab1acc27ecc75f1f7b13d6e2559e677277bd660fe29f",
+      "originalIndonesianSha256": "2151bbcd3288c4058e6288d1c9becb92fc6051da3f0d8d3e80f27c91aa4f9bee",
+      "revisedSha256": "662db41ef3836764b59c413a7cd93ce2e6e8b577b568ffde80a1f2fb342798d1",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "03/01-story.md",
+      "englishSha256": "cd0c2a006667dd87c032d432efa55937c451737c8ddea99e72c744a16ba7b9a1",
+      "originalIndonesianSha256": "ffaefe77c9d49c39303260a15b10f2e622026b5ce4619470beda34a5a66c8ef2",
+      "revisedSha256": "7934a37cf63bb2edb3fe7ff8e9100076291f8c3a1835abfecac81a6ce82db469",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "03/02-play.md",
+      "englishSha256": "4138ecfdc750549cc251efad1884992fd2b5fb1ec69cc4af37fb07afd0ae9c67",
+      "originalIndonesianSha256": "12f523d003f38069f6c1dae099252d9c18e95270358548349763a81f014d746a",
+      "revisedSha256": "f36388e1ea42b83878ccfd71eea5a159bb76c3ff8022d7f40fcb15569241b699",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "03/03-the-heart-of-the-matter.md",
+      "englishSha256": "b948d3963d19f685f5ed5439c4f71484f2b1e97a293c72876ed8766cd3f90b53",
+      "originalIndonesianSha256": "4f6e8af780bfd80c2bf8afa32757297f23e3016027df2c98040f6d8aa258dac3",
+      "revisedSha256": "cbaa1bdb5a510aeef8d0427cdcf2cb7f5f0247efb899dc4d8908fc29d3c906dc",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "04/01-story.md",
+      "englishSha256": "f76c52ad3eb5bdb920164bddb12dd5a2553c840179696fe768d484ab36e671b5",
+      "originalIndonesianSha256": "cccbc282ee0195103d24d998160c16f7e559f0481f6bfd1e125212977e5a305d",
+      "revisedSha256": "c218bfb6410b742f4725f5563cf9cc55b671ae457cf9b227c7133faa2ec0cfcb",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "04/02-play.md",
+      "englishSha256": "81c7e16f09f1ac8ae2307b13e737e0b3893bcebcd4b9e94c1b0924475f68a21f",
+      "originalIndonesianSha256": "a5e3094498b41992cfa424b375e489d939502802bb77be75f93ee9574c51a678",
+      "revisedSha256": "82590fa92ef0f87e815010a0964528a78b114d05ea889e19ca6b65f2be7a9cba",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "04/03-the-heart-of-the-matter.md",
+      "englishSha256": "1cbbae37e0f2aed0c83062d74bc761f42759ad3c0ca973dd448522d188b1bfa7",
+      "originalIndonesianSha256": "21fbb7a80c2ece58a5b3ad7c5c26c773446f8427a9573d61e42ba08783453768",
+      "revisedSha256": "acac723b36bcaefd778ef2b8970b106067ac0a005b9364f9b8c43b6035af8f73",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "05/01-story.md",
+      "englishSha256": "991fb3bd34e00843fc0e389b2203fcc3c50a9a0650e7571074dad62efd9ed317",
+      "originalIndonesianSha256": "380c080b7b85ae92aaa8687e5f099b90309a9d30720ca2541bed6024b7d63358",
+      "revisedSha256": "c7443d73488591c2273741e15f4dbf4578065f6dad520e191db238b274b1d2ff",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "05/02-play.md",
+      "englishSha256": "82833def14f642d8c705512a45fd6d9c12c3df54edbe2e7154bd8987247e6a8f",
+      "originalIndonesianSha256": "937c1e8a468145e33a62143726ac3b3f634da267b0a0a4a5586486f811af3bc3",
+      "revisedSha256": "979fca6b32082f1b3a3430394b45e50e4f0757aa077d8fed71049503f37069bf",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "05/03-the-heart-of-the-matter.md",
+      "englishSha256": "3dcd68c95ddc7d06cfd383f2ba781f779af66c3fdd54c5750e14c41bdfbe0270",
+      "originalIndonesianSha256": "9853553f70f3874e7dad1e7e1d4742abc9bfb2eb2e7e24db5b1cf856e12cfa8a",
+      "revisedSha256": "8c82f9e9e94f9c137099b16b6a0336b9108c4bc50fbdf2ee0be30b08933a4c5a",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "06/01-story.md",
+      "englishSha256": "c3da141951c11ee7d2b4ef4e0b1d1f2e2b76d33b0cb6b5a1d53266171863bc35",
+      "originalIndonesianSha256": "f2e9ce4ff6da0189c03433e2db66346d354b46b2da93fd70ddd1891182e1d151",
+      "revisedSha256": "4af0dade41945fe5df5a6ac3ea6292f0ff739972df03b24194098cc262f579ba",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "06/02-play.md",
+      "englishSha256": "6438949ad27738cb94dbf80e96d08357bc2611eae9e76e8711a397969ddf777e",
+      "originalIndonesianSha256": "0c44621948f3ee4c8e83a46e23a1ba5b19a128056154a70f3a037aad003c21c4",
+      "revisedSha256": "1d99e1d5b9efad71e292b3eea52cc26fd6f5707b0c92f4b552733c87ec616905",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "06/03-the-heart-of-the-matter.md",
+      "englishSha256": "3b818928ba0b0651cd3c8146ed3bb14261e12516009a5cf619a420dc6764f591",
+      "originalIndonesianSha256": "b38290a9df8fdbfb2ea9ba5ea13580b87ff6bb9457656216e61116f69099e634",
+      "revisedSha256": "9b5a7f1a046fc9249aa215a2fdde3d3766d3f202be07584c59837f2810fb033b",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "07/01-story.md",
+      "englishSha256": "554694646805b93987b37600ef6a24315be5bd3e635beef2476d2593fcbc85c8",
+      "originalIndonesianSha256": "889658e881e984af70584a996f8da3275478ff8c8fe750a1692006312633f5c7",
+      "revisedSha256": "b934f6b7ab59bad6b4012d8ba535635f7e4398e285f25bb52db3b4cc2c9884f8",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "07/02-play.md",
+      "englishSha256": "1c62bc890746eea60ca2968b3b88eaaf4acc936a78be35552e8b0c7bc9b29957",
+      "originalIndonesianSha256": "b42caacecc12038fef15189fc74252f9ebb6198892ba7bfcf8c0c2a1ec3f31e2",
+      "revisedSha256": "217437d5093a931bdffb473871fde115c2ee83adc7e252738cfc4b8215001a24",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "07/03-the-heart-of-the-matter.md",
+      "englishSha256": "b46117b512ec729eccacf01106e52cd3a2be765667d0da40194e2519c3bf70d6",
+      "originalIndonesianSha256": "21e733c83d6f32bb894cdd8399ea77979cd0dfa4ba92562a10edd15006ff3a2d",
+      "revisedSha256": "52fec979223a1729cc02673c314c39b6494b4bb1373ebbcd633dc89a4c09585f",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "08/01-story.md",
+      "englishSha256": "011fb2c434565418377b090cc70548820b9d1b86dd32cee14ed1a540f14cd6d2",
+      "originalIndonesianSha256": "26c798acadbd90c4b93bc1c45392496b0e6872fae8ad22df5679efb65164df93",
+      "revisedSha256": "cd448498e6df31f67de6ce3954d97f13bce7e5bb7358e1042116d994e734a239",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "08/02-play.md",
+      "englishSha256": "070d1857700b02d93f5c7beb6df30b5a011e467ee7077b6bb8b3a08a3d904456",
+      "originalIndonesianSha256": "53fee97d232cdda6213dc6fbd76126c1c1602bb720ae4b2c211ce45633901452",
+      "revisedSha256": "7ea2dffff38f6a629df2d54dde65036d35c911f9c672f4b2e0f18f2282e337ec",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "08/03-the-heart-of-the-matter.md",
+      "englishSha256": "29a72f2bc6c39f6bb1e22f0b5040c74f1af4db1404caf3f8c7788f6abab30981",
+      "originalIndonesianSha256": "beb28e001920b08559d2bde5ed0893abc1c6529c2f70dd75a241c887db9c4176",
+      "revisedSha256": "1d91ba4f67a0a4fb5647880d4268bede6dec41f5fc5fc3698cd9758296e9df24",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "09/01-story.md",
+      "englishSha256": "b7a301d75952622fe07a0fa98cb2fb4208dbd8a85b393e70744e9a2898c04445",
+      "originalIndonesianSha256": "663a9f64dfba5011d09d6fe16b83722c44003eede956a5e2fd401398364b92f9",
+      "revisedSha256": "05bd71a15a459c4c353f741a71408a08de3f8fefca8da98193a0c7f73d8d6675",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "09/02-play.md",
+      "englishSha256": "20484139814525fc5af7649e61feb33280e7b20a5cc1e785c1d5916d4b89bbb3",
+      "originalIndonesianSha256": "f815a68017a30ef886b49342d66f4697670654bf0a42287cf06fff4e90f51087",
+      "revisedSha256": "190c9beaa0288c71fa21bce6e443ff0a992d971675bf32a5d5d9ce6750428ac8",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "09/03-the-heart-of-the-matter.md",
+      "englishSha256": "8ff8b9b8213b20c9365e41a4eb46d8a5bcd33c6bc4f56789ecaac5e8e79e657c",
+      "originalIndonesianSha256": "54caa9c184a6c8afcbf51c1d38fc16504009be304c8108afcb1fd5b130bbc46a",
+      "revisedSha256": "414af9a9d98103eec7120f30943fd7a0906f404b97eed96e8e1d53b592fa99fa",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "10/01-story.md",
+      "englishSha256": "87ef19319ed7c01e00c3b8378b65d126d2249fd72a5b645d5fdfa1c7473213f6",
+      "originalIndonesianSha256": "d1642d309c210eb5a2ada01407297ef23379b54e140967cede6a8f8bee19802a",
+      "revisedSha256": "c86f362d4b3ccc3658d9429a48e5fabb9366fa909dd1910c8e72da2a484ea2b2",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "10/02-play.md",
+      "englishSha256": "9b6673ae828cdee41d38442ed993e0b55c4d41450e41d6e2ba69893a086cb313",
+      "originalIndonesianSha256": "313fb6cf009e9d8b3ba31db5c6f40e9f3e6a8187d98bd85730b3527e3c34ebea",
+      "revisedSha256": "e3a29a9ded278d12beaf89a0a74a54820257c264b16e81af7d51ca3ccc11b2df",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "10/03-the-heart-of-the-matter.md",
+      "englishSha256": "155743272bd854a47a1c991b18e90c9371bcfc54970c6060a803e658e93af61d",
+      "originalIndonesianSha256": "aae68e7853b73ad9c2510d1d964c49992d4780c1c3765cba8b89bcf5032eff45",
+      "revisedSha256": "c0255e2d98e656b1bba5d69f2351d5547a9c32e6af517346e89fb1b3d646179d",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "11/01-story.md",
+      "englishSha256": "f61fc4d632388cdb1022e1bc6238fd123653420a9d52a18f782da57e58833566",
+      "originalIndonesianSha256": "4ceb796e8663c30d9eed3f64f9956cae87ac759c9049866b56b2e80bc57e8ae0",
+      "revisedSha256": "0d30e6df36af10facaee806017962b4d168d007b9ff6306d75640590b265da3c",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "11/02-play.md",
+      "englishSha256": "45d4e9567bc7e0920dede7562ad4c063344ef08322b9c5e47bfbf56e8503b0fe",
+      "originalIndonesianSha256": "acf83b414d23717e15bd6b519ea9f4073a6a93ee3fcec05d4a6e57774b095ff7",
+      "revisedSha256": "44381753b7a7e9505d64e3df068249186c6f0a20af9f9238866a6b556ec64c8e",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "11/03-the-heart-of-the-matter.md",
+      "englishSha256": "440abb729d93d3fa93e4804cdd5c8225d8a224692ed4573000e60cb91581ad4e",
+      "originalIndonesianSha256": "f63eadfb5625b9b126d7b335825ff6735f654c7bebc9f6eee633fab8bb0caaa8",
+      "revisedSha256": "646663a8a12b981f1037a01783f453fe12cf39681b56b7b9e9946e596f7157cf",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "12/01-story.md",
+      "englishSha256": "a320cfbb46b5fa78d228fd9a9509ba2bc3c4e23eee2691c4a961c291f5431f19",
+      "originalIndonesianSha256": "b8925037c94284d20d88edebfc06cf1a4be4f3b255d1d03bb58592cec1bf1089",
+      "revisedSha256": "48e52364f7e919e487b1d91775e70294e455f638536be88306dcf0df48fe889e",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "12/02-play.md",
+      "englishSha256": "1f50a8c57e3c294b0bbb7fac5c4a391cc6a63dacc3beac54c0cbe5db8e5de456",
+      "originalIndonesianSha256": "5b5f57374997c5f3aaaa907dcd4db007180bb04e534fd3cf030e03726270f673",
+      "revisedSha256": "fa9cc8955c0319cb588f59348b084e44d2c66c416df3a5c74c51107b4153ccdf",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "12/03-the-heart-of-the-matter.md",
+      "englishSha256": "6a413eae52369943a49e63b9d0a40c87c734f6f48d93f05fdf0295beee453e2f",
+      "originalIndonesianSha256": "8413d06bc63d17b8b730a37a8257fbc659573b1c898acd06614b588706504b4b",
+      "revisedSha256": "fdb39da4e7606fa8076a6ebd82d1f585aa1772cb01e51cf968bfba5142a22b59",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "13/01-story.md",
+      "englishSha256": "ab38bddec719059d891638fee6432b03cde0384af8374ea62d87cfa823e4ebda",
+      "originalIndonesianSha256": "129faefff9f1380ef58aee09f797f4eb9721ccc2f6a373064a943eea71124a32",
+      "revisedSha256": "61e057cfac17429f8da650100d6f2bb440d7f0a4213a8bf214aab7631bdfa970",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "13/02-play.md",
+      "englishSha256": "cb2a7378c215e3ef43555a430f117e9cfb97d235326e4c705bf7df7bf03295f8",
+      "originalIndonesianSha256": "795ce46fc21d6186380845afc4076e0979a17768a204b2a8b6b5e3e780e2d522",
+      "revisedSha256": "a04c37884039053bc815d67ecb1b087be64ee0fc6799334009a47dc85d026d35",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "13/03-the-heart-of-the-matter.md",
+      "englishSha256": "6897a333f82c4b83dd2a111ab08f53060d50a0ea56926b5ce6f6b86347b076ef",
+      "originalIndonesianSha256": "1d51680d323060c9a81a098c880c811cf70b05eb36ad3e5a845c770e87fc3738",
+      "revisedSha256": "531b511894822e48b5caeb674331f471d4e347197dfb8720dbb9381519a8bbb4",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "student",
+      "source": "introduction.md",
+      "englishSha256": "6b1bbf6c89dbdf8b4a6bb64140a742af96eddc707ce36f4f089638bfc39ad38b",
+      "originalIndonesianSha256": "7ecdef06a57eaf0c82fc818c74c642ee36b865d6fa37e5ad63f809d41c36d804",
+      "revisedSha256": "c727577266ff3ad49c07d5b1f333912d99ed9ada32493c05f174ee3af3e77ec0",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "000-beginner-child/000-beginner-child.md",
+      "englishSha256": "bde4585e2934fe06a2a68e364373199d2dcc5ce8f71c3ce14b889f000e7cc658",
+      "originalIndonesianSha256": "9b55c35a8bc6b34502fd603438e52eda46e3788fa3f6f4d4c6f0e2909b88735f",
+      "revisedSha256": "cbc46b5fa996c9dc64048f00098865bf4a8b8a16d9ca75f160594309b82f0890",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "001-tips-for-teacher/001-tips-for-teacher.md",
+      "englishSha256": "2f0c8903443ce4b53757a5a02dd1c01717bca02971521b199395eb4fa144e389",
+      "originalIndonesianSha256": "b00b3ac95ca6af398f351d8bbc31c1b658b6aa1bb08767941a873e36f146a83d",
+      "revisedSha256": "2169cf6d70b5090243aa4078a1374bb264714b86d75d2ab0484ff0d96bc68d01",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "002-beginner-sabbath-school-overview/002-beginner-sabbath-school-overview.md",
+      "englishSha256": "c659dfd8da01bcd89a4be1584f9001866953896a5693f8e259aa43157d8ce2ea",
+      "originalIndonesianSha256": "d21aba5ff6be229bd4c087041d44925d989ae8154c23b971e0b468003c4d338b",
+      "revisedSha256": "9cd0b07fda3a5b3f1cc53b98f7ea39c3afd239c003ac90881dcabaf99783b320",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "003-a-quiet-moment/003-a-quiet-moment.md",
+      "englishSha256": "189c2b6f79d8e924361e4b073f89787ee441fbb543776a1e173b71f442d99b86",
+      "originalIndonesianSha256": "bc5e29fc6f397569bee749f7d3c14f74fa8e1a92ea3158b25dce29eb60ad44ff",
+      "revisedSha256": "cdd2252b8a075ed1e7f40179e4c90949dc01df50832acf9345fbebd20c7bb6c8",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "004-at-a-glance/004-at-a-glance.md",
+      "englishSha256": "44a28929e85d4669231673efba735c359c48f67d77ff18e488d917bd74b4f893",
+      "originalIndonesianSha256": "6b6a8b0fef36fb8180d08d6d759bf3549ddcb689fcd85ddf22487162d0195adf",
+      "revisedSha256": "ae75a07c344c56d8a5efde9b98cc1c8dd54862272ca2cffe2400f444c36bf3ca",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "005-simple-program-outline/004-simple-program-outline.md",
+      "englishSha256": "ec2a16e83eb89fe77c74224295c58174cc284d442d58cdca1f3f13e4b2f58e1a",
+      "originalIndonesianSha256": "33455389b403bf415e4f71c72d70fef1725e55063d1a828d3b9326c4ff0042b4",
+      "revisedSha256": "a9017c1bfa1f0ef7316cd96326a8a0f1090629a5765f851ca348027833d5d2f1",
+      "method": "retranslated-from-english",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "006-printed-resources/006-printed-resources.md",
+      "englishSha256": "56c92a1e3aed6c8dd9f7843a6959694008cfa95d11a4d606a452e2a420b6bf4e",
+      "originalIndonesianSha256": "c823f2499a32aa83b204366a1adb34023258575e62463d94d3667bb548518175",
+      "revisedSha256": "3af2aad5372757335f40f313e1e4e2f73d3c7cffd847cfd3a41e4c469c2d4540",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "007-crafts/007-crafts.md",
+      "englishSha256": "266122a5906b1d4f84db3e7cc0978d6817616cbde9dd30f41439f85ae70ef019",
+      "originalIndonesianSha256": "fa0a22c1dd8ec16835728a737e311cf435a997cf320742ca7864dc5dcde51689",
+      "revisedSha256": "724c56890197c34d68132557b88df11ecbe2a2b9893d64783a305182cbb2547a",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "008-music-and-podcasts/008-music-podcasts.md",
+      "englishSha256": "426419bd4ff5a4a6e65ac921d8035b81a9b736f2f90d1d35d60f4f49676e54a4",
+      "originalIndonesianSha256": "0f6b5a02dd76671de9b70a158e271d1a3f7c9bc2904c994dbd5e84994a1fb789",
+      "revisedSha256": "6daba8d31613733e8b9e93b5949cc11261046bc0d954a98d9c4bacd142b3b351",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "01/01.md",
+      "englishSha256": "44812b08ffc448cce7cf1f9a194aa7054b831b86ab37a205464536da03c86790",
+      "originalIndonesianSha256": "ed987931d34d1e792a860e1647948b5100f786cc9a527fc93b22274507f5feb9",
+      "revisedSha256": "11221a9556852fa61bf1da9f68ff8d3fe80ccbfa4c39f35825b442c9f2a1e0f9",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "02/02.md",
+      "englishSha256": "425e76ac7e8fd7e928c573de3d052671d8e87db35c6f70075cb241a206102af3",
+      "originalIndonesianSha256": "03300c3f0ac659827c6e57140c9845ce10b8a15ac56a0cac87e8805897a3c79c",
+      "revisedSha256": "d3a7871ed169bd6e4d365dcfbfa2e8caa2b518ae3dc1f543890a93a9b153d141",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "03/03.md",
+      "englishSha256": "eae11403964ec0556d2ab2753bc162ec8e82b2a8d0ecc9fd69ff53159890defb",
+      "originalIndonesianSha256": "f1d5a6cffb91551eb6e71f6361c2467cad6960e4550cac3b7a1f2f4b04c4efcd",
+      "revisedSha256": "8af6cedbb2f2521e6194cbe62eb3912b67828b01b9914658e40b9b22bfd20c2a",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "04/04.md",
+      "englishSha256": "6ad35d79047d6ef3351ec3749e1ca6dd1ba69634b499db7ff2bdd4d4f9e7613d",
+      "originalIndonesianSha256": "64a92c4aa91dc0edf22fc72027f3987969ff84c801018fc97e7d8325bdf1b739",
+      "revisedSha256": "3d4c68a175423a3de94a0f9c3b7b793952db12a2c7640996dddb5ca3a84354da",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "05/05.md",
+      "englishSha256": "0b9a7d09f25ef2a5ee9da83e88b41c00b1adbda4461b889750a25a5ffaac409c",
+      "originalIndonesianSha256": "6a4b7e1cb7629e0106f7c7630c485e5521399a334a809a69b301279c0d49732f",
+      "revisedSha256": "a268a353aad417377eb9979aed83e25b907e4efe2f1070877e22d0a82cb0c5a5",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "06/06.md",
+      "englishSha256": "d4f165c9ad398c2397210c5545652d74f0e661745c6144ffb65aa98de213696a",
+      "originalIndonesianSha256": "5c34b05906ae1079f1fec83f92f4ce3a1ef70e46f1472db06de8ab5fcddb1fdb",
+      "revisedSha256": "3fa9bcd0699e8381c641d12217a90c0bac10fd855e2a05f9c760c8edd3f26f3a",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "07/07.md",
+      "englishSha256": "02ed27ff4196b947d28a76536ae7efe00c44af365fc03e219d627dd1e3e6144a",
+      "originalIndonesianSha256": "4228b18caf6c703e0f74fa08bbcbab4306d034478e4d8fa6a8ed8dd046150659",
+      "revisedSha256": "e6186d79dc7239af27cb80fe8425b67b14f7c30ec6e627db0e49996da70d2be4",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "08/08.md",
+      "englishSha256": "f2cf113397609b1d77277008d68e1fdacfcbfcad9448ff967f4b15c8197abb12",
+      "originalIndonesianSha256": "bfd50baa18ef979e9714cea447f95b024dadc3abcbfe63a3eaf081a773ffce1c",
+      "revisedSha256": "9bc700f843f89ae09cec3e3cee4f75fcfe82c507ca250d0d0e3f07e104efb3c7",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "09/09.md",
+      "englishSha256": "22ce139f4a19260666c30a7569721dfdf2a856068786ca913869c8bf6ac426b1",
+      "originalIndonesianSha256": "258e3dbedcb27262b8772386b3c8587b1d41259e13dcd4a7a6bd83f1813d3df8",
+      "revisedSha256": "d648e6fbee7917507006c45536ba0d7d9d814eea7aaa498c46ab90b37e287f32",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "10/10.md",
+      "englishSha256": "ccf8ce24b28e8d097838382ecf2c5abb32699a1a12cddd73258714f0d9a0fe11",
+      "originalIndonesianSha256": "41118e1afe419ace8914adeaead51ee6b386a06d5b07992b0b20636378ab9be8",
+      "revisedSha256": "51147378e284ac03b8dc8dcfced094d3340235404ecb32aa6600e80047610893",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "11/11.md",
+      "englishSha256": "db88768777ff9bc0fd5892ae9ecbaf34a1ad19096ed154704852af894cd60d5d",
+      "originalIndonesianSha256": "bb96bc78d0d9b67f5a6ff685f08ad3054aec2dc53fce44ac878172e53a904ca4",
+      "revisedSha256": "2fc2bfebd63faa4364198f333b6eddd7279040cd28bfba63b1b21650dadd5c5a",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "12/12.md",
+      "englishSha256": "3802aafa68dac88d745b433227d25d601e1402f25aa3e2170ebe8eac57a14088",
+      "originalIndonesianSha256": "84b48dab1c7765e3ccaf1db6a8716085c048b841c25ac76317103c300d4130ea",
+      "revisedSha256": "4ca2929299da2491099741d9efaf0c5aebbfee1c45127b90e26e38f563abf1c2",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "13/13.md",
+      "englishSha256": "5a699496b0310fc343f48d4b26ee0e72d48952e96a3ee8b37c48de18733480ff",
+      "originalIndonesianSha256": "eee56df6a37f1c0ae3be0968a4f87b2204bd85eddee187769d8b4821e0b4ece6",
+      "revisedSha256": "0fb7773c610f8ab60629200eacfebc01da0f3614ccfe427bb29b8a99ea6b8b4b",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    },
+    {
+      "role": "teacher",
+      "source": "introduction.md",
+      "englishSha256": "86840b6ea2b54fbf85763de048bc94bda80a47e167482ca57c86606544dfbfc4",
+      "originalIndonesianSha256": "1abafd05ede2d4a53f892f36d2ba0e3b3f4bc27994518948acfae5ad9b9beaec",
+      "revisedSha256": "c727577266ff3ad49c07d5b1f333912d99ed9ada32493c05f174ee3af3e77ec0",
+      "method": "source-compared-editorial-revision",
+      "status": "source-compared-editorially-revised"
+    }
+  ],
+  "sourceNotes": [
+    "Source asset paths retain the verified 2025 Year A identity; Indonesian study dates are 2026.",
+    "Teacher introduction: last four lessons corrected to weeks 9–13 after checking the quarter overview.",
+    "Craft section numbers restored by source order where original ID contains control characters.",
+    "All 13 crafts were rewritten against the paired English instructions; weekly and quarter craft resources share the same revised instructions.",
+    "Indonesian Bible links follow TB numbering: English Isaiah 9:6 -> Yesaya 9:5; English Psalm 34:10 -> Mazmur 34:11. Verified at https://www.bible.com/id/bible/306/ISA.9.5.TB and https://www.bible.com/id/bible/306/PSA.34.TB."
+  ],
+  "publicationAuthorization": "Pemilik proyek, percakapan 2026-10-25",
+  "finalOutputBaseline": "source-review.json pada masing-masing edisi merekam checksum 168 dokumen final."
+}

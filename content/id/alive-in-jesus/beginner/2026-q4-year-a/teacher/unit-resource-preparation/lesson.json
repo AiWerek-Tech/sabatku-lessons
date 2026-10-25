@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-preparation",
+  "title": "Persiapan Bahan dan Alat",
+  "startDate": "2026-09-27",
+  "endDate": "2026-12-26",
+  "readings": [
+    {
+      "key": "preparation",
+      "title": "Persiapan Bahan dan Alat",
+      "date": "2026-09-27",
+      "file": "preparation.md"
+    }
+  ]
+}

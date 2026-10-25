@@ -1,0 +1,242 @@
+{
+  "schemaVersion": "alive-in-jesus-translation-review-v1",
+  "editionId": "2026-q4-aij-beginner-teacher",
+  "status": "approved",
+  "sourceLocale": "en",
+  "targetLocale": "id",
+  "reviewer": "Codex (audit editorial dan integrasi; publikasi atas instruksi pemilik proyek)",
+  "reviewedAt": "2026-10-25",
+  "note": "Audit pasangan sumber Inggris–Indonesia dan revisi editorial diselesaikan. Pemilik proyek meminta status diterbitkan setelah audit. Ini bukan klaim pemeriksaan manusia oleh Tim SabatKu.",
+  "sourceAudit": {
+    "englishFiles": 23,
+    "indonesianFiles": 23,
+    "matchedFiles": 23,
+    "missingIndonesian": [],
+    "missingEnglish": [],
+    "flaggedPairCount": 0,
+    "sourceChecksums": {
+      "000-beginner-child/000-beginner-child.md": {
+        "english": "bde4585e2934fe06a2a68e364373199d2dcc5ce8f71c3ce14b889f000e7cc658",
+        "indonesian": "9b55c35a8bc6b34502fd603438e52eda46e3788fa3f6f4d4c6f0e2909b88735f"
+      },
+      "001-tips-for-teacher/001-tips-for-teacher.md": {
+        "english": "2f0c8903443ce4b53757a5a02dd1c01717bca02971521b199395eb4fa144e389",
+        "indonesian": "b00b3ac95ca6af398f351d8bbc31c1b658b6aa1bb08767941a873e36f146a83d"
+      },
+      "002-beginner-sabbath-school-overview/002-beginner-sabbath-school-overview.md": {
+        "english": "c659dfd8da01bcd89a4be1584f9001866953896a5693f8e259aa43157d8ce2ea",
+        "indonesian": "d21aba5ff6be229bd4c087041d44925d989ae8154c23b971e0b468003c4d338b"
+      },
+      "003-a-quiet-moment/003-a-quiet-moment.md": {
+        "english": "189c2b6f79d8e924361e4b073f89787ee441fbb543776a1e173b71f442d99b86",
+        "indonesian": "bc5e29fc6f397569bee749f7d3c14f74fa8e1a92ea3158b25dce29eb60ad44ff"
+      },
+      "004-at-a-glance/004-at-a-glance.md": {
+        "english": "44a28929e85d4669231673efba735c359c48f67d77ff18e488d917bd74b4f893",
+        "indonesian": "6b6a8b0fef36fb8180d08d6d759bf3549ddcb689fcd85ddf22487162d0195adf"
+      },
+      "005-simple-program-outline/004-simple-program-outline.md": {
+        "english": "ec2a16e83eb89fe77c74224295c58174cc284d442d58cdca1f3f13e4b2f58e1a",
+        "indonesian": "33455389b403bf415e4f71c72d70fef1725e55063d1a828d3b9326c4ff0042b4"
+      },
+      "006-printed-resources/006-printed-resources.md": {
+        "english": "56c92a1e3aed6c8dd9f7843a6959694008cfa95d11a4d606a452e2a420b6bf4e",
+        "indonesian": "c823f2499a32aa83b204366a1adb34023258575e62463d94d3667bb548518175"
+      },
+      "007-crafts/007-crafts.md": {
+        "english": "266122a5906b1d4f84db3e7cc0978d6817616cbde9dd30f41439f85ae70ef019",
+        "indonesian": "fa0a22c1dd8ec16835728a737e311cf435a997cf320742ca7864dc5dcde51689"
+      },
+      "008-music-and-podcasts/008-music-podcasts.md": {
+        "english": "426419bd4ff5a4a6e65ac921d8035b81a9b736f2f90d1d35d60f4f49676e54a4",
+        "indonesian": "0f6b5a02dd76671de9b70a158e271d1a3f7c9bc2904c994dbd5e84994a1fb789"
+      },
+      "01/01.md": {
+        "english": "44812b08ffc448cce7cf1f9a194aa7054b831b86ab37a205464536da03c86790",
+        "indonesian": "ed987931d34d1e792a860e1647948b5100f786cc9a527fc93b22274507f5feb9"
+      },
+      "02/02.md": {
+        "english": "425e76ac7e8fd7e928c573de3d052671d8e87db35c6f70075cb241a206102af3",
+        "indonesian": "03300c3f0ac659827c6e57140c9845ce10b8a15ac56a0cac87e8805897a3c79c"
+      },
+      "03/03.md": {
+        "english": "eae11403964ec0556d2ab2753bc162ec8e82b2a8d0ecc9fd69ff53159890defb",
+        "indonesian": "f1d5a6cffb91551eb6e71f6361c2467cad6960e4550cac3b7a1f2f4b04c4efcd"
+      },
+      "04/04.md": {
+        "english": "6ad35d79047d6ef3351ec3749e1ca6dd1ba69634b499db7ff2bdd4d4f9e7613d",
+        "indonesian": "64a92c4aa91dc0edf22fc72027f3987969ff84c801018fc97e7d8325bdf1b739"
+      },
+      "05/05.md": {
+        "english": "0b9a7d09f25ef2a5ee9da83e88b41c00b1adbda4461b889750a25a5ffaac409c",
+        "indonesian": "6a4b7e1cb7629e0106f7c7630c485e5521399a334a809a69b301279c0d49732f"
+      },
+      "06/06.md": {
+        "english": "d4f165c9ad398c2397210c5545652d74f0e661745c6144ffb65aa98de213696a",
+        "indonesian": "5c34b05906ae1079f1fec83f92f4ce3a1ef70e46f1472db06de8ab5fcddb1fdb"
+      },
+      "07/07.md": {
+        "english": "02ed27ff4196b947d28a76536ae7efe00c44af365fc03e219d627dd1e3e6144a",
+        "indonesian": "4228b18caf6c703e0f74fa08bbcbab4306d034478e4d8fa6a8ed8dd046150659"
+      },
+      "08/08.md": {
+        "english": "f2cf113397609b1d77277008d68e1fdacfcbfcad9448ff967f4b15c8197abb12",
+        "indonesian": "bfd50baa18ef979e9714cea447f95b024dadc3abcbfe63a3eaf081a773ffce1c"
+      },
+      "09/09.md": {
+        "english": "22ce139f4a19260666c30a7569721dfdf2a856068786ca913869c8bf6ac426b1",
+        "indonesian": "258e3dbedcb27262b8772386b3c8587b1d41259e13dcd4a7a6bd83f1813d3df8"
+      },
+      "10/10.md": {
+        "english": "ccf8ce24b28e8d097838382ecf2c5abb32699a1a12cddd73258714f0d9a0fe11",
+        "indonesian": "41118e1afe419ace8914adeaead51ee6b386a06d5b07992b0b20636378ab9be8"
+      },
+      "11/11.md": {
+        "english": "db88768777ff9bc0fd5892ae9ecbaf34a1ad19096ed154704852af894cd60d5d",
+        "indonesian": "bb96bc78d0d9b67f5a6ff685f08ad3054aec2dc53fce44ac878172e53a904ca4"
+      },
+      "12/12.md": {
+        "english": "3802aafa68dac88d745b433227d25d601e1402f25aa3e2170ebe8eac57a14088",
+        "indonesian": "84b48dab1c7765e3ccaf1db6a8716085c048b841c25ac76317103c300d4130ea"
+      },
+      "13/13.md": {
+        "english": "5a699496b0310fc343f48d4b26ee0e72d48952e96a3ee8b37c48de18733480ff",
+        "indonesian": "eee56df6a37f1c0ae3be0968a4f87b2204bd85eddee187769d8b4821e0b4ece6"
+      },
+      "introduction.md": {
+        "english": "86840b6ea2b54fbf85763de048bc94bda80a47e167482ca57c86606544dfbfc4",
+        "indonesian": "1abafd05ede2d4a53f892f36d2ba0e3b3f4bc27994518948acfae5ad9b9beaec"
+      }
+    }
+  },
+  "translationFiles": {
+    "introduction.md": "c4cf4c9872fd650952d8e2eb1278c30caa4c7033158eec98e7947912da2c6d1b",
+    "lesson-01/craft.md": "d194346eece81e36acfed32c88cc633be81ee7b32d34b63dd8f7d110f32ecda7",
+    "lesson-01/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-01/memory-verse.md": "ca443f164febc6e8abf98f0aa3e1bc9bbccb0eae5d8a532c65802a04c9826ac4",
+    "lesson-01/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-01/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-01/praise.md": "afd014c3d49c6d5af38def0b1001fc14e7af7caef49d8a45dde79f8ed11399f3",
+    "lesson-01/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-01/story.md": "96caa66721bf743d764a51290f5409657e6e9a921ae48789ebfa8dfe8c8c0a5d",
+    "lesson-01/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "lesson-02/craft.md": "70ee3de1f5497dee51eed3fa1b7be237f499589d0160187f4160069036bd5e87",
+    "lesson-02/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-02/memory-verse.md": "ca443f164febc6e8abf98f0aa3e1bc9bbccb0eae5d8a532c65802a04c9826ac4",
+    "lesson-02/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-02/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-02/praise.md": "afd014c3d49c6d5af38def0b1001fc14e7af7caef49d8a45dde79f8ed11399f3",
+    "lesson-02/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-02/story.md": "66ccfa860ccd8d43171a2f12dfbdabc63332baa0a4be540903879b62680446c2",
+    "lesson-02/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "lesson-03/craft.md": "ff8bd708ddb98516591c7cbf3f98e26b669c07de9350a9e2bef0d8d712204d80",
+    "lesson-03/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-03/memory-verse.md": "ca443f164febc6e8abf98f0aa3e1bc9bbccb0eae5d8a532c65802a04c9826ac4",
+    "lesson-03/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-03/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-03/praise.md": "afd014c3d49c6d5af38def0b1001fc14e7af7caef49d8a45dde79f8ed11399f3",
+    "lesson-03/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-03/story.md": "a58a2f495cb7908750f2011751da7a7255714548c1302d7555cbadf9b8c0e1ca",
+    "lesson-03/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "lesson-04/craft.md": "6bb3e4ab9c12128fa97369ddf9b8526d6039fdf84a1103713f23c295471ce704",
+    "lesson-04/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-04/memory-verse.md": "ca443f164febc6e8abf98f0aa3e1bc9bbccb0eae5d8a532c65802a04c9826ac4",
+    "lesson-04/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-04/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-04/praise.md": "afd014c3d49c6d5af38def0b1001fc14e7af7caef49d8a45dde79f8ed11399f3",
+    "lesson-04/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-04/story.md": "67a67d96ac51d2e0ff7fb445f1de85be71c0320ff73af8d369da001e7e8345e9",
+    "lesson-04/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "lesson-05/craft.md": "ef1c5299bd99ff7a7cec8898c7410ea3731cbcd32293b0d3340020772b5a6e26",
+    "lesson-05/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-05/memory-verse.md": "ca443f164febc6e8abf98f0aa3e1bc9bbccb0eae5d8a532c65802a04c9826ac4",
+    "lesson-05/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-05/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-05/praise.md": "afd014c3d49c6d5af38def0b1001fc14e7af7caef49d8a45dde79f8ed11399f3",
+    "lesson-05/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-05/story.md": "0d5abad1b9f6435a97cfe9bb473e17c2cf315c4338cab9256486c4aaba49d184",
+    "lesson-05/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "lesson-06/craft.md": "2cea087d4a3cd01b5594046c9f982e9f37a0d9035d94c61a149ee0c68e556802",
+    "lesson-06/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-06/memory-verse.md": "ca443f164febc6e8abf98f0aa3e1bc9bbccb0eae5d8a532c65802a04c9826ac4",
+    "lesson-06/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-06/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-06/praise.md": "afd014c3d49c6d5af38def0b1001fc14e7af7caef49d8a45dde79f8ed11399f3",
+    "lesson-06/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-06/story.md": "f65ea9e7d4c7316f86d90c98bdc4474644bd0b80e29a8fe3cfd60f78339f9400",
+    "lesson-06/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "lesson-07/craft.md": "be40f349c7f17a865b6af7d3e9dcd6a6157e3fbf3e9fe8081d55354a3f966e36",
+    "lesson-07/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-07/memory-verse.md": "ca443f164febc6e8abf98f0aa3e1bc9bbccb0eae5d8a532c65802a04c9826ac4",
+    "lesson-07/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-07/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-07/praise.md": "afd014c3d49c6d5af38def0b1001fc14e7af7caef49d8a45dde79f8ed11399f3",
+    "lesson-07/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-07/story.md": "7ebaaf83b0bec838348ae900c88d0eb1102d13fe664b3987bb1542a6df2c68b1",
+    "lesson-07/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "lesson-08/craft.md": "162e2225fc9a21b2874903c5c22142b75fb62c2e87694569cf85002dcaec7164",
+    "lesson-08/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-08/memory-verse.md": "ca443f164febc6e8abf98f0aa3e1bc9bbccb0eae5d8a532c65802a04c9826ac4",
+    "lesson-08/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-08/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-08/praise.md": "afd014c3d49c6d5af38def0b1001fc14e7af7caef49d8a45dde79f8ed11399f3",
+    "lesson-08/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-08/story.md": "540755db9ee3b1734251d895b03bae0e694490f0810f9b4c9d2453bd33dd156c",
+    "lesson-08/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "lesson-09/craft.md": "8c67ad2dd718e6adf8b8c4ab159e4312f4825e715a61cf802d6c4b355cdef4a7",
+    "lesson-09/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-09/memory-verse.md": "e7bd1deb8d24e5d5cc7ec5701d41ccff2936d90acc8d93aa059c00aff61a0460",
+    "lesson-09/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-09/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-09/praise.md": "287ac011f23ef2a4549b7eb9eb93529ffd395280d60c33bced52db0c51213e47",
+    "lesson-09/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-09/story.md": "7400cbe15853f45407140d7dc304d4ab1e216c30735008b969c32cfe13e7161c",
+    "lesson-09/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "lesson-10/craft.md": "bb57e2cfc89835b1e41afc3a5181b61d81d8656580505e1f99e5977875e72a33",
+    "lesson-10/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-10/memory-verse.md": "e7bd1deb8d24e5d5cc7ec5701d41ccff2936d90acc8d93aa059c00aff61a0460",
+    "lesson-10/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-10/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-10/praise.md": "287ac011f23ef2a4549b7eb9eb93529ffd395280d60c33bced52db0c51213e47",
+    "lesson-10/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-10/story.md": "ac502ad5a492a0263a004b9ff1a04acdf51e092a3475bdc5fea7827a04ac37c5",
+    "lesson-10/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "lesson-11/craft.md": "dae3b0e17c07d02d7da84e1e0bf02b7683b90c5cdc79614d0a276e9fcbae16c0",
+    "lesson-11/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-11/memory-verse.md": "e7bd1deb8d24e5d5cc7ec5701d41ccff2936d90acc8d93aa059c00aff61a0460",
+    "lesson-11/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-11/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-11/praise.md": "287ac011f23ef2a4549b7eb9eb93529ffd395280d60c33bced52db0c51213e47",
+    "lesson-11/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-11/story.md": "d0155b6797db97a37e3e27dd4c3d96eb61290caa6c86287ed884e8c60f2646a9",
+    "lesson-11/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "lesson-12/craft.md": "7a180d17c5e14519786cfe60a3934122741f03771158187d772c57041b94b226",
+    "lesson-12/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-12/memory-verse.md": "e7bd1deb8d24e5d5cc7ec5701d41ccff2936d90acc8d93aa059c00aff61a0460",
+    "lesson-12/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-12/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-12/praise.md": "287ac011f23ef2a4549b7eb9eb93529ffd395280d60c33bced52db0c51213e47",
+    "lesson-12/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-12/story.md": "14cadb9a0eaeb2509a714f31a741c0347b9c34a4227428d7a54827fe80673261",
+    "lesson-12/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "lesson-13/craft.md": "a2bb82da6e0fe0d0a74628ac1b3f4c30d51e83079c9bfc3db654a42144ee09c3",
+    "lesson-13/goodbye.md": "7841c577c746299bcf2bbab0d58202b7f1b12c3ec95afeaae96abac04bb922a9",
+    "lesson-13/memory-verse.md": "e7bd1deb8d24e5d5cc7ec5701d41ccff2936d90acc8d93aa059c00aff61a0460",
+    "lesson-13/nature.md": "494a82e372553396cb53ba5313c3bbdf77079db15426ae6cd7262750ef4fa286",
+    "lesson-13/offering.md": "a245d21e10f699ed4bc94c333bea712d71897d8efe91ca9f9c4d4dbd31c3374e",
+    "lesson-13/praise.md": "287ac011f23ef2a4549b7eb9eb93529ffd395280d60c33bced52db0c51213e47",
+    "lesson-13/prayer.md": "4927c5c24a4b4e1dd4f8e98fcd70616769bcd92d75514e06f15d949494bbb246",
+    "lesson-13/story.md": "724190bacce9e1076cd45bdaa37007d7284e78a1656be984ee3bee32117e1e4b",
+    "lesson-13/welcome.md": "87d65f9ed7ab4f2484adc5af8059cba5fa903dc7e39aa70e30da839bdf66fcce",
+    "unit-resource-about-beginner/about-beginner.md": "e5bc3ffd8966562a5b3790e5e2fe6c3264008534cd9d6dfef10fec9ce1eccae9",
+    "unit-resource-crafts/crafts.md": "57e6cb2ec4b5daf9dc0d2ea2e6a771804a16e2f91b4d176dbbb58f6774438eda",
+    "unit-resource-music/music.md": "d82975cd7f2c12e4b905e7c5942b7bd2b613049295448c763c444c66c5930632",
+    "unit-resource-preparation/preparation.md": "dcdcff18a96c6a5c97169eb82bb34c8f2eb3fbaf333aff057df64543e9fb7c78",
+    "unit-resource-printables/printables.md": "75a8e3ae7f327ab52027f775d3ed2d0e838c8ef43d36bb4b18e742fba556050a",
+    "unit-resource-program-outline/program-outline.md": "864306a3fda9f0e39cee5d1b8f9676e6ef82ce6a699c47a53855bd39e994dcba",
+    "unit-resource-quarter-overview/quarter-overview.md": "4c7e45e1ce939df46ec9c351daf8978f974f6eed336980a006901cf78aec6c98",
+    "unit-resource-quiet-moment/quiet-moment.md": "85fc57e533182d92defc4d7f6ecf3a22ece81e2c5b476a399d28669677b22e97",
+    "unit-resource-teacher-tips/teacher-tips.md": "08e5d9196c3dfb7705050208ff4aa31f99e1f6705de452ee135d65af5bd168bb"
+  },
+  "approvalBasis": "Instruksi pengguna pada 25 Oktober 2026: audit ulang dan ubah dari draft ke publikasikan jika selesai."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lesson-02",
+  "title": "Seorang Penolong Kecil",
+  "startDate": "2026-10-04",
+  "endDate": "2026-10-10",
+  "readings": [
+    {
+      "key": "story",
+      "title": "Seorang Penolong Kecil",
+      "date": "2026-10-04",
+      "file": "story.md"
+    },
+    {
+      "key": "play",
+      "title": "Bermain Sepanjang Hari",
+      "date": "2026-10-04",
+      "file": "play.md"
+    },
+    {
+      "key": "parent-reflection",
+      "title": "Untuk Orang Tua",
+      "date": "2026-10-04",
+      "file": "parent-reflection.md"
+    }
+  ]
+}

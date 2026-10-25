@@ -1,0 +1,586 @@
+{
+  "schemaVersion": "alive-in-jesus-translation-audit-v1",
+  "englishFiles": 23,
+  "indonesianFiles": 23,
+  "matchedFiles": 23,
+  "missingIndonesian": [],
+  "missingEnglish": [],
+  "flaggedPairCount": 0,
+  "pairs": [
+    {
+      "path": "000-beginner-child/000-beginner-child.md",
+      "englishSha256": "bde4585e2934fe06a2a68e364373199d2dcc5ce8f71c3ce14b889f000e7cc658",
+      "indonesianSha256": "9b55c35a8bc6b34502fd603438e52eda46e3788fa3f6f4d4c6f0e2909b88735f",
+      "english": {
+        "paragraphs": 11,
+        "bulletItems": 35,
+        "images": 0,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 11,
+        "bulletItems": 35,
+        "images": 0,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "001-tips-for-teacher/001-tips-for-teacher.md",
+      "englishSha256": "2f0c8903443ce4b53757a5a02dd1c01717bca02971521b199395eb4fa144e389",
+      "indonesianSha256": "b00b3ac95ca6af398f351d8bbc31c1b658b6aa1bb08767941a873e36f146a83d",
+      "english": {
+        "paragraphs": 4,
+        "bulletItems": 18,
+        "images": 0,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 4,
+        "bulletItems": 18,
+        "images": 0,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "002-beginner-sabbath-school-overview/002-beginner-sabbath-school-overview.md",
+      "englishSha256": "c659dfd8da01bcd89a4be1584f9001866953896a5693f8e259aa43157d8ce2ea",
+      "indonesianSha256": "d21aba5ff6be229bd4c087041d44925d989ae8154c23b971e0b468003c4d338b",
+      "english": {
+        "paragraphs": 24,
+        "bulletItems": 23,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 13,
+        "separators": 8,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 24,
+        "bulletItems": 23,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 13,
+        "separators": 8,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "003-a-quiet-moment/003-a-quiet-moment.md",
+      "englishSha256": "189c2b6f79d8e924361e4b073f89787ee441fbb543776a1e173b71f442d99b86",
+      "indonesianSha256": "bc5e29fc6f397569bee749f7d3c14f74fa8e1a92ea3158b25dce29eb60ad44ff",
+      "english": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "004-at-a-glance/004-at-a-glance.md",
+      "englishSha256": "44a28929e85d4669231673efba735c359c48f67d77ff18e488d917bd74b4f893",
+      "indonesianSha256": "6b6a8b0fef36fb8180d08d6d759bf3549ddcb689fcd85ddf22487162d0195adf",
+      "english": {
+        "paragraphs": 20,
+        "bulletItems": 24,
+        "images": 0,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 20,
+        "bulletItems": 24,
+        "images": 0,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "005-simple-program-outline/004-simple-program-outline.md",
+      "englishSha256": "ec2a16e83eb89fe77c74224295c58174cc284d442d58cdca1f3f13e4b2f58e1a",
+      "indonesianSha256": "33455389b403bf415e4f71c72d70fef1725e55063d1a828d3b9326c4ff0042b4",
+      "english": {
+        "paragraphs": 21,
+        "bulletItems": 30,
+        "images": 0,
+        "styleBlocks": 9,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 21,
+        "bulletItems": 30,
+        "images": 0,
+        "styleBlocks": 9,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "006-printed-resources/006-printed-resources.md",
+      "englishSha256": "56c92a1e3aed6c8dd9f7843a6959694008cfa95d11a4d606a452e2a420b6bf4e",
+      "indonesianSha256": "c823f2499a32aa83b204366a1adb34023258575e62463d94d3667bb548518175",
+      "english": {
+        "paragraphs": 58,
+        "bulletItems": 0,
+        "images": 22,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 58,
+        "bulletItems": 0,
+        "images": 22,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "007-crafts/007-crafts.md",
+      "englishSha256": "266122a5906b1d4f84db3e7cc0978d6817616cbde9dd30f41439f85ae70ef019",
+      "indonesianSha256": "fa0a22c1dd8ec16835728a737e311cf435a997cf320742ca7864dc5dcde51689",
+      "english": {
+        "paragraphs": 118,
+        "bulletItems": 0,
+        "images": 60,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 118,
+        "bulletItems": 0,
+        "images": 60,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "008-music-and-podcasts/008-music-podcasts.md",
+      "englishSha256": "426419bd4ff5a4a6e65ac921d8035b81a9b736f2f90d1d35d60f4f49676e54a4",
+      "indonesianSha256": "0f6b5a02dd76671de9b70a158e271d1a3f7c9bc2904c994dbd5e84994a1fb789",
+      "english": {
+        "paragraphs": 59,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 35
+      },
+      "indonesian": {
+        "paragraphs": 59,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 35
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "01/01.md",
+      "englishSha256": "44812b08ffc448cce7cf1f9a194aa7054b831b86ab37a205464536da03c86790",
+      "indonesianSha256": "ed987931d34d1e792a860e1647948b5100f786cc9a527fc93b22274507f5feb9",
+      "english": {
+        "paragraphs": 84,
+        "bulletItems": 39,
+        "images": 5,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "indonesian": {
+        "paragraphs": 84,
+        "bulletItems": 39,
+        "images": 5,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02/02.md",
+      "englishSha256": "425e76ac7e8fd7e928c573de3d052671d8e87db35c6f70075cb241a206102af3",
+      "indonesianSha256": "03300c3f0ac659827c6e57140c9845ce10b8a15ac56a0cac87e8805897a3c79c",
+      "english": {
+        "paragraphs": 87,
+        "bulletItems": 44,
+        "images": 8,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "indonesian": {
+        "paragraphs": 87,
+        "bulletItems": 44,
+        "images": 8,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "03/03.md",
+      "englishSha256": "eae11403964ec0556d2ab2753bc162ec8e82b2a8d0ecc9fd69ff53159890defb",
+      "indonesianSha256": "f1d5a6cffb91551eb6e71f6361c2467cad6960e4550cac3b7a1f2f4b04c4efcd",
+      "english": {
+        "paragraphs": 83,
+        "bulletItems": 39,
+        "images": 4,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 6,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "indonesian": {
+        "paragraphs": 83,
+        "bulletItems": 39,
+        "images": 4,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 6,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "04/04.md",
+      "englishSha256": "6ad35d79047d6ef3351ec3749e1ca6dd1ba69634b499db7ff2bdd4d4f9e7613d",
+      "indonesianSha256": "64a92c4aa91dc0edf22fc72027f3987969ff84c801018fc97e7d8325bdf1b739",
+      "english": {
+        "paragraphs": 82,
+        "bulletItems": 39,
+        "images": 4,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "indonesian": {
+        "paragraphs": 82,
+        "bulletItems": 39,
+        "images": 4,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "05/05.md",
+      "englishSha256": "0b9a7d09f25ef2a5ee9da83e88b41c00b1adbda4461b889750a25a5ffaac409c",
+      "indonesianSha256": "6a4b7e1cb7629e0106f7c7630c485e5521399a334a809a69b301279c0d49732f",
+      "english": {
+        "paragraphs": 84,
+        "bulletItems": 39,
+        "images": 6,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "indonesian": {
+        "paragraphs": 84,
+        "bulletItems": 39,
+        "images": 6,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "06/06.md",
+      "englishSha256": "d4f165c9ad398c2397210c5545652d74f0e661745c6144ffb65aa98de213696a",
+      "indonesianSha256": "5c34b05906ae1079f1fec83f92f4ce3a1ef70e46f1472db06de8ab5fcddb1fdb",
+      "english": {
+        "paragraphs": 86,
+        "bulletItems": 39,
+        "images": 8,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "indonesian": {
+        "paragraphs": 86,
+        "bulletItems": 39,
+        "images": 8,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "07/07.md",
+      "englishSha256": "02ed27ff4196b947d28a76536ae7efe00c44af365fc03e219d627dd1e3e6144a",
+      "indonesianSha256": "4228b18caf6c703e0f74fa08bbcbab4306d034478e4d8fa6a8ed8dd046150659",
+      "english": {
+        "paragraphs": 89,
+        "bulletItems": 39,
+        "images": 10,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "indonesian": {
+        "paragraphs": 89,
+        "bulletItems": 39,
+        "images": 10,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "08/08.md",
+      "englishSha256": "f2cf113397609b1d77277008d68e1fdacfcbfcad9448ff967f4b15c8197abb12",
+      "indonesianSha256": "bfd50baa18ef979e9714cea447f95b024dadc3abcbfe63a3eaf081a773ffce1c",
+      "english": {
+        "paragraphs": 81,
+        "bulletItems": 39,
+        "images": 5,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "indonesian": {
+        "paragraphs": 81,
+        "bulletItems": 39,
+        "images": 5,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 15
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "09/09.md",
+      "englishSha256": "22ce139f4a19260666c30a7569721dfdf2a856068786ca913869c8bf6ac426b1",
+      "indonesianSha256": "258e3dbedcb27262b8772386b3c8587b1d41259e13dcd4a7a6bd83f1813d3df8",
+      "english": {
+        "paragraphs": 89,
+        "bulletItems": 40,
+        "images": 9,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 14
+      },
+      "indonesian": {
+        "paragraphs": 89,
+        "bulletItems": 40,
+        "images": 9,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 14
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "10/10.md",
+      "englishSha256": "ccf8ce24b28e8d097838382ecf2c5abb32699a1a12cddd73258714f0d9a0fe11",
+      "indonesianSha256": "41118e1afe419ace8914adeaead51ee6b386a06d5b07992b0b20636378ab9be8",
+      "english": {
+        "paragraphs": 85,
+        "bulletItems": 40,
+        "images": 6,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 14
+      },
+      "indonesian": {
+        "paragraphs": 85,
+        "bulletItems": 40,
+        "images": 6,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 14
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "11/11.md",
+      "englishSha256": "db88768777ff9bc0fd5892ae9ecbaf34a1ad19096ed154704852af894cd60d5d",
+      "indonesianSha256": "bb96bc78d0d9b67f5a6ff685f08ad3054aec2dc53fce44ac878172e53a904ca4",
+      "english": {
+        "paragraphs": 84,
+        "bulletItems": 40,
+        "images": 7,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 14
+      },
+      "indonesian": {
+        "paragraphs": 84,
+        "bulletItems": 40,
+        "images": 7,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 4,
+        "separators": 2,
+        "rawAudioMetadata": 14
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "12/12.md",
+      "englishSha256": "3802aafa68dac88d745b433227d25d601e1402f25aa3e2170ebe8eac57a14088",
+      "indonesianSha256": "84b48dab1c7765e3ccaf1db6a8716085c048b841c25ac76317103c300d4130ea",
+      "english": {
+        "paragraphs": 83,
+        "bulletItems": 40,
+        "images": 5,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 14
+      },
+      "indonesian": {
+        "paragraphs": 83,
+        "bulletItems": 40,
+        "images": 5,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 14
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "13/13.md",
+      "englishSha256": "5a699496b0310fc343f48d4b26ee0e72d48952e96a3ee8b37c48de18733480ff",
+      "indonesianSha256": "eee56df6a37f1c0ae3be0968a4f87b2204bd85eddee187769d8b4821e0b4ece6",
+      "english": {
+        "paragraphs": 85,
+        "bulletItems": 40,
+        "images": 7,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 14
+      },
+      "indonesian": {
+        "paragraphs": 85,
+        "bulletItems": 40,
+        "images": 7,
+        "styleBlocks": 19,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 14
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "introduction.md",
+      "englishSha256": "86840b6ea2b54fbf85763de048bc94bda80a47e167482ca57c86606544dfbfc4",
+      "indonesianSha256": "1abafd05ede2d4a53f892f36d2ba0e3b3f4bc27994518948acfae5ad9b9beaec",
+      "english": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 0,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 2,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 0,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    }
+  ]
+}

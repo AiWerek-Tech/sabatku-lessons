@@ -1,0 +1,7 @@
+Apa rahasia keluarga yang bahagia? Dunia sering mengatakan bahwa jawabannya adalah rumah besar, kekayaan, dan banyak barang. Mainan serta teknologi terbaru seolah menjamin kebahagiaan orang tua dan anak. Namun, dunia kita justru dipenuhi kekhawatiran, sikap mementingkan diri, depresi, perpisahan, dan luka hati.
+
+Tuhan memberikan kabar baik. Ia menunjukkan kunci keluarga yang bahagia melalui firman-Nya, “Layanilah seorang akan yang lain oleh kasih” (Galatia 5:13). Saat mengundang Yesus tinggal di hati, kita dipenuhi kasih-Nya bagi sesama. Kita tidak harus mengandalkan kekuatan sendiri untuk menolong keluarga. Kita dapat melayani dengan kasih Tuhan.
+
+Sebagai manusia, kita cenderung mementingkan diri. Kita ingin hidup makmur dan mudah. Bahkan anak-anak dapat sejak dini merasa bahwa semua keinginannya harus dipenuhi. Tuhan menginginkan sesuatu yang lebih baik. Saat kita melayani keluarga dengan rendah hati, Ia mengubah sikap mementingkan diri menjadi kesediaan mendahulukan orang lain. Ia ingin keluarga kita bahagia. Saling melayani membawa sukacita dan rasa aman. “Pekerjaan kita bagi Kristus harus dimulai dalam keluarga, di rumah. … Tidak ada ladang misi yang lebih penting daripada ini” (Ellen G. White, _The Adventist Home_, hlm. 35).
+
+_Tuhan, aku ingin rumah kami dipenuhi tawa dan sukacita. Aku ingin membesarkan anak-anak yang senang menolong, memperhatikan orang lain, serta memiliki hati yang penuh kasih dan kebaikan. Hadirlah di rumah kami pekan ini. Amin._
