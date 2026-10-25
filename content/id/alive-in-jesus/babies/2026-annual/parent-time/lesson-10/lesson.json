@@ -1,0 +1,14 @@
+{
+  "id": "lesson-10",
+  "title": "Memperhatikan",
+  "startDate": "2026-03-05",
+  "endDate": "2026-03-11",
+  "readings": [
+    {
+      "key": "discussion",
+      "title": "Memperhatikan",
+      "date": "2026-03-05",
+      "file": "discussion.md"
+    }
+  ]
+}

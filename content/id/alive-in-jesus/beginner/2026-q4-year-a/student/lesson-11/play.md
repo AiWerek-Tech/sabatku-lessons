@@ -12,7 +12,7 @@ Siapkan paket kecil untuk bayi yang baru lahir. Bersama anak, buat kartu, pilih 
 
 ### Bernyanyi
 
-Pelajari dan nyanyikan “Away in a Manger” dan/atau “Silent Night” saat ibadah keluarga. Bicarakan tempat Yesus lahir dan suasana malam yang sunyi itu. Apa yang mungkin terdengar, tercium, dan terlihat?
+Pelajari dan nyanyikan “Away in a Manger” (Di Sebuah Palungan) dan/atau “Silent Night” (Malam Kudus) saat ibadah keluarga. Bicarakan tempat Yesus lahir dan suasana malam yang sunyi itu. Apa yang mungkin terdengar, tercium, dan terlihat?
 
 ### Berdoa
 

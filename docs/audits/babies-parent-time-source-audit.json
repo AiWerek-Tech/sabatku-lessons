@@ -1,0 +1,90 @@
+{
+  "englishFiles": 13,
+  "indonesianFiles": 13,
+  "matchedFiles": 13,
+  "missingEnglish": [],
+  "missingIndonesian": [],
+  "flaggedPairCount": 0,
+  "pairs": [
+    {
+      "path": "01/01.md",
+      "englishSha256": "a024fb7e9128ec377fbf62391c580dfd67312b58daf7844b1095b375da07d083",
+      "indonesianSha256": "f120e6b03f492d7a113de10452a11f38f5d68c6537243acd5c5abe1da365da63",
+      "machineFlags": []
+    },
+    {
+      "path": "02/02.md",
+      "englishSha256": "2ae461399efd23cf7844f38d043c79218575339318beb1fdf7fbf1014e558ab7",
+      "indonesianSha256": "989f18af7b848891f25e7b4c2511b75c3f8452710a45be71c0ef2c5f9a175dbf",
+      "machineFlags": []
+    },
+    {
+      "path": "03/03.md",
+      "englishSha256": "0854d55cf544642ad5d56827c44f94a5fec61e910433de04737a3b92204a0362",
+      "indonesianSha256": "f448b94a79919a5ee26d60028b2debbd32b34191f38844628f9b63098a7d4aaf",
+      "machineFlags": []
+    },
+    {
+      "path": "04/04.md",
+      "englishSha256": "64277e3619a65540e3cf6518892d69d718abacbadb175807284fc18a233d4791",
+      "indonesianSha256": "a6b7b4687a5439e9dbe5e21b90ecb76b236351ee6aa0872431e53942e1c49cab",
+      "machineFlags": []
+    },
+    {
+      "path": "05/05.md",
+      "englishSha256": "efa14f9635ce4fb65ed6b9f391e3d166d1ed3d2792da7558f8b4da7bfe7fe5ab",
+      "indonesianSha256": "5f390cde5fa2a6dcba790ebd00efbc609d5c6915e0aae0c0b6f401f05352b1b8",
+      "machineFlags": []
+    },
+    {
+      "path": "06/06.md",
+      "englishSha256": "712b62eecdeef35764f5513d36d31502956c549555c8b4aea9f7ab4d9b82b2b1",
+      "indonesianSha256": "9af092e5eadd1121aa8ea9fd0f57c7a44bb2bd3689893dd0c065868249b01143",
+      "machineFlags": []
+    },
+    {
+      "path": "07/07.md",
+      "englishSha256": "c07bfc467a0ac1ba897e14fef904bf6eb94e8d749a34b585249e1ebf65ab7b44",
+      "indonesianSha256": "2c8ad8660a2b058b153d1ffe2cb512929eb61c50476f8136a01c61cf5402f5e5",
+      "machineFlags": []
+    },
+    {
+      "path": "08/08.md",
+      "englishSha256": "88dfb6ae510d676ff3cd4367b5977a632cb471654799c0184223b029b2be7167",
+      "indonesianSha256": "f354401c44f53e717fb86f702c3d099df473e72eab941c94dd2a7319ee2a16af",
+      "machineFlags": []
+    },
+    {
+      "path": "09/09.md",
+      "englishSha256": "dc5fb736bbd1ed8183b3bf338aada33f1d946fed8c3723ae8229dfe6488cad13",
+      "indonesianSha256": "88cda3c7a57c27910a49b0abe3c49e8e51cbdafd90852354564c687e1e3ddebb",
+      "machineFlags": []
+    },
+    {
+      "path": "10/10.md",
+      "englishSha256": "efa25341fc9934f3c0f976512977a3bb233ab4b5827ebf9ff50e8ca566e7b901",
+      "indonesianSha256": "d3fd09f2567b8226887115559232f030a9b32f0d27fdad0bfe7530acac162c82",
+      "machineFlags": []
+    },
+    {
+      "path": "11/11.md",
+      "englishSha256": "71c9152a59cec304774c17afe3e0ea222f19f543256edee79b3543fea150a6b5",
+      "indonesianSha256": "6013f39ec412b2991ad0fe3e3f0d5e2f60a7c96dce38ebd2091b18f758085b32",
+      "machineFlags": []
+    },
+    {
+      "path": "12/12.md",
+      "englishSha256": "2fae7dee54c03e08798b3e0aaf5ece7c7b7e00aaa54bfa07468f0f0eddcdb489",
+      "indonesianSha256": "d2a68f98b133f3f8e136fbc83030303de3b8ea69e49ba81584896b8df53af2a6",
+      "machineFlags": []
+    },
+    {
+      "path": "13/13.md",
+      "englishSha256": "b9badb57a47c68db2e721ee50344df56ddac801bbea377dc27f1c30100d418f4",
+      "indonesianSha256": "1e7bee3e383118cfb8b4d3404b86435fe6de00623590ea8b1c32ec08b904faf2",
+      "machineFlags": []
+    }
+  ],
+  "englishSourceType": "pdf",
+  "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919"
+}

@@ -50,3 +50,11 @@ Status terbit tidak menggantikan pemeriksaan visual dan playback pada HP sebelum
 - Padanan penomoran ayat Indonesia diperbaiki agar tautan tidak menunjuk ayat yang berbeda: Yesaya 9:5 ([TB](https://www.bible.com/id/bible/306/ISA.9.5.TB)) dan Mazmur 34:11 ([TB](https://www.bible.com/id/bible/306/PSA.34.TB)). Sumber Inggris masing-masing memakai Isaiah 9:6 dan Psalm 34:10.
 
 Tidak ada catatan audit/persetujuan yang ditambahkan ke teks pelajaran. Tidak membangun APK, mengubah versi aplikasi, atau membuat rilis.
+
+## Audit judul lagu — 26 Oktober 2026
+
+Judul asli Inggris dipertahankan pada kartu audio, petunjuk program pekanan dan daftar musik triwulan. Terjemahan Indonesia menjadi keterangan dalam kurung, misalnya `When a Mother Calls (Saat Ibu Memanggil)`. Label bahasa rekaman tetap bahasa Inggris. Nama lagu diambil dari daftar musik sumber Inggris, termasuk `Nature Box` (bukan mengganti nama resminya menjadi `Nature Box Song`). Judul lagu di kegiatan keluarga juga mengikuti pola ini. Podcast cerita tetap dibedakan dari lagu; judul podcast mengikuti bahasa konten.
+
+Perubahan hanya pada label/petunjuk lagu. URL media, struktur pelajaran, dan status terbit tetap dipertahankan. Checksum final kedua manifest diperbarui dengan catatan audit khusus judul lagu atas permintaan pengguna. Normalisasi tersedia di importer agar impor berikutnya tidak mengembalikan judul Indonesia sebagai judul utama.
+
+Verifikasi judul lagu: 214 kartu lagu di seluruh 170 berkas Markdown (termasuk dua pengantar) mengikuti judul Inggris + terjemahan Indonesia dalam kurung. Seluruh 23 tes konten lulus dan katalog produksi lokal berhasil dibangun ulang. Tidak membangun APK.

@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r88156fec92e8",
+  "title": "Hari Sabat",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Hari Sabat",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lesson-12",
+  "title": "Beribadah",
+  "startDate": "2026-03-19",
+  "endDate": "2026-03-25",
+  "readings": [
+    {
+      "key": "discussion",
+      "title": "Beribadah",
+      "date": "2026-03-19",
+      "file": "discussion.md"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r755f61f89153",
+  "title": "Peran Anda sebagai Orang Tua",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Peran Anda sebagai Orang Tua",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

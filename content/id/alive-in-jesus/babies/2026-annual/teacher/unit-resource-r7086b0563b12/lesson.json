@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r7086b0563b12",
+  "title": "Tujuan",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Tujuan",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

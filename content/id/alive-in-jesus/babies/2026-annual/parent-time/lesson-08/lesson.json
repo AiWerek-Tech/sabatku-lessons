@@ -1,0 +1,14 @@
+{
+  "id": "lesson-08",
+  "title": "Beristirahat",
+  "startDate": "2026-02-19",
+  "endDate": "2026-02-25",
+  "readings": [
+    {
+      "key": "discussion",
+      "title": "Beristirahat",
+      "date": "2026-02-19",
+      "file": "discussion.md"
+    }
+  ]
+}

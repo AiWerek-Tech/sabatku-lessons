@@ -1,0 +1,14 @@
+{
+  "id": "lesson-02",
+  "title": "Menumbuhkan",
+  "startDate": "2026-01-08",
+  "endDate": "2026-01-14",
+  "readings": [
+    {
+      "key": "discussion",
+      "title": "Menumbuhkan",
+      "date": "2026-01-08",
+      "file": "discussion.md"
+    }
+  ]
+}

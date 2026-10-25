@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-rb7a11119b03d",
+  "title": "Baby Steps: Sumber Belajar Bertumbuh Bersama Yesus",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Baby Steps: Sumber Belajar Bertumbuh Bersama Yesus",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

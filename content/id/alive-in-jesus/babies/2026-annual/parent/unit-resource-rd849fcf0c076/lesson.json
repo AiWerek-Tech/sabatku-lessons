@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-rd849fcf0c076",
+  "title": "Kebiasaan Rohani untuk Keluarga",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Kebiasaan Rohani untuk Keluarga",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 ### WAKTU BERCERITA ALKITAB INTERAKTIF (5 MENIT)
 
-Katakan: **Tuhan menceritakan banyak kisah istimewa dalam kitab-Nya, Alkitab.** Berikan setiap anak sebuah **“Alkitab”** kecil (karton hitam yang dilipat dengan tulisan “Alkitab” di bagian depan dan gambar di dalamnya) sambil Anda menyanyikan **“Saya Membuka Alkitab Saya dengan Hati-hati.”** Setiap minggu, pilih satu anak untuk maju ke depan dan dengan hati-hati membuka Alkitab besar Anda. Katakan: **Saatnya mendengarkan cerita tentang Tuhan yang mengasihi dan selalu menyertai kita! Mari kita lihat apa yang ada di dalam kantong cerita hari ini.** (Lihat jadwal pekanan **Saran Cerita Alkitab Interaktif**. Tujuan pembelajaran ditekankan sebagai pernyataan **“ucapkan bersama”**.)
+Katakan: **Tuhan menceritakan banyak kisah istimewa dalam kitab-Nya, Alkitab.** Berikan setiap anak sebuah **“Alkitab”** kecil (karton hitam yang dilipat dengan tulisan “Alkitab” di bagian depan dan gambar di dalamnya) sambil Anda menyanyikan **“I Open My Bible Carefully” (Aku Membuka Alkitab dengan Hati-hati).** Setiap minggu, pilih satu anak untuk maju ke depan dan dengan hati-hati membuka Alkitab besar Anda. Katakan: **Saatnya mendengarkan cerita tentang Tuhan yang mengasihi dan selalu menyertai kita! Mari kita lihat apa yang ada di dalam kantong cerita hari ini.** (Lihat jadwal pekanan **Saran Cerita Alkitab Interaktif**. Tujuan pembelajaran ditekankan sebagai pernyataan **“ucapkan bersama”**.)
 
-[♫ Saya Membuka Alkitab Saya dengan Hati-hati · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3)
+[♫ I Open My Bible Carefully (Aku Membuka Alkitab dengan Hati-hati) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3)
 
 **Persiapan cerita:** Luangkan waktu untuk berdoa pribadi setiap pekan selama persiapan dan mintalah Tuhan untuk membimbing Anda.
 

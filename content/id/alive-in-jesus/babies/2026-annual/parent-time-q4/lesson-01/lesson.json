@@ -1,0 +1,14 @@
+{
+  "startDate": "2026-10-01",
+  "id": "lesson-01",
+  "readings": [
+    {
+      "date": "2026-10-01",
+      "file": "discussion.md",
+      "title": "Pekerjaan yang Sangat Penting",
+      "key": "discussion"
+    }
+  ],
+  "title": "Pekerjaan yang Sangat Penting",
+  "endDate": "2026-10-07"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r3c97cba2c617",
+  "title": "Kepercayaan",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Kepercayaan",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+### Pelajaran 1: Penciptaan
+[♫ Sabbath Bells (Lonceng Sabat)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-01-sabbath-bells.mp3)
+
+[♫ God Made the Light, Wind, Water (Allah Menciptakan Cahaya, Angin, dan Air)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-02-god-made-light.mp3)
+
+[♫ God Made the Light, Wind, Water (Allah Menciptakan Cahaya, Angin, dan Air)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-03-god-made-wind.mp3)
+
+[♫ God Made the Light, Wind, Water (Allah Menciptakan Cahaya, Angin, dan Air)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3)
+
+[♫ I Am Happy as Can Be (Aku Sangat Bahagia)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-05-happy-floweres.mp3)
+
+[♫ I Am Happy as Can Be (Aku Sangat Bahagia)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-06-happy-stars.mp3)
+
+[♫ Fishy, Fishy (Ikan, Ikan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-07-fishy.mp3)
+
+[♫ Animals (Binatang-Binatang)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-08-animals.mp3)
+
+[♫ Who Am I? (Siapakah Aku?)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-09-who-am-i.mp3)
+
+[♫ The Sabbath (Hari Sabat)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-10-sabbath.mp3)
+
+[♫ Here Is My Money (Ini Uang Persembahanku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-11-money.mp3)
+
+### Pelajaran 2: Gembala yang Baik
+
+[♫ Sabbath Bells (Lonceng Sabat)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-01-sabbath-bells.mp3)
+
+[♫ God Sees Me (Allah Melihatku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-02-god-sees-me.mp3)
+
+[♫ Woolly, Woolly Lamb (Anak Domba Berbulu Tebal)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-03-woolly-lamb.mp3)
+
+[♫ Jesus Is the Good Shepherd (Yesus Gembalaku yang Baik)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-04-jesus-good-shepherd-grass.mp3)
+
+[♫ Jesus Is the Good Shepherd (Yesus Gembalaku yang Baik)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-05-jesus-good-shepherd-water.mp3)
+
+[♫ Jesus Is the Good Shepherd (Yesus Gembalaku yang Baik)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-06-jesus-good-shepherd-care.mp3)
+
+[♫ Jesus Is the Good Shepherd (Yesus Gembalaku yang Baik)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-07-jesus-good-shepherd-lambs.mp3)
+
+[♫ Who Am I? (Siapakah Aku?)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-08-who-am-i.mp3)
+
+[♫ Here Is My Money (Ini Uang Persembahanku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-10-here-is-my-money.mp3)
+
+### Pelajaran 3: Nuh
+
+[♫ Sabbath Bells (Lonceng Sabat)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-01-sabbath-bells.mp3)
+
+[♫ Noah Was a Friend of God (Nuh Sahabat Allah)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-02-noah-was-a-friend-of-god.mp3)
+
+[♫ Noah Took a Hammer (Nuh Mengambil Palu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-03-noah-took-a-hammer.mp3)
+
+[♫ Into Noah’s Ark (Masuk ke Bahtera Nuh)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-04-into-noahs-ark-birds.mp3)
+
+[♫ Into Noah’s Ark (Masuk ke Bahtera Nuh)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-05-into-noahs-ark-dogs.mp3)
+
+[♫ Into Noah’s Ark (Masuk ke Bahtera Nuh)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-06-into-noahs-ark-cats.mp3)
+
+[♫ Into Noah’s Ark (Masuk ke Bahtera Nuh)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-07-into-noahs-ark-sheep.mp3)
+
+[♫ Into Noah’s Ark (Masuk ke Bahtera Nuh)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-08-into-noahs-ark-chickens.mp3)
+
+[♫ I Open My Bible Carefully (Aku Membuka Alkitab dengan Hati-Hati)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-09-i-open-my-bible-carefully.mp3)
+
+[♫ Jesus Cares for You (Yesus Memeliharamu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-10-jesus-cares-for-you.mp3)
+
+[♫ Here Is My Money (Ini Uang Persembahanku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-11-here-is-my-money.mp3)
+
+### Pelajaran 4: Bayi Yesus
+
+[♫ Sabbath Bells (Lonceng Sabat)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-01-sabbath-bells.mp3)
+
+[♫ Clip-Clop (Klik-Klop)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-02-clip-clop.mp3)
+
+[♫ It Was a Happy Day (Hari yang Membahagiakan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-03-it-was-a-happy-day.mp3)
+
+[♫ Woolly, Woolly Lamb (Anak Domba Berbulu Tebal)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-04-woolly-woolly-lamb.mp3)
+
+[♫ Jesus Made the Cows (Yesus Menciptakan Sapi)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-05-jesus-made-the-cows.mp3)
+
+[♫ Baby Jesus (Bayi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-06-baby-jesus-wash.mp3)
+
+[♫ Baby Jesus (Bayi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-07-baby-jesus-wrap.mp3)
+
+[♫ Baby Jesus (Bayi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-08-baby-jesus-hug.mp3)
+
+[♫ Baby Jesus (Bayi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-09-baby-jesus-sleep.mp3)
+
+[♫ Baby Jesus (Bayi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-10-baby-jesus-you.mp3)
+
+[♫ With Jesus in the Family (Bersama Yesus dalam Keluarga)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-11-with-jesus-in-the-family.mp3)
+
+[♫ Christmas Star (Bintang Natal)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-12-christmas-star.mp3)
+
+[♫ Here Is My Money (Ini Uang Persembahanku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-13-here-is-my-money.mp3)

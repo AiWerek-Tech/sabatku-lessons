@@ -1,0 +1,88 @@
+{
+  "status": "needs-team-review",
+  "schemaVersion": "alive-in-jesus-translation-review-v1",
+  "targetLocale": "id",
+  "reviewedAt": null,
+  "sourceAudit": {
+    "englishFiles": 13,
+    "sourceChecksums": {
+      "01/01.md": {
+        "english": "4cad1c0d5f193ba6b89e207c9754f870fd4e6708b3fa6a9c7c7bc51a6919b127",
+        "indonesian": "dd9d32a08030a95626f69ecd3f8b0a0f4c3d99f08bde793cbd15fd2376c34a8a"
+      },
+      "02/02.md": {
+        "english": "a75a255d1abafb96d047bea26c96a1baddbef62b1fb32b3dff7120b887f88b5b",
+        "indonesian": "7ede34c782a85709e68053d43b05699c21560b68958324471900cd15c1766b71"
+      },
+      "03/03.md": {
+        "english": "b92038f7565b5b762704683509952d86e94a3a4c51f6214b103d05ea33e10ad4",
+        "indonesian": "c1f33c06048333e37905a798a4e5721c0b005874d450055106a6e73e1b2718ac"
+      },
+      "04/04.md": {
+        "english": "2175c558d7d012d96a6132b62b06c9b29d2d091c888f22fdefff90fade84f435",
+        "indonesian": "b7a8fd604162c6d56dab296d999ed070cb973e28b42412b0b77582ade6d2d950"
+      },
+      "05/05.md": {
+        "english": "3ce1a5a863205996e84cdc036e0b0c7acc0bb0ec7a7da0471088f2dec69cea45",
+        "indonesian": "c89b41ce139285be1f7972119eeef1ac3ed41909e0c5b962eb51820b52eb1f1d"
+      },
+      "06/06.md": {
+        "english": "94eb5ae79f3293e1f641771f7c34cdcd3446b27e79a15a427cbbd127a6f67a79",
+        "indonesian": "fee862eff014937aebd71f3f9f308f1dee4b4708c76ce77eb2a0ddf87826ebde"
+      },
+      "07/07.md": {
+        "english": "7121feba72646f5b9e2db0bd6799f590ffa7e68d0710bf606ef74e713a216a66",
+        "indonesian": "f3435c446f984d82e55a0388692009a024d3312d7368d70d75a9e207289bd333"
+      },
+      "08/08.md": {
+        "english": "d78848927d47ce8864367285b0feece950e22f23e4e2b276d7df6dd00873cf2d",
+        "indonesian": "9cdfb5c6bd2f58825233262d208c648c90bcfea8f46024953132796b28810f73"
+      },
+      "09/09.md": {
+        "english": "874febb156994fdfb29372449207c2d6fb30440ab88ba35e3f5a6b7e71565aad",
+        "indonesian": "149aebc6441cf6c20c5f69bb116c3b3df7e39364e232877e1bda13f42aa15938"
+      },
+      "10/10.md": {
+        "english": "46798f6594b5e9621d91961afdbef418124018aa1ba78a6c5d5c05262cafe8f0",
+        "indonesian": "8debcbe99cb575e758592bbed6224f7c40e351679a15c88b5e93dbfd259dc445"
+      },
+      "11/11.md": {
+        "english": "d91749fd06f40b6950cdc4dbe96a17153a94399f51d75fd2bc832f9b83559dd8",
+        "indonesian": "6c0da2f836d6b5f833ba901b512d0b03f6b8a9b7bf0986562cc79d8331cf797a"
+      },
+      "12/12.md": {
+        "english": "10f5f513c51c17b799ab8847523ce5445aa9388ae7bef740f9115f4ead74fb3c",
+        "indonesian": "20354c2adca63ccee6722f861387624a9f4c1cbe67cb2b1e10aef3e92aeb0607"
+      },
+      "13/13.md": {
+        "english": "4cdc24fc90f5ac495a4f5eb97107c73291e0e24047cfae119935c7620d0be5fd",
+        "indonesian": "67d3a6e1bbeb46cbe42e5f6a500fe2035b0a618552e91c2ca3ccba23c3912403"
+      }
+    },
+    "flaggedPairCount": 0,
+    "matchedFiles": 13,
+    "indonesianFiles": 13,
+    "missingEnglish": [],
+    "missingIndonesian": []
+  },
+  "editionId": "2026-q2-aij-babies-parent-time",
+  "reviewer": null,
+  "note": "Draf terjemahan untuk pemeriksaan tim. Bandingkan makna, kelengkapan, ayat Alkitab, dan kebahasaan dengan sumber bahasa Inggris sebelum menyetujui publikasi.",
+  "sourceLocale": "en",
+  "translationFiles": {
+    "lesson-01/discussion.md": "dd9d32a08030a95626f69ecd3f8b0a0f4c3d99f08bde793cbd15fd2376c34a8a",
+    "lesson-02/discussion.md": "7ede34c782a85709e68053d43b05699c21560b68958324471900cd15c1766b71",
+    "lesson-03/discussion.md": "c1f33c06048333e37905a798a4e5721c0b005874d450055106a6e73e1b2718ac",
+    "lesson-04/discussion.md": "b7a8fd604162c6d56dab296d999ed070cb973e28b42412b0b77582ade6d2d950",
+    "lesson-05/discussion.md": "c89b41ce139285be1f7972119eeef1ac3ed41909e0c5b962eb51820b52eb1f1d",
+    "lesson-06/discussion.md": "fee862eff014937aebd71f3f9f308f1dee4b4708c76ce77eb2a0ddf87826ebde",
+    "lesson-07/discussion.md": "f3435c446f984d82e55a0388692009a024d3312d7368d70d75a9e207289bd333",
+    "lesson-08/discussion.md": "9cdfb5c6bd2f58825233262d208c648c90bcfea8f46024953132796b28810f73",
+    "lesson-09/discussion.md": "149aebc6441cf6c20c5f69bb116c3b3df7e39364e232877e1bda13f42aa15938",
+    "lesson-10/discussion.md": "8debcbe99cb575e758592bbed6224f7c40e351679a15c88b5e93dbfd259dc445",
+    "lesson-11/discussion.md": "6c0da2f836d6b5f833ba901b512d0b03f6b8a9b7bf0986562cc79d8331cf797a",
+    "lesson-12/discussion.md": "20354c2adca63ccee6722f861387624a9f4c1cbe67cb2b1e10aef3e92aeb0607",
+    "lesson-13/discussion.md": "67d3a6e1bbeb46cbe42e5f6a500fe2035b0a618552e91c2ca3ccba23c3912403",
+    "introduction.md": "2182c6c9010591633a2a2492d91287cc426e84c5e8244acbbf1d8e0b5628c62a"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r900115eebe64",
+  "title": "Struktur Kurikulum",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Struktur Kurikulum",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

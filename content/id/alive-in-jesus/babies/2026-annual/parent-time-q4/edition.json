@@ -1,0 +1,105 @@
+{
+  "sourceName": "Alive in Jesus · Babies",
+  "englishEditionId": "2025-04-xaijbbpth4one",
+  "id": "2026-q4-aij-babies-parent-time",
+  "description": "Bahan diskusi orang tua · Triwulan IV · 13 sesi",
+  "sourceUrl": "https://babies.aliveinjesus.info/",
+  "sourceReviewRequired": true,
+  "rightsStatement": "Terjemahan bahasa Indonesia dari materi resmi Alive in Jesus; menunggu pemeriksaan tim.",
+  "sourceYear": 2025,
+  "structureType": "weekly-parent-discussion",
+  "bookRole": "parent-time-handout",
+  "publicationStatus": "draft",
+  "cover": "editions/2026-q4-aij-babies-parent-time/assets/cover.png",
+  "startDate": "2026-10-01",
+  "theme": "Menumbuhkan Karakter",
+  "attribution": "© General Conference of Seventh-day Adventists®.",
+  "cycleId": "annual",
+  "endDate": "2026-12-31",
+  "lessons": [
+    {
+      "startDate": "2026-10-01",
+      "id": "lesson-01",
+      "title": "Pekerjaan yang Sangat Penting",
+      "endDate": "2026-10-07"
+    },
+    {
+      "startDate": "2026-10-08",
+      "id": "lesson-02",
+      "title": "Membentuk Tabiat",
+      "endDate": "2026-10-14"
+    },
+    {
+      "startDate": "2026-10-15",
+      "id": "lesson-03",
+      "title": "Peran Ayah",
+      "endDate": "2026-10-21"
+    },
+    {
+      "startDate": "2026-10-22",
+      "id": "lesson-04",
+      "title": "Pengaruh Ibu",
+      "endDate": "2026-10-28"
+    },
+    {
+      "startDate": "2026-10-29",
+      "id": "lesson-05",
+      "title": "Alam Menumbuhkan",
+      "endDate": "2026-11-04"
+    },
+    {
+      "startDate": "2026-11-05",
+      "id": "lesson-06",
+      "title": "Pilihan Sehat",
+      "endDate": "2026-11-11"
+    },
+    {
+      "startDate": "2026-11-12",
+      "id": "lesson-07",
+      "title": "Pengendalian Diri",
+      "endDate": "2026-11-18"
+    },
+    {
+      "startDate": "2026-11-19",
+      "id": "lesson-08",
+      "title": "Kejujuran",
+      "endDate": "2026-11-25"
+    },
+    {
+      "startDate": "2026-11-26",
+      "id": "lesson-09",
+      "title": "Kelemahlembutan",
+      "endDate": "2026-12-02"
+    },
+    {
+      "startDate": "2026-12-03",
+      "id": "lesson-10",
+      "title": "Tidak Mementingkan Diri",
+      "endDate": "2026-12-09"
+    },
+    {
+      "startDate": "2026-12-10",
+      "id": "lesson-11",
+      "title": "Suka Menolong",
+      "endDate": "2026-12-16"
+    },
+    {
+      "startDate": "2026-12-17",
+      "id": "lesson-12",
+      "title": "Keceriaan",
+      "endDate": "2026-12-23"
+    },
+    {
+      "startDate": "2026-12-24",
+      "id": "lesson-13",
+      "title": "Pekerjaan yang Berkelanjutan",
+      "endDate": "2026-12-30"
+    }
+  ],
+  "programId": "alive-in-jesus-bb-pb",
+  "title": "Baby Steps · Parent Time · Triwulan IV: Menumbuhkan Karakter",
+  "dayOrder": null,
+  "trackId": "babies",
+  "sourceEditionId": "2025-04-bb-pth",
+  "locale": "id"
+}

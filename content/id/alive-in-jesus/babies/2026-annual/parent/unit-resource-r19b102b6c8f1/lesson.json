@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r19b102b6c8f1",
+  "title": "Cara Menggunakan Buku Panduan Orang Tua Ini",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Cara Menggunakan Buku Panduan Orang Tua Ini",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lesson-04",
+  "title": "Bayi Yesus",
+  "startDate": "2026-10-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "program",
+      "title": "Bayi Yesus",
+      "date": "2026-10-01",
+      "file": "program.md"
+    }
+  ]
+}

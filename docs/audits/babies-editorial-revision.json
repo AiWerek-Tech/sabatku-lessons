@@ -1,0 +1,1368 @@
+{
+  "date": "2026-10-26",
+  "status": "draft-human-review-required",
+  "files": [
+    {
+      "role": "parent",
+      "source": "00-introduction/00-introduction.md",
+      "output": "unit-resource-ra110198e1be2/reading.md",
+      "englishSha256": "78fe04c2d4375a7336d027958d323627874c9d35016456dfc90c6f8ee1ee47f1",
+      "originalIndonesianSha256": "7381b803e2918842f11b9cc5028578d79c2aa7b773a4942753793273ef9410f2",
+      "revisedSha256": "337a2586ddfe57b456d4a6328e6126f6cd437cf3f255ffaefc3d068582a326cd",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "01-growing-with-jesus-resources/01-growing-with-jesus-resources.md",
+      "output": "unit-resource-rb7a11119b03d/reading.md",
+      "englishSha256": "41a5ef37320d96df416a07d08320d811be5d1272e2616704a0f9c14104b8d5f6",
+      "originalIndonesianSha256": "282d4c13f11f8c291f0708789fee8dcf52815ee38d7452934bd51eaa0ea9bfbb",
+      "revisedSha256": "9e8971424b8b1ae47d3b118eff4b4076f568b0280208dac03795f360f3a3c2ec",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "02-your-baby/02-your-baby.md",
+      "output": "unit-resource-r94d2121f71a3/reading.md",
+      "englishSha256": "069667c1f278c7457f0cabfa142c62280a6d3fd0f21705caa32de53a2b437cd9",
+      "originalIndonesianSha256": "a4b85b9d5de0e248acf94f1b5b6a1f36c1920ef93ebb6d6df2151f08d88bce86",
+      "revisedSha256": "e6500d68318b4184cc11e8725f61206f74ba0c20fc3b77408b2a4dac212f5f9c",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "03-how-to-use-this-parent-book/03-how-to-use-this-parent-book.md",
+      "output": "unit-resource-r19b102b6c8f1/reading.md",
+      "englishSha256": "d9c8c475d63e0986fc6726a61074320708c47e235ce856d401aa026a1446ee40",
+      "originalIndonesianSha256": "ffe79dfc594bab8331746e465903964b9d7f2c85a3e9a5a0b8b379b3850370b9",
+      "revisedSha256": "806952a69e3113550811bf5168e60b4cbb9025a06277fce32709c633794bdbd1",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "introduction.md",
+      "excluded": "introduction duplicate or publication credits",
+      "englishSha256": "afaecbeefa3323b25a9305dca28349c01e1830c4d427c982a7b5bd57e699820e",
+      "originalIndonesianSha256": "373f4ab799521e20ef68a48efff248f5d0549b1cedbc6dfd667e8664526b8cff"
+    },
+    {
+      "role": "parent",
+      "source": "part-1/03-the-foundation-for-spiritual-growth/03-love.md",
+      "output": "unit-resource-rb411a37f25ae/reading.md",
+      "englishSha256": "0a6aa1bea8931afd6321db200c62a517c9d3c04a4137cd5f49768febac76498b",
+      "originalIndonesianSha256": "8c49f6cc911987f0b4cb6da3320002be273ef384e43153be87d3ff466095c2c9",
+      "revisedSha256": "b7a14b30d7665d7720373da588e480eddb6a18915543acb2eb174270a5884fcd",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/03-the-foundation-for-spiritual-growth/04-trust.md",
+      "output": "unit-resource-r3c97cba2c617/reading.md",
+      "englishSha256": "4eadb7a26868f780af2b4c40a7c0e0aa606a59fdf1d8a86eb7399bd0aa67ae1d",
+      "originalIndonesianSha256": "95e2e0495bc12e3ab70a838c3a47c18446af2be9eacd1f357d48780826fae7d1",
+      "revisedSha256": "c20da40164220b2126ac098d985966b4991958298e4737a425fef51a7b8783a2",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/03-the-foundation-for-spiritual-growth/05-obedience.md",
+      "output": "unit-resource-r7e2b6aa34dad/reading.md",
+      "englishSha256": "8862923061b8d65cc0e9ef01bfc472ebcdeed93552791d6007331fddc327da11",
+      "originalIndonesianSha256": "efc93a3cfe309a4e639b5534efe504a9b379090cf71c3dad68c74b86778d02b4",
+      "revisedSha256": "bdbaf8539df4548b21d102a47725ececc9dda983e27ecb643ded1367fa7a65d7",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/04-your-own-spiritual-needs/04-01-your-own-spiritual-needs.md",
+      "output": "unit-resource-r4adf99901f41/reading.md",
+      "englishSha256": "a7b25af2894973acb3fd23a8ef62394be342d680ba97f40d20c74ec0bcce891b",
+      "originalIndonesianSha256": "a9afbd21a9742b88dce5b50bfdd59ed24cb117c915c0fec69e818681f7afa471",
+      "revisedSha256": "73616348d9cf7b73e83e2ec1605e2ea03a9a57aa7f3419f98e7d233be0e1bb0e",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/04-your-own-spiritual-needs/04-02-step-into-good-habits.md",
+      "output": "unit-resource-r7c01c004fc2a/reading.md",
+      "englishSha256": "15a7236fcbb65279afccf9d063e6cc2899ea7826675ee1c08cefaa2514e209da",
+      "originalIndonesianSha256": "13ddd1159096618d1ff68dc942b0a4d4701ee277b2ec244ef92b3d1072c85ce2",
+      "revisedSha256": "b610123b47d002d4a659b1b90980eaf1ce603987c4c6d476bc82625f2ab7a319",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/04-your-own-spiritual-needs/04-03-invest-in-your-spiritual-health.md",
+      "output": "unit-resource-r35a110050c98/reading.md",
+      "englishSha256": "45e342033dfde3d34ed24b7ebf14fada75a075735d15a8dac53e62b0f0d5bdb5",
+      "originalIndonesianSha256": "b28238dbfced9a4e60910ee8b393d99f19a1b6b46cfc62ca519ff426924b99ae",
+      "revisedSha256": "2b1c40a1de7b01f6b26c5fff28a028b9f7f46908a034f348457ac798e1654fe3",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/04-your-own-spiritual-needs/04-04-invest-in-your-physical-and-emotional-health.md",
+      "output": "unit-resource-re30e7e8d1496/reading.md",
+      "englishSha256": "1decfa7fa0d75f77bdb7b106bd52296c00f7fec4bc436356bca9b27a284f7251",
+      "originalIndonesianSha256": "2412281ee8ce1f7d9ecbe0b10de7ebe71e8a13a0457e3ba8837fe956fa7e4869",
+      "revisedSha256": "184d4b61c0602b69d05d507eaf6e636f92016e954f594e5c28e9a25f86b2a02e",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/05-spiritual-habits-for-the-family/05-01-family-worship.md",
+      "output": "unit-resource-rd849fcf0c076/reading.md",
+      "englishSha256": "0d5cd54f44d4330a9bbe99341df8f57fc13362ff1f69a5da441f5890dc139e08",
+      "originalIndonesianSha256": "937a79b95e3634a1f761ebee72421618c7dcaa4debbbc6a7ccfdc812cb280a6c",
+      "revisedSha256": "76d2b4543c4abb63caf33471223801d313e9ab457df2637c1172c94fe7e669d4",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/05-spiritual-habits-for-the-family/05-02-the-sabbath.md",
+      "output": "unit-resource-r88156fec92e8/reading.md",
+      "englishSha256": "5d58384c440adc617b219f08bd286f45901ce8ee6545e1831d053ef77af5be27",
+      "originalIndonesianSha256": "abea8aa478ff98262ae987dcef53c066c4ab2364700d8a8b218f066a40be5a90",
+      "revisedSha256": "4b0544b13d964be9258457f3e4c87b461617639eea019f4aed21b02e25ded90b",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/05-spiritual-habits-for-the-family/05-03-church.md",
+      "output": "unit-resource-r5b258791ee0d/reading.md",
+      "englishSha256": "ea9c5da376b10737d7ab25fba4b27a881f4f23f9d3411d6a1671dc701d64a1b1",
+      "originalIndonesianSha256": "b96ade560cafbcfe59c7825ac49ecb8bff8fc2e0a8ac330a8cae7850154d1cb9",
+      "revisedSha256": "da74735042f47a6345ec2e57bc4c815b7ccab9fd8738fe6433511f9ca269a20b",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/05-spiritual-habits-for-the-family/05-04-baby-dedication.md",
+      "output": "unit-resource-r60763059f219/reading.md",
+      "englishSha256": "fbd758efc876e317f1ee4259adbddb7ae4a1d433bc3aa4bd10232cd0f7a1227b",
+      "originalIndonesianSha256": "bda40075838c230a3ba5372f626765155a4caafbd1b5c2023e83eac32687afbf",
+      "revisedSha256": "93114910e3bff11e8d6fc3c782ebf229fa6779e4afb79da6e1ca31d10836ec05",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/06-growing-with-jesus-in-each-stage/06-01-zero-to-three-months.md",
+      "output": "unit-resource-rb413b6d18c33/reading.md",
+      "englishSha256": "3c0bc23223fc055d7c756a66e6693ed841e4cf605e0e996d2589575d318b6833",
+      "originalIndonesianSha256": "a9141dd18fae65b2a70d3bd5e3d3d2149a44aee24e356d21224d74f93ac6bc3c",
+      "revisedSha256": "efc5aadfc5f32dbb2bb2d7967c9f2e42921d1b5467a3bdf3c5375b8b220b2858",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/06-growing-with-jesus-in-each-stage/06-02-three-to-six-months.md",
+      "output": "unit-resource-r6ed154053a30/reading.md",
+      "englishSha256": "4d7f6701798a733e1451f5c338e985021c4aa3b25e3a6d25ec163c5b91bb284e",
+      "originalIndonesianSha256": "37acf9e44391f0acd013001c96ed0ddb95476c6a03552f06a3996b1c35102eb8",
+      "revisedSha256": "13e41c0afb982ff59806a4a84c0ff30fa340dc7978e2b9c149f6541a6bd30d9b",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/06-growing-with-jesus-in-each-stage/06-03-six-to-nine-months.md",
+      "output": "unit-resource-r5651fc71c983/reading.md",
+      "englishSha256": "dad679062ff0ebf38a7c427ce750bd4ed986a81ae1b51efdc726435012ddee16",
+      "originalIndonesianSha256": "7341a0dab42ab5eebd52a839270895c2f2af71f8a9f940b4cf0470d7b4f71c8b",
+      "revisedSha256": "17731e56433a36613f5a38835b4c0d671491c5b6a8c25150395541e82dcf72a4",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/06-growing-with-jesus-in-each-stage/06-04-nine-to-twelve-months.md",
+      "output": "unit-resource-r7e2fe87a9d03/reading.md",
+      "englishSha256": "d9ad30ad1db8d041e6bc638becc37ab5d0b86c47d13f9d70123c0e737ae969e0",
+      "originalIndonesianSha256": "d2e0d49b21e10d939461aa41c891d420784692d199544bee028f46519d356387",
+      "revisedSha256": "c02a8c4ae97f426eb42ac883afa2a401cc3067ee7505a139863e68018c97b5da",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/07-other-tools-for-your-babys-spiritual-growth/07-01-routine-and-tidiness-in-your-home.md",
+      "output": "unit-resource-r9910e4fbcbec/reading.md",
+      "englishSha256": "a753c9ee514803bbfc473897d9033e3fa870b32ca862eed688694e3d68e9807f",
+      "originalIndonesianSha256": "b4ca392d158042982079aba0296f9c6dad07c86610b659432f71fe8be7d65e21",
+      "revisedSha256": "56336539828311fe2fabb9ba82bb6085b484d1fb4d6ddc90fe83fd0b5fa5050c",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/07-other-tools-for-your-babys-spiritual-growth/07-02-music.md",
+      "output": "unit-resource-r03cefd4fd12e/reading.md",
+      "englishSha256": "e152ddedd7f1ef6ee0ff1069f45453c7e16dc54bc1ea717d6fbebc84900ad2f2",
+      "originalIndonesianSha256": "d0a86c5e44dbddd7168815b6091e8d2a36ee369ba15c1e234bbe840459da7a1a",
+      "revisedSha256": "eb115b29807f6c97d74736b0fe758c0a0f2df4d7961c7da0dd9b5c866d5e9b01",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/07-other-tools-for-your-babys-spiritual-growth/07-03-prayer.md",
+      "output": "unit-resource-rc8eff778cab1/reading.md",
+      "englishSha256": "5e87da8208b9b6eb8096657b2d96c11095952afc9b9e1457dad45fec06e4e498",
+      "originalIndonesianSha256": "6eb938bbfe710b793664664090b7e21e671d1c71aa8ae307b01faf0174512e5f",
+      "revisedSha256": "a049e94f575b8dc972aa29d42540ec5e401eb41722c122bea3c5839e86ac01a9",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-1/07-other-tools-for-your-babys-spiritual-growth/07-04-community-support.md",
+      "output": "unit-resource-r7a50dc51e34d/reading.md",
+      "englishSha256": "0c10e69ef803bea60898e41fca277acfefcfee35fec4c5f1f8306bd7ba4452ef",
+      "originalIndonesianSha256": "dbf07bba8352d1c060394c48ef45b2a3d6594c6b96ade2b0144e9fc331c2c4d9",
+      "revisedSha256": "d6a704d52d1ed4b386c9f8ff61a3fee45a30c03d412ac0e254f98bb8ba146206",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-2/08-the-sabbath-school-curriculum-at-home/08-01-purpose-of-the-curriculum.md",
+      "output": "unit-resource-rea8f4da56b40/reading.md",
+      "englishSha256": "0a0c572db79b3a802e4f83e12a2808992378d317be6552abf24b940d388c15ba",
+      "originalIndonesianSha256": "1d676e002a23a4d37d354c70ca1219161727b40ba68a3684615a7172c5d3184b",
+      "revisedSha256": "fa09f76b46c3a0c10202300fc6aec6765ac593ac593a8c21683e7e771ff9236b",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-2/08-the-sabbath-school-curriculum-at-home/08-02-your-role-as-a-parent.md",
+      "output": "unit-resource-r755f61f89153/reading.md",
+      "englishSha256": "a56a25dca7045c12b6dccbfce392b2049e9bc6a6d39b521314a3ca37d2c3c778",
+      "originalIndonesianSha256": "33dad82716d3567a3dda0a6f8ef7d553c90f4b616bac2397d153a1b8423cc2af",
+      "revisedSha256": "cc22aeced253d6b76952ed2b899d446a94baa28650b2a9dbfa0e0c9beb75ef0b",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-2/08-the-sabbath-school-curriculum-at-home/08-03-the-structure-of-the-curriculum.md",
+      "output": "unit-resource-r900115eebe64/reading.md",
+      "englishSha256": "73d4df8ae66c2aaa77b3d4df206dac63067b26158a820de7e681656ab5e75832",
+      "originalIndonesianSha256": "081dffff00f3e17fb9258f116268d175b6796ad6583c4d8503457502a66cadcf",
+      "revisedSha256": "ad0d8d767eb7df2880808c1369afb0dfecc443608c1c8d51e8e2331115880e95",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-2/08-the-sabbath-school-curriculum-at-home/08-04-worship-box.md",
+      "output": "unit-resource-r449775142de5/reading.md",
+      "englishSha256": "c3d9e11164f26eacac62bde58e32aa70f80393a3ac0273c685fb814440071265",
+      "originalIndonesianSha256": "dce33156727f1d8ba3915f254f443f4feea9429bd092c36d0d6bb525b6d68522",
+      "revisedSha256": "5f93c3bafc244d00684c94388006996c51807236acc4ac5ba0d21ebc07db46d2",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-2/08-the-sabbath-school-curriculum-at-home/08-05-getting-started.md",
+      "output": "unit-resource-r861f9bbcd30f/reading.md",
+      "englishSha256": "06c968b2b649b3169407375caf10541eb83195b69f6dc3a2a51ef88a444bb42d",
+      "originalIndonesianSha256": "595952fcf0ba0bee0f153be9c73782cd01ca1429590cdca374a6af707201cf8e",
+      "revisedSha256": "af00a301b0379f19c7937d748531443aab908f27d3ad1c8cfd3e85b0854eb8ff",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-2/09-the-sabbath-school-lessons/09-01-lesson-one-creation.md",
+      "output": "lesson-01/program.md",
+      "englishSha256": "aa0ca778f319b8f206450322d4126ca060335bed55a54115364153958748fbe2",
+      "originalIndonesianSha256": "369586deb1d285b8b75be0becb799966326401d8b4a64569b95f7c24abdb6cc2",
+      "revisedSha256": "b528f38c589350d4c0f3837bda9b0785b21f786b228b90a709ff31052a5b981f",
+      "method": "paired-source-editorial-revision",
+      "songs": [
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-02-god-made-light.mp3",
+          "title": "God Made the Light, Wind, Water”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-03-god-made-wind.mp3",
+          "title": "God Made the Light, Wind, Water”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3",
+          "title": "God Made the Light, Wind, Water”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-05-happy-floweres.mp3",
+          "title": "I Am Happy as Can Be”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-06-happy-stars.mp3",
+          "title": "I Am Happy as Can Be”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-07-fishy.mp3",
+          "title": "Fishy, Fishy"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-08-animals.mp3",
+          "title": "Animals"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-09-who-am-i.mp3",
+          "title": "Who Am I?"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-10-sabbath.mp3",
+          "title": "The Sabbath"
+        }
+      ]
+    },
+    {
+      "role": "parent",
+      "source": "part-2/09-the-sabbath-school-lessons/09-02-lesson-two-the-good-shepherd.md",
+      "output": "lesson-02/program.md",
+      "englishSha256": "ff66a07f2e26ad8059deadbbf4b1e9945b4c57de3db0bc4f2584f25546547a3e",
+      "originalIndonesianSha256": "ab639586de25a43f0ab3ef3ebe4240372c031179b1d280abcc6acc41e5b50116",
+      "revisedSha256": "086b1e535470b2c7dba5cb8d7264e10d3ed7a8a03b228b5ee09c4a238021f4c9",
+      "method": "paired-source-editorial-revision",
+      "songs": [
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-02-god-sees-me.mp3",
+          "title": "God Sees Me"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-03-woolly-lamb.mp3",
+          "title": "Woolly, Woolly Lamb"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-04-jesus-good-shepherd-grass.mp3",
+          "title": "Jesus Is the Good Shepherd”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-05-jesus-good-shepherd-water.mp3",
+          "title": "Jesus Is the Good Shepherd”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-06-jesus-good-shepherd-care.mp3",
+          "title": "Jesus Is the Good Shepherd”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-07-jesus-good-shepherd-lambs.mp3",
+          "title": "Jesus Is the Good Shepherd”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-08-who-am-i.mp3",
+          "title": "Who Am I?"
+        }
+      ]
+    },
+    {
+      "role": "parent",
+      "source": "part-2/09-the-sabbath-school-lessons/09-03-lesson-three-noah-and-the-animals.md",
+      "output": "lesson-03/program.md",
+      "englishSha256": "5180103e7c950b2e97d24375a27221af336d2ced1509915e562b3e38c25ddedf",
+      "originalIndonesianSha256": "54683d0b7a436f3f07f067fd9b7f1478ed47aba3bafe2ffcf711172b44610227",
+      "revisedSha256": "c13d7a90d372c4bad752e85dc248b6a2ed5c9a1e13c56e9f46b19a7ac2ec0bf0",
+      "method": "paired-source-editorial-revision",
+      "songs": [
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-02-noah-was-a-friend-of-god.mp3",
+          "title": "Noah Was a Friend of God"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-03-noah-took-a-hammer.mp3",
+          "title": "Noah Took a Hammer"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-04-into-noahs-ark-birds.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-05-into-noahs-ark-dogs.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-06-into-noahs-ark-cats.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-07-into-noahs-ark-sheep.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-08-into-noahs-ark-chickens.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-09-i-open-my-bible-carefully.mp3",
+          "title": "I Open My Bible Carefully"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-10-jesus-cares-for-you.mp3",
+          "title": "Jesus Cares for You"
+        }
+      ]
+    },
+    {
+      "role": "parent",
+      "source": "part-2/09-the-sabbath-school-lessons/09-04-lesson-four-a-special-baby.md",
+      "output": "lesson-04/program.md",
+      "englishSha256": "87d0ab6d83da62cdf70126cf9dfb496925bccb737dc1dd117744755aef4b34e4",
+      "originalIndonesianSha256": "3e4f8c32854e2c20794215c07a66d9dea7e483a0e400b7e91e999b959557eaf9",
+      "revisedSha256": "0199a0d6ee8d259a229cf1952718efbbdf22fc750410859817b77ee66016ed11",
+      "method": "paired-source-editorial-revision",
+      "songs": [
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-02-clip-clop.mp3",
+          "title": "Clip-Clop"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-03-it-was-a-happy-day.mp3",
+          "title": "It Was a Happy Day"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-04-woolly-woolly-lamb.mp3",
+          "title": "Woolly, Woolly Lamb"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-05-jesus-made-the-cows.mp3",
+          "title": "Jesus Made the Cows"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-06-baby-jesus-wash.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-07-baby-jesus-wrap.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-08-baby-jesus-hug.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-09-baby-jesus-sleep.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-10-baby-jesus-you.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-11-with-jesus-in-the-family.mp3",
+          "title": "With Jesus in the Family"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-12-christmas-star.mp3",
+          "title": "Christmas Star"
+        }
+      ]
+    },
+    {
+      "role": "parent",
+      "source": "part-2/10-final-thoughts/10-final-thoughts.md",
+      "output": "unit-resource-rab0fe3b4acf0/reading.md",
+      "englishSha256": "1f5ae235b9fe640a0f3d9ce57f354613f04a553ab70efa666d376cb83c4a1e09",
+      "originalIndonesianSha256": "70bc8a6db8cd4a6948c298cebbd4fb8f0e274cf2dbc4f37e2bf6b8fcb1109fb3",
+      "revisedSha256": "a3f809a788d9446c219af57732e40ea7ca46c87bc52290b19a5bdf76c8dd93b2",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-2/11-references-and-resources/11-references-and-resources.md",
+      "output": "unit-resource-r885d4d1d8ce3/reading.md",
+      "englishSha256": "49daaf42c8bf9c51f65fdeddea00f86956ade6870a1819535b400f4afa1b4a51",
+      "originalIndonesianSha256": "ed075787dc586885423764f9a5a4f832175c69ed68985fde91c1b99a1ee5f918",
+      "revisedSha256": "2f40149ddad180bc70be8a6f58059146ea44588af9407bcf0a101aea2a4f8101",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "parent",
+      "source": "part-2/11.5-music/11.5-music.md",
+      "output": "unit-resource-r535741ec65a6/reading.md",
+      "englishSha256": "1db7bc484fb6fbd07a39065792676e6cc5e6e7a23f853e288927c4d2987bf697",
+      "originalIndonesianSha256": "2105c9dbecc26c5d44353b47c49b061717b6639e040f07354b5fee32d9f11a6e",
+      "revisedSha256": "bb15deca184f7bff72d938d0007ef29223984e5e89e20b17c69b831742f0c364",
+      "method": "paired-source-editorial-revision",
+      "songs": [
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-02-god-made-light.mp3",
+          "title": "God Made the Light, Wind, Water”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-03-god-made-wind.mp3",
+          "title": "God Made the Light, Wind, Water”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3",
+          "title": "God Made the Light, Wind, Water”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-05-happy-floweres.mp3",
+          "title": "I Am Happy as Can Be”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-06-happy-stars.mp3",
+          "title": "I Am Happy as Can Be”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-07-fishy.mp3",
+          "title": "Fishy, Fishy"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-08-animals.mp3",
+          "title": "Animals"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-09-who-am-i.mp3",
+          "title": "Who Am I?"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-10-sabbath.mp3",
+          "title": "The Sabbath"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-02-god-sees-me.mp3",
+          "title": "God Sees Me"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-03-woolly-lamb.mp3",
+          "title": "Woolly, Woolly Lamb"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-04-jesus-good-shepherd-grass.mp3",
+          "title": "Jesus Is the Good Shepherd”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-05-jesus-good-shepherd-water.mp3",
+          "title": "Jesus Is the Good Shepherd”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-06-jesus-good-shepherd-care.mp3",
+          "title": "Jesus Is the Good Shepherd”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-07-jesus-good-shepherd-lambs.mp3",
+          "title": "Jesus Is the Good Shepherd”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-08-who-am-i.mp3",
+          "title": "Who Am I?"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-02-noah-was-a-friend-of-god.mp3",
+          "title": "Noah Was a Friend of God"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-03-noah-took-a-hammer.mp3",
+          "title": "Noah Took a Hammer"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-04-into-noahs-ark-birds.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-05-into-noahs-ark-dogs.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-06-into-noahs-ark-cats.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-07-into-noahs-ark-sheep.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-08-into-noahs-ark-chickens.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-09-i-open-my-bible-carefully.mp3",
+          "title": "I Open My Bible Carefully"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-10-jesus-cares-for-you.mp3",
+          "title": "Jesus Cares for You"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-02-clip-clop.mp3",
+          "title": "Clip-Clop"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-03-it-was-a-happy-day.mp3",
+          "title": "It Was a Happy Day"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-04-woolly-woolly-lamb.mp3",
+          "title": "Woolly, Woolly Lamb"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-05-jesus-made-the-cows.mp3",
+          "title": "Jesus Made the Cows"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-06-baby-jesus-wash.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-07-baby-jesus-wrap.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-08-baby-jesus-hug.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-09-baby-jesus-sleep.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-10-baby-jesus-you.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-11-with-jesus-in-the-family.mp3",
+          "title": "With Jesus in the Family"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-12-christmas-star.mp3",
+          "title": "Christmas Star"
+        }
+      ]
+    },
+    {
+      "role": "parent",
+      "source": "part-2/12-music-credits/12-music-credits.md",
+      "excluded": "introduction duplicate or publication credits",
+      "englishSha256": "ecd128f3bcb3fe7249609f93f42365877e5d075788017f00eddd3b1db21c0b43",
+      "originalIndonesianSha256": "39499d04a1ae54bb5e3d615cb82138af64e0740359f37e975bd15472185b1785"
+    },
+    {
+      "role": "teacher",
+      "source": "00-introduction/00-introduction.md",
+      "output": "unit-resource-ra110198e1be2/reading.md",
+      "englishSha256": "7fc1d652be47d88527762977d310413935c69bf2a2500d4e01839c022703b657",
+      "originalIndonesianSha256": "750e82fce3834b0ae1a127e13e335dc2f0f7fed3fe152065a0e7ff69b4a348bc",
+      "revisedSha256": "2566fcc15493a55407e1c7791aacdbf63bd650abacb2cf06ec0d7004b48f2b42",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "teacher",
+      "source": "02-curriculum-resources/02-curriculum-resources.md",
+      "output": "unit-resource-r5e4a19565be8/reading.md",
+      "englishSha256": "2a45421b44201acac68e71d6fc22a90ac5a84eb40a6809ff6d4eb014417dee59",
+      "originalIndonesianSha256": "a614cdccaa4dbf45b69949fcfe98c17b5adb5c5c40eece4c69e0ac0015442175",
+      "revisedSha256": "2b34a296ed93502a26856894ce941d4e65358284a88ba323f961f5362f1a3629",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "teacher",
+      "source": "introduction.md",
+      "excluded": "introduction duplicate or publication credits",
+      "englishSha256": "ef2be81f64785fe5454785a8096d6085cf8211593120a754685eca895b34f65c",
+      "originalIndonesianSha256": "4029bc0ee94ae598a405de7c5b52b9d2862625895107f2ee076dda002ee2a83b"
+    },
+    {
+      "role": "teacher",
+      "source": "part-01/01-the-potential/01-the-potential.md",
+      "output": "unit-resource-r473aa92e28c3/reading.md",
+      "englishSha256": "d64e358e69b9b1e876ff5f27dc1b39ef6449abaabaa9c956f8b19a753390191c",
+      "originalIndonesianSha256": "79969f00832ebc90a666b1087b3e9ed555fe66895201c539fec5c8a55367633f",
+      "revisedSha256": "0f8e048a67d8fc96a3fd9cc6220108237431f49f9d2e992a19dfebedda9b773d",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "teacher",
+      "source": "part-02/02-the-purpose/02-the-purpose.md",
+      "output": "unit-resource-r7086b0563b12/reading.md",
+      "englishSha256": "d5ab8b1bd1aba03d7c650563431039897a468ba2cbe71728b4a41310a5217aaa",
+      "originalIndonesianSha256": "e5a59a93c2df344356688e88ca930f6ea5e005a8796364ec7f123d018c565027",
+      "revisedSha256": "9626a931481d23c628168f94841177655631f3127d938c22e104ce452db3fabe",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "teacher",
+      "source": "part-03/03-01-baby-time/03-01-baby-time.md",
+      "output": "unit-resource-r5c73aa4c140b/reading.md",
+      "englishSha256": "f959dee807bc3f4fe80c7c0664329ab56a71725a9b66486031d85060b04569c2",
+      "originalIndonesianSha256": "358d0785a504a2455b1de9e42c76fe385eecb3cd648055340424fce9d33539aa",
+      "revisedSha256": "af844eda16390ed6fb472e766ff37901b1692743e30bd0427c37420561f81fea",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "teacher",
+      "source": "part-03/03-02-parent-time/03-02-parent-time.md",
+      "output": "unit-resource-rbd87f3047778/reading.md",
+      "englishSha256": "906fe5473597a108c2f8333de41cd9d591c93cbf777582b68cc3d3de5beed4cd",
+      "originalIndonesianSha256": "ff3667f897870775e8bb7838d04ee8829a8b95b1e698153c62d13419e91da25c",
+      "revisedSha256": "f00627b292248a080b227d2f436442a0db356ce6ab660a43b7c9cf9a02af7927",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "teacher",
+      "source": "part-03/03-03-home-time/03-03-home-time.md",
+      "output": "unit-resource-r112daf0c088a/reading.md",
+      "englishSha256": "af35c09b25462f13126b6b3aae24d1c1cf19111aeb11a886d1da66f064db46c0",
+      "originalIndonesianSha256": "59d8f4772ee71eb76413d24e4520826424f77118e5bbc1a53b3e5b67ec60cb56",
+      "revisedSha256": "052f7896bb502f5be2c3681f07fc3f139b066b994170abdc893b16376eb38c81",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "teacher",
+      "source": "part-04/04-01-classroom-preparation/04-01-classroom-preparation.md",
+      "output": "unit-resource-r54bc26e5ef0e/reading.md",
+      "englishSha256": "771e7b24e98785bbe90e172a32728542e82f2393df60f259af847df27ab70b65",
+      "originalIndonesianSha256": "a9666ce37f95750e177bbb4a000d4ab69c31e0e0c32c17176a177c2bb1605aff",
+      "revisedSha256": "84321659c23f0380d9c46d88d9dd6751564a2c6afdd20aa0db98b8703469c136",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "teacher",
+      "source": "part-04/04-02-teacher-preparation/04-01-classroom-preparation.md",
+      "output": "unit-resource-r8620ec93f16c/reading.md",
+      "englishSha256": "7c08d11c4d9f9a8dbcf20f41d56afcfcc704d9372e2afde3afdb8fc65107bc8d",
+      "originalIndonesianSha256": "8fea76b5f2339dfc35fa33748d216da26f631b7389645953100fdad3882e31af",
+      "revisedSha256": "c791d725238dfbdd84ca55f3611c56df0fc671f38272bced0defe200477f4b27",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "teacher",
+      "source": "part-05/05-01-scope-and-sequence/05-01-scope-and-sequence.md",
+      "output": "unit-resource-rde5b9ec7f2de/reading.md",
+      "englishSha256": "f81173b16294d6471d041ca99f851c2e419dec09b466acdd550e334693c01d67",
+      "originalIndonesianSha256": "da7c72eb5b71ac47c751c1849ac805804cebbfbe15330c9bf084296621cf3f3f",
+      "revisedSha256": "73c9f49b1f8d533c5603a4708dbbf0b728c99569defec81a27142a069dabca0a",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "teacher",
+      "source": "part-05/05-02-list-of-suggested-materials/05-02-list-of-suggested-materials.md",
+      "output": "unit-resource-r612bc12bd06d/reading.md",
+      "englishSha256": "3bc4ce3af4bd08f1d58f0ef54ed964161124a8a0fd2eb922520d15e8e74da2f9",
+      "originalIndonesianSha256": "a203f3f7880750fd210fb3c0a0c398d648429db8b85a7839c1c0a7b87d809d95",
+      "revisedSha256": "d189fdd190bbbf6281a6f0253c914c6d2cd2506a7ba5ff5c1e01eeae72b46386",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "teacher",
+      "source": "part-05/05-03-lesson-01-creation/05-03-lesson-01-creation.md",
+      "output": "lesson-01/program.md",
+      "englishSha256": "e7cbc69a1bfc26f10098595197a7979364ab01c2bb2ec2263f22a3130aaa67bb",
+      "originalIndonesianSha256": "4d9d2bc4b197762627c33b7c89f37435b1ed30e42b6fa4aa305f253a932fa77d",
+      "revisedSha256": "1dddb35b3634356bd889d8e66b55aac191ad00471aee7c0a0466f20cd0a9e121",
+      "method": "paired-source-editorial-revision",
+      "songs": [
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-01-sabbath-bells.mp3",
+          "title": "Sabbath Bells"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-02-god-made-light.mp3",
+          "title": "God Made the Light, Wind, Water”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-03-god-made-wind.mp3",
+          "title": "God Made the Light, Wind, Water”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3",
+          "title": "God Made the Light, Wind, Water”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-05-happy-floweres.mp3",
+          "title": "I Am Happy as Can Be”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-06-happy-stars.mp3",
+          "title": "I Am Happy as Can Be”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-07-fishy.mp3",
+          "title": "Fishy, Fishy"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-08-animals.mp3",
+          "title": "Animals"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-09-who-am-i.mp3",
+          "title": "Who Am I?"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-10-sabbath.mp3",
+          "title": "The Sabbath"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-11-money.mp3",
+          "title": "Here Is My Money"
+        }
+      ]
+    },
+    {
+      "role": "teacher",
+      "source": "part-05/05-03-lesson-02-good-shepherd/05-03-lesson-02-good-shepherd.md",
+      "output": "lesson-02/program.md",
+      "englishSha256": "e08132c99a6afff110e857d4153d03254fca4b9296f34c5612212b249823b6b7",
+      "originalIndonesianSha256": "63bf6758859b24fa56b766c54a67c04658da7f4f0b2c8b6f0509aa129e315876",
+      "revisedSha256": "f7f68e065c3bc6557d0115d54517228319a3cf39631a6f4f45b8ef4959fa389c",
+      "method": "paired-source-editorial-revision",
+      "songs": [
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-01-sabbath-bells.mp3",
+          "title": "Sabbath Bells"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-02-god-sees-me.mp3",
+          "title": "God Sees Me"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-03-woolly-lamb.mp3",
+          "title": "Woolly, Woolly Lamb"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-04-jesus-good-shepherd-grass.mp3",
+          "title": "Jesus Is the Good Shepherd”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-05-jesus-good-shepherd-water.mp3",
+          "title": "Jesus Is the Good Shepherd”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-06-jesus-good-shepherd-care.mp3",
+          "title": "Jesus Is the Good Shepherd”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-07-jesus-good-shepherd-lambs.mp3",
+          "title": "Jesus Is the Good Shepherd”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-08-who-am-i.mp3",
+          "title": "Who Am I?"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-10-here-is-my-money.mp3",
+          "title": "Here Is My Money"
+        }
+      ]
+    },
+    {
+      "role": "teacher",
+      "source": "part-05/05-03-lesson-03-noah/05-03-lesson-03-noah.md",
+      "output": "lesson-03/program.md",
+      "englishSha256": "a49f53004ca9622a8a810ad1c0564c6130d41349d6584f2668b636ed8d104240",
+      "originalIndonesianSha256": "6ce57861f656be9a9febfc430029c1a9fdd70a76cc2de9ded0b31bcbad1e5001",
+      "revisedSha256": "62a31a4c2d7cca0e8a521f0738e931c51183a2c7a13ffa7c9d730a3ed9c81f96",
+      "method": "paired-source-editorial-revision",
+      "songs": [
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-01-sabbath-bells.mp3",
+          "title": "Sabbath Bells"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-02-noah-was-a-friend-of-god.mp3",
+          "title": "Noah Was a Friend of God"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-03-noah-took-a-hammer.mp3",
+          "title": "Noah Took a Hammer"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-04-into-noahs-ark-birds.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-05-into-noahs-ark-dogs.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-06-into-noahs-ark-cats.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-07-into-noahs-ark-sheep.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-08-into-noahs-ark-chickens.mp3",
+          "title": "Into Noah’s Ark”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-09-i-open-my-bible-carefully.mp3",
+          "title": "I Open My Bible Carefully"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-10-jesus-cares-for-you.mp3",
+          "title": "Jesus Cares for You"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-11-here-is-my-money.mp3",
+          "title": "Here Is My Money"
+        }
+      ]
+    },
+    {
+      "role": "teacher",
+      "source": "part-05/05-03-lesson-04-baby-jesus/05-03-lesson-04-baby-jesus.md",
+      "output": "lesson-04/program.md",
+      "englishSha256": "d28c9c79533ce4ebcffca40d959eca3b44f4e7391d623be97c97fc4c0c526e76",
+      "originalIndonesianSha256": "6f5179551ac0c5852d1a4d3c77900301a181bf6b07d399abcb44cbb3c94a8f29",
+      "revisedSha256": "22ed90afe24cff21617c7b158270fa3576e0fa832a2d931b93e5413ddda22cdc",
+      "method": "paired-source-editorial-revision",
+      "songs": [
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-01-sabbath-bells.mp3",
+          "title": "Sabbath Bells"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-02-clip-clop.mp3",
+          "title": "Clip-Clop"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-03-it-was-a-happy-day.mp3",
+          "title": "It Was a Happy Day"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-04-woolly-woolly-lamb.mp3",
+          "title": "Woolly, Woolly Lamb"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-05-jesus-made-the-cows.mp3",
+          "title": "Jesus Made the Cows"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-06-baby-jesus-wash.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-07-baby-jesus-wrap.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-08-baby-jesus-hug.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-09-baby-jesus-sleep.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-10-baby-jesus-you.mp3",
+          "title": "Baby Jesus”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-11-with-jesus-in-the-family.mp3",
+          "title": "With Jesus in the Family"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-12-christmas-star.mp3",
+          "title": "Christmas Star"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-13-here-is-my-money.mp3",
+          "title": "Here Is My Money"
+        }
+      ]
+    },
+    {
+      "role": "teacher",
+      "source": "part-06/06-00-music/06-00-music.md",
+      "output": "unit-resource-r85c387c42c0c/reading.md",
+      "englishSha256": "cdec5e78d9b11c7d62264df5055c649772578b0fcec56b0760c4fb261f644b2d",
+      "originalIndonesianSha256": "99c9323f033d24e9ffcee774d9ffeb60391153f9780ec400f0a5e77268807197",
+      "revisedSha256": "4d48536bd37f9ae1f2ed1c7e77c92e35be9c69a6c4cc47a351fd4b9d3c60ee17",
+      "method": "paired-source-editorial-revision",
+      "songs": [
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-01-sabbath-bells.mp3",
+          "title": "Sabbath Bells"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-02-god-made-light.mp3",
+          "title": "God Made the Light, Wind, Water"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-03-god-made-wind.mp3",
+          "title": "God Made the Light, Wind, Water"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3",
+          "title": "God Made the Light, Wind, Water"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-05-happy-floweres.mp3",
+          "title": "I Am Happy as Can Be”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-06-happy-stars.mp3",
+          "title": "I Am Happy as Can Be”"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-07-fishy.mp3",
+          "title": "Fishy, Fishy"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-08-animals.mp3",
+          "title": "Animals"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-09-who-am-i.mp3",
+          "title": "Who Am I?"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-10-sabbath.mp3",
+          "title": "The Sabbath"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-11-money.mp3",
+          "title": "Here Is My Money"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-01-sabbath-bells.mp3",
+          "title": "Sabbath Bells"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-02-god-sees-me.mp3",
+          "title": "God Sees Me"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-03-woolly-lamb.mp3",
+          "title": "Woolly, Woolly Lamb"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-04-jesus-good-shepherd-grass.mp3",
+          "title": "Jesus Is the Good Shepherd"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-05-jesus-good-shepherd-water.mp3",
+          "title": "Jesus Is the Good Shepherd"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-06-jesus-good-shepherd-care.mp3",
+          "title": "Jesus Is the Good Shepherd"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-07-jesus-good-shepherd-lambs.mp3",
+          "title": "Jesus Is the Good Shepherd"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-08-who-am-i.mp3",
+          "title": "Who Am I?"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-10-here-is-my-money.mp3",
+          "title": "Here Is My Money"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-01-sabbath-bells.mp3",
+          "title": "Sabbath Bells"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-02-noah-was-a-friend-of-god.mp3",
+          "title": "Noah Was a Friend of God"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-03-noah-took-a-hammer.mp3",
+          "title": "Noah Took a Hammer"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-04-into-noahs-ark-birds.mp3",
+          "title": "Into Noah’s Ark"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-05-into-noahs-ark-dogs.mp3",
+          "title": "Into Noah’s Ark"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-06-into-noahs-ark-cats.mp3",
+          "title": "Into Noah’s Ark"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-07-into-noahs-ark-sheep.mp3",
+          "title": "Into Noah’s Ark"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-08-into-noahs-ark-chickens.mp3",
+          "title": "Into Noah’s Ark"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-09-i-open-my-bible-carefully.mp3",
+          "title": "I Open My Bible Carefully"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-10-jesus-cares-for-you.mp3",
+          "title": "Jesus Cares for You"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-11-here-is-my-money.mp3",
+          "title": "Here Is My Money"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-01-sabbath-bells.mp3",
+          "title": "Sabbath Bells"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-02-clip-clop.mp3",
+          "title": "Clip-Clop"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-03-it-was-a-happy-day.mp3",
+          "title": "It Was a Happy Day"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-04-woolly-woolly-lamb.mp3",
+          "title": "Woolly, Woolly Lamb"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-05-jesus-made-the-cows.mp3",
+          "title": "Jesus Made the Cows"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-06-baby-jesus-wash.mp3",
+          "title": "Baby Jesus"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-07-baby-jesus-wrap.mp3",
+          "title": "Baby Jesus"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-08-baby-jesus-hug.mp3",
+          "title": "Baby Jesus"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-09-baby-jesus-sleep.mp3",
+          "title": "Baby Jesus"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-10-baby-jesus-you.mp3",
+          "title": "Baby Jesus"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-11-with-jesus-in-the-family.mp3",
+          "title": "With Jesus in the Family"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-12-christmas-star.mp3",
+          "title": "Christmas Star"
+        },
+        {
+          "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-13-here-is-my-money.mp3",
+          "title": "Here Is My Money"
+        }
+      ]
+    },
+    {
+      "role": "teacher",
+      "source": "part-06/06-01-references-and-resources/06-01-references-and-resources.md",
+      "output": "unit-resource-r190edca514fe/reading.md",
+      "englishSha256": "49daaf42c8bf9c51f65fdeddea00f86956ade6870a1819535b400f4afa1b4a51",
+      "originalIndonesianSha256": "c87c9b675e1328a38ade6179429521fa95eb600865875f42db6eaaf87b8f40e1",
+      "revisedSha256": "652524e846016db951ebdaf2c20df874237d548fbeb773c2d424661e4dd9cd63",
+      "method": "paired-source-editorial-revision",
+      "songs": []
+    },
+    {
+      "role": "teacher",
+      "source": "part-06/06-02-music-credits/06-02-music-credits.md",
+      "excluded": "introduction duplicate or publication credits",
+      "englishSha256": "e929e6db06e1cd1a11feeb658e190a27e1aa34be72b3ac8104dd91201ec37351",
+      "originalIndonesianSha256": "0a975a1a197472b14ed4d0edb40a9a8303abdc75e86dc50294d324de1015fc5f"
+    },
+    {
+      "role": "parent-time",
+      "source": "01/01.md",
+      "englishPdfPages": [
+        3,
+        4
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "f120e6b03f492d7a113de10452a11f38f5d68c6537243acd5c5abe1da365da63",
+      "revisedSha256": "dcc5f93ac69b43c5617a0679dad7921ed273c7326d3d23d3b0f8ccbcad41031c",
+      "method": "source-pdf-compared-editorial-revision"
+    },
+    {
+      "role": "parent-time",
+      "source": "02/02.md",
+      "englishPdfPages": [
+        5,
+        6
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "989f18af7b848891f25e7b4c2511b75c3f8452710a45be71c0ef2c5f9a175dbf",
+      "revisedSha256": "f3e1ad493468738036908b3dce39a1810d053ddcbad6da94a561427e4dd2dacc",
+      "method": "source-pdf-compared-editorial-revision"
+    },
+    {
+      "role": "parent-time",
+      "source": "03/03.md",
+      "englishPdfPages": [
+        7,
+        8
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "f448b94a79919a5ee26d60028b2debbd32b34191f38844628f9b63098a7d4aaf",
+      "revisedSha256": "d156f6646342dc723c90d7558959f61829435292b0685959478d335558dc808d",
+      "method": "source-pdf-compared-editorial-revision"
+    },
+    {
+      "role": "parent-time",
+      "source": "04/04.md",
+      "englishPdfPages": [
+        9,
+        10
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "a6b7b4687a5439e9dbe5e21b90ecb76b236351ee6aa0872431e53942e1c49cab",
+      "revisedSha256": "f294b6ee28635fa504a0c1b9f8a027fb94826a639a11a99ba3144c3a4c558cef",
+      "method": "source-pdf-compared-editorial-revision"
+    },
+    {
+      "role": "parent-time",
+      "source": "05/05.md",
+      "englishPdfPages": [
+        11,
+        12
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "5f390cde5fa2a6dcba790ebd00efbc609d5c6915e0aae0c0b6f401f05352b1b8",
+      "revisedSha256": "f4eb335413ea0f623c3761686e6ff332b5caf93212e02e44d52b50a0100b20ad",
+      "method": "source-pdf-compared-editorial-revision"
+    },
+    {
+      "role": "parent-time",
+      "source": "06/06.md",
+      "englishPdfPages": [
+        13,
+        14
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "9af092e5eadd1121aa8ea9fd0f57c7a44bb2bd3689893dd0c065868249b01143",
+      "revisedSha256": "989d174c003df825b9d592f42fce6f223f71ca910579c44c1c1dc49e5af6af92",
+      "method": "source-pdf-compared-editorial-revision"
+    },
+    {
+      "role": "parent-time",
+      "source": "07/07.md",
+      "englishPdfPages": [
+        15,
+        16
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "2c8ad8660a2b058b153d1ffe2cb512929eb61c50476f8136a01c61cf5402f5e5",
+      "revisedSha256": "73a7faa6a9434f7270e0d594b961dbdb2d13ec060478c837e08443441b1562f2",
+      "method": "source-pdf-compared-editorial-revision"
+    },
+    {
+      "role": "parent-time",
+      "source": "08/08.md",
+      "englishPdfPages": [
+        17,
+        18
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "f354401c44f53e717fb86f702c3d099df473e72eab941c94dd2a7319ee2a16af",
+      "revisedSha256": "ae072eb8123becb46c7dfce9cebd1b06686c5827df605e0964d820d50d867fd2",
+      "method": "source-pdf-compared-editorial-revision"
+    },
+    {
+      "role": "parent-time",
+      "source": "09/09.md",
+      "englishPdfPages": [
+        19,
+        20
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "88cda3c7a57c27910a49b0abe3c49e8e51cbdafd90852354564c687e1e3ddebb",
+      "revisedSha256": "c47c05aa206ccd268e01c561087fd773cda81da863ab0988d58380a7a45a5961",
+      "method": "source-pdf-compared-editorial-revision"
+    },
+    {
+      "role": "parent-time",
+      "source": "10/10.md",
+      "englishPdfPages": [
+        21,
+        22
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "d3fd09f2567b8226887115559232f030a9b32f0d27fdad0bfe7530acac162c82",
+      "revisedSha256": "d6b8ec9dce8edee874fe26c27d55085c13d30d935ef26c3e57169ce5fd50b327",
+      "method": "source-pdf-compared-editorial-revision"
+    },
+    {
+      "role": "parent-time",
+      "source": "11/11.md",
+      "englishPdfPages": [
+        23,
+        24
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "6013f39ec412b2991ad0fe3e3f0d5e2f60a7c96dce38ebd2091b18f758085b32",
+      "revisedSha256": "8ef9e98ab8ea633ded0adc06bcaa41c1772ca662b687705793d01a9a3b98b671",
+      "method": "source-pdf-compared-editorial-revision"
+    },
+    {
+      "role": "parent-time",
+      "source": "12/12.md",
+      "englishPdfPages": [
+        25,
+        26
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "d2a68f98b133f3f8e136fbc83030303de3b8ea69e49ba81584896b8df53af2a6",
+      "revisedSha256": "da698c4de1a414742a1c6bc0383bcb1e5cdb474ea9de8112f7c23a428de2b6b7",
+      "method": "source-pdf-compared-editorial-revision"
+    },
+    {
+      "role": "parent-time",
+      "source": "13/13.md",
+      "englishPdfPages": [
+        27,
+        28
+      ],
+      "englishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+      "originalIndonesianSha256": "1e7bee3e383118cfb8b4d3404b86435fe6de00623590ea8b1c32ec08b904faf2",
+      "revisedSha256": "a570ba8d098873566e65ac0e1799652d74bb2ea96455b8802059e1512873d26e",
+      "method": "source-pdf-compared-editorial-revision"
+    }
+  ],
+  "notes": [
+    "English and Indonesian source pairs were checked for matching files and structure. The Indonesian text remains unpublished until the translation team completes its editorial review.",
+    "The Baby Jesus source incorrectly lists Luke 19:1–10 in the parent book; corrected against parent PDF page 89 and teacher PDF page 22 to Luke 2:1–20.",
+    "The English source year is 2025; 2026 dates in this edition define the local reading cycle and do not imply a new source edition.",
+    "English song titles are preserved, Indonesian titles are presented as subtitles, and playable audio links point to the official provider.",
+    "Parent Time Series 1 Q1 was compared with the English PDF by session/page range and source hash; the reference PDF is not copied into this Indonesian content repository.",
+    "Source credits and publication metadata are retained in audit/edition metadata and are not inserted as reader-facing lesson paragraphs."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "2026-q1-aij-babies-teacher",
+  "programId": "alive-in-jesus-bb-pb",
+  "locale": "id",
+  "trackId": "babies",
+  "cycleId": "annual",
+  "bookRole": "teacher-guide",
+  "structureType": "quarterly-repeat-program",
+  "dayOrder": null,
+  "title": "Baby Steps · Panduan Guru · Panduan Sepanjang Tahun",
+  "description": "Alive in Jesus · Babies · Usia 0–12 bulan",
+  "theme": "Bertumbuh Bersama Yesus",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "sourceEditionId": "2025-00-bb-tg",
+  "englishEditionId": "2025-01-yaijbbtg",
+  "sourceYear": 2025,
+  "cover": "editions/2026-q1-aij-babies-teacher/assets/cover.png",
+  "sourceName": "Alive in Jesus · Babies",
+  "sourceUrl": "https://babies.aliveinjesus.info/",
+  "attribution": "© General Conference of Seventh-day Adventists®.",
+  "rightsStatement": "Materi diterjemahkan oleh tim SabatKu berdasarkan sumber resmi.",
+  "publicationStatus": "draft",
+  "sourceReviewRequired": true,
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "title": "Penciptaan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-03-31"
+    },
+    {
+      "id": "lesson-02",
+      "title": "Gembala yang Baik",
+      "startDate": "2026-04-01",
+      "endDate": "2026-06-30"
+    },
+    {
+      "id": "lesson-03",
+      "title": "Nuh dan Hewan-Hewan",
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-30"
+    },
+    {
+      "id": "lesson-04",
+      "title": "Bayi Yesus",
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-ra110198e1be2",
+      "title": "Perkenalan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r5e4a19565be8",
+      "title": "Baby Steps: Bahan Kurikulum Bertumbuh Bersama Yesus",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r473aa92e28c3",
+      "title": "Potensi",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r7086b0563b12",
+      "title": "Tujuan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r5c73aa4c140b",
+      "title": "Rencana",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-rbd87f3047778",
+      "title": "2. Waktu Bersama Orang Tua",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r112daf0c088a",
+      "title": "3. Waktu di Rumah",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r54bc26e5ef0e",
+      "title": "Persiapan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r8620ec93f16c",
+      "title": "Persiapan Guru",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-rde5b9ec7f2de",
+      "title": "Program",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r612bc12bd06d",
+      "title": "Daftar Bahan yang Disarankan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r85c387c42c0c",
+      "title": "Musik",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r190edca514fe",
+      "title": "Referensi dan Bahan Pendamping",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    }
+  ]
+}

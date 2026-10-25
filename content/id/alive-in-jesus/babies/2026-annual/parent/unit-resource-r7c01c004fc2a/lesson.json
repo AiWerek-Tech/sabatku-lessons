@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r7c01c004fc2a",
+  "title": "Mulailah Membangun Kebiasaan Baik",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Mulailah Membangun Kebiasaan Baik",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

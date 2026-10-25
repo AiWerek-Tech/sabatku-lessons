@@ -1,0 +1,14 @@
+{
+  "id": "lesson-02",
+  "title": "Gembala yang Baik",
+  "startDate": "2026-04-01",
+  "endDate": "2026-06-30",
+  "readings": [
+    {
+      "key": "program",
+      "title": "Gembala yang Baik",
+      "date": "2026-04-01",
+      "file": "program.md"
+    }
+  ]
+}

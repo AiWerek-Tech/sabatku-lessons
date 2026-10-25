@@ -1,0 +1,105 @@
+{
+  "id": "2026-q1-aij-babies-parent-time",
+  "programId": "alive-in-jesus-bb-pb",
+  "locale": "id",
+  "trackId": "babies",
+  "cycleId": "annual",
+  "bookRole": "parent-time-handout",
+  "structureType": "weekly-parent-discussion",
+  "dayOrder": null,
+  "title": "Baby Steps · Parent Time · Seri 1: Mengasuh Anak dengan Tujuan",
+  "description": "Bahan diskusi orang tua · 13 sesi · Seri pertama",
+  "theme": "Mengasuh Anak dengan Tujuan",
+  "startDate": "2026-01-01",
+  "endDate": "2026-03-31",
+  "sourceEditionId": "2025-01-bb-pth",
+  "englishEditionId": "2025-01-xaijbbpthone",
+  "sourceYear": 2025,
+  "cover": "editions/2026-q1-aij-babies-parent-time/assets/cover.png",
+  "sourceName": "Alive in Jesus · Babies",
+  "sourceUrl": "https://babies.aliveinjesus.info/",
+  "attribution": "© General Conference of Seventh-day Adventists®.",
+  "rightsStatement": "Materi diterjemahkan oleh tim SabatKu berdasarkan sumber resmi.",
+  "publicationStatus": "draft",
+  "sourceReviewRequired": true,
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "title": "Impian",
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-07"
+    },
+    {
+      "id": "lesson-02",
+      "title": "Menumbuhkan",
+      "startDate": "2026-01-08",
+      "endDate": "2026-01-14"
+    },
+    {
+      "id": "lesson-03",
+      "title": "Memperjelas Tujuan",
+      "startDate": "2026-01-15",
+      "endDate": "2026-01-21"
+    },
+    {
+      "id": "lesson-04",
+      "title": "Melangkah",
+      "startDate": "2026-01-22",
+      "endDate": "2026-01-28"
+    },
+    {
+      "id": "lesson-05",
+      "title": "Memberi Teladan",
+      "startDate": "2026-01-29",
+      "endDate": "2026-02-04"
+    },
+    {
+      "id": "lesson-06",
+      "title": "Tinggal di Dalam Kristus",
+      "startDate": "2026-02-05",
+      "endDate": "2026-02-11"
+    },
+    {
+      "id": "lesson-07",
+      "title": "Membaca Firman",
+      "startDate": "2026-02-12",
+      "endDate": "2026-02-18"
+    },
+    {
+      "id": "lesson-08",
+      "title": "Beristirahat",
+      "startDate": "2026-02-19",
+      "endDate": "2026-02-25"
+    },
+    {
+      "id": "lesson-09",
+      "title": "Perlambat Langkah",
+      "startDate": "2026-02-26",
+      "endDate": "2026-03-04"
+    },
+    {
+      "id": "lesson-10",
+      "title": "Memperhatikan",
+      "startDate": "2026-03-05",
+      "endDate": "2026-03-11"
+    },
+    {
+      "id": "lesson-11",
+      "title": "Berkata-kata",
+      "startDate": "2026-03-12",
+      "endDate": "2026-03-18"
+    },
+    {
+      "id": "lesson-12",
+      "title": "Beribadah",
+      "startDate": "2026-03-19",
+      "endDate": "2026-03-25"
+    },
+    {
+      "id": "lesson-13",
+      "title": "Duduk dan Merenungkan",
+      "startDate": "2026-03-26",
+      "endDate": "2026-03-31"
+    }
+  ]
+}

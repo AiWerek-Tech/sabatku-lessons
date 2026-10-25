@@ -1,0 +1,14 @@
+{
+  "startDate": "2026-07-01",
+  "id": "lesson-01",
+  "readings": [
+    {
+      "date": "2026-07-01",
+      "file": "discussion.md",
+      "title": "Hati Sang Bapa",
+      "key": "discussion"
+    }
+  ],
+  "title": "Hati Sang Bapa",
+  "endDate": "2026-07-07"
+}

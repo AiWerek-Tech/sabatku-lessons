@@ -1,54 +1,54 @@
 ### Lagu-lagu Alkitab
 
-[♫ Ibrani 13:16 · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10-hebrews-13-16.mp3)
+[♫ Hebrews 13:16 (Ibrani 13:16) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10-hebrews-13-16.mp3)
 
-[♫ Matius 1:21 · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/20-matthew-1-21.mp3)
+[♫ Matthew 1:21 (Matius 1:21) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/20-matthew-1-21.mp3)
 
-### Lagu-lagu Pujian Minggu -8
+### Lagu Pujian Pekan 1–8
 
-[♫ Tik-Tok · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/01-tick-tock.mp3)
+[♫ Tick-Tock (Tik-Tok) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/01-tick-tock.mp3)
 
-[♫ Hari Sabat · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/02-the-sabbath.mp3)
+[♫ The Sabbath (Hari Sabat) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/02-the-sabbath.mp3)
 
-[♫ Penolong Kecil Tuhan · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/03-gods-little-helper.mp3)
+[♫ God’s Little Helper (Penolong Kecil Tuhan) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/03-gods-little-helper.mp3)
 
-[♫ Aku Seorang Penolong Kecil · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/04-im-a-little-helper.mp3)
+[♫ I’m a Little Helper (Aku Seorang Penolong Kecil) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/04-im-a-little-helper.mp3)
 
-[♫ Ayo kita simpan semua mainan kita · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3)
+[♫ Let’s Put All Our Toys Away (Mari Bereskan Semua Mainan Kita) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3)
 
-[♫ Saat Ibu Memanggil · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/06-when-a-mother-calls.mp3)
+[♫ When a Mother Calls (Saat Ibu Memanggil) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/06-when-a-mother-calls.mp3)
 
-[♫ Bersama Yesus dalam Keluarga · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/07-with-jesus-in-the-family.mp3)
+[♫ With Jesus in the Family (Bersama Yesus dalam Keluarga) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/07-with-jesus-in-the-family.mp3)
 
-### Lagu-lagu Pujian Minggu -13
+### Lagu Pujian Pekan 9–13
 
-[♫ Bintang Natal · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/14-christmas-star.mp3)
+[♫ Christmas Star (Bintang Natal) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/14-christmas-star.mp3)
 
-[♫ Naik Unta · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/15-riding-on-a-camel.mp3)
+[♫ Riding on a Camel (Menunggang Unta) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/15-riding-on-a-camel.mp3)
 
-[♫ Aku Akan Berbagi Rumahku · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/16-ill-share-my-home.mp3)
+[♫ I’ll Share My Home (Aku Akan Berbagi Rumahku) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/16-ill-share-my-home.mp3)
 
-[♫ Itu adalah hari yang membahagiakan · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/17-it-was-a-happy-day.mp3)
+[♫ It Was a Happy Day (Hari yang Membahagiakan) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/17-it-was-a-happy-day.mp3)
 
-[♫ Bayi Yesus · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/18-baby-jesus.mp3)
+[♫ Baby Jesus (Bayi Yesus) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/18-baby-jesus.mp3)
 
-[♫ Siapakah Yesus? · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/19-who-is-jesus.mp3)
+[♫ Who Is Jesus? (Siapakah Yesus?) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/19-who-is-jesus.mp3)
 
 ### Lagu-lagu Program
 
-[♫ Saatnya Berdoa · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3)
+[♫ When It’s Time to Pray (Saatnya Berdoa) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3)
 
-[♫ Saya Membuka Alkitab Saya dengan Hati-hati · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3)
+[♫ I Open My Bible Carefully (Aku Membuka Alkitab dengan Hati-hati) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3)
 
-[♫ Ini Uangku · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3)
+[♫ Here Is My Money (Inilah Persembahanku) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3)
 
-[♫ Kotak Alam · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3)
+[♫ Nature Box (Kotak Alam) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3)
 
-[♫ Kita kedatangan tamu · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3)
+[♫ We Have a Visitor (Ada Tamu di Kelas Kita) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3)
 
-[♫ Selamat ulang tahun · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3)
+[♫ Happy Birthday (Selamat Ulang Tahun) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3)
 
-[♫ Sekolah Sabat Telah Berakhir · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3)
+[♫ Sabbath School Is Over (Sekolah Sabat Telah Usai) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3)
 
 ### Podcast Mingguan
 

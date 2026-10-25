@@ -1,0 +1,1 @@
+Apakah di tengah kesibukan menjadi orang tua, Anda merindukan hubungan yang lebih dekat dengan Allah? Datanglah mendekat kepada-Nya melalui pesan-pesan yang menguatkan dan kiat praktis dalam bahan ini. Apa yang Anda pelajari juga dapat memengaruhi kehidupan bayi dan suasana rumah Anda.

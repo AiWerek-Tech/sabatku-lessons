@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r6ed154053a30",
+  "title": "3–6 Bulan",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "3–6 Bulan",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

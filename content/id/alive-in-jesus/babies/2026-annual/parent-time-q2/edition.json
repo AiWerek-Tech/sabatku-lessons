@@ -1,0 +1,105 @@
+{
+  "sourceName": "Alive in Jesus · Babies",
+  "englishEditionId": "2025-02-xaijbbpth2one",
+  "id": "2026-q2-aij-babies-parent-time",
+  "description": "Bahan diskusi orang tua · Triwulan II · 13 sesi",
+  "sourceUrl": "https://babies.aliveinjesus.info/",
+  "sourceReviewRequired": true,
+  "rightsStatement": "Terjemahan bahasa Indonesia dari materi resmi Alive in Jesus; menunggu pemeriksaan tim.",
+  "sourceYear": 2025,
+  "structureType": "weekly-parent-discussion",
+  "bookRole": "parent-time-handout",
+  "publicationStatus": "draft",
+  "cover": "editions/2026-q2-aij-babies-parent-time/assets/cover.png",
+  "startDate": "2026-04-01",
+  "theme": "Bertumbuh dalam Hubungan dengan Allah",
+  "attribution": "© General Conference of Seventh-day Adventists®.",
+  "cycleId": "annual",
+  "endDate": "2026-06-30",
+  "lessons": [
+    {
+      "startDate": "2026-04-01",
+      "id": "lesson-01",
+      "title": "Pemeriksaan Diri",
+      "endDate": "2026-04-07"
+    },
+    {
+      "startDate": "2026-04-08",
+      "id": "lesson-02",
+      "title": "Mengenal Allah",
+      "endDate": "2026-04-14"
+    },
+    {
+      "startDate": "2026-04-15",
+      "id": "lesson-03",
+      "title": "Kesombongan dan Kerendahan Hati",
+      "endDate": "2026-04-21"
+    },
+    {
+      "startDate": "2026-04-22",
+      "id": "lesson-04",
+      "title": "Alkitab",
+      "endDate": "2026-04-28"
+    },
+    {
+      "startDate": "2026-04-29",
+      "id": "lesson-05",
+      "title": "Cara Mempelajari Alkitab",
+      "endDate": "2026-05-05"
+    },
+    {
+      "startDate": "2026-05-06",
+      "id": "lesson-06",
+      "title": "Doa",
+      "endDate": "2026-05-12"
+    },
+    {
+      "startDate": "2026-05-13",
+      "id": "lesson-07",
+      "title": "Iman",
+      "endDate": "2026-05-19"
+    },
+    {
+      "startDate": "2026-05-20",
+      "id": "lesson-08",
+      "title": "Dosa dan Hukum",
+      "endDate": "2026-05-26"
+    },
+    {
+      "startDate": "2026-05-27",
+      "id": "lesson-09",
+      "title": "Pertobatan dan Pengampunan",
+      "endDate": "2026-06-02"
+    },
+    {
+      "startDate": "2026-06-03",
+      "id": "lesson-10",
+      "title": "Kemunduran",
+      "endDate": "2026-06-09"
+    },
+    {
+      "startDate": "2026-06-10",
+      "id": "lesson-11",
+      "title": "Menceritakan tentang Yesus",
+      "endDate": "2026-06-16"
+    },
+    {
+      "startDate": "2026-06-17",
+      "id": "lesson-12",
+      "title": "Kekekalan",
+      "endDate": "2026-06-23"
+    },
+    {
+      "startDate": "2026-06-24",
+      "id": "lesson-13",
+      "title": "Datanglah",
+      "endDate": "2026-06-30"
+    }
+  ],
+  "programId": "alive-in-jesus-bb-pb",
+  "title": "Baby Steps · Parent Time · Triwulan II: Bertumbuh dalam Hubungan dengan Allah",
+  "dayOrder": null,
+  "trackId": "babies",
+  "sourceEditionId": "2025-02-bb-pth",
+  "locale": "id"
+}

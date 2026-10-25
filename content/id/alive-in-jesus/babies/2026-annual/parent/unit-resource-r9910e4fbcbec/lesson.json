@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r9910e4fbcbec",
+  "title": "Rutinitas dan Kerapian di Rumah Anda",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Rutinitas dan Kerapian di Rumah Anda",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

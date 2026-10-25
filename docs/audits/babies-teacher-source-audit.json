@@ -1,0 +1,486 @@
+{
+  "schemaVersion": "alive-in-jesus-translation-audit-v1",
+  "englishFiles": 19,
+  "indonesianFiles": 19,
+  "matchedFiles": 19,
+  "missingIndonesian": [],
+  "missingEnglish": [],
+  "flaggedPairCount": 0,
+  "pairs": [
+    {
+      "path": "00-introduction/00-introduction.md",
+      "englishSha256": "7fc1d652be47d88527762977d310413935c69bf2a2500d4e01839c022703b657",
+      "indonesianSha256": "750e82fce3834b0ae1a127e13e335dc2f0f7fed3fe152065a0e7ff69b4a348bc",
+      "english": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 6,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02-curriculum-resources/02-curriculum-resources.md",
+      "englishSha256": "2a45421b44201acac68e71d6fc22a90ac5a84eb40a6809ff6d4eb014417dee59",
+      "indonesianSha256": "a614cdccaa4dbf45b69949fcfe98c17b5adb5c5c40eece4c69e0ac0015442175",
+      "english": {
+        "paragraphs": 10,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 10,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "introduction.md",
+      "englishSha256": "ef2be81f64785fe5454785a8096d6085cf8211593120a754685eca895b34f65c",
+      "indonesianSha256": "4029bc0ee94ae598a405de7c5b52b9d2862625895107f2ee076dda002ee2a83b",
+      "english": {
+        "paragraphs": 3,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 0,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 3,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 0,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-01/01-the-potential/01-the-potential.md",
+      "englishSha256": "d64e358e69b9b1e876ff5f27dc1b39ef6449abaabaa9c956f8b19a753390191c",
+      "indonesianSha256": "79969f00832ebc90a666b1087b3e9ed555fe66895201c539fec5c8a55367633f",
+      "english": {
+        "paragraphs": 8,
+        "bulletItems": 8,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 8,
+        "bulletItems": 8,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-02/02-the-purpose/02-the-purpose.md",
+      "englishSha256": "d5ab8b1bd1aba03d7c650563431039897a468ba2cbe71728b4a41310a5217aaa",
+      "indonesianSha256": "e5a59a93c2df344356688e88ca930f6ea5e005a8796364ec7f123d018c565027",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 12,
+        "images": 0,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 12,
+        "images": 0,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-03/03-01-baby-time/03-01-baby-time.md",
+      "englishSha256": "f959dee807bc3f4fe80c7c0664329ab56a71725a9b66486031d85060b04569c2",
+      "indonesianSha256": "358d0785a504a2455b1de9e42c76fe385eecb3cd648055340424fce9d33539aa",
+      "english": {
+        "paragraphs": 22,
+        "bulletItems": 4,
+        "images": 2,
+        "styleBlocks": 9,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 22,
+        "bulletItems": 5,
+        "images": 2,
+        "styleBlocks": 9,
+        "scriptureLikeRefs": 0,
+        "separators": 3,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-03/03-02-parent-time/03-02-parent-time.md",
+      "englishSha256": "906fe5473597a108c2f8333de41cd9d591c93cbf777582b68cc3d3de5beed4cd",
+      "indonesianSha256": "ff3667f897870775e8bb7838d04ee8829a8b95b1e698153c62d13419e91da25c",
+      "english": {
+        "paragraphs": 7,
+        "bulletItems": 6,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 7,
+        "bulletItems": 6,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-03/03-03-home-time/03-03-home-time.md",
+      "englishSha256": "af35c09b25462f13126b6b3aae24d1c1cf19111aeb11a886d1da66f064db46c0",
+      "indonesianSha256": "59d8f4772ee71eb76413d24e4520826424f77118e5bbc1a53b3e5b67ec60cb56",
+      "english": {
+        "paragraphs": 23,
+        "bulletItems": 44,
+        "images": 0,
+        "styleBlocks": 8,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 23,
+        "bulletItems": 44,
+        "images": 0,
+        "styleBlocks": 8,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-04/04-01-classroom-preparation/04-01-classroom-preparation.md",
+      "englishSha256": "771e7b24e98785bbe90e172a32728542e82f2393df60f259af847df27ab70b65",
+      "indonesianSha256": "a9666ce37f95750e177bbb4a000d4ab69c31e0e0c32c17176a177c2bb1605aff",
+      "english": {
+        "paragraphs": 20,
+        "bulletItems": 26,
+        "images": 1,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 20,
+        "bulletItems": 26,
+        "images": 1,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-04/04-02-teacher-preparation/04-01-classroom-preparation.md",
+      "englishSha256": "7c08d11c4d9f9a8dbcf20f41d56afcfcc704d9372e2afde3afdb8fc65107bc8d",
+      "indonesianSha256": "8fea76b5f2339dfc35fa33748d216da26f631b7389645953100fdad3882e31af",
+      "english": {
+        "paragraphs": 13,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 13,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-05/05-01-scope-and-sequence/05-01-scope-and-sequence.md",
+      "englishSha256": "f81173b16294d6471d041ca99f851c2e419dec09b466acdd550e334693c01d67",
+      "indonesianSha256": "da7c72eb5b71ac47c751c1849ac805804cebbfbe15330c9bf084296621cf3f3f",
+      "english": {
+        "paragraphs": 10,
+        "bulletItems": 12,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 10,
+        "bulletItems": 12,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-05/05-02-list-of-suggested-materials/05-02-list-of-suggested-materials.md",
+      "englishSha256": "3bc4ce3af4bd08f1d58f0ef54ed964161124a8a0fd2eb922520d15e8e74da2f9",
+      "indonesianSha256": "a203f3f7880750fd210fb3c0a0c398d648429db8b85a7839c1c0a7b87d809d95",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 47,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 47,
+        "images": 0,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-05/05-03-lesson-01-creation/05-03-lesson-01-creation.md",
+      "englishSha256": "e7cbc69a1bfc26f10098595197a7979364ab01c2bb2ec2263f22a3130aaa67bb",
+      "indonesianSha256": "4d9d2bc4b197762627c33b7c89f37435b1ed30e42b6fa4aa305f253a932fa77d",
+      "english": {
+        "paragraphs": 49,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 3,
+        "rawAudioMetadata": 11
+      },
+      "indonesian": {
+        "paragraphs": 49,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 3,
+        "rawAudioMetadata": 11
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-05/05-03-lesson-02-good-shepherd/05-03-lesson-02-good-shepherd.md",
+      "englishSha256": "e08132c99a6afff110e857d4153d03254fca4b9296f34c5612212b249823b6b7",
+      "indonesianSha256": "63bf6758859b24fa56b766c54a67c04658da7f4f0b2c8b6f0509aa129e315876",
+      "english": {
+        "paragraphs": 41,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 3,
+        "rawAudioMetadata": 9
+      },
+      "indonesian": {
+        "paragraphs": 41,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 3,
+        "rawAudioMetadata": 9
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-05/05-03-lesson-03-noah/05-03-lesson-03-noah.md",
+      "englishSha256": "a49f53004ca9622a8a810ad1c0564c6130d41349d6584f2668b636ed8d104240",
+      "indonesianSha256": "6ce57861f656be9a9febfc430029c1a9fdd70a76cc2de9ded0b31bcbad1e5001",
+      "english": {
+        "paragraphs": 47,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 3,
+        "rawAudioMetadata": 11
+      },
+      "indonesian": {
+        "paragraphs": 47,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 3,
+        "rawAudioMetadata": 11
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-05/05-03-lesson-04-baby-jesus/05-03-lesson-04-baby-jesus.md",
+      "englishSha256": "d28c9c79533ce4ebcffca40d959eca3b44f4e7391d623be97c97fc4c0c526e76",
+      "indonesianSha256": "6f5179551ac0c5852d1a4d3c77900301a181bf6b07d399abcb44cbb3c94a8f29",
+      "english": {
+        "paragraphs": 48,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 3,
+        "rawAudioMetadata": 13
+      },
+      "indonesian": {
+        "paragraphs": 48,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 3,
+        "rawAudioMetadata": 13
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-06/06-00-music/06-00-music.md",
+      "englishSha256": "cdec5e78d9b11c7d62264df5055c649772578b0fcec56b0760c4fb261f644b2d",
+      "indonesianSha256": "99c9323f033d24e9ffcee774d9ffeb60391153f9780ec400f0a5e77268807197",
+      "english": {
+        "paragraphs": 53,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 44
+      },
+      "indonesian": {
+        "paragraphs": 53,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 44
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-06/06-01-references-and-resources/06-01-references-and-resources.md",
+      "englishSha256": "49daaf42c8bf9c51f65fdeddea00f86956ade6870a1819535b400f4afa1b4a51",
+      "indonesianSha256": "c87c9b675e1328a38ade6179429521fa95eb600865875f42db6eaaf87b8f40e1",
+      "english": {
+        "paragraphs": 28,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 28,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-06/06-02-music-credits/06-02-music-credits.md",
+      "englishSha256": "e929e6db06e1cd1a11feeb658e190a27e1aa34be72b3ac8104dd91201ec37351",
+      "indonesianSha256": "0a975a1a197472b14ed4d0edb40a9a8303abdc75e86dc50294d324de1015fc5f",
+      "english": {
+        "paragraphs": 24,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 24,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    }
+  ]
+}

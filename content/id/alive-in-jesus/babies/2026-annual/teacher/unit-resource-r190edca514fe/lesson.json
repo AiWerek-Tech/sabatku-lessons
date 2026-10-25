@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r190edca514fe",
+  "title": "Referensi dan Bahan Pendamping",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Referensi dan Bahan Pendamping",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

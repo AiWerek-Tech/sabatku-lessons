@@ -1,0 +1,936 @@
+{
+  "schemaVersion": "alive-in-jesus-translation-audit-v1",
+  "englishFiles": 37,
+  "indonesianFiles": 37,
+  "matchedFiles": 37,
+  "missingIndonesian": [],
+  "missingEnglish": [],
+  "flaggedPairCount": 0,
+  "pairs": [
+    {
+      "path": "00-introduction/00-introduction.md",
+      "englishSha256": "78fe04c2d4375a7336d027958d323627874c9d35016456dfc90c6f8ee1ee47f1",
+      "indonesianSha256": "7381b803e2918842f11b9cc5028578d79c2aa7b773a4942753793273ef9410f2",
+      "english": {
+        "paragraphs": 9,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 9,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "01-growing-with-jesus-resources/01-growing-with-jesus-resources.md",
+      "englishSha256": "41a5ef37320d96df416a07d08320d811be5d1272e2616704a0f9c14104b8d5f6",
+      "indonesianSha256": "282d4c13f11f8c291f0708789fee8dcf52815ee38d7452934bd51eaa0ea9bfbb",
+      "english": {
+        "paragraphs": 10,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 10,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "02-your-baby/02-your-baby.md",
+      "englishSha256": "069667c1f278c7457f0cabfa142c62280a6d3fd0f21705caa32de53a2b437cd9",
+      "indonesianSha256": "a4b85b9d5de0e248acf94f1b5b6a1f36c1920ef93ebb6d6df2151f08d88bce86",
+      "english": {
+        "paragraphs": 16,
+        "bulletItems": 7,
+        "images": 3,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 16,
+        "bulletItems": 7,
+        "images": 3,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "03-how-to-use-this-parent-book/03-how-to-use-this-parent-book.md",
+      "englishSha256": "d9c8c475d63e0986fc6726a61074320708c47e235ce856d401aa026a1446ee40",
+      "indonesianSha256": "ffe79dfc594bab8331746e465903964b9d7f2c85a3e9a5a0b8b379b3850370b9",
+      "english": {
+        "paragraphs": 19,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 19,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "introduction.md",
+      "englishSha256": "afaecbeefa3323b25a9305dca28349c01e1830c4d427c982a7b5bd57e699820e",
+      "indonesianSha256": "373f4ab799521e20ef68a48efff248f5d0549b1cedbc6dfd667e8664526b8cff",
+      "english": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 0,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 0,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/03-the-foundation-for-spiritual-growth/03-love.md",
+      "englishSha256": "0a6aa1bea8931afd6321db200c62a517c9d3c04a4137cd5f49768febac76498b",
+      "indonesianSha256": "8c49f6cc911987f0b4cb6da3320002be273ef384e43153be87d3ff466095c2c9",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 3,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/03-the-foundation-for-spiritual-growth/04-trust.md",
+      "englishSha256": "4eadb7a26868f780af2b4c40a7c0e0aa606a59fdf1d8a86eb7399bd0aa67ae1d",
+      "indonesianSha256": "95e2e0495bc12e3ab70a838c3a47c18446af2be9eacd1f357d48780826fae7d1",
+      "english": {
+        "paragraphs": 7,
+        "bulletItems": 6,
+        "images": 1,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 7,
+        "bulletItems": 6,
+        "images": 1,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/03-the-foundation-for-spiritual-growth/05-obedience.md",
+      "englishSha256": "8862923061b8d65cc0e9ef01bfc472ebcdeed93552791d6007331fddc327da11",
+      "indonesianSha256": "efc93a3cfe309a4e639b5534efe504a9b379090cf71c3dad68c74b86778d02b4",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/04-your-own-spiritual-needs/04-01-your-own-spiritual-needs.md",
+      "englishSha256": "a7b25af2894973acb3fd23a8ef62394be342d680ba97f40d20c74ec0bcce891b",
+      "indonesianSha256": "a9afbd21a9742b88dce5b50bfdd59ed24cb117c915c0fec69e818681f7afa471",
+      "english": {
+        "paragraphs": 9,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 9,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/04-your-own-spiritual-needs/04-02-step-into-good-habits.md",
+      "englishSha256": "15a7236fcbb65279afccf9d063e6cc2899ea7826675ee1c08cefaa2514e209da",
+      "indonesianSha256": "13ddd1159096618d1ff68dc942b0a4d4701ee277b2ec244ef92b3d1072c85ce2",
+      "english": {
+        "paragraphs": 6,
+        "bulletItems": 8,
+        "images": 1,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 11,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 6,
+        "bulletItems": 8,
+        "images": 1,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 11,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/04-your-own-spiritual-needs/04-03-invest-in-your-spiritual-health.md",
+      "englishSha256": "45e342033dfde3d34ed24b7ebf14fada75a075735d15a8dac53e62b0f0d5bdb5",
+      "indonesianSha256": "b28238dbfced9a4e60910ee8b393d99f19a1b6b46cfc62ca519ff426924b99ae",
+      "english": {
+        "paragraphs": 19,
+        "bulletItems": 5,
+        "images": 1,
+        "styleBlocks": 8,
+        "scriptureLikeRefs": 10,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 19,
+        "bulletItems": 5,
+        "images": 1,
+        "styleBlocks": 8,
+        "scriptureLikeRefs": 10,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/04-your-own-spiritual-needs/04-04-invest-in-your-physical-and-emotional-health.md",
+      "englishSha256": "1decfa7fa0d75f77bdb7b106bd52296c00f7fec4bc436356bca9b27a284f7251",
+      "indonesianSha256": "2412281ee8ce1f7d9ecbe0b10de7ebe71e8a13a0457e3ba8837fe956fa7e4869",
+      "english": {
+        "paragraphs": 11,
+        "bulletItems": 12,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 11,
+        "bulletItems": 12,
+        "images": 2,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/05-spiritual-habits-for-the-family/05-01-family-worship.md",
+      "englishSha256": "0d5cd54f44d4330a9bbe99341df8f57fc13362ff1f69a5da441f5890dc139e08",
+      "indonesianSha256": "937a79b95e3634a1f761ebee72421618c7dcaa4debbbc6a7ccfdc812cb280a6c",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 2,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 0,
+        "images": 2,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/05-spiritual-habits-for-the-family/05-02-the-sabbath.md",
+      "englishSha256": "5d58384c440adc617b219f08bd286f45901ce8ee6545e1831d053ef77af5be27",
+      "indonesianSha256": "abea8aa478ff98262ae987dcef53c066c4ab2364700d8a8b218f066a40be5a90",
+      "english": {
+        "paragraphs": 9,
+        "bulletItems": 11,
+        "images": 1,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 9,
+        "bulletItems": 11,
+        "images": 1,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/05-spiritual-habits-for-the-family/05-03-church.md",
+      "englishSha256": "ea9c5da376b10737d7ab25fba4b27a881f4f23f9d3411d6a1671dc701d64a1b1",
+      "indonesianSha256": "b96ade560cafbcfe59c7825ac49ecb8bff8fc2e0a8ac330a8cae7850154d1cb9",
+      "english": {
+        "paragraphs": 6,
+        "bulletItems": 5,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 6,
+        "bulletItems": 5,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/05-spiritual-habits-for-the-family/05-04-baby-dedication.md",
+      "englishSha256": "fbd758efc876e317f1ee4259adbddb7ae4a1d433bc3aa4bd10232cd0f7a1227b",
+      "indonesianSha256": "bda40075838c230a3ba5372f626765155a4caafbd1b5c2023e83eac32687afbf",
+      "english": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/06-growing-with-jesus-in-each-stage/06-01-zero-to-three-months.md",
+      "englishSha256": "3c0bc23223fc055d7c756a66e6693ed841e4cf605e0e996d2589575d318b6833",
+      "indonesianSha256": "a9141dd18fae65b2a70d3bd5e3d3d2149a44aee24e356d21224d74f93ac6bc3c",
+      "english": {
+        "paragraphs": 25,
+        "bulletItems": 30,
+        "images": 1,
+        "styleBlocks": 15,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 25,
+        "bulletItems": 30,
+        "images": 1,
+        "styleBlocks": 15,
+        "scriptureLikeRefs": 2,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/06-growing-with-jesus-in-each-stage/06-02-three-to-six-months.md",
+      "englishSha256": "4d7f6701798a733e1451f5c338e985021c4aa3b25e3a6d25ec163c5b91bb284e",
+      "indonesianSha256": "37acf9e44391f0acd013001c96ed0ddb95476c6a03552f06a3996b1c35102eb8",
+      "english": {
+        "paragraphs": 21,
+        "bulletItems": 43,
+        "images": 2,
+        "styleBlocks": 11,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 21,
+        "bulletItems": 43,
+        "images": 2,
+        "styleBlocks": 11,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/06-growing-with-jesus-in-each-stage/06-03-six-to-nine-months.md",
+      "englishSha256": "dad679062ff0ebf38a7c427ce750bd4ed986a81ae1b51efdc726435012ddee16",
+      "indonesianSha256": "7341a0dab42ab5eebd52a839270895c2f2af71f8a9f940b4cf0470d7b4f71c8b",
+      "english": {
+        "paragraphs": 20,
+        "bulletItems": 34,
+        "images": 1,
+        "styleBlocks": 10,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 20,
+        "bulletItems": 34,
+        "images": 1,
+        "styleBlocks": 10,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/06-growing-with-jesus-in-each-stage/06-04-nine-to-twelve-months.md",
+      "englishSha256": "d9ad30ad1db8d041e6bc638becc37ab5d0b86c47d13f9d70123c0e737ae969e0",
+      "indonesianSha256": "d2e0d49b21e10d939461aa41c891d420784692d199544bee028f46519d356387",
+      "english": {
+        "paragraphs": 22,
+        "bulletItems": 53,
+        "images": 3,
+        "styleBlocks": 12,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 22,
+        "bulletItems": 53,
+        "images": 3,
+        "styleBlocks": 12,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/07-other-tools-for-your-babys-spiritual-growth/07-01-routine-and-tidiness-in-your-home.md",
+      "englishSha256": "a753c9ee514803bbfc473897d9033e3fa870b32ca862eed688694e3d68e9807f",
+      "indonesianSha256": "b4ca392d158042982079aba0296f9c6dad07c86610b659432f71fe8be7d65e21",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/07-other-tools-for-your-babys-spiritual-growth/07-02-music.md",
+      "englishSha256": "e152ddedd7f1ef6ee0ff1069f45453c7e16dc54bc1ea717d6fbebc84900ad2f2",
+      "indonesianSha256": "d0a86c5e44dbddd7168815b6091e8d2a36ee369ba15c1e234bbe840459da7a1a",
+      "english": {
+        "paragraphs": 21,
+        "bulletItems": 4,
+        "images": 1,
+        "styleBlocks": 10,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 21,
+        "bulletItems": 4,
+        "images": 1,
+        "styleBlocks": 10,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/07-other-tools-for-your-babys-spiritual-growth/07-03-prayer.md",
+      "englishSha256": "5e87da8208b9b6eb8096657b2d96c11095952afc9b9e1457dad45fec06e4e498",
+      "indonesianSha256": "6eb938bbfe710b793664664090b7e21e671d1c71aa8ae307b01faf0174512e5f",
+      "english": {
+        "paragraphs": 7,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 7,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-1/07-other-tools-for-your-babys-spiritual-growth/07-04-community-support.md",
+      "englishSha256": "0c10e69ef803bea60898e41fca277acfefcfee35fec4c5f1f8306bd7ba4452ef",
+      "indonesianSha256": "dbf07bba8352d1c060394c48ef45b2a3d6594c6b96ade2b0144e9fc331c2c4d9",
+      "english": {
+        "paragraphs": 7,
+        "bulletItems": 0,
+        "images": 2,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 7,
+        "bulletItems": 0,
+        "images": 2,
+        "styleBlocks": 3,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/08-the-sabbath-school-curriculum-at-home/08-01-purpose-of-the-curriculum.md",
+      "englishSha256": "0a0c572db79b3a802e4f83e12a2808992378d317be6552abf24b940d388c15ba",
+      "indonesianSha256": "1d676e002a23a4d37d354c70ca1219161727b40ba68a3684615a7172c5d3184b",
+      "english": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 5,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/08-the-sabbath-school-curriculum-at-home/08-02-your-role-as-a-parent.md",
+      "englishSha256": "a56a25dca7045c12b6dccbfce392b2049e9bc6a6d39b521314a3ca37d2c3c778",
+      "indonesianSha256": "33dad82716d3567a3dda0a6f8ef7d553c90f4b616bac2397d153a1b8423cc2af",
+      "english": {
+        "paragraphs": 7,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 7,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 4,
+        "scriptureLikeRefs": 1,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/08-the-sabbath-school-curriculum-at-home/08-03-the-structure-of-the-curriculum.md",
+      "englishSha256": "73d4df8ae66c2aaa77b3d4df206dac63067b26158a820de7e681656ab5e75832",
+      "indonesianSha256": "081dffff00f3e17fb9258f116268d175b6796ad6583c4d8503457502a66cadcf",
+      "english": {
+        "paragraphs": 12,
+        "bulletItems": 12,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 12,
+        "bulletItems": 12,
+        "images": 0,
+        "styleBlocks": 5,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/08-the-sabbath-school-curriculum-at-home/08-04-worship-box.md",
+      "englishSha256": "c3d9e11164f26eacac62bde58e32aa70f80393a3ac0273c685fb814440071265",
+      "indonesianSha256": "dce33156727f1d8ba3915f254f443f4feea9429bd092c36d0d6bb525b6d68522",
+      "english": {
+        "paragraphs": 14,
+        "bulletItems": 42,
+        "images": 1,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 14,
+        "bulletItems": 42,
+        "images": 1,
+        "styleBlocks": 6,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/08-the-sabbath-school-curriculum-at-home/08-05-getting-started.md",
+      "englishSha256": "06c968b2b649b3169407375caf10541eb83195b69f6dc3a2a51ef88a444bb42d",
+      "indonesianSha256": "595952fcf0ba0bee0f153be9c73782cd01ca1429590cdca374a6af707201cf8e",
+      "english": {
+        "paragraphs": 16,
+        "bulletItems": 18,
+        "images": 3,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 16,
+        "bulletItems": 18,
+        "images": 3,
+        "styleBlocks": 7,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/09-the-sabbath-school-lessons/09-01-lesson-one-creation.md",
+      "englishSha256": "aa0ca778f319b8f206450322d4126ca060335bed55a54115364153958748fbe2",
+      "indonesianSha256": "369586deb1d285b8b75be0becb799966326401d8b4a64569b95f7c24abdb6cc2",
+      "english": {
+        "paragraphs": 46,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 4,
+        "rawAudioMetadata": 9
+      },
+      "indonesian": {
+        "paragraphs": 46,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 4,
+        "rawAudioMetadata": 9
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/09-the-sabbath-school-lessons/09-02-lesson-two-the-good-shepherd.md",
+      "englishSha256": "ff66a07f2e26ad8059deadbbf4b1e9945b4c57de3db0bc4f2584f25546547a3e",
+      "indonesianSha256": "ab639586de25a43f0ab3ef3ebe4240372c031179b1d280abcc6acc41e5b50116",
+      "english": {
+        "paragraphs": 39,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 4,
+        "rawAudioMetadata": 7
+      },
+      "indonesian": {
+        "paragraphs": 39,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 4,
+        "rawAudioMetadata": 7
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/09-the-sabbath-school-lessons/09-03-lesson-three-noah-and-the-animals.md",
+      "englishSha256": "5180103e7c950b2e97d24375a27221af336d2ced1509915e562b3e38c25ddedf",
+      "indonesianSha256": "54683d0b7a436f3f07f067fd9b7f1478ed47aba3bafe2ffcf711172b44610227",
+      "english": {
+        "paragraphs": 43,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 4,
+        "rawAudioMetadata": 9
+      },
+      "indonesian": {
+        "paragraphs": 43,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 4,
+        "rawAudioMetadata": 9
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/09-the-sabbath-school-lessons/09-04-lesson-four-a-special-baby.md",
+      "englishSha256": "87d0ab6d83da62cdf70126cf9dfb496925bccb737dc1dd117744755aef4b34e4",
+      "indonesianSha256": "3e4f8c32854e2c20794215c07a66d9dea7e483a0e400b7e91e999b959557eaf9",
+      "english": {
+        "paragraphs": 45,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 4,
+        "rawAudioMetadata": 11
+      },
+      "indonesian": {
+        "paragraphs": 45,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 3,
+        "separators": 4,
+        "rawAudioMetadata": 11
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/10-final-thoughts/10-final-thoughts.md",
+      "englishSha256": "1f5ae235b9fe640a0f3d9ce57f354613f04a553ab70efa666d376cb83c4a1e09",
+      "indonesianSha256": "70bc8a6db8cd4a6948c298cebbd4fb8f0e274cf2dbc4f37e2bf6b8fcb1109fb3",
+      "english": {
+        "paragraphs": 8,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 8,
+        "bulletItems": 0,
+        "images": 1,
+        "styleBlocks": 2,
+        "scriptureLikeRefs": 5,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/11-references-and-resources/11-references-and-resources.md",
+      "englishSha256": "49daaf42c8bf9c51f65fdeddea00f86956ade6870a1819535b400f4afa1b4a51",
+      "indonesianSha256": "ed075787dc586885423764f9a5a4f832175c69ed68985fde91c1b99a1ee5f918",
+      "english": {
+        "paragraphs": 28,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 28,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/11.5-music/11.5-music.md",
+      "englishSha256": "1db7bc484fb6fbd07a39065792676e6cc5e6e7a23f853e288927c4d2987bf697",
+      "indonesianSha256": "2105c9dbecc26c5d44353b47c49b061717b6639e040f07354b5fee32d9f11a6e",
+      "english": {
+        "paragraphs": 45,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 36
+      },
+      "indonesian": {
+        "paragraphs": 45,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 0,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 36
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    },
+    {
+      "path": "part-2/12-music-credits/12-music-credits.md",
+      "englishSha256": "ecd128f3bcb3fe7249609f93f42365877e5d075788017f00eddd3b1db21c0b43",
+      "indonesianSha256": "39499d04a1ae54bb5e3d615cb82138af64e0740359f37e975bd15472185b1785",
+      "english": {
+        "paragraphs": 25,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "indonesian": {
+        "paragraphs": 25,
+        "bulletItems": 0,
+        "images": 0,
+        "styleBlocks": 1,
+        "scriptureLikeRefs": 0,
+        "separators": 2,
+        "rawAudioMetadata": 0
+      },
+      "machineFlags": [],
+      "editorialStatus": "human-review-required"
+    }
+  ]
+}

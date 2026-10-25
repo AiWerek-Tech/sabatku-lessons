@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-re30e7e8d1496",
+  "title": "Merawat Kesehatan Jasmani dan Emosi Anda",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Merawat Kesehatan Jasmani dan Emosi Anda",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

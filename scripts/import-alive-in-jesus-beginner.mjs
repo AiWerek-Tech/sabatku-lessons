@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
 import { normalizeAliveInJesusMarkdown } from './build-alive-in-jesus.mjs';
 import { auditAliveInJesusTranslations, createReviewManifest } from './audit-alive-in-jesus-translations.mjs';
+import { bilingualBeginnerSongs } from './beginner-song-titles.mjs';
 import { refineBeginnerTeacherSection } from './beginner-teacher-program-id.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -113,7 +114,7 @@ async function main() {
     const editionId = `2026-q4-aij-beginner-${role}`;
     const lessons = [];
     async function save(dir, key, title, date, content) {
-      await mkdir(dir, { recursive: true }); await writeFile(path.join(dir, `${key}.md`), content.trim().replace(/\[♫ ([^\]\n]+)\]/g, (match, title) => title.includes('bahasa Inggris') ? match : `[♫ ${title} · bahasa Inggris]`) + '\n');
+      await mkdir(dir, { recursive: true }); await writeFile(path.join(dir, `${key}.md`), bilingualBeginnerSongs(content.trim()).replace(/\[♫ ([^\]\n]+)\]/g, (match, title) => title.includes('bahasa Inggris') ? match : `[♫ ${title} · bahasa Inggris]`) + '\n');
       return { key, title, date, file: `${key}.md` };
     }
     for (let n = 1; n <= 13; n++) {

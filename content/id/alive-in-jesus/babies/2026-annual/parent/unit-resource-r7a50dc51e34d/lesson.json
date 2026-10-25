@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r7a50dc51e34d",
+  "title": "Dukungan Komunitas",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Dukungan Komunitas",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

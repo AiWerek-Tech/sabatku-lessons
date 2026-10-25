@@ -1,0 +1,14 @@
+{
+  "startDate": "2026-04-01",
+  "id": "lesson-01",
+  "readings": [
+    {
+      "date": "2026-04-01",
+      "file": "discussion.md",
+      "title": "Pemeriksaan Diri",
+      "key": "discussion"
+    }
+  ],
+  "title": "Pemeriksaan Diri",
+  "endDate": "2026-04-07"
+}

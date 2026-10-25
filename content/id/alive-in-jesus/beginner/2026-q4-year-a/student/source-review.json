@@ -222,17 +222,23 @@
     "lesson-10/play.md": "10b6d05bd54abd58d8fb9dc1294fea2406cb68ad85d98535103e10e59292f9fb",
     "lesson-10/story.md": "21e4779213bc3597c991552ff5f216d6785ea9b535e29505e153ede6a497d429",
     "lesson-11/parent-reflection.md": "f06415721ff5a992ae221326ad56294f26e371ce6e00b7878d148466aa3ff3f4",
-    "lesson-11/play.md": "c791dc802459f5f2887b131acacfb6bc1293fdf3f794c86f7fef2e393895555d",
+    "lesson-11/play.md": "178e609339a52e8696490c1f27886b2acd2b06ec7896e81797f8ec1ce6d63b1d",
     "lesson-11/story.md": "c262021bbac06a32335f2c3a16a8aac7ce144769d290cfef4a33fe61a5ff90aa",
     "lesson-12/parent-reflection.md": "49f95738a4c8c63ee5e143ba32fe598e83355db05f6b93db4466998e1dd6f51d",
-    "lesson-12/play.md": "13babd8c303881b7b1f5f0db3c8f7f7624a79d3f3199e305ad971017ac6fa673",
+    "lesson-12/play.md": "2a5b18c56a6cd828332046ba93669526bd96a72778803a73b5d46cba802c2a6d",
     "lesson-12/story.md": "ea1e71cda962268ad8e65bf6859ee11e73ae0bfe20cda727a66b38eb6d086051",
     "lesson-13/parent-reflection.md": "9bd611daef6fc66e464698e8291f4245e93c990c0bfabb3505f1de98c82eb2ec",
     "lesson-13/play.md": "d27bef566bfb230c590be5c65e06fe11332e91fb26cc380ff18ef033c8dcf931",
     "lesson-13/story.md": "552901f7ecfa08bc4173d16cfdc57bed7d0f3fe2d917ab33d6bb1df5abcc98cd",
     "unit-resource-family/family-devotions.md": "904f864b664fb31bc8ced70fba973c80949ad4ba450c60d0287e1070fbf58f7b",
-    "unit-resource-family/music-and-podcasts.md": "1aab2f6de2485f42867d6ad6e9fd9cd6b066583b8b7d83a3f6829ba4726eea01",
+    "unit-resource-family/music-and-podcasts.md": "51b0f427c3289fa024d2f2208550e0c5f84b1235ca36288bb254f448d261e30b",
     "unit-resource-family/parents-letter.md": "ad648d014e8ad52ac2a6139cc83123063f141741a3984c4ec8710f3a4e652ee3"
   },
-  "approvalBasis": "Instruksi pengguna pada 25 Oktober 2026: audit ulang dan ubah dari draft ke publikasikan jika selesai."
+  "approvalBasis": "Instruksi pengguna pada 25 Oktober 2026: audit ulang dan ubah dari draft ke publikasikan jika selesai.",
+  "songTitleReview": {
+    "date": "2026-10-26",
+    "reviewer": "Codex",
+    "basis": "User instruction: retain English song titles, add Indonesian subtitles.",
+    "scope": "Song cards, weekly instructions and quarter resources; media URLs unchanged."
+  }
 }

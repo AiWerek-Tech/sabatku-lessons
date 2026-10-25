@@ -1,0 +1,14 @@
+{
+  "id": "lesson-03",
+  "title": "Nuh dan Hewan-Hewan",
+  "startDate": "2026-07-01",
+  "endDate": "2026-09-30",
+  "readings": [
+    {
+      "key": "program",
+      "title": "Nuh dan Hewan-Hewan",
+      "date": "2026-07-01",
+      "file": "program.md"
+    }
+  ]
+}

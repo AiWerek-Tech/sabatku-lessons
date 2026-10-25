@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r7e2fe87a9d03",
+  "title": "9-12 Bulan",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "9-12 Bulan",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

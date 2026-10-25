@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r35a110050c98",
+  "title": "Merawat Kehidupan Rohani Anda",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Merawat Kehidupan Rohani Anda",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

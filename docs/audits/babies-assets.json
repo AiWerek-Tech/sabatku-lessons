@@ -1,0 +1,499 @@
+{
+  "date": "2026-10-26",
+  "total": 82,
+  "failures": [],
+  "assets": [
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-05-happy-floweres.mp3",
+      "status": 200,
+      "bytes": 928867,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-06-happy-stars.mp3",
+      "status": 200,
+      "bytes": 928867,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-03-god-made-wind.mp3",
+      "status": 200,
+      "bytes": 847993,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3",
+      "status": 200,
+      "bytes": 847993,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-08-animals.mp3",
+      "status": 200,
+      "bytes": 1294999,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-07-fishy.mp3",
+      "status": 200,
+      "bytes": 1243590,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-09-who-am-i.mp3",
+      "status": 200,
+      "bytes": 1091244,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-10-sabbath.mp3",
+      "status": 200,
+      "bytes": 1153939,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-03-woolly-lamb.mp3",
+      "status": 200,
+      "bytes": 1524459,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-02-god-made-light.mp3",
+      "status": 200,
+      "bytes": 787180,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-02-god-sees-me.mp3",
+      "status": 200,
+      "bytes": 1153939,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-04-jesus-good-shepherd-grass.mp3",
+      "status": 200,
+      "bytes": 1488097,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-02-noah-was-a-friend-of-god.mp3",
+      "status": 200,
+      "bytes": 1217260,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-06-jesus-good-shepherd-care.mp3",
+      "status": 200,
+      "bytes": 1488097,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-05-jesus-good-shepherd-water.mp3",
+      "status": 200,
+      "bytes": 16411356,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-03-noah-took-a-hammer.mp3",
+      "status": 200,
+      "bytes": 1202213,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-04-into-noahs-ark-birds.mp3",
+      "status": 200,
+      "bytes": 530135,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-05-into-noahs-ark-dogs.mp3",
+      "status": 200,
+      "bytes": 530135,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-06-into-noahs-ark-cats.mp3",
+      "status": 200,
+      "bytes": 530135,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-07-into-noahs-ark-sheep.mp3",
+      "status": 200,
+      "bytes": 530135,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-07-jesus-good-shepherd-lambs.mp3",
+      "status": 200,
+      "bytes": 1464901,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-08-into-noahs-ark-chickens.mp3",
+      "status": 200,
+      "bytes": 542047,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-08-who-am-i.mp3",
+      "status": 200,
+      "bytes": 1091244,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-09-i-open-my-bible-carefully.mp3",
+      "status": 200,
+      "bytes": 1095006,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-02-clip-clop.mp3",
+      "status": 200,
+      "bytes": 1101276,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-10-jesus-cares-for-you.mp3",
+      "status": 200,
+      "bytes": 1059897,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-06-baby-jesus-wash.mp3",
+      "status": 200,
+      "bytes": 973380,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-07-baby-jesus-wrap.mp3",
+      "status": 200,
+      "bytes": 939525,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-03-it-was-a-happy-day.mp3",
+      "status": 200,
+      "bytes": 1321958,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-04-woolly-woolly-lamb.mp3",
+      "status": 200,
+      "bytes": 1524459,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-05-jesus-made-the-cows.mp3",
+      "status": 200,
+      "bytes": 836708,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-09-baby-jesus-sleep.mp3",
+      "status": 200,
+      "bytes": 939525,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-11-with-jesus-in-the-family.mp3",
+      "status": 200,
+      "bytes": 1905639,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-10-baby-jesus-you.mp3",
+      "status": 200,
+      "bytes": 939525,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-08-baby-jesus-hug.mp3",
+      "status": 200,
+      "bytes": 939525,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/collage-5.png",
+      "status": 200,
+      "bytes": 203976,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-12-christmas-star.mp3",
+      "status": 200,
+      "bytes": 1306285,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/part-1-03-the-foundation-for-spiritual-growth/03-cover-trust.png",
+      "status": 200,
+      "bytes": 434358,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-04-your-own-spiritual-needs/chair.png",
+      "status": 200,
+      "bytes": 16260,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/church.png",
+      "status": 200,
+      "bytes": 170091,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/03-how-to-use-this-parent-book/mushroom.png",
+      "status": 200,
+      "bytes": 255723,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-08-the-sabbath-school-curriculum-at-home/collage-9.png",
+      "status": 200,
+      "bytes": 26623,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/boots.png",
+      "status": 200,
+      "bytes": 12184,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/baby-dedication.png",
+      "status": 200,
+      "bytes": 453584,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/vase.png",
+      "status": 200,
+      "bytes": 4741,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-08-the-sabbath-school-curriculum-at-home/collage-8.png",
+      "status": 200,
+      "bytes": 85837,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-04-your-own-spiritual-needs/special-baby.png",
+      "status": 200,
+      "bytes": 39543,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/collage.png",
+      "status": 200,
+      "bytes": 58481,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/watering-can.png",
+      "status": 200,
+      "bytes": 8648,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/open-book.png",
+      "status": 200,
+      "bytes": 11106,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/collage-3.png",
+      "status": 200,
+      "bytes": 195247,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-08-the-sabbath-school-curriculum-at-home/collage-11.png",
+      "status": 200,
+      "bytes": 89573,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/collage-2.png",
+      "status": 200,
+      "bytes": 362845,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-08-the-sabbath-school-curriculum-at-home/collage-12.png",
+      "status": 200,
+      "bytes": 166393,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/collage-7.png",
+      "status": 200,
+      "bytes": 77739,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/01-your-baby/01-01.png",
+      "status": 200,
+      "bytes": 301323,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/sparrow.png",
+      "status": 200,
+      "bytes": 7332,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-08-the-sabbath-school-curriculum-at-home/collage-10.png",
+      "status": 200,
+      "bytes": 11225,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/collage-4.png",
+      "status": 200,
+      "bytes": 105024,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/01-your-baby/01-02.png",
+      "status": 200,
+      "bytes": 153310,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/part-1-03-the-foundation-for-spiritual-growth/cover.png",
+      "status": 200,
+      "bytes": 289916,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/02-your-baby/molding.png",
+      "status": 200,
+      "bytes": 164099,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-10-final-thoughts/collage-13.png",
+      "status": 200,
+      "bytes": 241077,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/collage-6.png",
+      "status": 200,
+      "bytes": 73441,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/importance.png",
+      "status": 200,
+      "bytes": 94673,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/0-3m.png",
+      "status": 200,
+      "bytes": 26150,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-01-sabbath-bells.mp3",
+      "status": 200,
+      "bytes": 1078706,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/field.png",
+      "status": 200,
+      "bytes": 185568,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-01-sabbath-bells.mp3",
+      "status": 200,
+      "bytes": 1078706,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-04-your-own-spiritual-needs/field-2.png",
+      "status": 200,
+      "bytes": 253392,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-11-money.mp3",
+      "status": 200,
+      "bytes": 1182777,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-04-your-own-spiritual-needs/collage-14.png",
+      "status": 200,
+      "bytes": 101217,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-10-here-is-my-money.mp3",
+      "status": 200,
+      "bytes": 1182777,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-11-here-is-my-money.mp3",
+      "status": 200,
+      "bytes": 1182777,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/part-01-01-the-potential/collage-1.png",
+      "status": 200,
+      "bytes": 60479,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-13-here-is-my-money.mp3",
+      "status": 200,
+      "bytes": 1182777,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-01-sabbath-bells.mp3",
+      "status": 200,
+      "bytes": 1078706,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/part-04-04-02-teacher-preparation/chair.png",
+      "status": 200,
+      "bytes": 16371,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-01-sabbath-bells.mp3",
+      "status": 200,
+      "bytes": 1078706,
+      "type": "audio/mpeg"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/part-03-03-01-baby-time/cat.png",
+      "status": 200,
+      "bytes": 14433,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/part-04-04-01-classroom-preparation/bird.png",
+      "status": 200,
+      "bytes": 7017,
+      "type": "image/png"
+    },
+    {
+      "url": "https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/part-03-03-01-baby-time/watering-can.png",
+      "status": 200,
+      "bytes": 8541,
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 ### Lagu Ayat Alkitab
 
-[♫ Ibrani 13:16 · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/scripture-song-heb-13-16.mp3)
+[♫ Hebrews 13:16 (Ibrani 13:16) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/scripture-song-heb-13-16.mp3)
 
-[♫ Matius 1:21 · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/scripture-song-mt-1-21.mp3)
+[♫ Matthew 1:21 (Matius 1:21) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/scripture-song-mt-1-21.mp3)
 
 ### Podcast Pekan ke-1
 

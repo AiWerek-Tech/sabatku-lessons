@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r60763059f219",
+  "title": "Penyerahan Anak",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Penyerahan Anak",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

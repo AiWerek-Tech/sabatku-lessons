@@ -1,0 +1,14 @@
+{
+  "id": "lesson-07",
+  "title": "Membaca Firman",
+  "startDate": "2026-02-12",
+  "endDate": "2026-02-18",
+  "readings": [
+    {
+      "key": "discussion",
+      "title": "Membaca Firman",
+      "date": "2026-02-12",
+      "file": "discussion.md"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+Mengakui dan memelihara hari Sabat adalah bagian penting dari makna menjadi seorang Adventis Hari Ketujuh. Ini adalah hari istimewa yang berbeda dari hari-hari lain dalam seminggu. Ketika Allah beristirahat pada hari Sabat, Ia memberkatinya, menguduskannya, dan menjadikannya kudus (Kejadian 2:2, 3). Allah meminta kita untuk mengingat hari Sabat setiap Jumat sore hingga Sabtu sore agar kita dapat beristirahat dari kesibukan dan tekanan hidup ini, sambil meluangkan waktu bersama Allah, beribadah bersama komunitas orang percaya, dan menjadi berkat bagi mereka yang dapat kita layani. Kita bertumbuh dalam pengetahuan tentang Dia dan Firman-Nya, dan kasih kita kepada Allah semakin dalam saat kita meluangkan waktu bersama-Nya.
+
+Jadi, hari Sabat adalah hari untuk menikmati kebersamaan dengan Tuhan. Saat kita melakukan ini, Dia akan memberi kita istirahat dalam segala hal: fisik, mental, emosional, dan rohani. Dia ingin kita menikmatinya sebagai anugerah, dalam segala kepenuhannya. Untuk melakukan ini, cobalah merencanakan minggu Anda agar dapat menjadi hari yang menyenangkan bagi semua orang di rumah Anda. Sejak usia sangat muda, anak Anda dapat memahami bahwa hari Sabat adalah hari yang unik dan sangat istimewa. Ini adalah kesempatan untuk membangun kenangan indah bersama Tuhan dalam kehidupan kecil mereka saat mereka tumbuh. Luangkan waktu untuk menemukan apa yang membuat bayi Anda senang dan cobalah untuk memasukkan aktivitas tersebut ke dalam hari Sabat Anda dengan cara yang tepat.
+
+### Berikut beberapa ide untuk membantu menjadikan hari Sabat sebagai hari yang penuh sukacita dan kenangan:
+
++ **Doronglah antusiasme menantikan hari Sabat.** Dalam percakapan sehari-hari, ungkapkan betapa bahagianya hari Sabat sebagai hari untuk menikmati gereja, bersama keluarga, dan membantu orang lain. Misalnya, Anda bisa mengatakan hal-hal seperti, “Saya suka bernyanyi dan berdoa di gereja pada hari Sabat.” “Sangat indah bisa makan makanan enak bersama pada hari Sabat.” “Sabat ini kita bisa mengunjungi tetangga kita—dia sangat kesepian. Dia akan menyukai bunga yang kita bawa.”
++ **Setiap hari, hitung berapa hari lagi sampai hari Sabat.** “Hari ini Selasa, dan tinggal empat hari lagi sampai Sabat!”
++ **Mulailah mempersiapkan diri untuk hari Sabat sejak awal minggu.** Sangat mudah untuk merasa begitu lelah pada Jumat malam sehingga Anda tidak dapat menikmati hari Sabat itu sendiri. Ada beberapa hal yang dapat Anda lakukan selama seminggu agar hari Jumat tidak melelahkan dan hari Sabat lebih santai. Atur ritme Anda sepanjang minggu dengan mengingat hari Sabat. Misalnya, Anda mungkin ingin menyiapkan pakaian Sabat pada hari Rabu dan berbelanja bahan makanan pada hari Kamis, dengan rencana untuk makan siang Sabat. Dengan cara ini, Anda pun dapat menemukan sukacita dalam apa yang ditawarkan hari Sabat.
++ **Rencanakan kegiatan khusus yang dapat kalian lakukan bersama sebagai keluarga.** Sama seperti Anda merencanakan makanan fisik keluarga Anda pada hari Sabat, rencanakan juga makanan rohani mereka. “Mari kita bawa persembahan syukur khusus ke gereja untuk ulang tahun Ayah.” “Kita akan mengadakan perburuan harta karun alam khusus pada hari Sabat ini.” “Kita akan mengundang keluarga baru untuk makan siang pada hari Sabat.” “Mari kita warnai alas meja khusus Sabat untuk meja kita; lalu kita bisa melaminasinya dan menggunakannya setiap pekan!” Anda mungkin ingin membangun antisipasi dengan merencanakan “kejutan Sabat” untuk diungkapkan kepada anak Anda setelah makan siang pada hari Sabat.
++ **Menciptakan tradisi ibadah khusus.** untuk pembukaan dan penutupan hari Sabat. Anda mungkin ingin melakukan sesuatu yang unik untuk ibadah khusus ini, seperti menyalakan lilin, berbagi peristiwa rohani penting dari minggu Anda, saling memberi semangat, atau mengulang mazmur khusus bersama-sama. Sungguh suatu hak istimewa untuk menghabiskan waktu khusus bersama Tuhan pada hari Sabat.
++ **Pilih musik spesial untuk didengarkan.** saat matahari terbenam pada Jumat malam. Ini akan membantu mengubah suasana di rumah Anda menjadi suasana rohani.
++ **Panjatkan doa berkat khusus berdasarkan Alkitab.** atas setiap anakmu sebagai bagian dari pembukaan Sabat.
++ **Siapkan makanan sehat dan lezat.** yang menjadikan makan siang hari Sabat sebagai hidangan istimewa.
++ **Gunakan benda-benda khusus di rumah** seperti taplak meja Sabat atau bunga segar.
++ **Siapkan kotak mainan khusus.** Anda dapat menyiapkan perlengkapan yang mengeksplorasi Alkitab, alam, dan tema-tema rohani untuk penggunaan khusus pada hari Sabat. Anda bisa menyertakan kartu bergambar Alkitab, balok bangunan "surga" khusus, permainan Alkitab, kaca pembesar, figur orang-orangan Alkitab, atau hewan plastik. Buka kotak tersebut pada Jumat malam dan simpan kembali pada Sabat malam agar tetap "istimewa". Bahan-bahan ini dapat digunakan untuk mengeksplorasi ciptaan Tuhan, memainkan permainan Alkitab, dan menjadi alat peraga untuk membantu Anda menceritakan kisah-kisah Alkitab yang menarik.
++ **Jika memungkinkan, ajak keluarga Anda ke alam.** Pada hari Sabat, nikmatilah keajaiban ciptaan Tuhan bagi kita. Perhatikanlah beberapa tumbuhan atau hewan dengan saksama dan ucapkan terima kasih kepada Tuhan karena telah menciptakannya; periksalah beberapa bagian tubuh dan fungsinya, dan ucapkan terima kasih kepada Tuhan juga untuk itu. Ketika kita mengamati alam dengan saksama, kita akan lebih mengenal Pencipta kita.
+
+### Lakukan segala yang Anda bisa untuk menjadikan hari Sabat sebagai hari yang menyenangkan—hari terbaik dalam seminggu!
+
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/sparrow.png)
+
+> ### Tips untuk Anak yang Lebih Besar:
+
+\+ **Pergi jalan-jalan** dan pilih tiga hal untuk “galeri seni alam” di rumah.\
+\+ **Tuliskan beberapa ayat Alkitab di kartu.** Mintalah setiap orang untuk diam-diam memilih satu ayat dan menggambarkannya dengan sebuah gambar. Lihat siapa yang bisa menebak ayat mana yang menginspirasi ilustrasi tersebut.\
+\+ **Ajak semua orang untuk memuji Tuhan.** untuk sesuatu yang terjadi pekan ini. Minta Ibu atau Ayah untuk menulis poin-poin pujian di kartu dan menempatkannya di wadah khusus. Bacalah kembali di lain waktu.\
+\+ **Bergantianlah menulis surat kepada setiap anggota keluarga Anda.** Sebuah catatan ucapan terima kasih atau catatan "Aku mencintaimu karena . . ." pada kartu kecil. Gunakan sebagai kartu nama di meja makan tempat setiap orang akan duduk pada Jumat malam (anak-anak kecil dapat mendiktekan pesan mereka agar ditulis oleh orang yang lebih besar).\
+\+ **Tetapkan beberapa tradisi Sabat keluarga khusus.** misalnya, mengadakan makan malam khusus pada Jumat malam untuk merayakan dimulainya hari Sabat.
+
+> **Pokok Doa**\
+Ya Bapa di surga, aku berdoa agar Engkau menolong kami.\
+keluarga untuk menghormati dan menghargai hari Sabat dengan cara yang\
+(nama bayi Anda) tumbuh dewasa menjadi\
+“sebutlah hari Sabat sebagai hari yang menyenangkan”\
+(Yesaya 58:13).

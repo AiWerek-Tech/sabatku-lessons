@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r7e2b6aa34dad",
+  "title": "Ketaatan",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Ketaatan",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

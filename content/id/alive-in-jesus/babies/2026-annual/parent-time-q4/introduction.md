@@ -1,0 +1,1 @@
+Membentuk tabiat anak merupakan salah satu tugas terpenting yang kita lakukan di dunia. Triwulan ini membahas prinsip-prinsip utama untuk menumbuhkan tabiat yang baik dalam diri anak, dengan gagasan praktis dari buku _Child Guidance_.

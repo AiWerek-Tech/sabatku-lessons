@@ -16,7 +16,7 @@ Bagaimana Anda dan anak dapat membawa sukacita pekan ini? Anak dapat bernyanyi b
 
 ### Bernyanyi
 
-Nyanyikan atau dengarkan “Angels We Have Heard on High”. Buat pita untuk dilambaikan sambil bernyanyi atau mendengarkan. Ulangi lagu itu setiap malam saat ibadah keluarga pekan ini.
+Nyanyikan atau dengarkan “Angels We Have Heard on High” (Malaikat yang Kami Dengar dari Surga). Buat pita untuk dilambaikan sambil bernyanyi atau mendengarkan. Ulangi lagu itu setiap malam saat ibadah keluarga pekan ini.
 
 ### Berdoa
 

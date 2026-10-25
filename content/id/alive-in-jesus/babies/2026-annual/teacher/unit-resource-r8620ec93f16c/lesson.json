@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r8620ec93f16c",
+  "title": "Persiapan Guru",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Persiapan Guru",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

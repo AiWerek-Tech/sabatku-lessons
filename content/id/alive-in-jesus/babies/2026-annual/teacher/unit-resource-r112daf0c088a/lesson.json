@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r112daf0c088a",
+  "title": "3. Waktu di Rumah",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "3. Waktu di Rumah",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}

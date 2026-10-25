@@ -1,0 +1,105 @@
+{
+  "sourceName": "Alive in Jesus · Babies",
+  "englishEditionId": "2025-03-xaijbbpth3one",
+  "id": "2026-q3-aij-babies-parent-time",
+  "description": "Bahan diskusi orang tua · Triwulan III · 13 sesi",
+  "sourceUrl": "https://babies.aliveinjesus.info/",
+  "sourceReviewRequired": true,
+  "rightsStatement": "Terjemahan bahasa Indonesia dari materi resmi Alive in Jesus; menunggu pemeriksaan tim.",
+  "sourceYear": 2025,
+  "structureType": "weekly-parent-discussion",
+  "bookRole": "parent-time-handout",
+  "publicationStatus": "draft",
+  "cover": "editions/2026-q3-aij-babies-parent-time/assets/cover.png",
+  "startDate": "2026-07-01",
+  "theme": "Menumbuhkan Hati yang Penuh Kasih",
+  "attribution": "© General Conference of Seventh-day Adventists®.",
+  "cycleId": "annual",
+  "endDate": "2026-09-30",
+  "lessons": [
+    {
+      "startDate": "2026-07-01",
+      "id": "lesson-01",
+      "title": "Hati Sang Bapa",
+      "endDate": "2026-07-07"
+    },
+    {
+      "startDate": "2026-07-08",
+      "id": "lesson-02",
+      "title": "Kasih Tiruan",
+      "endDate": "2026-07-14"
+    },
+    {
+      "startDate": "2026-07-15",
+      "id": "lesson-03",
+      "title": "Kerinduan untuk Bertumbuh",
+      "endDate": "2026-07-21"
+    },
+    {
+      "startDate": "2026-07-22",
+      "id": "lesson-04",
+      "title": "Kasih Sayang",
+      "endDate": "2026-07-28"
+    },
+    {
+      "startDate": "2026-07-29",
+      "id": "lesson-05",
+      "title": "Batasan",
+      "endDate": "2026-08-04"
+    },
+    {
+      "startDate": "2026-08-05",
+      "id": "lesson-06",
+      "title": "Penghiburan",
+      "endDate": "2026-08-11"
+    },
+    {
+      "startDate": "2026-08-12",
+      "id": "lesson-07",
+      "title": "Dorongan Semangat",
+      "endDate": "2026-08-18"
+    },
+    {
+      "startDate": "2026-08-19",
+      "id": "lesson-08",
+      "title": "Disiplin",
+      "endDate": "2026-08-25"
+    },
+    {
+      "startDate": "2026-08-26",
+      "id": "lesson-09",
+      "title": "Rasa Aman dan Terlindungi",
+      "endDate": "2026-09-01"
+    },
+    {
+      "startDate": "2026-09-02",
+      "id": "lesson-10",
+      "title": "Kesabaran",
+      "endDate": "2026-09-08"
+    },
+    {
+      "startDate": "2026-09-09",
+      "id": "lesson-11",
+      "title": "Harga Diri",
+      "endDate": "2026-09-15"
+    },
+    {
+      "startDate": "2026-09-16",
+      "id": "lesson-12",
+      "title": "Jati Diri",
+      "endDate": "2026-09-22"
+    },
+    {
+      "startDate": "2026-09-23",
+      "id": "lesson-13",
+      "title": "Mencerminkan Hati Allah",
+      "endDate": "2026-09-29"
+    }
+  ],
+  "programId": "alive-in-jesus-bb-pb",
+  "title": "Baby Steps · Parent Time · Triwulan III: Menumbuhkan Hati yang Penuh Kasih",
+  "dayOrder": null,
+  "trackId": "babies",
+  "sourceEditionId": "2025-03-bb-pth",
+  "locale": "id"
+}

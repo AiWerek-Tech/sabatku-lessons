@@ -1,0 +1,14 @@
+{
+  "id": "lesson-01",
+  "title": "Penciptaan",
+  "startDate": "2026-01-01",
+  "endDate": "2026-03-31",
+  "readings": [
+    {
+      "key": "program",
+      "title": "Penciptaan",
+      "date": "2026-01-01",
+      "file": "program.md"
+    }
+  ]
+}

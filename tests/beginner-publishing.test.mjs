@@ -57,3 +57,22 @@ test('Beginner refuses publication when reviewed text changes', async t => {
   await writeFile(file, (await readFile(file, 'utf8')) + '\nPerubahan tanpa audit ulang.\n');
   await assert.rejects(buildAliveInJesus(directory, path.join(directory, 'public')), /Markdown changed after team review/);
 });
+
+
+test('Beginner song cards preserve original English titles and Indonesian subtitles', async () => {
+  const { beginnerSongs, bilingualBeginnerSongs } = await import('../scripts/beginner-song-titles.mjs');
+  const release = await buildAliveInJesus('content', 'public');
+  const titles = new Map(beginnerSongs.map(([file,en,id]) => [file, `${en} (${id}) · bahasa Inggris`]));
+  let checked = 0;
+  for (const doc of release.published.filter(p => p.value.editionId?.includes('beginner'))) {
+    for (const reading of doc.value.readings) {
+      assert.equal(bilingualBeginnerSongs(reading.content), reading.content, 'title normalization must be idempotent');
+      for (const [,label,url] of reading.content.matchAll(/\[♫ ([^\]\n]+)\]\((https:\/\/[^)]+)\)/g)) {
+        const expected = titles.get(new URL(url).pathname.split('/').at(-1));
+        if (expected) { assert.equal(label, expected); checked++; }
+      }
+    }
+  }
+  assert.ok(checked > 150, `audited ${checked} song cards`);
+  assert.equal(bilingualBeginnerSongs('Nyanyikan “Saatnya Berdoa”.'), 'Nyanyikan “When It’s Time to Pray” (Saatnya Berdoa).');
+});

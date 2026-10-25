@@ -1,0 +1,237 @@
+{
+  "id": "2026-q1-aij-babies-parent",
+  "programId": "alive-in-jesus-bb-pb",
+  "locale": "id",
+  "trackId": "babies",
+  "cycleId": "annual",
+  "bookRole": "parent-book",
+  "structureType": "quarterly-repeat-program",
+  "dayOrder": null,
+  "title": "Baby Steps · Buku Orang Tua · Panduan Sepanjang Tahun",
+  "description": "Alive in Jesus · Babies · Usia 0–12 bulan",
+  "theme": "Bertumbuh Bersama Yesus",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "sourceEditionId": "2025-00-bb-pb",
+  "englishEditionId": "2025-01-zaijbbpb",
+  "sourceYear": 2025,
+  "cover": "editions/2026-q1-aij-babies-parent/assets/cover.png",
+  "sourceName": "Alive in Jesus · Babies",
+  "sourceUrl": "https://babies.aliveinjesus.info/",
+  "attribution": "© General Conference of Seventh-day Adventists®.",
+  "rightsStatement": "Materi diterjemahkan oleh tim SabatKu berdasarkan sumber resmi.",
+  "publicationStatus": "draft",
+  "sourceReviewRequired": true,
+  "lessons": [
+    {
+      "id": "lesson-01",
+      "title": "Penciptaan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-03-31"
+    },
+    {
+      "id": "lesson-02",
+      "title": "Gembala yang Baik",
+      "startDate": "2026-04-01",
+      "endDate": "2026-06-30"
+    },
+    {
+      "id": "lesson-03",
+      "title": "Nuh dan Hewan-Hewan",
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-30"
+    },
+    {
+      "id": "lesson-04",
+      "title": "Bayi Yesus",
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-ra110198e1be2",
+      "title": "Pendahuluan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-rb7a11119b03d",
+      "title": "Baby Steps: Sumber Belajar Bertumbuh Bersama Yesus",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r94d2121f71a3",
+      "title": "Bayi Anda",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r19b102b6c8f1",
+      "title": "Cara Menggunakan Buku Panduan Orang Tua Ini",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-rb411a37f25ae",
+      "title": "Landasan untuk Pertumbuhan Rohani",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r3c97cba2c617",
+      "title": "Kepercayaan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r7e2b6aa34dad",
+      "title": "Ketaatan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r4adf99901f41",
+      "title": "Kebutuhan Rohani Anda Sendiri",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r7c01c004fc2a",
+      "title": "Mulailah Membangun Kebiasaan Baik",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r35a110050c98",
+      "title": "Merawat Kehidupan Rohani Anda",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-re30e7e8d1496",
+      "title": "Merawat Kesehatan Jasmani dan Emosi Anda",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-rd849fcf0c076",
+      "title": "Kebiasaan Rohani untuk Keluarga",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r88156fec92e8",
+      "title": "Hari Sabat",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r5b258791ee0d",
+      "title": "Gereja",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r60763059f219",
+      "title": "Penyerahan Anak",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-rb413b6d18c33",
+      "title": "0-3 Bulan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r6ed154053a30",
+      "title": "3–6 Bulan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r5651fc71c983",
+      "title": "6–9 Bulan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r7e2fe87a9d03",
+      "title": "9-12 Bulan",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r9910e4fbcbec",
+      "title": "Rutinitas dan Kerapian di Rumah Anda",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r03cefd4fd12e",
+      "title": "Musik",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-rc8eff778cab1",
+      "title": "Doa",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r7a50dc51e34d",
+      "title": "Dukungan Komunitas",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-rea8f4da56b40",
+      "title": "Kurikulum Sekolah Sabat di Rumah",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r755f61f89153",
+      "title": "Peran Anda sebagai Orang Tua",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r900115eebe64",
+      "title": "Struktur Kurikulum",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r449775142de5",
+      "title": "Kotak Ibadah",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r861f9bbcd30f",
+      "title": "Memulai",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-rab0fe3b4acf0",
+      "title": "Kesimpulan Akhir",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r885d4d1d8ce3",
+      "title": "Referensi dan Bahan Pendamping",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "unit-resource-r535741ec65a6",
+      "title": "Musik",
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31"
+    }
+  ]
+}

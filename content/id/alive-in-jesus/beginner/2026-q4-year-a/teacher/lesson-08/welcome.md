@@ -7,7 +7,7 @@
 - Ciptakan suasana yang ramah dengan musik latar.
 - Ajak para pendamping menyampaikan pokok doa. Berdoalah bersama bagi satu sama lain dan bagi anak-anak.
 
-[♫ Kita kedatangan tamu · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3)
+[♫ We Have a Visitor (Ada Tamu di Kelas Kita) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3)
 
 ### Bahan dan Alat
 

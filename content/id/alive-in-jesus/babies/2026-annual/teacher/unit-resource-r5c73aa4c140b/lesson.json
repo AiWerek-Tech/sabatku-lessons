@@ -1,0 +1,14 @@
+{
+  "id": "unit-resource-r5c73aa4c140b",
+  "title": "Rencana",
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "readings": [
+    {
+      "key": "reading",
+      "title": "Rencana",
+      "date": "2026-01-01",
+      "file": "reading.md"
+    }
+  ]
+}
