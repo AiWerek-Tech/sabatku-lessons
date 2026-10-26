@@ -1,0 +1,362 @@
+[
+  {
+    "asset": "pack-it-up.mp3",
+    "english": "Pack It Up",
+    "indonesian": "Berkemaslah",
+    "aliases": [
+      "Berkemaslah"
+    ]
+  },
+  {
+    "asset": "we-welcome-you.mp3",
+    "english": "We Welcome You",
+    "indonesian": "Kami Menyambutmu",
+    "aliases": [
+      "Kami Menyambut Anda",
+      "Kami Menyambutmu"
+    ]
+  },
+  {
+    "asset": "god-helps-me.mp3",
+    "english": "God Helps Me",
+    "indonesian": "Tuhan Menolongku",
+    "aliases": [
+      "Tuhan Menolongku"
+    ]
+  },
+  {
+    "asset": "growing-up-with-jesus.mp3",
+    "english": "Growing Up With Jesus",
+    "indonesian": "Bertumbuh Bersama Yesus",
+    "aliases": [
+      "Tumbuh Dewasa Bersama Yesus"
+    ]
+  },
+  {
+    "asset": "what-can-jesus-do.mp3",
+    "english": "What Can Jesus Do?",
+    "indonesian": "Apa yang Dapat Dilakukan Yesus?",
+    "aliases": [
+      "Apa yang Dapat Dilakukan Yesus?",
+      "Apa yang Dapat Yesus Lakukan",
+      "Apa yang Dapat Yesus Lakukan?",
+      "What Can Jesus Do"
+    ]
+  },
+  {
+    "asset": "visitor-song.mp3",
+    "english": "Visitor Song",
+    "indonesian": "Lagu Pengunjung",
+    "aliases": [
+      "Lagu Pengunjung",
+      "Lagu Tamu"
+    ]
+  },
+  {
+    "asset": "birthday-song.mp3",
+    "english": "Happy Birthday",
+    "indonesian": "Selamat ulang tahun",
+    "aliases": [
+      "Selamat ulang tahun",
+      "Selamat Ulang Tahun",
+      "Lagu Ulang Tahun",
+      "Birthday Song"
+    ]
+  },
+  {
+    "asset": "when-i-kneel-down-to-pray.mp3",
+    "english": "When I Kneel Down To Pray",
+    "indonesian": "Saat Aku Berlutut untuk Berdoa",
+    "aliases": [
+      "Saat Aku Berlutut untuk Berdoa"
+    ]
+  },
+  {
+    "asset": "open-my-heart-open-my-hand.mp3",
+    "english": "Open My Heart, Open My Hand",
+    "indonesian": "Bukalah Hatiku, Bukalah Tanganku",
+    "aliases": [
+      "Bukalah Hatiku, Bukalah Tanganku"
+    ]
+  },
+  {
+    "asset": "gods-words.mp3",
+    "english": "God’s Words",
+    "indonesian": "Firman Tuhan",
+    "aliases": [
+      "Firman Tuhan"
+    ]
+  },
+  {
+    "asset": "1-mark-4-39.mp3",
+    "english": "Mark 4:39",
+    "indonesian": "Markus 4:39",
+    "aliases": [
+      "Markus 4:39"
+    ]
+  },
+  {
+    "asset": "jesus-can.mp3",
+    "english": "Jesus Can",
+    "indonesian": "Yesus Mampu",
+    "aliases": [
+      "Yesus Mampu",
+      "Yesus Bisa"
+    ]
+  },
+  {
+    "asset": "god-is-mighty.mp3",
+    "english": "God Is Mighty",
+    "indonesian": "Allah Maha Perkasa",
+    "aliases": [
+      "Allah Maha Perkasa"
+    ]
+  },
+  {
+    "asset": "2-acts-16-31.mp3",
+    "english": "Acts 16:31",
+    "indonesian": "Kisah Para Rasul 16:31",
+    "aliases": [
+      "Kisah Para Rasul 16:31"
+    ]
+  },
+  {
+    "asset": "3-john-10-10.mp3",
+    "english": "John 10:10",
+    "indonesian": "Yohanes 10:10",
+    "aliases": [
+      "Yohanes 10:10"
+    ]
+  },
+  {
+    "asset": "4-matthew-14-27.mp3",
+    "english": "Matthew 14:27",
+    "indonesian": "Matius 14:27",
+    "aliases": [
+      "Matius 14:27"
+    ]
+  },
+  {
+    "asset": "5-psalm-34-18.mp3",
+    "english": "Psalm 34:18",
+    "indonesian": "Mazmur 34:18",
+    "aliases": [
+      "Mazmur 34:18"
+    ]
+  },
+  {
+    "asset": "6-luke-8-48.mp3",
+    "english": "Luke 8:48",
+    "indonesian": "Lukas 8:48",
+    "aliases": [
+      "Lukas 8:48"
+    ]
+  },
+  {
+    "asset": "7-1-corinthians-15-22.mp3",
+    "english": "1 Corinthians 15:22",
+    "indonesian": "1 Korintus 15:22",
+    "aliases": [
+      "1 Korintus 15:22"
+    ]
+  },
+  {
+    "asset": "8-mark-2-28.mp3",
+    "english": "Mark 2:28",
+    "indonesian": "Markus 2:28",
+    "aliases": [
+      "Markus 2:28"
+    ]
+  },
+  {
+    "asset": "9-ephesians-2-8.mp3",
+    "english": "Ephesians 2:8",
+    "indonesian": "Efesus 2:8",
+    "aliases": [
+      "Efesus 2:8"
+    ]
+  },
+  {
+    "asset": "10-joel-2-32.mp3",
+    "english": "Joel 2:32",
+    "indonesian": "Yoel 2:32",
+    "aliases": [
+      "Yoel 2:32"
+    ]
+  },
+  {
+    "asset": "11-matthew-8-13.mp3",
+    "english": "Matthew 8:13",
+    "indonesian": "Matius 8:13",
+    "aliases": [
+      "Matius 8:13"
+    ]
+  },
+  {
+    "asset": "12-romans-15-13.mp3",
+    "english": "Romans 15:13",
+    "indonesian": "Roma 15:13",
+    "aliases": [
+      "Roma 15:13"
+    ]
+  },
+  {
+    "asset": "13-john-11-25.mp3",
+    "english": "John 11:25",
+    "indonesian": "Yohanes 11:25",
+    "aliases": [
+      "Yohanes 11:25"
+    ]
+  },
+  {
+    "asset": "bold-and-brave.mp3",
+    "english": "Bold and Brave",
+    "indonesian": "Teguh dan Berani",
+    "aliases": [
+      "Berani dan Tegas"
+    ]
+  },
+  {
+    "asset": "gods-big-family.mp3",
+    "english": "God’s Big Family",
+    "indonesian": "Keluarga Besar Tuhan",
+    "aliases": [
+      "Keluarga Besar Tuhan"
+    ]
+  },
+  {
+    "asset": "jesus-loves-me-and-i-love-jesus.mp3",
+    "english": "Jesus Loves Me and I Love Jesus",
+    "indonesian": "Yesus Mengasihi Aku dan Aku Mengasihi Yesus",
+    "aliases": [
+      "Yesus Mengasihi Aku dan Aku Mengasihi Yesus"
+    ]
+  },
+  {
+    "asset": "my-forever-friend-jesus.mp3",
+    "english": "My Forever Friend Jesus",
+    "indonesian": "Sahabatku Selamanya, Yesus",
+    "aliases": [
+      "Sahabatku Selamanya, Yesus",
+      "My Forever Friend, Jesus"
+    ]
+  },
+  {
+    "asset": "i-can-trust-god.mp3",
+    "english": "I Can Trust God",
+    "indonesian": "Aku Dapat Memercayai Tuhan",
+    "aliases": [
+      "Aku Bisa Percaya pada Tuhan"
+    ]
+  },
+  {
+    "asset": "i-will-serve-you-jesus.mp3",
+    "english": "I Will Serve You, Jesus",
+    "indonesian": "Aku Akan Melayani-Mu, Yesus",
+    "aliases": [
+      "Aku Akan Melayani-Mu, Yesus"
+    ]
+  },
+  {
+    "asset": "jesus-is-my-god.mp3",
+    "english": "Jesus Is My God",
+    "indonesian": "Yesus Tuhanku",
+    "aliases": [
+      "Yesus Adalah Tuhanku"
+    ]
+  },
+  {
+    "asset": "the-sabbath.mp3",
+    "english": "The Sabbath",
+    "indonesian": "Hari Sabat",
+    "aliases": [
+      "Hari Sabat"
+    ]
+  },
+  {
+    "asset": "listen-and-hear.mp3",
+    "english": "Listen and Hear",
+    "indonesian": "Dengarkan dan Perhatikan",
+    "aliases": [
+      "Dengarkan dan Perhatikan",
+      "Dengarkan dan Pahami"
+    ]
+  },
+  {
+    "asset": "always.mp3",
+    "english": "Always",
+    "indonesian": "Selalu",
+    "aliases": [
+      "Selalu"
+    ]
+  },
+  {
+    "asset": "rejoice-in-the-lord-always.mp3",
+    "english": "Rejoice in the Lord Always",
+    "indonesian": "Bersukacitalah Selalu dalam Tuhan",
+    "aliases": [
+      "Bersukacitalah selalu di dalam Tuhan",
+      "Bersukacitalah Selalu dalam Tuhan"
+    ]
+  },
+  {
+    "asset": null,
+    "english": "When I Am Afraid",
+    "indonesian": "Saat Aku Takut",
+    "aliases": []
+  },
+  {
+    "asset": null,
+    "english": "Jesus Loves Me",
+    "indonesian": "Yesus Mengasihiku",
+    "aliases": [
+      "Yesus Mengasihi Aku"
+    ]
+  },
+  {
+    "asset": null,
+    "english": "Jesus Loves Me (Sabbath Song)",
+    "indonesian": "Yesus Mengasihiku (Lagu Sabat)",
+    "aliases": [
+      "Yesus Mengasihi Aku (Lagu Sabat)"
+    ]
+  },
+  {
+    "asset": null,
+    "english": "I Have Decided to Follow Jesus",
+    "indonesian": "Aku Telah Memutuskan Mengikut Yesus",
+    "aliases": [
+      "Aku Telah Memutuskan untuk Mengikuti Yesus"
+    ]
+  },
+  {
+    "asset": null,
+    "english": "Jesus Saves",
+    "indonesian": "Yesus Menyelamatkan",
+    "aliases": []
+  },
+  {
+    "asset": null,
+    "english": "My God is So Big",
+    "indonesian": "Allahku Begitu Besar",
+    "aliases": []
+  },
+  {
+    "asset": null,
+    "english": "God Will Take Care of You",
+    "indonesian": "Allah Akan Memeliharamu",
+    "aliases": []
+  },
+  {
+    "asset": null,
+    "english": "Cast Your Burdens Unto Jesus",
+    "indonesian": "Serahkan Bebanmu kepada Yesus",
+    "aliases": []
+  },
+  {
+    "asset": null,
+    "english": "Get Well Soon",
+    "indonesian": "Semoga Cepat Sembuh",
+    "aliases": []
+  }
+]
