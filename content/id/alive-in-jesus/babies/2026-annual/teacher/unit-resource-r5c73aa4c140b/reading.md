@@ -12,7 +12,7 @@ Saat Anda mengajar bayi selama Sekolah Sabat, ada beberapa komponen penting yang
 
 ### Kelompok Usia
 
-Meskipun kurikulum ini ditujukan untuk bayi (0–12 bulan), kurikulum ini dapat mencakup bayi yang lebih besar dan balita (12–18 bulan). Jika gereja Anda belum pernah mengadakan kelas untuk bayi sebelumnya, ini adalah kesempatan Anda untuk memulainya. Jika bayi sudah berusia 6 bulan atau lebih, jangan khawatir—Anda dapat langsung memulainya! Memiliki waktu enam bulan atau lebih untuk menggunakan kurikulum ini akan sangat bermanfaat bagi bayi dan orang tua. Diskusikan dengan orang tua tentang waktu terbaik bagi mereka untuk memindahkan bayi mereka ke kelas Pemula, yang akan memiliki gaya interaktif multisensori yang serupa. Setiap bayi berbeda, dan penting untuk mendorong fleksibilitas dalam hal ini.
+Meskipun kurikulum ini ditujukan untuk bayi (0–12 bulan), kurikulum ini dapat mencakup bayi yang lebih besar dan balita (12–18 bulan). Jika gereja Anda belum pernah mengadakan kelas untuk bayi sebelumnya, ini adalah kesempatan Anda untuk memulainya. Jika bayi sudah berusia 6 bulan atau lebih, jangan khawatir—Anda dapat langsung memulainya! Memiliki waktu enam bulan atau lebih untuk menggunakan kurikulum ini akan sangat bermanfaat bagi bayi dan orang tua. Diskusikan dengan orang tua tentang waktu terbaik bagi mereka untuk memindahkan bayi mereka ke kelas Beginner, yang akan memiliki gaya interaktif multisensori yang serupa. Setiap bayi berbeda, dan penting untuk mendorong fleksibilitas dalam hal ini.
 
 ### Keterlibatan dan Kenikmatan Belajar
 
@@ -25,7 +25,7 @@ Bayi memiliki rentang perhatian yang sangat pendek, dan menjaga agar mereka teta
 
 ### Musik
 
-Bayi sangat sensitif terhadap musik. Menyanyikan dan memainkan musik untuk bayi dapat menjadi cara yang bagus untuk menenangkan, menghibur, dan mengajari mereka. Menurut penulis buku Teaching the Faith (Habenicht dan Burton, 2004), musik sangat berharga untuk pendidikan agama karena merupakan cara beribadah, mempelajari Kitab Suci, memberikan variasi, dan mengekspresikan perasaan. Cara paling efektif untuk menggunakan musik selama kelas adalah dengan memperkenalkan hanya beberapa lagu terlebih dahulu, lalu menyanyikannya setiap pekan. Anda akan melihat bahwa garis besar pelajaran (Bagian 5) akan memperkenalkan lagu-lagu baru setiap tiga atau empat bulan. Dorong orang tua untuk menyanyikan lagu yang sama di rumah sebagai bagian dari ibadah harian di rumah agar melodi dan liriknya menjadi familiar bagi bayi.
+Bayi sangat sensitif terhadap musik. Menyanyikan dan memainkan musik untuk bayi dapat menjadi cara yang bagus untuk menenangkan, menghibur, dan mengajari mereka. Menurut penulis buku Teaching the Faith (Habenicht dan Burton, 2004), musik sangat berharga untuk pendidikan agama karena merupakan cara beribadah, mempelajari Kitab Suci, memberikan variasi, dan mengekspresikan perasaan. Cara paling efektif untuk menggunakan musik selama kelas adalah dengan memperkenalkan hanya beberapa lagu terlebih dahulu, lalu menyanyikannya setiap pekan. Anda akan melihat bahwa garis besar pelajaran (Bagian 5) akan memperkenalkan lagu-lagu baru setiap tiga atau empat bulan. Dorong orang tua untuk menyanyikan lagu yang sama di rumah sebagai bagian dari ibadah harian di rumah agar melodi dan liriknya menjadi akrab bagi bayi.
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/part-03-03-01-baby-time/watering-can.png)
 

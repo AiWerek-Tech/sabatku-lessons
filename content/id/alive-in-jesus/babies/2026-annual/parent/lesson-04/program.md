@@ -34,7 +34,7 @@ Katakan: **Mari kita belajar tentang Bayi Yesus dan betapa besar kasih Tuhan kep
 
 ### Perjalanan keledai
 
-Jika memungkinkan, tunjukkan boneka Maria dan Yusuf kepada bayi Anda atau buat boneka sederhana dari gulungan kardus untuk mewakili ibu dan ayah. Katakan: **Maria dan Yusuf harus pergi ke Betlehem. Maria sedang mengandung bayi. Maria mungkin pergi dengan menunggang keledai. Dengarkan suara keledai berjalan.**. Ajaklah seekor keledai mainan berjalan-jalan sambil bernyanyi.
+Jika memungkinkan, tunjukkan boneka Maria dan Yusuf kepada bayi Anda atau buat boneka sederhana dari gulungan kardus untuk mewakili ibu dan ayah. Katakan: **Maria dan Yusuf harus pergi ke Betlehem. Maria sedang mengandung bayi. Maria mungkin pergi dengan menunggang keledai. Dengarkan suara keledai berjalan.** Ajaklah seekor keledai mainan berjalan-jalan sambil bernyanyi.
 
 ### Bernyanyi
 ### Clip-Clop (*Klik-Klop*)
@@ -42,7 +42,7 @@ Jika memungkinkan, tunjukkan boneka Maria dan Yusuf kepada bayi Anda atau buat b
 Klik-klop, klik-klop, dengar keledai berjalan.\
 Klik-klop, klik-klop, dengar keledai berjalan.\
 Keledai itu berjalan di jalan,\
-Cakar-cakar, cakar-cakar, cakar-cakar.\
+Klik-klop, klik-klop, klik-klop.\
 (mengulang)
 [♫ Clip-Clop (Klik-Klop)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-02-clip-clop.mp3)
 
@@ -74,7 +74,7 @@ Katakan: **Dengarkan!** Baa-baa. Baa-baa. **Ketika bayi Yesus terjaga, Dia dapat
 
 Domba berbulu, domba berbulu,\
 Domba berbulu, domba berbulu,\
-Yesus menciptakanmu dengan tekstur lembut dan seperti wol.\
+Yesus menciptakanmu dengan bulu yang lembut.\
 (mengulang)
 
 [♫ Woolly, Woolly Lamb (Anak Domba Berbulu Tebal)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-04-woolly-woolly-lamb.mp3)
@@ -86,7 +86,7 @@ Katakan: **Dengarkan!** Moo-moo. Moo-moo. **Ketika bayi Yesus terjaga, Dia bisa 
 ### Bernyanyi
 ### Jesus Made the Cows (*Yesus Menciptakan Sapi*)
 
-Yesus membuat sapi-sapi yang bernyanyi melenguh,\
+Yesus menciptakan sapi yang melenguh,\
 Yesus menciptakan sapi-sapi itu,\
 Aku sangat senang.\
 (mengulang)
@@ -99,24 +99,24 @@ Katakan: **Saatnya bayi Yesus dimandikan. Bayi Yesus menyukai air. Ibu Maria mer
 
 ### Bernyanyi
 
-**Baby Jesus** (*Bayi Yesus*) (ayat 1: basuh).\
+**Baby Jesus** (*Bayi Yesus*) (bait 1: memandikan).\
 
-Ibu Mary,\
+Ibu Maria,\
 Memandikan Bayi Yesus.\
-Ibu Mary,\
+Ibu Maria,\
 Memandikan Bayi Yesus.\
 Yesus adalah bayi kecil seperti aku.\
 
-Katakan: **Sudah waktunya Bayi Yesus dibungkus selimut untuk bersiap tidur. Bayi Yesus suka tidur. Ibu Maria merawat Bayi Yesus dengan baik.**. Dengan menggunakan kain gendongan bayi, bungkus boneka bayi mainan dengan lembut.
+Katakan: **Sudah waktunya Bayi Yesus dibungkus selimut untuk bersiap tidur. Bayi Yesus suka tidur. Ibu Maria merawat Bayi Yesus dengan baik.** Dengan menggunakan kain gendongan bayi, bungkus boneka bayi mainan dengan lembut.
 
 [♫ Baby Jesus (Bayi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-06-baby-jesus-wash.mp3)
 
 ### Bernyanyi
- **Baby Jesus** (*Bayi Yesus*) (ayat 2: penutup).\
+ **Baby Jesus** (*Bayi Yesus*) (bait 2: menyelimuti).\
 
-Ibu Mary,\
+Ibu Maria,\
 Membungkus Bayi Yesus.\
-Ibu Mary,\
+Ibu Maria,\
 Membungkus Bayi Yesus.\
 Yesus adalah bayi kecil seperti aku.\
 
@@ -125,11 +125,11 @@ Katakan: **Ibu Maria dan Ayah Yusuf sangat menyayangi Bayi Yesus. Mereka memeluk
 [♫ Baby Jesus (Bayi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-07-baby-jesus-wrap.mp3)
 
 ### Bernyanyi
- **Baby Jesus** (*Bayi Yesus*) (ayat 3: pelukan).\
+ **Baby Jesus** (*Bayi Yesus*) (bait 3: memeluk).\
 
-Ibu Mary,\
+Ibu Maria,\
 Memeluk Bayi Yesus.\
-Ibu Mary,\
+Ibu Maria,\
 Memeluk Bayi Yesus.\
 Yesus adalah bayi kecil seperti aku.\
 
@@ -139,7 +139,7 @@ Katakan: **Saat itu malam hari. Shhhh... Semua orang sedang tidur. Ohhh... Lihat
 
 ### Bernyanyi
 
-**Baby Jesus** (*Bayi Yesus*) (ayat 4: tidur).\
+**Baby Jesus** (*Bayi Yesus*) (bait 4: tidur).\
 
 Saatnya tidur,\
 Selamat malam, Bayi Yesus.\
@@ -152,7 +152,7 @@ Katakan: **Ibu dan ayahmu juga sangat menyayangimu. Kami menyayangimu seperti Bu
 [♫ Baby Jesus (Bayi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-09-baby-jesus-sleep.mp3)
 
 ### Bernyanyi
- **Baby Jesus** (*Bayi Yesus*) (ayat 5: kamu).\
+ **Baby Jesus** (*Bayi Yesus*) (bait 5: untuk bayimu).\
 
 Saatnya tidur,\
 Selamat malam, sayang _______ (nama anak).\
@@ -167,7 +167,7 @@ Yesus adalah bayi kecil seperti kamu.
 Katakan: **Kamu membuat keluarga kami bahagia! Kami sayang kamu.**
 
 ### Bernyanyi
- **“Dengan Bayi di Keluarga.”** Tepuk tangan sambil bernyanyi.\
+ **With Baby in the Family** (*Bersama Bayi dalam Keluarga*) Tepuk tangan sambil bernyanyi.\
 
 Dengan kehadiran bayi dalam keluarga, rumah pun menjadi sangat bahagia.\
 Rumah yang bahagia, bahagia. Rumah yang bahagia, bahagia.\
@@ -179,7 +179,7 @@ Rumah yang sangat bahagia.\
 
 ### Gembala dan malaikat
 
-Tunjukkan mainan domba kepada bayi Anda. Katakan: **Ketika Bayi Yesus lahir, para gembala sedang menjaga domba-domba mereka. Para gembala melihat sebuah bintang yang indah dan terang di langit. Bintang itu adalah banyak sekali malaikat. Para malaikat memberi tahu para gembala tentang Bayi Yesus.**.
+Tunjukkan mainan domba kepada bayi Anda. Katakan: **Ketika Bayi Yesus lahir, para gembala sedang menjaga domba-domba mereka. Para gembala melihat sebuah bintang yang indah dan terang di langit. Bintang itu adalah banyak sekali malaikat. Para malaikat memberi tahu para gembala tentang Bayi Yesus.**
 
 ### Bernyanyi
  **Christmas Star** (*Bintang Natal*) Tunjukkan atau berikan mainan berbentuk bintang atau malaikat kepada bayi Anda untuk dipegang saat Anda bernyanyi.\

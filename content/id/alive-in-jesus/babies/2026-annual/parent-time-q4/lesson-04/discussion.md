@@ -1,6 +1,6 @@
 > “Selain Allah, pengaruh ibu untuk melakukan kebaikan adalah yang terbesar di dunia” (Ellen G. White, _The Adventist Home_, hlm. 240).
 
-### Terhubung
+### Berbagi Pengalaman
 
 Ceritakan kenangan istimewa tentang ibu atau sosok keibuan yang berarti dalam hidup Anda. Bagaimana ia memengaruhi diri Anda sekarang?
 
@@ -22,7 +22,7 @@ Bacalah kutipan-kutipan berikut, lalu renungkan atau diskusikan:
 - Apa yang terasa menantang?
 - Gagasan praktis apa yang dapat saya lakukan agar menjadi ibu yang Allah kehendaki bagi anak saya? Siapa yang dapat saya minta untuk membantu dalam tugas ini?
 
-> “Para ibu, Anda tidak dapat terlalu berhati-hati dalam mencegah anak-anak mempelajari kebiasaan buruk. Lebih mudah mempelajari kejahatan daripada menghilangkannya setelah kebiasaan itu terbentuk” (Ellen G. White, _Child Guidance_, hlm. 457, 458).
+> “Para ibu, Anda perlu sungguh-sungguh berjaga agar anak-anak tidak mempelajari kebiasaan buruk. Lebih mudah mempelajari kejahatan daripada menghilangkannya setelah kebiasaan itu terbentuk” (Ellen G. White, _Child Guidance_, hlm. 457, 458).
 
 > “Para ibu, ingatlah bahwa dalam pekerjaan Anda, Pencipta alam semesta akan menolong. Penebus yang penuh belas kasihan memperhatikan Anda dengan kasih dan simpati. Ia siap mendengar doa dan memberikan pertolongan yang Anda perlukan dalam tugas hidup ini” (Ellen G. White, _Child Guidance_, hlm. 172, 173).
 

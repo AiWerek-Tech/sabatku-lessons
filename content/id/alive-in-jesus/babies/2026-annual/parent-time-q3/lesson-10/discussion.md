@@ -1,6 +1,6 @@
 Tidak ada orang tua yang ingin mengakuinya, tetapi kita semua pernah merasa kesal, jengkel, bahkan sedikit marah kepada bayi tersayang. Saat berusaha menumbuhkan hati penuh kasih bagi anak, salah satu sifat terpenting yang perlu kita minta agar Allah tumbuhkan dalam diri kita dan bayi adalah kesabaran.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Hal apa yang dilakukan atau tidak dilakukan bayi yang menguji kesabaran Anda? Biasanya, bagaimana respons Anda saat merasa mulai kehilangan ketenangan?
 - Cobalah melihat sesuatu dari sudut pandang si kecil. Mengapa ia melakukan hal yang membuat Anda frustrasi—sering terbangun, melempar makanan, atau menggigit saat menyusu? Bagaimana pemahaman tentang tahap-tahap perkembangannya yang rumit dapat menumbuhkan kesabaran dalam diri Anda?

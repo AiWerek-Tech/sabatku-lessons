@@ -10,17 +10,17 @@ Penciptaan
 
 + Alkitab
 + Lampu
-+ Penggemar
++ Kipas angin
 + Segelas air
 + Bunga buatan atau bunga asli
-+ Cahaya bintang
++ Benda berbentuk bintang yang bercahaya
 + Kotak atau tas untuk hewan
 + Burung mainan (sebisa mungkin realistis)
 + Ikan mainan (sebisa mungkin realistis)
 + Mainan binatang (sebisa mungkin realistis)
 + Foto bayi dan/atau cermin
 + Gambar Yesus
-+ Pembuat kebisingan
++ Alat pembuat bunyi
 
 Gembala yang Baik
 
@@ -41,7 +41,7 @@ Nuh dan Hewan-Hewan
 + Gergaji mainan
 + Palu mainan
 + Balok kayu
-+ Beberapa pasang mainan binatang yang berbeda, baik yang bersih maupun yang kotor: 2 anjing, 2 kucing, ayam betina, ayam jantan.
++ Beberapa pasang mainan binatang yang berbeda, baik hewan yang halal maupun yang haram: 2 anjing, 2 kucing, ayam betina, ayam jantan.
 + 2 burung mainan
 + Beberapa mainan domba
 + Perahu mainan atau bahtera

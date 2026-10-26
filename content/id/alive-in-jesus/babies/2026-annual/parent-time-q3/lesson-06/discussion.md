@@ -1,6 +1,6 @@
 Pada usia ini, salah satu cara terpenting untuk memenuhi kebutuhan emosi bayi adalah segera dan konsisten menghiburnya ketika ia gelisah. Respons yang cepat dan konsisten mengajarkan bahwa Anda dapat diandalkan sebagai sumber penghiburan—pelajaran penting yang akan membantunya memiliki gambaran yang benar tentang Allah, Penghibur kita yang terbesar.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Ingatkah Anda saat seseorang menghibur Anda dengan cara yang berkesan? Ceritakan apa yang membuat Anda merasa lebih baik ketika sedang gelisah atau sedih.
 - Bagaimana perasaan Anda ketika berhasil menenangkan bayi? Apakah Anda memperoleh pemahaman khusus tentang hati Allah saat menghibur anak?

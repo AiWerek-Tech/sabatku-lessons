@@ -1,6 +1,6 @@
-Karena kamu adalah objek kasih-Nya, Tuhan tidak hanya tertarik pada kehidupan rohanimu. Dia tertarik pada semua aspek kehidupanmu, termasuk kesehatan fisik, emosional, dan mentalmu.
+Tuhan mengasihi Anda dan memperhatikan seluruh kehidupan Anda, termasuk kesehatan jasmani, emosi, dan pikiran Anda, serta kehidupan rohani Anda.
 
-Agar Anda menjadi orang tua yang sehat dan mampu meneladani kasih Tuhan kepada bayi Anda, Anda perlu meluangkan waktu untuk berinvestasi pada diri sendiri. Seruan pramugari untuk "pasang masker oksigen Anda sendiri sebelum membantu anak-anak" tidak pernah lebih nyata daripada sekarang. Ini mungkin tampak seperti tugas yang mustahil ketika Anda belum tidur nyenyak selama berbulan-bulan. Namun, sejak awal, Anda akan menyadari bahwa jika Anda bisa tidur nyenyak di malam hari, akan jauh lebih mudah untuk menghadapi hari Anda dengan keberanian dan sikap positif. Perawatan diri harus menjadi prioritas.
+Agar Anda menjadi orang tua yang sehat dan mampu meneladani kasih Tuhan kepada bayi Anda, Anda perlu meluangkan waktu untuk merawat diri sendiri. Seruan pramugari untuk "pasang masker oksigen Anda sendiri sebelum membantu anak-anak" sangat tepat bagi keadaan Anda saat ini. Ini mungkin tampak seperti tugas yang mustahil ketika Anda belum tidur nyenyak selama berbulan-bulan. Namun, sejak awal, Anda akan menyadari bahwa jika Anda bisa tidur nyenyak di malam hari, akan jauh lebih mudah untuk menghadapi hari Anda dengan keberanian dan sikap positif. Perawatan diri harus menjadi prioritas.
 
 Makan sehat, minum lebih banyak air, menghirup udara segar, dan berolahraga secara teratur akan membantu pikiran dan tubuh Anda serta akan mendukung Anda selama hari-hari yang penuh tantangan. Dan selama minggu-minggu ketika Anda kurang tidur dan merasa hampa, ketika Anda tidak berhasil makan sehat, ketika Anda tidak cukup minum air atau tidak cukup berolahraga, ingatlah bahwa besok adalah hari baru. Carilah cara-cara kecil untuk merawat diri sendiri, ingatlah bahwa bahkan berjalan kaki sebentar pun lebih baik daripada tidak berjalan kaki sama sekali. Temukan cara untuk mengisi kembali energi emosional Anda melalui percakapan dengan keluarga besar atau teman, seorang mentor, dan orang tua lainnya.
 
@@ -9,8 +9,8 @@ Makan sehat, minum lebih banyak air, menghirup udara segar, dan berolahraga seca
 Tips untuk Memulihkan Energi Fisik:
 
 + **Turunkan ekspektasi Anda** termasuk menjaga kebersihan rumah dan dapur serta melakukan banyak pekerjaan rumah tangga lainnya. Meskipun memiliki rumah yang rapi itu baik, prioritas Anda adalah beristirahat dan bahagia untuk merawat bayi Anda.
-+ **Cobalah untuk tidur saat bayi Anda tidur.**.
-+ **Cobalah untuk mengonsumsi makanan nabati yang sehat.** dan minumlah banyak air.
++ **Cobalah untuk tidur saat bayi Anda tidur.**
++ **Cobalah untuk mengonsumsi makanan nabati yang sehat** dan minumlah banyak air.
 + **Ajak bayi Anda menemani Anda** Saat Anda melakukan tugas-tugas tertentu (misalnya, berkebun atau berolahraga). Anda bisa bernyanyi untuk mereka sambil melakukan ini.
 + **Bergantianlah dengan pasangan Anda** Merawat bayi Anda sementara pasangan Anda berolahraga, mengurus beberapa urusan, atau beristirahat. Jika Anda adalah orang tua tunggal, beranilah meminta anggota gereja untuk merawat bayi Anda (walaupun hanya satu jam) sementara Anda mengisi ulang energi. Anda mungkin akan terkejut betapa banyak orang lain yang bersedia membantu Anda.
 + **Saat Anda merasa kewalahan dan sendirian, mintalah bantuan.** dari seseorang yang Anda percayai untuk menjaga bayi Anda di rumah sementara Anda tidur siang selama satu jam, dan tidur tanpa merasa bersalah.

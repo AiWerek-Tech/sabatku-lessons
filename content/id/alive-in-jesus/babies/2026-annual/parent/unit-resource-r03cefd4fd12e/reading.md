@@ -7,11 +7,11 @@ Musik adalah alat lain yang sangat efektif yang dapat digunakan di rumah untuk m
 
 Manfaat terpenting yang diberikan musik kepada si kecil adalah sebagai berikut:
 
-### Keamanan
+### Rasa Aman
 
 Hal ini menumbuhkan rasa aman secara emosional dan kepercayaan dalam diri mereka sehingga mereka dapat merasa dipahami dengan berbagi lagu-lagu mereka dan terlibat dalam semangat kerja sama dan saling membantu.
 
-### Sedang belajar
+### Belajar
 
 Tahap perkembangan literasi bayi Anda akan lebih terstimulasi dengan musik. Lagu-lagu anak dengan suku kata berima dan berulang, disertai gerakan, mendorong bayi Anda untuk bernyanyi dan membantu meningkatkan kemampuan berbicara serta pemahaman kata-kata mereka.
 
@@ -19,7 +19,7 @@ Tahap perkembangan literasi bayi Anda akan lebih terstimulasi dengan musik. Lagu
 
 Melalui musik, anak Anda akan mengembangkan dan meningkatkan kemampuan belajar dan konsentrasinya. Dengan terus menggunakan musik, mereka akan mengembangkan pemikiran matematis dan kemampuan mereka untuk mempelajari bahasa asing di masa depan.
 
-### Ekspresi tubuh
+### Gerak Tubuh
 
 Melalui ritme berbagai karya musik, ekspresi tubuh bayi Anda dirangsang, meningkatkan kontrol ritme tubuh mereka. Hal ini juga meningkatkan koordinasi mereka ketika mereka merespons dengan berbagai rangkaian tindakan (Provasi, Anderson, dan Barbu-Roth, 2014).
 
@@ -27,13 +27,13 @@ Melalui ritme berbagai karya musik, ekspresi tubuh bayi Anda dirangsang, meningk
 
 Musik memiliki kekuatan untuk membangkitkan simpati pada bayi, mengusir kesedihan, dan mendorong usaha serta keberanian (Ellen G. White, _Pendidikan_, hlm. 167).
 
-Secara umum, manifestasi musik pertama yang dirasakan anak Anda adalah melodi yang Anda nyanyikan ketika Anda ingin menidurkannya atau menenangkannya. Nyanyikan lagu untuk anak Anda secara teratur!
+Secara umum, pengalaman musik pertama anak Anda adalah melodi yang Anda nyanyikan ketika Anda ingin menidurkannya atau menenangkannya. Nyanyikan lagu untuk anak Anda secara teratur!
 
 Perlu diingat bahwa musik, perpaduan antara suara dan keheningan yang menyatu secara harmonis membentuk berbagai melodi, tidak hanya menghasilkan kesenangan bagi pendengar dan pemainnya, tetapi juga berkontribusi pada perkembangan dan peningkatan banyak aspek manusia. Para pendidik telah menemukan peran penting musik dalam pendidikan anak usia dini karena pentingnya musik dalam perkembangan intelektual, pendengaran, sensorik, bicara, dan motorik bayi. Itulah sebabnya, selain menyanyikan lagu pengantar tidur untuk menidurkan bayi Anda, penting untuk berbagi musik dengan mereka sejak mereka lahir. Dengan menggunakan musik, Anda akan dapat memperkuat dan meningkatkan banyak aspek perkembangan mereka (Dumont, Syurina, dkk., 2017).
 
 Anda mungkin pernah melihat bahwa anak-anak sangat senang ketika mereka melompat, bergerak, bertepuk tangan, dan bernyanyi bersama seseorang yang mereka cintai atau percayai. Musik menyenangkan, menghibur, dan berkontribusi dalam membentuk perkembangan mental, emosional, sosial, dan fisik anak-anak. Musik juga memberi mereka antusiasme dan keterampilan yang dibutuhkan untuk belajar sendiri (Campbell, 2002).
 
-INSPIRASI MENGAJARKAN KEPADA SAYA . . .
+### Inspirasi bagi Saya
 
 **“Hatiku teguh, ya Allah, hatiku teguh; aku akan bernyanyi dan memuji.”** _(Mazmur 57:7)_.
 

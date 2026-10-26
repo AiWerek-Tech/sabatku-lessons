@@ -45,6 +45,6 @@ Mengenal tabiat Allah dengan jelas itu penting. Mari kita pelajari beberapa sifa
 
 Dalam minggu mendatang, pikirkan cara memperluas dan memperdalam gambaran Anda tentang Allah. **Bacalah** Ayub 37 dan 38. Dengarkan pasal pertama buku _Kebahagiaan Sejati_. Berjalanlah di alam terbuka, berdoalah, dan carilah bukti tentang Pencipta Anda.
 
-> ### Doa
+### Doa
 
 Mintalah agar Allah menolong Anda semakin mengenal Dia melalui Firman dan doa minggu ini. Berdoalah juga agar Anda dapat menunjukkan gambaran Allah yang benar kepada bayi Anda. Salah satu tugas terpenting Anda sebagai orang tua ialah menolong anak memiliki pengenalan yang sehat dan benar tentang Allah.

@@ -47,7 +47,7 @@ Katakan: **Hari ini kita akan belajar tentang Tuhan kita yang luar biasa yang me
 Tunjukkan sumber cahaya (senter, lampu, atau lainnya). Katakan: **Lihatlah cahaya itu! Tuhan menciptakan cahaya. Dia menciptakan siang.** (nyalakan lampu/lampu ruangan) **dan Dia menjadikan malam itu** (matikan lampu/lampu ruangan) **karena Tuhan mengasihi kita**. Ulangi beberapa kali (bernyanyi sambil menggerakkan senter atau menyalakan dan mematikannya).
 
 ### Bernyanyi
- **God Made the Light, Wind, Water** (*Allah Menciptakan Cahaya, Angin, dan Air*) (ayat 1: terang).\
+ **God Made the Light, Wind, Water** (*Allah Menciptakan Cahaya, Angin, dan Air*) (bait 1: terang).\
 
 Siapa yang menciptakan cahaya yang dapat kamu lihat?\
 Tuhan menciptakan cahaya, untukmu dan untukku.\
@@ -61,7 +61,7 @@ Tuhan menciptakan cahaya, untukmu dan untukku.
 Tiup perlahan atau gunakan kipas angin untuk menciptakan angin sepoi-sepoi. Katakan: **Bisakah kamu merasakan angin?** Tiup perlahan dan minta setiap orang tua untuk meniup kepala bayinya. **Tuhan menciptakan angin dan udara yang dapat kita rasakan**.
 
 ### Bernyanyi
- **God Made the Light, Wind, Water** (*Allah Menciptakan Cahaya, Angin, dan Air*) (ayat 2: angin).\
+ **God Made the Light, Wind, Water** (*Allah Menciptakan Cahaya, Angin, dan Air*) (bait 2: angin).\
 
 Siapa yang menciptakan angin yang bisa kamu dengar?\
 Tuhan menciptakan angin, untukmu dan untukku.\
@@ -83,11 +83,11 @@ Katakan: **Tuhan menciptakan awan di tempat yang sangat tinggi. Dia menciptakan 
 Peragakan air dengan memindahkan dan menuangkan air dari cangkir ke cangkir atau wadah lain. Ucapkan: **Lihat! Tuhan juga menciptakan air. Hmmm! Untuk minum, mandi, dan bermain. Hmmm! Air itu menyenangkan!** (Biarkan bayi Anda menyentuh air.) **Tuhan menciptakan air.**
 
 ### Bernyanyi
- **God Made the Light, Wind, Water** (*Allah Menciptakan Cahaya, Angin, dan Air*) (ayat 3: air).\
+ **God Made the Light, Wind, Water** (*Allah Menciptakan Cahaya, Angin, dan Air*) (bait 3: air).\
 
-Siapa yang menciptakan air yang Anda rasakan?\
+Siapa yang menciptakan air yang kamu rasakan?\
 Tuhan menciptakan air, untukmu dan untukku.\
-Siapa yang menciptakan air yang Anda rasakan?\
+Siapa yang menciptakan air yang kamu rasakan?\
 Tuhan menciptakan air, untukmu dan untukku.
 
 [♫ God Made the Light, Wind, Water (Allah Menciptakan Cahaya, Angin, dan Air)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3)
@@ -163,7 +163,7 @@ Di akhir lagu, tiru suara binatang yang berbeda dan tunjukkan mainan binatang la
 
 ### Ayat Hafalan
 
-Katakan: **Hewan-hewan di dunia kita sangat istimewa. Tuhan menciptakan setiap dari mereka. Kita bisa bersikap baik dan lembut kepada hewan.** Kemudian buka Alkitab Anda, tunjuk, dan katakan: **Alkitab berkata, “Allah melihat [semua binatang] yang telah Ia ciptakan, dan… itu sangat baik.”** (Kejadian 1:31). Ajak orang tua untuk memeluk bayi mereka dengan lembut sambil mengucapkan ayat hafalan.
+Katakan: **Hewan-hewan di dunia kita sangat istimewa. Tuhan menciptakan semuanya. Kita bisa bersikap baik dan lembut kepada hewan.** Kemudian buka Alkitab Anda, tunjuk, dan katakan: **Alkitab berkata, “Allah melihat [semua binatang] yang telah Ia ciptakan, dan… itu sangat baik.”** (Kejadian 1:31). Ajak orang tua untuk memeluk bayi mereka dengan lembut sambil mengucapkan ayat hafalan.
 
 ### Aku
 
@@ -188,12 +188,12 @@ Katakan: **Tuhan menciptakan dunia kita. Pada hari ketujuh, Tuhan memberi kita h
 ### The Sabbath (*Hari Sabat*)
 
 Hari Sabat adalah hari favoritku,\
-Saya suka pergi ke gereja untuk bernyanyi dan berdoa,\
+Aku suka ke gereja, bernyanyi dan berdoa,\
 Hari Sabat adalah hari favoritku,\
 Terima kasih Tuhan atas hari Sabat!\
 
 Hari Sabat adalah hari favoritku,\
-Saya suka pergi ke gereja untuk bernyanyi dan berdoa,\
+Aku suka ke gereja, bernyanyi dan berdoa,\
 Hari Sabat adalah hari favoritku,\
 Terima kasih Tuhan atas hari Sabat!\
 Terima kasih Tuhan atas hari Sabat!\
@@ -202,7 +202,7 @@ Katakan: **Tuhan menciptakan hari Sabat dan segala sesuatu di dunia ini karena D
 
 [♫ The Sabbath (Hari Sabat)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-10-sabbath.mp3)
 
-### Menawarkan
+### Persembahan
 
 Katakan: **Kita menunjukkan kasih kita kepada Tuhan ketika kita memberikan uang persembahan kita kepada-Nya.** Edarkan wadah persembahan di antara kelompok orang tua. Anak-anak yang sudah cukup umur untuk memasukkan uang ke dalam wadah tersebut dapat melakukannya.
 
@@ -210,7 +210,7 @@ Katakan: **Kita menunjukkan kasih kita kepada Tuhan ketika kita memberikan uang 
  **Here Is My Money** (*Ini Uang Persembahanku*) Bernyanyilah saat persembahan dikumpulkan.\
 
 Ini uangku untuk Yesus,\
-Demi Yesus, demi Yesus.\
+Untuk Yesus, untuk Yesus.\
 Ini uangku untuk Yesus,\
 Aku memberikan uangku kepada-Nya.\
 (mengulang)

@@ -42,6 +42,6 @@ Beberapa cara untuk menumbuhkan iman:
 
 Salah satu tujuan utama orang tua Kristen adalah menumbuhkan iman anak seiring pertumbuhannya. Minggu ini, berbicaralah dengan orang tua yang memiliki anak-anak lebih besar dan hidup saleh. Tanyakan apa yang mereka lakukan untuk menumbuhkan iman anak dan bagaimana iman mereka sendiri bertumbuh selama proses itu.
 
-> ### Doa
+### Doa
 
 Carilah janji-janji berikut dan peganglah sebagai ungkapan iman untuk menguatkan hubungan Anda dengan Allah: Ibrani 12:1, 2; 2 Tawarikh 15:7; Roma 3:23–26; dan Lukas 7:50. Ucapkan janji-janji itu sebagai bagian dari doa Anda.

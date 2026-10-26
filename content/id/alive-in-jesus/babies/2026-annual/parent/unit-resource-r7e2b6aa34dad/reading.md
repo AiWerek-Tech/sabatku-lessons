@@ -10,10 +10,9 @@ Seiring pertumbuhan bayi Anda dan dunianya semakin luas, Anda akan mengetahui ta
 
 Saat bayi Anda tumbuh menjadi balita dan bertambah besar, gunakan prinsip konsekuensi alami daripada hukuman. Beri tahu mereka bahwa pilihan mereka telah mengundang konsekuensi tersebut, dan kemudian dengan setia laksanakan konsekuensi yang telah Anda jelaskan kepada mereka.
 
-> **TIPS** Bayi Anda ingin menyentuh panci berisi sup panas. Anda melarangnya karena panas. Ia mengulurkan tangan untuk menyentuhnya, dan Anda membiarkannya merasakan panasnya, alih-alih menarik tangannya.\
-Meskipun kita tidak suka melihat anak-anak kita kesakitan atau dalam bahaya, ketika risikonya tidak besar, akan bermanfaat bagi mereka untuk belajar sendiri konsekuensi alami dari ketidaktaatan mereka. Sering kali hal ini mengajarkan mereka lebih banyak daripada peringatan kita.
+> **Kiat** Gunakan konsekuensi alami hanya dalam keadaan yang aman dan tidak menimbulkan risiko cedera. Panci atau sup panas harus dijauhkan dari jangkauan bayi. Jika ia meraihnya, cegah tangannya menyentuh benda panas, jelaskan dengan tenang bahwa benda itu panas, lalu alihkan perhatiannya ke kegiatan yang aman.
 
-INSPIRASI MENGAJARKAN KEPADA SAYA . . .
+### Inspirasi bagi Saya
 
 **“Anak-anak, taatilah orang tuamu dalam Tuhan, karena ini adalah benar. ‘Hormatilah ayah dan ibumu,’ yang merupakan perintah pertama dengan janji: ‘supaya kamu berbahagia dan panjang umur di bumi.’”** (Efesus 6:1-3).
 

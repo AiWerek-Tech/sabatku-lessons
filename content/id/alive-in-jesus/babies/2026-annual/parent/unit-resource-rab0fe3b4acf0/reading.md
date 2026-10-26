@@ -2,7 +2,7 @@
 
 Tuhan telah menawarkan kita jalan yang bijaksana ke depan saat kita merenungkan apa artinya menjadi orang tua yang saleh yang membangun rumah tempat anak-anak kita dapat mulai belajar tentang, dan mengasihi, Dia. Tetaplah fokus pada tujuan, dan pada tugas yang ada di depan mata—membangun, merawat, dan melindungi setiap hari. Melalui tugas-tugas kecil sehari-hari itulah kita bekerja menuju tujuan untuk mendidik anak-anak kita agar mengasihi Yesus, sahabat abadi mereka, sehingga mereka dapat tumbuh untuk membagikan kasih-Nya kepada orang lain.
 
-Tuhan telah memanggilmu untuk menjadi orang tua bagi si kecilmu. Ya, kamu telah dipilih untuk peran ini. Tidak ada orang lain yang bisa menjadi sepertimu. Tidak ada orang lain yang bisa melakukan apa yang kamu lakukan. Anakmu membutuhkan kasih sayangmu, sukacitamu, imanmu, kepercayaanmu, karena hubunganmu sendiri dengan Yesus memengaruhi semua yang kamu lakukan.
+Tuhan telah memanggil Anda untuk menjadi orang tua bagi si kecil. Anda dipilih untuk peran ini. Tidak ada orang lain yang dapat menggantikan kehadiran dan pelayanan Anda. Anak membutuhkan kasih, sukacita, iman, dan kepercayaan Anda kepada Tuhan, sebab hubungan Anda dengan Yesus memengaruhi semua yang Anda lakukan.
 
 Saat Anda mengasihi dan merawat anak Anda di rumah, semoga Anda tahu, “Aku dapat melakukan segala sesuatu melalui Kristus yang memberi kekuatan kepadaku” (Filipi 4:13) “dan damai sejahtera Allah, yang melampaui segala pengertian, akan menjaga hati dan pikiranmu melalui Kristus Yesus” (Filipi 4:7).
 

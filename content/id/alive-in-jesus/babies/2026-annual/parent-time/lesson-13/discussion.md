@@ -10,9 +10,9 @@ Renungkan kembali apa yang telah Anda pelajari selama triwulan ini. Saat Anda me
 
 1. **Impian** Harapan rohani yang kita miliki bagi anak-anak kita.
 2. **Menumbuhkan** Lingkungan yang membantu Allah menumbuhkan iman anak-anak kita.
-3. **Memperjelas Tujuan** Tujuan kami adalah mengajari mereka untuk mengenal Tuhan, dan bukan hanya mengetahui tentang Dia.
+3. **Memperjelas Tujuan** Tujuan kita adalah mengajari mereka untuk mengenal Tuhan, dan bukan hanya mengetahui tentang Dia.
 4. **Melangkah** Langkah awal sangat penting untuk membentuk kebiasaan.
-5. **Memberi Teladan** Pentingnya bersikap otentik dalam perjalanan kita bersama Tuhan.
+5. **Memberi Teladan** Pentingnya hidup dengan tulus dalam perjalanan kita bersama Tuhan.
 6. **Tinggal di Dalam Kristus** Tinggal di dalam Yesus adalah dasar dari segala sesuatu yang baik dan benar.
 7. **Membaca Firman** Cara untuk tetap tinggal di dalam Tuhan melalui Firman-Nya.
 8. **Beristirahat** Cara untuk beristirahat di dalam Tuhan ketika dibebani dan bagaimana bersandar pada kekuatan-Nya.
@@ -28,7 +28,7 @@ Bergiliranlah berbagi wawasan dari beberapa minggu terakhir.
 Berkali-kali dalam Firman Tuhan, Dia mengundang kita untuk datang kepada-Nya. Tuhan mengundang kita untuk membawa sukacita dan kesedihan kita, kemenangan dan stres kita. Apa pun yang kita alami dalam hidup, Dia ada bersama kita. Dia akan selalu bersama kita (Matius 28:20). Ellen G. White berbagi, “Doa adalah latihan jiwa yang paling suci” (_Kesaksian untuk Gereja_, vol. 5, hlm. 201).
 
 Bacalah ayat-ayat berikut ini.
-Mana yang menjadi favoritmu? Bagikan dengan orang di sebelahmu.
+Ayat mana yang paling Anda sukai? Ceritakan kepada orang di sebelah Anda.
 
 - Efesus 6:18
 - Yeremia 29:12
@@ -49,10 +49,10 @@ Puji Tuhan atas siapa Dia dan ucapkan syukur atas apa yang telah Dia lakukan unt
 
 “Serahkanlah kepada-Nya segala sesuatu yang membingungkan pikiran. . . . Tidak ada yang terlalu berat bagi-Nya untuk ditanggung” (Ellen G. White, _Steps to Christ_, hlm. 100).
 
-- Serahkan kekhawatiran dan masalahmu kepada Tuhan dalam doa dan biarkan Dia yang mengurusnya.
+- Serahkan kekhawatiran dan masalah Anda kepada Tuhan dalam doa dan biarkan Dia yang mengurusnya.
 
 Terima kasih atas partisipasi Anda sepanjang triwulan ini.
 
-> ### Doa
+### Doa
 
 “TUHAN memberkati engkau dan melindungi engkau; TUHAN menyinari engkau dengan wajah-Nya dan memberi engkau kasih karunia; TUHAN menghadapkan wajah-Nya kepadamu dan memberi engkau damai sejahtera” (Bilangan 6:24–26).

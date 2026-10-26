@@ -2,7 +2,7 @@ Anda menggendong bayi sambil membayangkan ke mana kaki kecilnya akan melangkah a
 
 Mungkin terasa berat memikirkan cara membesarkan anak di zaman sekarang. Anda mungkin mengenal seorang remaja yang sungguh mengasihi Allah dan tetap teguh mengenal dirinya di tengah tekanan budaya populer. Anda pun bertanya-tanya, apa yang dilakukan orang tuanya selama bertahun-tahun untuk membentuk tabiatnya?
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Siapa yang turut membentuk tabiat Anda ketika masih kecil? Sebagian dari kita mungkin mengalami masa kecil yang sulit. Namun, jika bersedia, ceritakan kenangan atau kebiasaan keluarga yang memberi pengaruh positif terhadap diri Anda sekarang.
 - Menurut pengamatan Anda, apakah lebih sering ditemui anak-anak yang sangat mirip dengan orang tuanya atau yang berbeda dari mereka?

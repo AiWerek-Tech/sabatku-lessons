@@ -27,6 +27,6 @@ Bacalah paragraf berikut dalam hati dan soroti gagasan-gagasan yang paling berma
 
 Luangkan waktu hari ini (jika memungkinkan) untuk mencari tempat yang tenang dan serahkan kepada Tuhan emosi yang Anda tahu telah mendominasi hidup Anda akhir-akhir ini, dengan mengetahui bahwa “Anda tidak dapat membebani-Nya” atau “membuat-Nya lelah.”
 
-> ### Doa
+### Doa
 
 Sampaikan kepada Tuhan kekhawatiran, kecemasan, dan pergumulan Anda tentang diri sendiri atau anak Anda. Mintalah damai, kelegaan, kekuatan, dan hikmat dalam menjalani pengasuhan dan kehidupan sehari-hari. Peganglah janji-janji-Nya dalam doa.

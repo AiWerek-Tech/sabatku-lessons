@@ -1,4 +1,4 @@
-### Terhubung
+### Berbagi Pengalaman
 
 Jika Anda merasa nyaman, ceritakan saat hati Anda dipenuhi kasih kepada Allah. Bagaimana hal itu memengaruhi orang-orang di sekitar Anda?
 

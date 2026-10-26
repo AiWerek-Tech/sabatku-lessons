@@ -20,13 +20,13 @@ Bayi sering kali memiliki karakteristik berikut selama 6–9 bulan pertama kehid
 + Mereka memindahkan benda dari satu tangan ke tangan lainnya.
 + Mereka mengangkat benda-benda kecil menggunakan jari telunjuk dan ibu jari.
 
-### Pidato, Komunikasi, dan Musik
+### Bicara, Komunikasi, dan Musik
 
 + Mereka mengerti ketika Anda mengatakan "Tidak" kepada mereka.
 + Mereka mengoceh “mamama” atau “dadada.”
 + Mereka meniru suara dan gerak tubuh dari orang lain.
 + Mereka menunjuk benda-benda dengan jari mereka.
-+ Mereka merespons musik dan rangsangan akustik dengan mengubah posisi dan memodifikasi keadaan istirahat mereka.
++ Mereka menanggapi musik dan bunyi dengan bergerak atau menjadi lebih terjaga.
 
 ### Sosial dan Emosional
 
@@ -42,12 +42,12 @@ Pada tahap ini, si kecil dapat mulai belajar patuh dalam situasi-situasi sederha
 + **Berbicara, membaca, menyanyi, dan bermain** bersama setiap hari.
 + **Perhatikan bagaimana reaksi bayi Anda** kepada orang dan situasi baru, memastikan bahwa mereka merasa nyaman dan bahagia.
 + **Pastikan bayi Anda dapat patuh dengan mudah.** (dengan menyingkirkan hal-hal yang mungkin berbahaya dari jangkauan mereka).
-+ **Siapkan area yang luas dan aman.** agar mereka bisa bergerak dan menjelajah.
-+ **Letakkan bayi Anda di dekat benda-benda yang dapat digunakannya sebagai penopang.** untuk bangun dan berdiri dengan aman.
++ **Siapkan area yang luas dan aman** agar mereka bisa bergerak dan menjelajah.
++ **Letakkan bayi Anda di dekat benda-benda yang dapat digunakannya sebagai penopang** untuk bangun dan berdiri dengan aman.
 + **Amati bayi Anda dan tetaplah berada di dekatnya saat ia bergerak.** Pada usia ini, mereka akan terus-menerus mengeksplorasi gerakan dan permainan baru.
 + **Bermainlah secara bergiliran.** Gunakan sistem bergantian dalam situasi sehari-hari untuk membantu bayi Anda mengembangkan kesabaran.
-+ **Ungkapkan emosi si kecil secara verbal.** “Kamu sedang sedih; izinkan saya membantumu merasa lebih baik.”
-+ **Jelaskan apa yang diinginkan bayi Anda.** ketika mereka menunjuk sesuatu.
++ **Bantulah si kecil mengenali perasaannya melalui kata-kata.** “Kamu sedang sedih; izinkan saya membantumu merasa lebih baik.”
++ **Jelaskan apa yang diinginkan bayi Anda** ketika mereka menunjuk sesuatu.
 + **Sampaikan kepada mereka dengan jelas apa yang Anda ingin mereka lakukan terlebih dahulu.** (daripada apa yang tidak Anda inginkan mereka lakukan): “Silakan duduk” alih-alih “Jangan berdiri!”
 
 Saat bayi Anda patuh, berikan apresiasi atau tepuk tangan. Saat bayi Anda tidak patuh, alihkan perhatiannya ke hal lain atau, dalam situasi berbahaya, katakan, “Tidak.” Berhati-hatilah agar tidak terlalu sering menggunakan kata “tidak” dalam mendisiplinkan anak, karena kata ini tidak secara jelas menyatakan apa yang seharusnya dilakukan anak, melainkan menyebabkan stres pada otak. Lebih baik mengatakan “ya” dengan hangat dan gembira untuk hal-hal yang dilakukan anak dengan benar dan baik, dan simpan kata “tidak” untuk hal-hal yang berbahaya, untuk membantu melindungi mereka. Cobalah untuk menata lingkungan dan rumah Anda untuk mendukung pilihan perilaku baik anak Anda. Pastikan Anda telah memenuhi kebutuhan anak Anda dan Anda tidak berkontribusi pada apa yang mungkin tampak sebagai “perilaku buruk,” yang terkadang hanyalah eksplorasi.
@@ -56,14 +56,12 @@ Saat bayi Anda patuh, berikan apresiasi atau tepuk tangan. Saat bayi Anda tidak 
 
 + **Bayi kini dapat menikmati ibadah yang berlangsung beberapa menit lebih lama.** Termasuk menyanyikan lagu dan bermain dengan benda-benda yang mudah dipegang. Bayi Anda akan merespons dengan tawa dan ekspresi bahagia.
 + **Izinkan bayi Anda ikut serta dalam ibadah keluarga di pangkuan Anda.** Mereka dapat berpartisipasi semaksimal mungkin—memegang sesuatu, menjaga irama saat orang lain bernyanyi, membalik halaman buku, dan sebagainya.
-+ **Ajak si kecil Anda ke Sekolah Sabat Bayi dan gereja.**.
++ **Ajak si kecil Anda ke Sekolah Sabat Bayi dan gereja.**
 + **Bagikan buku-buku Alkitab** dengan ilustrasi berwarna dan menjelaskan apa yang ditunjukkan oleh setiap gambar.
 + **Manfaatkan sore hari Sabat untuk menikmati alam.** Bayi Anda dapat melihat bunga, hewan, atau mengumpulkan batu. Beri tahu mereka bahwa segala sesuatu yang mereka lihat di alam adalah anugerah dari Yesus karena Dia mengasihi kita.
 
-> **Pokok Doa**\
-Tuhan, tolonglah (_nama bayi Anda_) untuk meningkatkan\
-“dalam hikmat dan dalam perawakan, dan dalam kemurahan hati”\
-bersama Tuhan dan manusia”\
-(Lukas 2:52).
+> **Pokok Doa**
+>
+> Tuhan, tolonglah [nama bayi Anda] agar semakin bertambah dalam hikmat dan pertumbuhan jasmani, serta dikasihi Allah dan manusia (Lukas 2:52).
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-06-growing-with-jesus-in-each-stage/boots.png)

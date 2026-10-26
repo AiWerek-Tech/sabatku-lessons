@@ -1,0 +1,838 @@
+{
+  "schemaVersion": "babies-publication-editorial-audit-v1",
+  "reviewedAt": "2026-10-26",
+  "status": "editorial-audit-completed",
+  "reviewer": "Codex",
+  "publicationAuthorization": "explicit-project-owner-instruction",
+  "humanTeamReviewClaimed": false,
+  "scope": {
+    "editions": 6,
+    "sourcePairedReadingFiles": 104,
+    "generatedIntroductions": 6
+  },
+  "findingsResolved": [
+    "Removed untranslated English instructions and corrected context-dependent mistranslations: fan, felt sun, early birds, offering, verse/bait.",
+    "Restored Q2 session 1 challenge and prayer from its own source; removed text copied from another session.",
+    "Restored complete Philippians 1:9–10 quotation in Q3 session 4.",
+    "Corrected distinction between knowing about God and knowing God personally in Q1 session 3.",
+    "Revised nine prayer prompts for complete, natural Indonesian; preserved their scripture references.",
+    "Corrected malformed quotation/bibliography markup and normalized section headings; song titles retain English with Indonesian subtitles.",
+    "Kept TB numbering for Psalm 18:2 and the prior corrected Luke 2:1–20 source reference."
+  ],
+  "editorialAdaptations": [
+    {
+      "file": "parent/unit-resource-r7e2b6aa34dad/reading.md",
+      "reason": "Replace source example permitting contact with a hot pot with safe boundary teaching that prevents contact. This is a disclosed editorial safety adaptation, not a literal translation.",
+      "supportingSource": "https://www.rch.org.au/kidsinfo/fact_sheets/Burns_and_scalds/"
+    }
+  ],
+  "sourceNotes": [
+    "English source publication is 2025; local edition cycle is 2026.",
+    "English PDF references remain local and are not uploaded into the Indonesian content repository.",
+    "Bibliographic titles retain original English to identify sources accurately; surrounding instructions are Indonesian.",
+    "Automatic checks cover structural integrity; they do not certify that translation cannot contain further editorial improvements."
+  ],
+  "q1EnglishPdfSha256": "944ac162b43f6b0539b48af6e8b652a4888211d9fc8984d45e2ec01ba84fb919",
+  "editions": [
+    {
+      "folder": "parent",
+      "editionId": "2026-q1-aij-babies-parent",
+      "readingFiles": 35,
+      "generatedIntroductionReviewed": true,
+      "sourceType": "provided-English-Markdown",
+      "sourcePairs": [
+        {
+          "source": "unit-resource-ra110198e1be2/reading.md",
+          "output": "unit-resource-ra110198e1be2/reading.md",
+          "englishSha256": "78fe04c2d4375a7336d027958d323627874c9d35016456dfc90c6f8ee1ee47f1",
+          "reviewedIndonesianSha256": "37d5a2c380811d2f330cfbb0d971e6c886683117a9487ccf1270c8b36d329ca4"
+        },
+        {
+          "source": "unit-resource-rb7a11119b03d/reading.md",
+          "output": "unit-resource-rb7a11119b03d/reading.md",
+          "englishSha256": "41a5ef37320d96df416a07d08320d811be5d1272e2616704a0f9c14104b8d5f6",
+          "reviewedIndonesianSha256": "ae60ea6872a0b7fd715bbfd11bf0fe2f16c966766cdebc0bfb1d3b4c1e413638"
+        },
+        {
+          "source": "unit-resource-r94d2121f71a3/reading.md",
+          "output": "unit-resource-r94d2121f71a3/reading.md",
+          "englishSha256": "069667c1f278c7457f0cabfa142c62280a6d3fd0f21705caa32de53a2b437cd9",
+          "reviewedIndonesianSha256": "bc70e5a886a5b3c19a244850d65a14fba9451e14209299f1fec27f16f99cf487"
+        },
+        {
+          "source": "unit-resource-r19b102b6c8f1/reading.md",
+          "output": "unit-resource-r19b102b6c8f1/reading.md",
+          "englishSha256": "d9c8c475d63e0986fc6726a61074320708c47e235ce856d401aa026a1446ee40",
+          "reviewedIndonesianSha256": "363de9cf5cf054a123f46f71d91bf2ec0c48c15f184917e6ec1bf00d21969d50"
+        },
+        {
+          "source": "unit-resource-rb411a37f25ae/reading.md",
+          "output": "unit-resource-rb411a37f25ae/reading.md",
+          "englishSha256": "0a6aa1bea8931afd6321db200c62a517c9d3c04a4137cd5f49768febac76498b",
+          "reviewedIndonesianSha256": "d1f7dbe611325f1bfc00fb3d7c3ea28b29e92c2154d97e4dde7646fe32452711"
+        },
+        {
+          "source": "unit-resource-r3c97cba2c617/reading.md",
+          "output": "unit-resource-r3c97cba2c617/reading.md",
+          "englishSha256": "4eadb7a26868f780af2b4c40a7c0e0aa606a59fdf1d8a86eb7399bd0aa67ae1d",
+          "reviewedIndonesianSha256": "26eaff5baa20d4ca322e1f9a025a71941b143ef08156a53b651e6544f5d63aa7"
+        },
+        {
+          "source": "unit-resource-r7e2b6aa34dad/reading.md",
+          "output": "unit-resource-r7e2b6aa34dad/reading.md",
+          "englishSha256": "8862923061b8d65cc0e9ef01bfc472ebcdeed93552791d6007331fddc327da11",
+          "reviewedIndonesianSha256": "23652de5c6206c153106f5918c7b105761a5a516f2da0fdfc76904a7e84deba4"
+        },
+        {
+          "source": "unit-resource-r4adf99901f41/reading.md",
+          "output": "unit-resource-r4adf99901f41/reading.md",
+          "englishSha256": "a7b25af2894973acb3fd23a8ef62394be342d680ba97f40d20c74ec0bcce891b",
+          "reviewedIndonesianSha256": "c7a14135b9b2287116c81172f28c3fc4c0a374fab9466cf8b662c0f85fb8474a"
+        },
+        {
+          "source": "unit-resource-r7c01c004fc2a/reading.md",
+          "output": "unit-resource-r7c01c004fc2a/reading.md",
+          "englishSha256": "15a7236fcbb65279afccf9d063e6cc2899ea7826675ee1c08cefaa2514e209da",
+          "reviewedIndonesianSha256": "d59cf83cb20cb4dc8ed580c07f3a10e9bed420ab3a4d5c55dea1d091188b318a"
+        },
+        {
+          "source": "unit-resource-r35a110050c98/reading.md",
+          "output": "unit-resource-r35a110050c98/reading.md",
+          "englishSha256": "45e342033dfde3d34ed24b7ebf14fada75a075735d15a8dac53e62b0f0d5bdb5",
+          "reviewedIndonesianSha256": "0c6bf8054f28962fb3395cfda236f89756e98912785532f9b9301b7f199301d5"
+        },
+        {
+          "source": "unit-resource-re30e7e8d1496/reading.md",
+          "output": "unit-resource-re30e7e8d1496/reading.md",
+          "englishSha256": "1decfa7fa0d75f77bdb7b106bd52296c00f7fec4bc436356bca9b27a284f7251",
+          "reviewedIndonesianSha256": "c3fd147a3c5571ca28cc32ce650000b02afde525160c5648c594b45a6f4c6f6f"
+        },
+        {
+          "source": "unit-resource-rd849fcf0c076/reading.md",
+          "output": "unit-resource-rd849fcf0c076/reading.md",
+          "englishSha256": "0d5cd54f44d4330a9bbe99341df8f57fc13362ff1f69a5da441f5890dc139e08",
+          "reviewedIndonesianSha256": "71979851a5123ac426b60684253a498b4d09f5f49338f26b40091cc62d078580"
+        },
+        {
+          "source": "unit-resource-r88156fec92e8/reading.md",
+          "output": "unit-resource-r88156fec92e8/reading.md",
+          "englishSha256": "5d58384c440adc617b219f08bd286f45901ce8ee6545e1831d053ef77af5be27",
+          "reviewedIndonesianSha256": "46713d0c91137a7bfb13fde25dc4ed17836dab9cf8df24d9714bc6f9ecc2369e"
+        },
+        {
+          "source": "unit-resource-r5b258791ee0d/reading.md",
+          "output": "unit-resource-r5b258791ee0d/reading.md",
+          "englishSha256": "ea9c5da376b10737d7ab25fba4b27a881f4f23f9d3411d6a1671dc701d64a1b1",
+          "reviewedIndonesianSha256": "e4c95f046ac43c777ce334b26a3a4bdaa294fc0b9d91bd73f20c87cfbf918a11"
+        },
+        {
+          "source": "unit-resource-r60763059f219/reading.md",
+          "output": "unit-resource-r60763059f219/reading.md",
+          "englishSha256": "fbd758efc876e317f1ee4259adbddb7ae4a1d433bc3aa4bd10232cd0f7a1227b",
+          "reviewedIndonesianSha256": "f2c51cfbe5345c023fcbe328798d82c685946e63794c69e484723ed4ded4f9df"
+        },
+        {
+          "source": "unit-resource-rb413b6d18c33/reading.md",
+          "output": "unit-resource-rb413b6d18c33/reading.md",
+          "englishSha256": "3c0bc23223fc055d7c756a66e6693ed841e4cf605e0e996d2589575d318b6833",
+          "reviewedIndonesianSha256": "55477ee6ea0fc5c59159395b7132767aa8813850bc9f7928fc818037babc3a8b"
+        },
+        {
+          "source": "unit-resource-r6ed154053a30/reading.md",
+          "output": "unit-resource-r6ed154053a30/reading.md",
+          "englishSha256": "4d7f6701798a733e1451f5c338e985021c4aa3b25e3a6d25ec163c5b91bb284e",
+          "reviewedIndonesianSha256": "62de362eddcdfc67724b9c45d3b2cd30cbbf07773100d163092e2754f4c2c56b"
+        },
+        {
+          "source": "unit-resource-r5651fc71c983/reading.md",
+          "output": "unit-resource-r5651fc71c983/reading.md",
+          "englishSha256": "dad679062ff0ebf38a7c427ce750bd4ed986a81ae1b51efdc726435012ddee16",
+          "reviewedIndonesianSha256": "ae2edbd860ecd3f7c47a19057c69cb7a0620afd47d92245a12012756767cdcff"
+        },
+        {
+          "source": "unit-resource-r7e2fe87a9d03/reading.md",
+          "output": "unit-resource-r7e2fe87a9d03/reading.md",
+          "englishSha256": "d9ad30ad1db8d041e6bc638becc37ab5d0b86c47d13f9d70123c0e737ae969e0",
+          "reviewedIndonesianSha256": "c35a73ca4d77431902f76c1aa9c1730565cea27e2d17c0f345185c6329eaf928"
+        },
+        {
+          "source": "unit-resource-r9910e4fbcbec/reading.md",
+          "output": "unit-resource-r9910e4fbcbec/reading.md",
+          "englishSha256": "a753c9ee514803bbfc473897d9033e3fa870b32ca862eed688694e3d68e9807f",
+          "reviewedIndonesianSha256": "d783fd1ed278347d57d0833cd1cf0c60d0a52f3bc9e3b8255716580f50214fc2"
+        },
+        {
+          "source": "unit-resource-r03cefd4fd12e/reading.md",
+          "output": "unit-resource-r03cefd4fd12e/reading.md",
+          "englishSha256": "e152ddedd7f1ef6ee0ff1069f45453c7e16dc54bc1ea717d6fbebc84900ad2f2",
+          "reviewedIndonesianSha256": "62387ded19ee1eac9535ada8c1686d0305c62f0f75a1b60c0a7619ad217a11da"
+        },
+        {
+          "source": "unit-resource-rc8eff778cab1/reading.md",
+          "output": "unit-resource-rc8eff778cab1/reading.md",
+          "englishSha256": "5e87da8208b9b6eb8096657b2d96c11095952afc9b9e1457dad45fec06e4e498",
+          "reviewedIndonesianSha256": "a049e94f575b8dc972aa29d42540ec5e401eb41722c122bea3c5839e86ac01a9"
+        },
+        {
+          "source": "unit-resource-r7a50dc51e34d/reading.md",
+          "output": "unit-resource-r7a50dc51e34d/reading.md",
+          "englishSha256": "0c10e69ef803bea60898e41fca277acfefcfee35fec4c5f1f8306bd7ba4452ef",
+          "reviewedIndonesianSha256": "da3b4a97bf74f960b82a23036a3088b3bd904ac2d78a64772fa5222d7025fc50"
+        },
+        {
+          "source": "unit-resource-rea8f4da56b40/reading.md",
+          "output": "unit-resource-rea8f4da56b40/reading.md",
+          "englishSha256": "0a0c572db79b3a802e4f83e12a2808992378d317be6552abf24b940d388c15ba",
+          "reviewedIndonesianSha256": "047f64dce79f062dce10d9d3f411ca3689d0e541a92b389e39abbb34515f061f"
+        },
+        {
+          "source": "unit-resource-r755f61f89153/reading.md",
+          "output": "unit-resource-r755f61f89153/reading.md",
+          "englishSha256": "a56a25dca7045c12b6dccbfce392b2049e9bc6a6d39b521314a3ca37d2c3c778",
+          "reviewedIndonesianSha256": "0b5e5001dc05b1af5c1aeddd1332e62bc378117192b9cd88acebbc5f931d50af"
+        },
+        {
+          "source": "unit-resource-r900115eebe64/reading.md",
+          "output": "unit-resource-r900115eebe64/reading.md",
+          "englishSha256": "73d4df8ae66c2aaa77b3d4df206dac63067b26158a820de7e681656ab5e75832",
+          "reviewedIndonesianSha256": "ad0d8d767eb7df2880808c1369afb0dfecc443608c1c8d51e8e2331115880e95"
+        },
+        {
+          "source": "unit-resource-r449775142de5/reading.md",
+          "output": "unit-resource-r449775142de5/reading.md",
+          "englishSha256": "c3d9e11164f26eacac62bde58e32aa70f80393a3ac0273c685fb814440071265",
+          "reviewedIndonesianSha256": "cf36cb21f841e5a72e80f72f68c49a58c3e30e8bda7a0be6debe6b3f84c32e99"
+        },
+        {
+          "source": "unit-resource-r861f9bbcd30f/reading.md",
+          "output": "unit-resource-r861f9bbcd30f/reading.md",
+          "englishSha256": "06c968b2b649b3169407375caf10541eb83195b69f6dc3a2a51ef88a444bb42d",
+          "reviewedIndonesianSha256": "34bc119283fdbb420569588e999e09e95abd84ef09cdf00bc3f3905601c1871b"
+        },
+        {
+          "source": "lesson-01/program.md",
+          "output": "lesson-01/program.md",
+          "englishSha256": "aa0ca778f319b8f206450322d4126ca060335bed55a54115364153958748fbe2",
+          "reviewedIndonesianSha256": "12c9578899c8f930e579acb8ff5b6116d6c42a2fce3dc5d5adf347dcf8fe0f98"
+        },
+        {
+          "source": "lesson-02/program.md",
+          "output": "lesson-02/program.md",
+          "englishSha256": "ff66a07f2e26ad8059deadbbf4b1e9945b4c57de3db0bc4f2584f25546547a3e",
+          "reviewedIndonesianSha256": "7db7379563eb27f4616e0344e4f2ec9a61cc9300d81efe3df1ed7465bfd5d5ae"
+        },
+        {
+          "source": "lesson-03/program.md",
+          "output": "lesson-03/program.md",
+          "englishSha256": "5180103e7c950b2e97d24375a27221af336d2ced1509915e562b3e38c25ddedf",
+          "reviewedIndonesianSha256": "76dbe00386fdea15f06562d0a29458db72187cb611c90a97a63c55133530b602"
+        },
+        {
+          "source": "lesson-04/program.md",
+          "output": "lesson-04/program.md",
+          "englishSha256": "87d0ab6d83da62cdf70126cf9dfb496925bccb737dc1dd117744755aef4b34e4",
+          "reviewedIndonesianSha256": "e3bde8686de617ba42b7767f6c6ae1cee34d37fee6b9b0377ee9f419a3345ede"
+        },
+        {
+          "source": "unit-resource-rab0fe3b4acf0/reading.md",
+          "output": "unit-resource-rab0fe3b4acf0/reading.md",
+          "englishSha256": "1f5ae235b9fe640a0f3d9ce57f354613f04a553ab70efa666d376cb83c4a1e09",
+          "reviewedIndonesianSha256": "3164a8b9acc9fa85865b8b122707ef47efa725417083c788482b145855fd8569"
+        },
+        {
+          "source": "unit-resource-r885d4d1d8ce3/reading.md",
+          "output": "unit-resource-r885d4d1d8ce3/reading.md",
+          "englishSha256": "49daaf42c8bf9c51f65fdeddea00f86956ade6870a1819535b400f4afa1b4a51",
+          "reviewedIndonesianSha256": "5cab122ffbf789829b5d095559a52880e27b2a5cd93ea90aa74879f71627ee3c"
+        },
+        {
+          "source": "unit-resource-r535741ec65a6/reading.md",
+          "output": "unit-resource-r535741ec65a6/reading.md",
+          "englishSha256": "1db7bc484fb6fbd07a39065792676e6cc5e6e7a23f853e288927c4d2987bf697",
+          "reviewedIndonesianSha256": "bb15deca184f7bff72d938d0007ef29223984e5e89e20b17c69b831742f0c364"
+        }
+      ],
+      "translationFiles": {
+        "introduction.md": "747a9acd97c89d01ba1f30d2e7bc62ec757b751923947cdc475f28b086f736ea",
+        "lesson-01/program.md": "12c9578899c8f930e579acb8ff5b6116d6c42a2fce3dc5d5adf347dcf8fe0f98",
+        "lesson-02/program.md": "7db7379563eb27f4616e0344e4f2ec9a61cc9300d81efe3df1ed7465bfd5d5ae",
+        "lesson-03/program.md": "76dbe00386fdea15f06562d0a29458db72187cb611c90a97a63c55133530b602",
+        "lesson-04/program.md": "e3bde8686de617ba42b7767f6c6ae1cee34d37fee6b9b0377ee9f419a3345ede",
+        "unit-resource-r03cefd4fd12e/reading.md": "62387ded19ee1eac9535ada8c1686d0305c62f0f75a1b60c0a7619ad217a11da",
+        "unit-resource-r19b102b6c8f1/reading.md": "363de9cf5cf054a123f46f71d91bf2ec0c48c15f184917e6ec1bf00d21969d50",
+        "unit-resource-r35a110050c98/reading.md": "0c6bf8054f28962fb3395cfda236f89756e98912785532f9b9301b7f199301d5",
+        "unit-resource-r3c97cba2c617/reading.md": "26eaff5baa20d4ca322e1f9a025a71941b143ef08156a53b651e6544f5d63aa7",
+        "unit-resource-r449775142de5/reading.md": "cf36cb21f841e5a72e80f72f68c49a58c3e30e8bda7a0be6debe6b3f84c32e99",
+        "unit-resource-r4adf99901f41/reading.md": "c7a14135b9b2287116c81172f28c3fc4c0a374fab9466cf8b662c0f85fb8474a",
+        "unit-resource-r535741ec65a6/reading.md": "bb15deca184f7bff72d938d0007ef29223984e5e89e20b17c69b831742f0c364",
+        "unit-resource-r5651fc71c983/reading.md": "ae2edbd860ecd3f7c47a19057c69cb7a0620afd47d92245a12012756767cdcff",
+        "unit-resource-r5b258791ee0d/reading.md": "e4c95f046ac43c777ce334b26a3a4bdaa294fc0b9d91bd73f20c87cfbf918a11",
+        "unit-resource-r60763059f219/reading.md": "f2c51cfbe5345c023fcbe328798d82c685946e63794c69e484723ed4ded4f9df",
+        "unit-resource-r6ed154053a30/reading.md": "62de362eddcdfc67724b9c45d3b2cd30cbbf07773100d163092e2754f4c2c56b",
+        "unit-resource-r755f61f89153/reading.md": "0b5e5001dc05b1af5c1aeddd1332e62bc378117192b9cd88acebbc5f931d50af",
+        "unit-resource-r7a50dc51e34d/reading.md": "da3b4a97bf74f960b82a23036a3088b3bd904ac2d78a64772fa5222d7025fc50",
+        "unit-resource-r7c01c004fc2a/reading.md": "d59cf83cb20cb4dc8ed580c07f3a10e9bed420ab3a4d5c55dea1d091188b318a",
+        "unit-resource-r7e2b6aa34dad/reading.md": "23652de5c6206c153106f5918c7b105761a5a516f2da0fdfc76904a7e84deba4",
+        "unit-resource-r7e2fe87a9d03/reading.md": "c35a73ca4d77431902f76c1aa9c1730565cea27e2d17c0f345185c6329eaf928",
+        "unit-resource-r861f9bbcd30f/reading.md": "34bc119283fdbb420569588e999e09e95abd84ef09cdf00bc3f3905601c1871b",
+        "unit-resource-r88156fec92e8/reading.md": "46713d0c91137a7bfb13fde25dc4ed17836dab9cf8df24d9714bc6f9ecc2369e",
+        "unit-resource-r885d4d1d8ce3/reading.md": "5cab122ffbf789829b5d095559a52880e27b2a5cd93ea90aa74879f71627ee3c",
+        "unit-resource-r900115eebe64/reading.md": "ad0d8d767eb7df2880808c1369afb0dfecc443608c1c8d51e8e2331115880e95",
+        "unit-resource-r94d2121f71a3/reading.md": "bc70e5a886a5b3c19a244850d65a14fba9451e14209299f1fec27f16f99cf487",
+        "unit-resource-r9910e4fbcbec/reading.md": "d783fd1ed278347d57d0833cd1cf0c60d0a52f3bc9e3b8255716580f50214fc2",
+        "unit-resource-ra110198e1be2/reading.md": "37d5a2c380811d2f330cfbb0d971e6c886683117a9487ccf1270c8b36d329ca4",
+        "unit-resource-rab0fe3b4acf0/reading.md": "3164a8b9acc9fa85865b8b122707ef47efa725417083c788482b145855fd8569",
+        "unit-resource-rb411a37f25ae/reading.md": "d1f7dbe611325f1bfc00fb3d7c3ea28b29e92c2154d97e4dde7646fe32452711",
+        "unit-resource-rb413b6d18c33/reading.md": "55477ee6ea0fc5c59159395b7132767aa8813850bc9f7928fc818037babc3a8b",
+        "unit-resource-rb7a11119b03d/reading.md": "ae60ea6872a0b7fd715bbfd11bf0fe2f16c966766cdebc0bfb1d3b4c1e413638",
+        "unit-resource-rc8eff778cab1/reading.md": "a049e94f575b8dc972aa29d42540ec5e401eb41722c122bea3c5839e86ac01a9",
+        "unit-resource-rd849fcf0c076/reading.md": "71979851a5123ac426b60684253a498b4d09f5f49338f26b40091cc62d078580",
+        "unit-resource-re30e7e8d1496/reading.md": "c3fd147a3c5571ca28cc32ce650000b02afde525160c5648c594b45a6f4c6f6f",
+        "unit-resource-rea8f4da56b40/reading.md": "047f64dce79f062dce10d9d3f411ca3689d0e541a92b389e39abbb34515f061f"
+      }
+    },
+    {
+      "folder": "parent-time",
+      "editionId": "2026-q1-aij-babies-parent-time",
+      "readingFiles": 13,
+      "generatedIntroductionReviewed": true,
+      "sourceType": "official-English-PDF",
+      "sourcePairs": [
+        {
+          "source": "English PDF session 1",
+          "output": "lesson-01/discussion.md",
+          "englishSha256": "a024fb7e9128ec377fbf62391c580dfd67312b58daf7844b1095b375da07d083",
+          "reviewedIndonesianSha256": "e01aca089380f19afaaef9c3c556f6957147f6cd9d56d80849b9c455963ab910"
+        },
+        {
+          "source": "English PDF session 2",
+          "output": "lesson-02/discussion.md",
+          "englishSha256": "2ae461399efd23cf7844f38d043c79218575339318beb1fdf7fbf1014e558ab7",
+          "reviewedIndonesianSha256": "999c292dc4437b7c60aca1585cdeef3d24fc1a63c5b3dc0e77bfb41078641d47"
+        },
+        {
+          "source": "English PDF session 3",
+          "output": "lesson-03/discussion.md",
+          "englishSha256": "0854d55cf544642ad5d56827c44f94a5fec61e910433de04737a3b92204a0362",
+          "reviewedIndonesianSha256": "a98600f683fee3af014ebc71d5341f8abb282ab669483a692c0229a413707f63"
+        },
+        {
+          "source": "English PDF session 4",
+          "output": "lesson-04/discussion.md",
+          "englishSha256": "64277e3619a65540e3cf6518892d69d718abacbadb175807284fc18a233d4791",
+          "reviewedIndonesianSha256": "9a0894fd15ec6d1fd1f76aab49c8362e2020cd1c4118572a336dd3076c9ea611"
+        },
+        {
+          "source": "English PDF session 5",
+          "output": "lesson-05/discussion.md",
+          "englishSha256": "efa14f9635ce4fb65ed6b9f391e3d166d1ed3d2792da7558f8b4da7bfe7fe5ab",
+          "reviewedIndonesianSha256": "40841db5848f73dda427cbf0de689a62ed35838a6a85c7e2fad3bfb381560b72"
+        },
+        {
+          "source": "English PDF session 6",
+          "output": "lesson-06/discussion.md",
+          "englishSha256": "712b62eecdeef35764f5513d36d31502956c549555c8b4aea9f7ab4d9b82b2b1",
+          "reviewedIndonesianSha256": "c760b3f3ff5d0704ddb6119cdb9e8530a3a5d465fc8528ef16dff0b01d91178e"
+        },
+        {
+          "source": "English PDF session 7",
+          "output": "lesson-07/discussion.md",
+          "englishSha256": "c07bfc467a0ac1ba897e14fef904bf6eb94e8d749a34b585249e1ebf65ab7b44",
+          "reviewedIndonesianSha256": "917ab3dd058ed1710f5c05dae6d42360a8b5e19dc1b9c2bd2b4c942899e6138e"
+        },
+        {
+          "source": "English PDF session 8",
+          "output": "lesson-08/discussion.md",
+          "englishSha256": "88dfb6ae510d676ff3cd4367b5977a632cb471654799c0184223b029b2be7167",
+          "reviewedIndonesianSha256": "2450c982bf150eea19e470cd50b831db4078e4385adfdb918d75a682cb10e030"
+        },
+        {
+          "source": "English PDF session 9",
+          "output": "lesson-09/discussion.md",
+          "englishSha256": "dc5fb736bbd1ed8183b3bf338aada33f1d946fed8c3723ae8229dfe6488cad13",
+          "reviewedIndonesianSha256": "029970390779ed244d0492a8800658aa01e01c9e0e602fc37463449bdb1812ff"
+        },
+        {
+          "source": "English PDF session 10",
+          "output": "lesson-10/discussion.md",
+          "englishSha256": "efa25341fc9934f3c0f976512977a3bb233ab4b5827ebf9ff50e8ca566e7b901",
+          "reviewedIndonesianSha256": "16de94c8fcd1121343f052cd56c8c7528a1639248601f65ae2039add1103ab73"
+        },
+        {
+          "source": "English PDF session 11",
+          "output": "lesson-11/discussion.md",
+          "englishSha256": "71c9152a59cec304774c17afe3e0ea222f19f543256edee79b3543fea150a6b5",
+          "reviewedIndonesianSha256": "e8fff62b7cc0427061ebd010324fae99cdd8058debc0ea5170022209fcaeb1b9"
+        },
+        {
+          "source": "English PDF session 12",
+          "output": "lesson-12/discussion.md",
+          "englishSha256": "2fae7dee54c03e08798b3e0aaf5ece7c7b7e00aaa54bfa07468f0f0eddcdb489",
+          "reviewedIndonesianSha256": "b8b8e690ca977e71b9e22ee5ed3e4250d209b8a075cfe87cc29b3d59d712a6a9"
+        },
+        {
+          "source": "English PDF session 13",
+          "output": "lesson-13/discussion.md",
+          "englishSha256": "b9badb57a47c68db2e721ee50344df56ddac801bbea377dc27f1c30100d418f4",
+          "reviewedIndonesianSha256": "0a8bb31d6d56c2dd41adbb3784623405903b6d701db20a7821ad35536b364e7f"
+        }
+      ],
+      "translationFiles": {
+        "introduction.md": "6bc797bb2de65d1703d1c2debce5743cc33980579820d42e7a32c19554298be5",
+        "lesson-01/discussion.md": "e01aca089380f19afaaef9c3c556f6957147f6cd9d56d80849b9c455963ab910",
+        "lesson-02/discussion.md": "999c292dc4437b7c60aca1585cdeef3d24fc1a63c5b3dc0e77bfb41078641d47",
+        "lesson-03/discussion.md": "a98600f683fee3af014ebc71d5341f8abb282ab669483a692c0229a413707f63",
+        "lesson-04/discussion.md": "9a0894fd15ec6d1fd1f76aab49c8362e2020cd1c4118572a336dd3076c9ea611",
+        "lesson-05/discussion.md": "40841db5848f73dda427cbf0de689a62ed35838a6a85c7e2fad3bfb381560b72",
+        "lesson-06/discussion.md": "c760b3f3ff5d0704ddb6119cdb9e8530a3a5d465fc8528ef16dff0b01d91178e",
+        "lesson-07/discussion.md": "917ab3dd058ed1710f5c05dae6d42360a8b5e19dc1b9c2bd2b4c942899e6138e",
+        "lesson-08/discussion.md": "2450c982bf150eea19e470cd50b831db4078e4385adfdb918d75a682cb10e030",
+        "lesson-09/discussion.md": "029970390779ed244d0492a8800658aa01e01c9e0e602fc37463449bdb1812ff",
+        "lesson-10/discussion.md": "16de94c8fcd1121343f052cd56c8c7528a1639248601f65ae2039add1103ab73",
+        "lesson-11/discussion.md": "e8fff62b7cc0427061ebd010324fae99cdd8058debc0ea5170022209fcaeb1b9",
+        "lesson-12/discussion.md": "b8b8e690ca977e71b9e22ee5ed3e4250d209b8a075cfe87cc29b3d59d712a6a9",
+        "lesson-13/discussion.md": "0a8bb31d6d56c2dd41adbb3784623405903b6d701db20a7821ad35536b364e7f"
+      }
+    },
+    {
+      "folder": "parent-time-q2",
+      "editionId": "2026-q2-aij-babies-parent-time",
+      "readingFiles": 13,
+      "generatedIntroductionReviewed": true,
+      "sourceType": "provided-English-Markdown",
+      "sourcePairs": [
+        {
+          "source": "lesson-01/discussion.md",
+          "output": "lesson-01/discussion.md",
+          "englishSha256": "4cad1c0d5f193ba6b89e207c9754f870fd4e6708b3fa6a9c7c7bc51a6919b127",
+          "reviewedIndonesianSha256": "4f39a9919a66812bf50256d5b77111626b6bec7d35d85dd5a726bf230079ed93"
+        },
+        {
+          "source": "lesson-02/discussion.md",
+          "output": "lesson-02/discussion.md",
+          "englishSha256": "a75a255d1abafb96d047bea26c96a1baddbef62b1fb32b3dff7120b887f88b5b",
+          "reviewedIndonesianSha256": "06b0a1b7866f4755126e12335293856cec3c79399adf8562d23b081697ad0ca1"
+        },
+        {
+          "source": "lesson-03/discussion.md",
+          "output": "lesson-03/discussion.md",
+          "englishSha256": "b92038f7565b5b762704683509952d86e94a3a4c51f6214b103d05ea33e10ad4",
+          "reviewedIndonesianSha256": "61a80adf46ab9cb0dcc90aa0f7db3e033208d4d705de530042e86dfd352636c0"
+        },
+        {
+          "source": "lesson-04/discussion.md",
+          "output": "lesson-04/discussion.md",
+          "englishSha256": "2175c558d7d012d96a6132b62b06c9b29d2d091c888f22fdefff90fade84f435",
+          "reviewedIndonesianSha256": "94a397ec5e953e339ab4c43039f8b26ff438d89a0254f243bbcfd1e0a5bf0e63"
+        },
+        {
+          "source": "lesson-05/discussion.md",
+          "output": "lesson-05/discussion.md",
+          "englishSha256": "3ce1a5a863205996e84cdc036e0b0c7acc0bb0ec7a7da0471088f2dec69cea45",
+          "reviewedIndonesianSha256": "31f894c3f4ccf22987deb370ddbac71b7999904549d3a0d22eab62607e5b793a"
+        },
+        {
+          "source": "lesson-06/discussion.md",
+          "output": "lesson-06/discussion.md",
+          "englishSha256": "94eb5ae79f3293e1f641771f7c34cdcd3446b27e79a15a427cbbd127a6f67a79",
+          "reviewedIndonesianSha256": "8a5dc68383a06263ec40e629ac205d8467eec9a6c5c4307a71c2632074df57f3"
+        },
+        {
+          "source": "lesson-07/discussion.md",
+          "output": "lesson-07/discussion.md",
+          "englishSha256": "7121feba72646f5b9e2db0bd6799f590ffa7e68d0710bf606ef74e713a216a66",
+          "reviewedIndonesianSha256": "6ad4c7f30594f0537ac7115cc3adc3a8cd73d9f45944fa90bb7f1db7bb5aa066"
+        },
+        {
+          "source": "lesson-08/discussion.md",
+          "output": "lesson-08/discussion.md",
+          "englishSha256": "d78848927d47ce8864367285b0feece950e22f23e4e2b276d7df6dd00873cf2d",
+          "reviewedIndonesianSha256": "652483783a2364dd0f4e9e49776ddddb50c27a4295529a90a69976e6e9236713"
+        },
+        {
+          "source": "lesson-09/discussion.md",
+          "output": "lesson-09/discussion.md",
+          "englishSha256": "874febb156994fdfb29372449207c2d6fb30440ab88ba35e3f5a6b7e71565aad",
+          "reviewedIndonesianSha256": "c8783b834cf2e2ea805c8c888c3f4f8477e1ddf34e561aaa14de8a039660da37"
+        },
+        {
+          "source": "lesson-10/discussion.md",
+          "output": "lesson-10/discussion.md",
+          "englishSha256": "46798f6594b5e9621d91961afdbef418124018aa1ba78a6c5d5c05262cafe8f0",
+          "reviewedIndonesianSha256": "d3441dc4278478d5ee0c14b7929d494b03bed6ca0a75076703ca862af1eaa827"
+        },
+        {
+          "source": "lesson-11/discussion.md",
+          "output": "lesson-11/discussion.md",
+          "englishSha256": "d91749fd06f40b6950cdc4dbe96a17153a94399f51d75fd2bc832f9b83559dd8",
+          "reviewedIndonesianSha256": "f696912c413b6766464896a00ca819159f3cc59ac1702959b2f9f5124e205a12"
+        },
+        {
+          "source": "lesson-12/discussion.md",
+          "output": "lesson-12/discussion.md",
+          "englishSha256": "10f5f513c51c17b799ab8847523ce5445aa9388ae7bef740f9115f4ead74fb3c",
+          "reviewedIndonesianSha256": "5ceb158bcc6569e548d6d13f4a59cb2061f6c3a5bef4e23b6fff2a5585e60f85"
+        },
+        {
+          "source": "lesson-13/discussion.md",
+          "output": "lesson-13/discussion.md",
+          "englishSha256": "4cdc24fc90f5ac495a4f5eb97107c73291e0e24047cfae119935c7620d0be5fd",
+          "reviewedIndonesianSha256": "1380f3c347e9aae2ed6d88de3727898fae57ff8577a1c48a2297aa67cde50bf6"
+        }
+      ],
+      "translationFiles": {
+        "introduction.md": "2182c6c9010591633a2a2492d91287cc426e84c5e8244acbbf1d8e0b5628c62a",
+        "lesson-01/discussion.md": "4f39a9919a66812bf50256d5b77111626b6bec7d35d85dd5a726bf230079ed93",
+        "lesson-02/discussion.md": "06b0a1b7866f4755126e12335293856cec3c79399adf8562d23b081697ad0ca1",
+        "lesson-03/discussion.md": "61a80adf46ab9cb0dcc90aa0f7db3e033208d4d705de530042e86dfd352636c0",
+        "lesson-04/discussion.md": "94a397ec5e953e339ab4c43039f8b26ff438d89a0254f243bbcfd1e0a5bf0e63",
+        "lesson-05/discussion.md": "31f894c3f4ccf22987deb370ddbac71b7999904549d3a0d22eab62607e5b793a",
+        "lesson-06/discussion.md": "8a5dc68383a06263ec40e629ac205d8467eec9a6c5c4307a71c2632074df57f3",
+        "lesson-07/discussion.md": "6ad4c7f30594f0537ac7115cc3adc3a8cd73d9f45944fa90bb7f1db7bb5aa066",
+        "lesson-08/discussion.md": "652483783a2364dd0f4e9e49776ddddb50c27a4295529a90a69976e6e9236713",
+        "lesson-09/discussion.md": "c8783b834cf2e2ea805c8c888c3f4f8477e1ddf34e561aaa14de8a039660da37",
+        "lesson-10/discussion.md": "d3441dc4278478d5ee0c14b7929d494b03bed6ca0a75076703ca862af1eaa827",
+        "lesson-11/discussion.md": "f696912c413b6766464896a00ca819159f3cc59ac1702959b2f9f5124e205a12",
+        "lesson-12/discussion.md": "5ceb158bcc6569e548d6d13f4a59cb2061f6c3a5bef4e23b6fff2a5585e60f85",
+        "lesson-13/discussion.md": "1380f3c347e9aae2ed6d88de3727898fae57ff8577a1c48a2297aa67cde50bf6"
+      }
+    },
+    {
+      "folder": "parent-time-q3",
+      "editionId": "2026-q3-aij-babies-parent-time",
+      "readingFiles": 13,
+      "generatedIntroductionReviewed": true,
+      "sourceType": "provided-English-Markdown",
+      "sourcePairs": [
+        {
+          "source": "lesson-01/discussion.md",
+          "output": "lesson-01/discussion.md",
+          "englishSha256": "9a8ed6e613ab9eeefef832dcbc2f328544462e551b4d7f98d0d6fede53afaa63",
+          "reviewedIndonesianSha256": "345d607369b4af0d0dc968bbc15c46c5e8404d78d5530974ab66507864a6f0ef"
+        },
+        {
+          "source": "lesson-02/discussion.md",
+          "output": "lesson-02/discussion.md",
+          "englishSha256": "1d518061021bb5a5e5cf29a8a4e99030e97596a2aa171f0dba849e81f93f4dcc",
+          "reviewedIndonesianSha256": "ed291a25897479a2eacfbc3953bc929f0715cd0fcc690b3c86ac3334aa2c23f1"
+        },
+        {
+          "source": "lesson-03/discussion.md",
+          "output": "lesson-03/discussion.md",
+          "englishSha256": "32dd82c20833a83351453e9249d9fb6c04cdf0e7c18b37f675d38a0352cd8aef",
+          "reviewedIndonesianSha256": "4b92072d3286e09eec029a2a2c527f110e85cef4ec069c5a60cf088495fe342f"
+        },
+        {
+          "source": "lesson-04/discussion.md",
+          "output": "lesson-04/discussion.md",
+          "englishSha256": "3737a53ad6d2613bb1f2f5f8935a20b1ae05ee90b44236b9b8c41dc4db16f540",
+          "reviewedIndonesianSha256": "df974d5f89144b21a89fabfbfccfab2b31f1209adebf71d00fc03edfebe06cdf"
+        },
+        {
+          "source": "lesson-05/discussion.md",
+          "output": "lesson-05/discussion.md",
+          "englishSha256": "eb91495ef31cd3b88fbb42c3c5f0329997cb5a9af31a8ed7569dd810f8aeb7ee",
+          "reviewedIndonesianSha256": "d3a9f699e474500a4f2f8c122f56cfd37a30515af6147915bca5125c76c8fe45"
+        },
+        {
+          "source": "lesson-06/discussion.md",
+          "output": "lesson-06/discussion.md",
+          "englishSha256": "ec3c21c7c5b296ad07bac8db367b8a4b756192c678746066092b472004a8ea25",
+          "reviewedIndonesianSha256": "82a17fbf371d923b2f59c250a3be94d4186aff035701793cabcbd4bf4803b079"
+        },
+        {
+          "source": "lesson-07/discussion.md",
+          "output": "lesson-07/discussion.md",
+          "englishSha256": "6138a61fe01ff0e28dd94aa5a0b45fbebf848f1a67e6f3457c97906919b19efa",
+          "reviewedIndonesianSha256": "59459972438fbf01b6c7472dd3257ad88d80dc18439ffcbb525482a715fd5484"
+        },
+        {
+          "source": "lesson-08/discussion.md",
+          "output": "lesson-08/discussion.md",
+          "englishSha256": "046e43dbf4631d75d4102c078560c9084cd70e603f5020d22bacbb7333dcf1f3",
+          "reviewedIndonesianSha256": "43687b8b51f57e7e6ceea6131d10b6d402a07afcaf21d61d21a31e1389e4d478"
+        },
+        {
+          "source": "lesson-09/discussion.md",
+          "output": "lesson-09/discussion.md",
+          "englishSha256": "74bb6478c78061d61a2a0e1ac210e49ea314df635e3e1456fe880e1e3cd16719",
+          "reviewedIndonesianSha256": "cc35fc2f401a26721c86fff7488dc33df52a954dbec579fb098571a25641a437"
+        },
+        {
+          "source": "lesson-10/discussion.md",
+          "output": "lesson-10/discussion.md",
+          "englishSha256": "fb5a246acf77bddebe1322c6a7ad9cde50d23e5a073a61c5177f8c22af96c5b5",
+          "reviewedIndonesianSha256": "0d766edd068d7b53acf5c4d9c329e539a6acb0eee0adeec2a59e0aecbdadd8cb"
+        },
+        {
+          "source": "lesson-11/discussion.md",
+          "output": "lesson-11/discussion.md",
+          "englishSha256": "af63e44ec9d1c0feabd8a3c6d574d146fc5eb1969f52c47f3de97dbce4d5b86e",
+          "reviewedIndonesianSha256": "a732596ae3bade2495152c2f02f7e8db7443e6970c1444498796baf2f7277299"
+        },
+        {
+          "source": "lesson-12/discussion.md",
+          "output": "lesson-12/discussion.md",
+          "englishSha256": "6ea9ae8ae297f0f9a81ceeda6e811c442487d4f18f01d47717c2ebe7983aba4c",
+          "reviewedIndonesianSha256": "808ff05bf4e14b10d6f346b173e496106fc9ad58ba1ab347a25afab23a195e28"
+        },
+        {
+          "source": "lesson-13/discussion.md",
+          "output": "lesson-13/discussion.md",
+          "englishSha256": "3602ab2bc1ab1841176649fe50823a567dc082d15b1689bc535305a4156ccfef",
+          "reviewedIndonesianSha256": "63f93d540e4c79ee7a9e4cd16be29a31b55a44f58c7939381bebccdb4aff058b"
+        }
+      ],
+      "translationFiles": {
+        "introduction.md": "f6858a78ad9ea413e649c1f8d0bc18f1c84d37926ac3b95c6d39298a3c6376bc",
+        "lesson-01/discussion.md": "345d607369b4af0d0dc968bbc15c46c5e8404d78d5530974ab66507864a6f0ef",
+        "lesson-02/discussion.md": "ed291a25897479a2eacfbc3953bc929f0715cd0fcc690b3c86ac3334aa2c23f1",
+        "lesson-03/discussion.md": "4b92072d3286e09eec029a2a2c527f110e85cef4ec069c5a60cf088495fe342f",
+        "lesson-04/discussion.md": "df974d5f89144b21a89fabfbfccfab2b31f1209adebf71d00fc03edfebe06cdf",
+        "lesson-05/discussion.md": "d3a9f699e474500a4f2f8c122f56cfd37a30515af6147915bca5125c76c8fe45",
+        "lesson-06/discussion.md": "82a17fbf371d923b2f59c250a3be94d4186aff035701793cabcbd4bf4803b079",
+        "lesson-07/discussion.md": "59459972438fbf01b6c7472dd3257ad88d80dc18439ffcbb525482a715fd5484",
+        "lesson-08/discussion.md": "43687b8b51f57e7e6ceea6131d10b6d402a07afcaf21d61d21a31e1389e4d478",
+        "lesson-09/discussion.md": "cc35fc2f401a26721c86fff7488dc33df52a954dbec579fb098571a25641a437",
+        "lesson-10/discussion.md": "0d766edd068d7b53acf5c4d9c329e539a6acb0eee0adeec2a59e0aecbdadd8cb",
+        "lesson-11/discussion.md": "a732596ae3bade2495152c2f02f7e8db7443e6970c1444498796baf2f7277299",
+        "lesson-12/discussion.md": "808ff05bf4e14b10d6f346b173e496106fc9ad58ba1ab347a25afab23a195e28",
+        "lesson-13/discussion.md": "63f93d540e4c79ee7a9e4cd16be29a31b55a44f58c7939381bebccdb4aff058b"
+      }
+    },
+    {
+      "folder": "parent-time-q4",
+      "editionId": "2026-q4-aij-babies-parent-time",
+      "readingFiles": 13,
+      "generatedIntroductionReviewed": true,
+      "sourceType": "provided-English-Markdown",
+      "sourcePairs": [
+        {
+          "source": "lesson-01/discussion.md",
+          "output": "lesson-01/discussion.md",
+          "englishSha256": "d894f90cf3684be47f999447dcc6db61f9932d5f1461b4c3cbc36f0eb2a56577",
+          "reviewedIndonesianSha256": "b313d5ff13d377c25e10ddfb89242cbeb8872cda4b0384303a91cdaa5c54cac2"
+        },
+        {
+          "source": "lesson-02/discussion.md",
+          "output": "lesson-02/discussion.md",
+          "englishSha256": "8243970e12c49e8a6f3c9d3be82e7bbda147f1ed4709626deb4ef4f7b86888e1",
+          "reviewedIndonesianSha256": "04ab6aacbe7e3029d568d52f366bcf688e81f5bf1db96bed433dd226b125e60d"
+        },
+        {
+          "source": "lesson-03/discussion.md",
+          "output": "lesson-03/discussion.md",
+          "englishSha256": "72862711205fcbb37099c08a5044c85a441f1f293aab150173b8e37982e356f1",
+          "reviewedIndonesianSha256": "7398a15bf82a44ecc0e69092ba1dfd7b07be5e01679f70368aa9862c76a14cc9"
+        },
+        {
+          "source": "lesson-04/discussion.md",
+          "output": "lesson-04/discussion.md",
+          "englishSha256": "cb708c07535d88adbe0e965ac46822f6af734a965b3a64124bff1a61da7d7467",
+          "reviewedIndonesianSha256": "f44db46eeaa1b1106c9dca2e863a699191245c702811f38e02a9ecfead68c6ad"
+        },
+        {
+          "source": "lesson-05/discussion.md",
+          "output": "lesson-05/discussion.md",
+          "englishSha256": "d86ae6647f300bc844be2952e4c9a97728fdd89b19a7672fd40387991b25db90",
+          "reviewedIndonesianSha256": "18a6ef9fff003bbe42f03479512a4b793c03053512b42b2e9e5bdbce06bc0311"
+        },
+        {
+          "source": "lesson-06/discussion.md",
+          "output": "lesson-06/discussion.md",
+          "englishSha256": "92810491bd05dfbe49ea907d189733d165fa33355baa05c3b32bc1eccd5809ba",
+          "reviewedIndonesianSha256": "44d2426d219fadfa2472a6491bf41064592322895b65157cdcf33bc8db870d85"
+        },
+        {
+          "source": "lesson-07/discussion.md",
+          "output": "lesson-07/discussion.md",
+          "englishSha256": "6a524beed2fe3ad38a601753973a12182b1ad0c2d0b187267197769a13a7cf73",
+          "reviewedIndonesianSha256": "51b043f571c5332ed488e428be66352c3e70018b3ffda98da4c3eb46f2c2bd20"
+        },
+        {
+          "source": "lesson-08/discussion.md",
+          "output": "lesson-08/discussion.md",
+          "englishSha256": "8434fc0afd92c9e5c9ca9ad7bf41f989589c0e178407218c150401149e8b2b12",
+          "reviewedIndonesianSha256": "76006e470596c79eaf2da1bdef53f9779bd4488c2ee80d0730eb965c07ffc868"
+        },
+        {
+          "source": "lesson-09/discussion.md",
+          "output": "lesson-09/discussion.md",
+          "englishSha256": "1b1b3b543a24f07cd1679f0def405383a5eea011a8e0326477a339da0671c525",
+          "reviewedIndonesianSha256": "76a59c4011d95e616266964fae9dac7c09e165c326c8b362aeb53e7a18bad90e"
+        },
+        {
+          "source": "lesson-10/discussion.md",
+          "output": "lesson-10/discussion.md",
+          "englishSha256": "ffd62791f3e05f06805756c8f51abc11365573ce9aca2b784792fc5ca255f6bb",
+          "reviewedIndonesianSha256": "fa3b89a065f4e3e1210ad870af21395a6085c0c09f133e359617f64b312bd2dd"
+        },
+        {
+          "source": "lesson-11/discussion.md",
+          "output": "lesson-11/discussion.md",
+          "englishSha256": "47a879aea2979d06d1539f44b854ae00f9772f4383cfd018ec3946432d0f8ae8",
+          "reviewedIndonesianSha256": "c1ff2a4c7ab2d5dd6b153f001e04b1a73c3d3a1ccae802fdd22d8f0d1c7db866"
+        },
+        {
+          "source": "lesson-12/discussion.md",
+          "output": "lesson-12/discussion.md",
+          "englishSha256": "775b46470ef7ba22db226af630fdd3c7ad0388c4d8c9a1d92f2c37121bc6e0c3",
+          "reviewedIndonesianSha256": "1e6888580fc783c05500bfb8f3705172aa8f42ed859150d2c2fd7a6047db70b5"
+        },
+        {
+          "source": "lesson-13/discussion.md",
+          "output": "lesson-13/discussion.md",
+          "englishSha256": "6a0af8d675cf7cc3f30b978a222c3c9ec255b1d64fcccdf166e620a4f960d239",
+          "reviewedIndonesianSha256": "4a3fcbdcbb8104135456baa76de66df10af0173ad42f507814d7732618ad468d"
+        }
+      ],
+      "translationFiles": {
+        "introduction.md": "fbf91551b9ec8fed8a116392b0141b69c9eb96c4623e9f9451bbb968f6b7c62b",
+        "lesson-01/discussion.md": "b313d5ff13d377c25e10ddfb89242cbeb8872cda4b0384303a91cdaa5c54cac2",
+        "lesson-02/discussion.md": "04ab6aacbe7e3029d568d52f366bcf688e81f5bf1db96bed433dd226b125e60d",
+        "lesson-03/discussion.md": "7398a15bf82a44ecc0e69092ba1dfd7b07be5e01679f70368aa9862c76a14cc9",
+        "lesson-04/discussion.md": "f44db46eeaa1b1106c9dca2e863a699191245c702811f38e02a9ecfead68c6ad",
+        "lesson-05/discussion.md": "18a6ef9fff003bbe42f03479512a4b793c03053512b42b2e9e5bdbce06bc0311",
+        "lesson-06/discussion.md": "44d2426d219fadfa2472a6491bf41064592322895b65157cdcf33bc8db870d85",
+        "lesson-07/discussion.md": "51b043f571c5332ed488e428be66352c3e70018b3ffda98da4c3eb46f2c2bd20",
+        "lesson-08/discussion.md": "76006e470596c79eaf2da1bdef53f9779bd4488c2ee80d0730eb965c07ffc868",
+        "lesson-09/discussion.md": "76a59c4011d95e616266964fae9dac7c09e165c326c8b362aeb53e7a18bad90e",
+        "lesson-10/discussion.md": "fa3b89a065f4e3e1210ad870af21395a6085c0c09f133e359617f64b312bd2dd",
+        "lesson-11/discussion.md": "c1ff2a4c7ab2d5dd6b153f001e04b1a73c3d3a1ccae802fdd22d8f0d1c7db866",
+        "lesson-12/discussion.md": "1e6888580fc783c05500bfb8f3705172aa8f42ed859150d2c2fd7a6047db70b5",
+        "lesson-13/discussion.md": "4a3fcbdcbb8104135456baa76de66df10af0173ad42f507814d7732618ad468d"
+      }
+    },
+    {
+      "folder": "teacher",
+      "editionId": "2026-q1-aij-babies-teacher",
+      "readingFiles": 17,
+      "generatedIntroductionReviewed": true,
+      "sourceType": "provided-English-Markdown",
+      "sourcePairs": [
+        {
+          "source": "unit-resource-ra110198e1be2/reading.md",
+          "output": "unit-resource-ra110198e1be2/reading.md",
+          "englishSha256": "7fc1d652be47d88527762977d310413935c69bf2a2500d4e01839c022703b657",
+          "reviewedIndonesianSha256": "2566fcc15493a55407e1c7791aacdbf63bd650abacb2cf06ec0d7004b48f2b42"
+        },
+        {
+          "source": "unit-resource-r5e4a19565be8/reading.md",
+          "output": "unit-resource-r5e4a19565be8/reading.md",
+          "englishSha256": "2a45421b44201acac68e71d6fc22a90ac5a84eb40a6809ff6d4eb014417dee59",
+          "reviewedIndonesianSha256": "d8768a7cf61f2e0180c73347ae962626fc3558d78106fd9fc6364d913c8625f9"
+        },
+        {
+          "source": "unit-resource-r473aa92e28c3/reading.md",
+          "output": "unit-resource-r473aa92e28c3/reading.md",
+          "englishSha256": "d64e358e69b9b1e876ff5f27dc1b39ef6449abaabaa9c956f8b19a753390191c",
+          "reviewedIndonesianSha256": "962864a4406f9c4c1949ec0c4cfbff4a4fc7a267eafb53c1eece65c29355c681"
+        },
+        {
+          "source": "unit-resource-r7086b0563b12/reading.md",
+          "output": "unit-resource-r7086b0563b12/reading.md",
+          "englishSha256": "d5ab8b1bd1aba03d7c650563431039897a468ba2cbe71728b4a41310a5217aaa",
+          "reviewedIndonesianSha256": "adf6c292ed8aed647de83309b821f825129ef743df9ec916144e1a37263a6cbf"
+        },
+        {
+          "source": "unit-resource-r5c73aa4c140b/reading.md",
+          "output": "unit-resource-r5c73aa4c140b/reading.md",
+          "englishSha256": "f959dee807bc3f4fe80c7c0664329ab56a71725a9b66486031d85060b04569c2",
+          "reviewedIndonesianSha256": "c6c6c27179a66536f23c2769a97380af952a4c4d251c4a23040e1d90d488da7d"
+        },
+        {
+          "source": "unit-resource-rbd87f3047778/reading.md",
+          "output": "unit-resource-rbd87f3047778/reading.md",
+          "englishSha256": "906fe5473597a108c2f8333de41cd9d591c93cbf777582b68cc3d3de5beed4cd",
+          "reviewedIndonesianSha256": "1c0372f43ed88efc3b1cbe532d7f4aeb3bf26aa5cc7a31e6eba8402dbc8faa8d"
+        },
+        {
+          "source": "unit-resource-r112daf0c088a/reading.md",
+          "output": "unit-resource-r112daf0c088a/reading.md",
+          "englishSha256": "af35c09b25462f13126b6b3aae24d1c1cf19111aeb11a886d1da66f064db46c0",
+          "reviewedIndonesianSha256": "41a19a37f475f7f8b6e3ae49cd8b0195d925ea53d8f411229163c1b5df863c31"
+        },
+        {
+          "source": "unit-resource-r54bc26e5ef0e/reading.md",
+          "output": "unit-resource-r54bc26e5ef0e/reading.md",
+          "englishSha256": "771e7b24e98785bbe90e172a32728542e82f2393df60f259af847df27ab70b65",
+          "reviewedIndonesianSha256": "c9ed6b9a107527466cd156ab68a45146e35f0f28d354ff140706dac99e626169"
+        },
+        {
+          "source": "unit-resource-r8620ec93f16c/reading.md",
+          "output": "unit-resource-r8620ec93f16c/reading.md",
+          "englishSha256": "7c08d11c4d9f9a8dbcf20f41d56afcfcc704d9372e2afde3afdb8fc65107bc8d",
+          "reviewedIndonesianSha256": "ae76bc13c5d63b31a20298875cacc638ea798296912623e4420c4b23db7a15c2"
+        },
+        {
+          "source": "unit-resource-rde5b9ec7f2de/reading.md",
+          "output": "unit-resource-rde5b9ec7f2de/reading.md",
+          "englishSha256": "f81173b16294d6471d041ca99f851c2e419dec09b466acdd550e334693c01d67",
+          "reviewedIndonesianSha256": "73c9f49b1f8d533c5603a4708dbbf0b728c99569defec81a27142a069dabca0a"
+        },
+        {
+          "source": "unit-resource-r612bc12bd06d/reading.md",
+          "output": "unit-resource-r612bc12bd06d/reading.md",
+          "englishSha256": "3bc4ce3af4bd08f1d58f0ef54ed964161124a8a0fd2eb922520d15e8e74da2f9",
+          "reviewedIndonesianSha256": "b219151eee497d1fe242c3c130d29d7e15779538788e26a3dda17f88fcdde672"
+        },
+        {
+          "source": "lesson-01/program.md",
+          "output": "lesson-01/program.md",
+          "englishSha256": "e7cbc69a1bfc26f10098595197a7979364ab01c2bb2ec2263f22a3130aaa67bb",
+          "reviewedIndonesianSha256": "fbbe72740d61be978b87f9b061f32c767c214131c11fb8c82cc48ee1a89bf47b"
+        },
+        {
+          "source": "lesson-02/program.md",
+          "output": "lesson-02/program.md",
+          "englishSha256": "e08132c99a6afff110e857d4153d03254fca4b9296f34c5612212b249823b6b7",
+          "reviewedIndonesianSha256": "2eae5edbc46d5b7ce850be4bfbaff7c1a5b77d7f2e7cc203b762d752ac2fc8fe"
+        },
+        {
+          "source": "lesson-03/program.md",
+          "output": "lesson-03/program.md",
+          "englishSha256": "a49f53004ca9622a8a810ad1c0564c6130d41349d6584f2668b636ed8d104240",
+          "reviewedIndonesianSha256": "a7f4c0c87bde1fcf645df6d113178d87e204961314a4fbf1a41e7226e32a76c7"
+        },
+        {
+          "source": "lesson-04/program.md",
+          "output": "lesson-04/program.md",
+          "englishSha256": "d28c9c79533ce4ebcffca40d959eca3b44f4e7391d623be97c97fc4c0c526e76",
+          "reviewedIndonesianSha256": "7f785e07dde5bdb5a2eebf877d581933a48d97024885ac48cfe1aa6090ec78cb"
+        },
+        {
+          "source": "unit-resource-r85c387c42c0c/reading.md",
+          "output": "unit-resource-r85c387c42c0c/reading.md",
+          "englishSha256": "cdec5e78d9b11c7d62264df5055c649772578b0fcec56b0760c4fb261f644b2d",
+          "reviewedIndonesianSha256": "4d48536bd37f9ae1f2ed1c7e77c92e35be9c69a6c4cc47a351fd4b9d3c60ee17"
+        },
+        {
+          "source": "unit-resource-r190edca514fe/reading.md",
+          "output": "unit-resource-r190edca514fe/reading.md",
+          "englishSha256": "49daaf42c8bf9c51f65fdeddea00f86956ade6870a1819535b400f4afa1b4a51",
+          "reviewedIndonesianSha256": "5cab122ffbf789829b5d095559a52880e27b2a5cd93ea90aa74879f71627ee3c"
+        }
+      ],
+      "translationFiles": {
+        "introduction.md": "e20a9d7eabb7db6d293aaa58a940c06b1fd41bb21bf3311b943a9d578395eec7",
+        "lesson-01/program.md": "fbbe72740d61be978b87f9b061f32c767c214131c11fb8c82cc48ee1a89bf47b",
+        "lesson-02/program.md": "2eae5edbc46d5b7ce850be4bfbaff7c1a5b77d7f2e7cc203b762d752ac2fc8fe",
+        "lesson-03/program.md": "a7f4c0c87bde1fcf645df6d113178d87e204961314a4fbf1a41e7226e32a76c7",
+        "lesson-04/program.md": "7f785e07dde5bdb5a2eebf877d581933a48d97024885ac48cfe1aa6090ec78cb",
+        "unit-resource-r112daf0c088a/reading.md": "41a19a37f475f7f8b6e3ae49cd8b0195d925ea53d8f411229163c1b5df863c31",
+        "unit-resource-r190edca514fe/reading.md": "5cab122ffbf789829b5d095559a52880e27b2a5cd93ea90aa74879f71627ee3c",
+        "unit-resource-r473aa92e28c3/reading.md": "962864a4406f9c4c1949ec0c4cfbff4a4fc7a267eafb53c1eece65c29355c681",
+        "unit-resource-r54bc26e5ef0e/reading.md": "c9ed6b9a107527466cd156ab68a45146e35f0f28d354ff140706dac99e626169",
+        "unit-resource-r5c73aa4c140b/reading.md": "c6c6c27179a66536f23c2769a97380af952a4c4d251c4a23040e1d90d488da7d",
+        "unit-resource-r5e4a19565be8/reading.md": "d8768a7cf61f2e0180c73347ae962626fc3558d78106fd9fc6364d913c8625f9",
+        "unit-resource-r612bc12bd06d/reading.md": "b219151eee497d1fe242c3c130d29d7e15779538788e26a3dda17f88fcdde672",
+        "unit-resource-r7086b0563b12/reading.md": "adf6c292ed8aed647de83309b821f825129ef743df9ec916144e1a37263a6cbf",
+        "unit-resource-r85c387c42c0c/reading.md": "4d48536bd37f9ae1f2ed1c7e77c92e35be9c69a6c4cc47a351fd4b9d3c60ee17",
+        "unit-resource-r8620ec93f16c/reading.md": "ae76bc13c5d63b31a20298875cacc638ea798296912623e4420c4b23db7a15c2",
+        "unit-resource-ra110198e1be2/reading.md": "2566fcc15493a55407e1c7791aacdbf63bd650abacb2cf06ec0d7004b48f2b42",
+        "unit-resource-rbd87f3047778/reading.md": "1c0372f43ed88efc3b1cbe532d7f4aeb3bf26aa5cc7a31e6eba8402dbc8faa8d",
+        "unit-resource-rde5b9ec7f2de/reading.md": "73c9f49b1f8d533c5603a4708dbbf0b728c99569defec81a27142a069dabca0a"
+      }
+    }
+  ]
+}

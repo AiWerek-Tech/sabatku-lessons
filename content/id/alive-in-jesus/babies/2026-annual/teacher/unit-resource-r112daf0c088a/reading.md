@@ -58,7 +58,7 @@ Nuh dan Hewan-Hewan
 + Gergaji mainan
 + Palu mainan
 + Balok kayu
-+ Beberapa pasang mainan binatang yang berbeda, baik yang bersih maupun yang kotor
++ Beberapa pasang mainan binatang yang berbeda, baik hewan yang halal maupun yang haram
 + 2 burung mainan
 + Beberapa mainan domba
 + Perahu mainan atau bahtera

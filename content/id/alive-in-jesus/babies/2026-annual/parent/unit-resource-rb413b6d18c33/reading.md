@@ -10,7 +10,7 @@ _Bayi sering kali memiliki karakteristik berikut selama 3 bulan pertama kehidupa
 
 ### Keterampilan Fisik dan Motorik
 
-- Mereka bisa tetap tegak dan mencoba untuk bangun ketika tertelungkup.
+- Saat tengkurap, mereka mulai mengangkat kepala dan mencoba menopang tubuhnya.
 - Mereka dapat menggerakkan kaki dan tangan mereka dengan lebih mudah.
 
 ### Pembelajaran, Penalaran, dan Pemecahan Masalah
@@ -22,7 +22,7 @@ _Bayi sering kali memiliki karakteristik berikut selama 3 bulan pertama kehidupa
 - Mereka memasukkan benda-benda ke dalam mulut mereka.
 - Mereka mengamati tangan mereka.
 
-### Pidato, Komunikasi, dan Musik
+### Bicara, Komunikasi, dan Musik
 
 - Mereka mengeluarkan suara bergumam dan gemericik.
 - Mereka menangis dengan cara yang berbeda ketika lapar, kesakitan, atau merasa tidak nyaman.
@@ -32,7 +32,7 @@ _Bayi sering kali memiliki karakteristik berikut selama 3 bulan pertama kehidupa
 ### Sosial dan Emosional
 
 - Mereka mulai tersenyum kepada orang-orang.
-- Mereka bisa tenang sejenak dengan menghisap jari, atau saat berada di pelukan Anda dan Anda menghibur mereka.
+- Mereka bisa tenang sejenak dengan mengisap jari, atau saat berada di pelukan Anda dan Anda menghibur mereka.
 - Mereka mengarahkan pandangan mereka ke arah seseorang atau suatu situasi.
 - Mereka secara sukarela menolak untuk memperhatikan seseorang atau suatu situasi.
 
@@ -42,32 +42,31 @@ _Bayi sering kali memiliki karakteristik berikut selama 3 bulan pertama kehidupa
 
 Untuk membantu bayi Anda merasa dicintai dan diperhatikan, serta membantunya mulai mempelajari rutinitas, Anda mungkin ingin mencoba hal-hal berikut:
 
-+ **Peluk dan bermainlah dengan bayi Anda.** sementara Anda memberi mereka makan, memandikan, dan memakaikan pakaian kepada mereka.
++ **Peluk dan bermainlah dengan bayi Anda** sementara Anda memberi mereka makan, memandikan, dan memakaikan pakaian kepada mereka.
 + **Bicaralah dengan bayi Anda** dengan lembut dan penuh kasih sayang dengan suara yang jelas.
-+ **Bernyanyi dan membacakan cerita untuk bayi Anda.** untuk menghibur dan menenangkan mereka.
-+ **Tetapkan rutinitas untuk bayi Anda.**—dorong mereka untuk lebih banyak tidur di malam hari daripada di siang hari dan memiliki jadwal yang teratur. Misalnya, Anda dapat mengikuti pola makan, bangun, tidur.
-+ **Perhatikan berbagai jenis tangisan bayi Anda.** untuk mencoba membedakan kebutuhan fisik dan emosional mereka.
++ **Bernyanyi dan membacakan cerita untuk bayi Anda** untuk menghibur dan menenangkan mereka.
++ **Tetapkan rutinitas untuk bayi Anda**—dorong mereka untuk lebih banyak tidur di malam hari daripada di siang hari dan memiliki jadwal yang teratur. Misalnya, Anda dapat mengikuti pola makan, bangun, tidur.
++ **Perhatikan berbagai jenis tangisan bayi Anda** untuk mencoba membedakan kebutuhan fisik dan emosional mereka.
 
 ### Ide untuk Bertumbuh dalam Yesus
 
 Untuk membantu bayi Anda mulai merasakan kasih Tuhan melalui kasih Anda kepadanya, dan untuk membantunya mulai mengenali ibadah keluarga sebagai bagian dari rutinitas hariannya, Anda mungkin ingin mencoba ide-ide berikut:
 
-+ **Mulailah ibadah harian bersama bayi Anda.**, tempatkan mereka di tempat yang sama untuk beribadah setiap hari. Anda juga perlu memperhatikan rentang perhatian mereka dan pastikan ibadah Anda singkat dan sederhana.
-+ **Bacakan Alkitab anak-anak untuk bayi Anda.**.
++ **Mulailah ibadah harian bersama bayi Anda**, tempatkan mereka di tempat yang sama untuk beribadah setiap hari. Anda juga perlu memperhatikan rentang perhatian mereka dan pastikan ibadah Anda singkat dan sederhana.
++ **Bacakan Alkitab anak-anak untuk bayi Anda.**
 + **Nyanyikan lagu-lagu rohani**.
-+ **Libatkan bayi Anda dalam ibadah keluarga Anda.** dengan mendudukkan mereka di pangkuan Anda, atau pangkuan pasangan Anda, atau meletakkan mereka di dekat Anda dan menatap mereka sambil Anda berbicara tentang Yesus.
++ **Libatkan bayi Anda dalam ibadah keluarga Anda** dengan mendudukkan mereka di pangkuan Anda, atau pangkuan pasangan Anda, atau meletakkan mereka di dekat Anda dan menatap mereka sambil Anda berbicara tentang Yesus.
 + **Bawa bayi Anda ke gereja**.
-+ **Bawa bayi Anda ke Sekolah Sabat Bayi.** jika gereja Anda memilikinya. Jika tidak, Anda mungkin ingin memulainya menggunakan Kotak Ibadah Anda (lihat “Alat Lain untuk Pertumbuhan Rohani Bayi Anda”).
-+ **Ceritakan dan nyanyikan lagu tentang kasih Yesus kepada bayi Anda.** sementara Anda memberi mereka makan, memandikan, dan memakaikan pakaian kepada mereka.
-+ **Berdoalah sebelum makan.**, bersyukur kepada Tuhan atas makananmu.
-+ **Tunjukkan gambar Yesus kepada bayi Anda.**.
++ **Bawa bayi Anda ke Sekolah Sabat Bayi** jika gereja Anda memilikinya. Jika tidak, Anda mungkin ingin memulainya menggunakan Kotak Ibadah Anda (lihat “Alat Lain untuk Pertumbuhan Rohani Bayi Anda”).
++ **Ceritakan dan nyanyikan lagu tentang kasih Yesus kepada bayi Anda** sementara Anda memberi mereka makan, memandikan, dan memakaikan pakaian kepada mereka.
++ **Berdoalah sebelum makan**, bersyukur kepada Tuhan atas makananmu.
++ **Tunjukkan gambar Yesus kepada bayi Anda.**
 
-> **Pokok Doa**\
-Mungkin (_nama bayi Anda_) “bertumbuhlah dalam rahmat dan\
-pengetahuan tentang Tuhan dan Juruselamat kita Yesus Kristus”\
-(2 Petrus 3:18).
+> **Pokok Doa**
+>
+> Kiranya [nama bayi Anda] bertumbuh dalam kasih karunia dan pengenalan akan Tuhan dan Juruselamat kita, Yesus Kristus (2 Petrus 3:18).
 
-INSPIRASI MEMBERITAHUKU...
+### Inspirasi bagi Saya
 
 **“Semua anakmu akan diajar oleh Tuhan, dan besar akanlah damai sejahtera anak-anakmu.”** _(Yesaya 54:13)_.
 

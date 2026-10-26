@@ -1,10 +1,10 @@
-Tidak mudah menolong anak mengembangkan rasa berharga diri yang sehat dan seimbang. Jika terlalu jarang dihargai, anak mungkin merasa dirinya tidak berharga. Jika terlalu sering dipuji atau dipuji dengan cara yang kurang tepat, ia dapat menjadi sombong dan mementingkan diri. Meskipun ada bahaya di kedua sisi, kasih kepada bayi mendorong kita berusaha sebaik mungkin agar mereka memiliki pandangan yang sehat tentang dirinya dan nilai dirinya di mata Allah.
+Tidak mudah menolong anak mengembangkan rasa harga diri yang sehat dan seimbang. Jika terlalu jarang dihargai, anak mungkin merasa dirinya tidak berharga. Jika terlalu sering dipuji atau dipuji dengan cara yang kurang tepat, ia dapat menjadi sombong dan mementingkan diri. Meskipun ada bahaya di kedua sisi, kasih kepada bayi mendorong kita berusaha sebaik mungkin agar mereka memiliki pandangan yang sehat tentang dirinya dan nilai dirinya di mata Allah.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Bagaimana perilaku seseorang yang merasa dirinya kurang berharga?
 - Bagaimana perilaku seseorang yang merasa dirinya jauh lebih hebat daripada orang lain?
-- Pola asuh atau peristiwa hidup seperti apa yang mungkin membentuk sifat-sifat ini? Faktor lain apa yang memengaruhi rasa berharga diri anak?
+- Pola asuh atau peristiwa hidup seperti apa yang mungkin membentuk sifat-sifat ini? Faktor lain apa yang memengaruhi rasa harga diri anak?
 
 ### Mendalami Firman
 
@@ -21,7 +21,7 @@ Ceritakan gagasan dari kutipan berikut yang paling menantang Anda.
 
 > “Setiap kali ibu dapat mengucapkan kata pujian atas tingkah laku anak-anaknya yang baik, ia hendaknya melakukannya. Ia harus menguatkan mereka dengan kata-kata yang menyetujui dan tatapan penuh kasih. Hal-hal ini akan menjadi sinar matahari bagi hati anak dan menumbuhkan rasa hormat terhadap diri sendiri” (Ellen G. White, _Testimonies for the Church_, jil. 3, hlm. 532).
 
-### Renungkan dan Tantang
+### Renungan dan Tantangan
 
 Si kecil tidak belajar tentang harga dirinya dari buku pelajaran—mereka menyerapnya dari lingkungan!
 
@@ -31,7 +31,7 @@ Si kecil tidak belajar tentang harga dirinya dari buku pelajaran—mereka menyer
 - Apakah Anda membanggakan diri dengan cara yang sombong di depan anak?
 - Apakah Anda cukup berakar dalam nilai diri yang Allah berikan sehingga dapat menerima kritik dengan lapang hati? Atau Anda menolaknya dengan sombong? Apakah harga diri Anda runtuh saat dikritik?
 
-Minggu ini, luangkan waktu untuk berdoa dan memikirkan rasa berharga diri Anda sebagai orang tua serta hal yang mungkin sedang Anda ajarkan kepada anak.
+Minggu ini, luangkan waktu untuk berdoa dan memikirkan rasa harga diri Anda sebagai orang tua serta hal yang mungkin sedang Anda ajarkan kepada anak.
 
 ### Doa
 

@@ -1,206 +1,204 @@
 {
   "schemaVersion": "alive-in-jesus-translation-review-v1",
   "editionId": "2026-q1-aij-babies-parent",
-  "status": "needs-team-review",
+  "status": "approved",
   "sourceLocale": "en",
   "targetLocale": "id",
-  "reviewer": null,
-  "reviewedAt": null,
-  "note": "Generated checksum baseline. A reviewer must complete the source comparison and approve it before publication.",
+  "reviewer": "Codex — audit editorial dan perbandingan sumber",
+  "reviewedAt": "2026-10-26",
+  "note": "Audit editorial oleh Codex. Publikasi diinstruksikan secara eksplisit oleh pemilik proyek setelah meminta audit dan penyempurnaan semua edisi draf. Tidak menyatakan adanya peninjauan manusia baru oleh tim penerjemah.",
   "sourceAudit": {
-    "englishFiles": 37,
-    "indonesianFiles": 37,
-    "matchedFiles": 37,
+    "englishFiles": 35,
+    "indonesianFiles": 35,
+    "matchedFiles": 35,
     "missingIndonesian": [],
     "missingEnglish": [],
     "flaggedPairCount": 0,
     "sourceChecksums": {
-      "00-introduction/00-introduction.md": {
+      "unit-resource-ra110198e1be2/reading.md": {
         "english": "78fe04c2d4375a7336d027958d323627874c9d35016456dfc90c6f8ee1ee47f1",
-        "indonesian": "7381b803e2918842f11b9cc5028578d79c2aa7b773a4942753793273ef9410f2"
+        "indonesian": "37d5a2c380811d2f330cfbb0d971e6c886683117a9487ccf1270c8b36d329ca4"
       },
-      "01-growing-with-jesus-resources/01-growing-with-jesus-resources.md": {
+      "unit-resource-rb7a11119b03d/reading.md": {
         "english": "41a5ef37320d96df416a07d08320d811be5d1272e2616704a0f9c14104b8d5f6",
-        "indonesian": "282d4c13f11f8c291f0708789fee8dcf52815ee38d7452934bd51eaa0ea9bfbb"
+        "indonesian": "ae60ea6872a0b7fd715bbfd11bf0fe2f16c966766cdebc0bfb1d3b4c1e413638"
       },
-      "02-your-baby/02-your-baby.md": {
+      "unit-resource-r94d2121f71a3/reading.md": {
         "english": "069667c1f278c7457f0cabfa142c62280a6d3fd0f21705caa32de53a2b437cd9",
-        "indonesian": "a4b85b9d5de0e248acf94f1b5b6a1f36c1920ef93ebb6d6df2151f08d88bce86"
+        "indonesian": "bc70e5a886a5b3c19a244850d65a14fba9451e14209299f1fec27f16f99cf487"
       },
-      "03-how-to-use-this-parent-book/03-how-to-use-this-parent-book.md": {
+      "unit-resource-r19b102b6c8f1/reading.md": {
         "english": "d9c8c475d63e0986fc6726a61074320708c47e235ce856d401aa026a1446ee40",
-        "indonesian": "ffe79dfc594bab8331746e465903964b9d7f2c85a3e9a5a0b8b379b3850370b9"
+        "indonesian": "363de9cf5cf054a123f46f71d91bf2ec0c48c15f184917e6ec1bf00d21969d50"
       },
-      "introduction.md": {
-        "english": "afaecbeefa3323b25a9305dca28349c01e1830c4d427c982a7b5bd57e699820e",
-        "indonesian": "373f4ab799521e20ef68a48efff248f5d0549b1cedbc6dfd667e8664526b8cff"
-      },
-      "part-1/03-the-foundation-for-spiritual-growth/03-love.md": {
+      "unit-resource-rb411a37f25ae/reading.md": {
         "english": "0a6aa1bea8931afd6321db200c62a517c9d3c04a4137cd5f49768febac76498b",
-        "indonesian": "8c49f6cc911987f0b4cb6da3320002be273ef384e43153be87d3ff466095c2c9"
+        "indonesian": "d1f7dbe611325f1bfc00fb3d7c3ea28b29e92c2154d97e4dde7646fe32452711"
       },
-      "part-1/03-the-foundation-for-spiritual-growth/04-trust.md": {
+      "unit-resource-r3c97cba2c617/reading.md": {
         "english": "4eadb7a26868f780af2b4c40a7c0e0aa606a59fdf1d8a86eb7399bd0aa67ae1d",
-        "indonesian": "95e2e0495bc12e3ab70a838c3a47c18446af2be9eacd1f357d48780826fae7d1"
+        "indonesian": "26eaff5baa20d4ca322e1f9a025a71941b143ef08156a53b651e6544f5d63aa7"
       },
-      "part-1/03-the-foundation-for-spiritual-growth/05-obedience.md": {
+      "unit-resource-r7e2b6aa34dad/reading.md": {
         "english": "8862923061b8d65cc0e9ef01bfc472ebcdeed93552791d6007331fddc327da11",
-        "indonesian": "efc93a3cfe309a4e639b5534efe504a9b379090cf71c3dad68c74b86778d02b4"
+        "indonesian": "23652de5c6206c153106f5918c7b105761a5a516f2da0fdfc76904a7e84deba4"
       },
-      "part-1/04-your-own-spiritual-needs/04-01-your-own-spiritual-needs.md": {
+      "unit-resource-r4adf99901f41/reading.md": {
         "english": "a7b25af2894973acb3fd23a8ef62394be342d680ba97f40d20c74ec0bcce891b",
-        "indonesian": "a9afbd21a9742b88dce5b50bfdd59ed24cb117c915c0fec69e818681f7afa471"
+        "indonesian": "c7a14135b9b2287116c81172f28c3fc4c0a374fab9466cf8b662c0f85fb8474a"
       },
-      "part-1/04-your-own-spiritual-needs/04-02-step-into-good-habits.md": {
+      "unit-resource-r7c01c004fc2a/reading.md": {
         "english": "15a7236fcbb65279afccf9d063e6cc2899ea7826675ee1c08cefaa2514e209da",
-        "indonesian": "13ddd1159096618d1ff68dc942b0a4d4701ee277b2ec244ef92b3d1072c85ce2"
+        "indonesian": "d59cf83cb20cb4dc8ed580c07f3a10e9bed420ab3a4d5c55dea1d091188b318a"
       },
-      "part-1/04-your-own-spiritual-needs/04-03-invest-in-your-spiritual-health.md": {
+      "unit-resource-r35a110050c98/reading.md": {
         "english": "45e342033dfde3d34ed24b7ebf14fada75a075735d15a8dac53e62b0f0d5bdb5",
-        "indonesian": "b28238dbfced9a4e60910ee8b393d99f19a1b6b46cfc62ca519ff426924b99ae"
+        "indonesian": "0c6bf8054f28962fb3395cfda236f89756e98912785532f9b9301b7f199301d5"
       },
-      "part-1/04-your-own-spiritual-needs/04-04-invest-in-your-physical-and-emotional-health.md": {
+      "unit-resource-re30e7e8d1496/reading.md": {
         "english": "1decfa7fa0d75f77bdb7b106bd52296c00f7fec4bc436356bca9b27a284f7251",
-        "indonesian": "2412281ee8ce1f7d9ecbe0b10de7ebe71e8a13a0457e3ba8837fe956fa7e4869"
+        "indonesian": "c3fd147a3c5571ca28cc32ce650000b02afde525160c5648c594b45a6f4c6f6f"
       },
-      "part-1/05-spiritual-habits-for-the-family/05-01-family-worship.md": {
+      "unit-resource-rd849fcf0c076/reading.md": {
         "english": "0d5cd54f44d4330a9bbe99341df8f57fc13362ff1f69a5da441f5890dc139e08",
-        "indonesian": "937a79b95e3634a1f761ebee72421618c7dcaa4debbbc6a7ccfdc812cb280a6c"
+        "indonesian": "71979851a5123ac426b60684253a498b4d09f5f49338f26b40091cc62d078580"
       },
-      "part-1/05-spiritual-habits-for-the-family/05-02-the-sabbath.md": {
+      "unit-resource-r88156fec92e8/reading.md": {
         "english": "5d58384c440adc617b219f08bd286f45901ce8ee6545e1831d053ef77af5be27",
-        "indonesian": "abea8aa478ff98262ae987dcef53c066c4ab2364700d8a8b218f066a40be5a90"
+        "indonesian": "46713d0c91137a7bfb13fde25dc4ed17836dab9cf8df24d9714bc6f9ecc2369e"
       },
-      "part-1/05-spiritual-habits-for-the-family/05-03-church.md": {
+      "unit-resource-r5b258791ee0d/reading.md": {
         "english": "ea9c5da376b10737d7ab25fba4b27a881f4f23f9d3411d6a1671dc701d64a1b1",
-        "indonesian": "b96ade560cafbcfe59c7825ac49ecb8bff8fc2e0a8ac330a8cae7850154d1cb9"
+        "indonesian": "e4c95f046ac43c777ce334b26a3a4bdaa294fc0b9d91bd73f20c87cfbf918a11"
       },
-      "part-1/05-spiritual-habits-for-the-family/05-04-baby-dedication.md": {
+      "unit-resource-r60763059f219/reading.md": {
         "english": "fbd758efc876e317f1ee4259adbddb7ae4a1d433bc3aa4bd10232cd0f7a1227b",
-        "indonesian": "bda40075838c230a3ba5372f626765155a4caafbd1b5c2023e83eac32687afbf"
+        "indonesian": "f2c51cfbe5345c023fcbe328798d82c685946e63794c69e484723ed4ded4f9df"
       },
-      "part-1/06-growing-with-jesus-in-each-stage/06-01-zero-to-three-months.md": {
+      "unit-resource-rb413b6d18c33/reading.md": {
         "english": "3c0bc23223fc055d7c756a66e6693ed841e4cf605e0e996d2589575d318b6833",
-        "indonesian": "a9141dd18fae65b2a70d3bd5e3d3d2149a44aee24e356d21224d74f93ac6bc3c"
+        "indonesian": "55477ee6ea0fc5c59159395b7132767aa8813850bc9f7928fc818037babc3a8b"
       },
-      "part-1/06-growing-with-jesus-in-each-stage/06-02-three-to-six-months.md": {
+      "unit-resource-r6ed154053a30/reading.md": {
         "english": "4d7f6701798a733e1451f5c338e985021c4aa3b25e3a6d25ec163c5b91bb284e",
-        "indonesian": "37acf9e44391f0acd013001c96ed0ddb95476c6a03552f06a3996b1c35102eb8"
+        "indonesian": "62de362eddcdfc67724b9c45d3b2cd30cbbf07773100d163092e2754f4c2c56b"
       },
-      "part-1/06-growing-with-jesus-in-each-stage/06-03-six-to-nine-months.md": {
+      "unit-resource-r5651fc71c983/reading.md": {
         "english": "dad679062ff0ebf38a7c427ce750bd4ed986a81ae1b51efdc726435012ddee16",
-        "indonesian": "7341a0dab42ab5eebd52a839270895c2f2af71f8a9f940b4cf0470d7b4f71c8b"
+        "indonesian": "ae2edbd860ecd3f7c47a19057c69cb7a0620afd47d92245a12012756767cdcff"
       },
-      "part-1/06-growing-with-jesus-in-each-stage/06-04-nine-to-twelve-months.md": {
+      "unit-resource-r7e2fe87a9d03/reading.md": {
         "english": "d9ad30ad1db8d041e6bc638becc37ab5d0b86c47d13f9d70123c0e737ae969e0",
-        "indonesian": "d2e0d49b21e10d939461aa41c891d420784692d199544bee028f46519d356387"
+        "indonesian": "c35a73ca4d77431902f76c1aa9c1730565cea27e2d17c0f345185c6329eaf928"
       },
-      "part-1/07-other-tools-for-your-babys-spiritual-growth/07-01-routine-and-tidiness-in-your-home.md": {
+      "unit-resource-r9910e4fbcbec/reading.md": {
         "english": "a753c9ee514803bbfc473897d9033e3fa870b32ca862eed688694e3d68e9807f",
-        "indonesian": "b4ca392d158042982079aba0296f9c6dad07c86610b659432f71fe8be7d65e21"
+        "indonesian": "d783fd1ed278347d57d0833cd1cf0c60d0a52f3bc9e3b8255716580f50214fc2"
       },
-      "part-1/07-other-tools-for-your-babys-spiritual-growth/07-02-music.md": {
+      "unit-resource-r03cefd4fd12e/reading.md": {
         "english": "e152ddedd7f1ef6ee0ff1069f45453c7e16dc54bc1ea717d6fbebc84900ad2f2",
-        "indonesian": "d0a86c5e44dbddd7168815b6091e8d2a36ee369ba15c1e234bbe840459da7a1a"
+        "indonesian": "62387ded19ee1eac9535ada8c1686d0305c62f0f75a1b60c0a7619ad217a11da"
       },
-      "part-1/07-other-tools-for-your-babys-spiritual-growth/07-03-prayer.md": {
+      "unit-resource-rc8eff778cab1/reading.md": {
         "english": "5e87da8208b9b6eb8096657b2d96c11095952afc9b9e1457dad45fec06e4e498",
-        "indonesian": "6eb938bbfe710b793664664090b7e21e671d1c71aa8ae307b01faf0174512e5f"
+        "indonesian": "a049e94f575b8dc972aa29d42540ec5e401eb41722c122bea3c5839e86ac01a9"
       },
-      "part-1/07-other-tools-for-your-babys-spiritual-growth/07-04-community-support.md": {
+      "unit-resource-r7a50dc51e34d/reading.md": {
         "english": "0c10e69ef803bea60898e41fca277acfefcfee35fec4c5f1f8306bd7ba4452ef",
-        "indonesian": "dbf07bba8352d1c060394c48ef45b2a3d6594c6b96ade2b0144e9fc331c2c4d9"
+        "indonesian": "da3b4a97bf74f960b82a23036a3088b3bd904ac2d78a64772fa5222d7025fc50"
       },
-      "part-2/08-the-sabbath-school-curriculum-at-home/08-01-purpose-of-the-curriculum.md": {
+      "unit-resource-rea8f4da56b40/reading.md": {
         "english": "0a0c572db79b3a802e4f83e12a2808992378d317be6552abf24b940d388c15ba",
-        "indonesian": "1d676e002a23a4d37d354c70ca1219161727b40ba68a3684615a7172c5d3184b"
+        "indonesian": "047f64dce79f062dce10d9d3f411ca3689d0e541a92b389e39abbb34515f061f"
       },
-      "part-2/08-the-sabbath-school-curriculum-at-home/08-02-your-role-as-a-parent.md": {
+      "unit-resource-r755f61f89153/reading.md": {
         "english": "a56a25dca7045c12b6dccbfce392b2049e9bc6a6d39b521314a3ca37d2c3c778",
-        "indonesian": "33dad82716d3567a3dda0a6f8ef7d553c90f4b616bac2397d153a1b8423cc2af"
+        "indonesian": "0b5e5001dc05b1af5c1aeddd1332e62bc378117192b9cd88acebbc5f931d50af"
       },
-      "part-2/08-the-sabbath-school-curriculum-at-home/08-03-the-structure-of-the-curriculum.md": {
+      "unit-resource-r900115eebe64/reading.md": {
         "english": "73d4df8ae66c2aaa77b3d4df206dac63067b26158a820de7e681656ab5e75832",
-        "indonesian": "081dffff00f3e17fb9258f116268d175b6796ad6583c4d8503457502a66cadcf"
+        "indonesian": "ad0d8d767eb7df2880808c1369afb0dfecc443608c1c8d51e8e2331115880e95"
       },
-      "part-2/08-the-sabbath-school-curriculum-at-home/08-04-worship-box.md": {
+      "unit-resource-r449775142de5/reading.md": {
         "english": "c3d9e11164f26eacac62bde58e32aa70f80393a3ac0273c685fb814440071265",
-        "indonesian": "dce33156727f1d8ba3915f254f443f4feea9429bd092c36d0d6bb525b6d68522"
+        "indonesian": "cf36cb21f841e5a72e80f72f68c49a58c3e30e8bda7a0be6debe6b3f84c32e99"
       },
-      "part-2/08-the-sabbath-school-curriculum-at-home/08-05-getting-started.md": {
+      "unit-resource-r861f9bbcd30f/reading.md": {
         "english": "06c968b2b649b3169407375caf10541eb83195b69f6dc3a2a51ef88a444bb42d",
-        "indonesian": "595952fcf0ba0bee0f153be9c73782cd01ca1429590cdca374a6af707201cf8e"
+        "indonesian": "34bc119283fdbb420569588e999e09e95abd84ef09cdf00bc3f3905601c1871b"
       },
-      "part-2/09-the-sabbath-school-lessons/09-01-lesson-one-creation.md": {
+      "lesson-01/program.md": {
         "english": "aa0ca778f319b8f206450322d4126ca060335bed55a54115364153958748fbe2",
-        "indonesian": "369586deb1d285b8b75be0becb799966326401d8b4a64569b95f7c24abdb6cc2"
+        "indonesian": "12c9578899c8f930e579acb8ff5b6116d6c42a2fce3dc5d5adf347dcf8fe0f98"
       },
-      "part-2/09-the-sabbath-school-lessons/09-02-lesson-two-the-good-shepherd.md": {
+      "lesson-02/program.md": {
         "english": "ff66a07f2e26ad8059deadbbf4b1e9945b4c57de3db0bc4f2584f25546547a3e",
-        "indonesian": "ab639586de25a43f0ab3ef3ebe4240372c031179b1d280abcc6acc41e5b50116"
+        "indonesian": "7db7379563eb27f4616e0344e4f2ec9a61cc9300d81efe3df1ed7465bfd5d5ae"
       },
-      "part-2/09-the-sabbath-school-lessons/09-03-lesson-three-noah-and-the-animals.md": {
+      "lesson-03/program.md": {
         "english": "5180103e7c950b2e97d24375a27221af336d2ced1509915e562b3e38c25ddedf",
-        "indonesian": "54683d0b7a436f3f07f067fd9b7f1478ed47aba3bafe2ffcf711172b44610227"
+        "indonesian": "76dbe00386fdea15f06562d0a29458db72187cb611c90a97a63c55133530b602"
       },
-      "part-2/09-the-sabbath-school-lessons/09-04-lesson-four-a-special-baby.md": {
+      "lesson-04/program.md": {
         "english": "87d0ab6d83da62cdf70126cf9dfb496925bccb737dc1dd117744755aef4b34e4",
-        "indonesian": "3e4f8c32854e2c20794215c07a66d9dea7e483a0e400b7e91e999b959557eaf9"
+        "indonesian": "e3bde8686de617ba42b7767f6c6ae1cee34d37fee6b9b0377ee9f419a3345ede"
       },
-      "part-2/10-final-thoughts/10-final-thoughts.md": {
+      "unit-resource-rab0fe3b4acf0/reading.md": {
         "english": "1f5ae235b9fe640a0f3d9ce57f354613f04a553ab70efa666d376cb83c4a1e09",
-        "indonesian": "70bc8a6db8cd4a6948c298cebbd4fb8f0e274cf2dbc4f37e2bf6b8fcb1109fb3"
+        "indonesian": "3164a8b9acc9fa85865b8b122707ef47efa725417083c788482b145855fd8569"
       },
-      "part-2/11-references-and-resources/11-references-and-resources.md": {
+      "unit-resource-r885d4d1d8ce3/reading.md": {
         "english": "49daaf42c8bf9c51f65fdeddea00f86956ade6870a1819535b400f4afa1b4a51",
-        "indonesian": "ed075787dc586885423764f9a5a4f832175c69ed68985fde91c1b99a1ee5f918"
+        "indonesian": "5cab122ffbf789829b5d095559a52880e27b2a5cd93ea90aa74879f71627ee3c"
       },
-      "part-2/11.5-music/11.5-music.md": {
+      "unit-resource-r535741ec65a6/reading.md": {
         "english": "1db7bc484fb6fbd07a39065792676e6cc5e6e7a23f853e288927c4d2987bf697",
-        "indonesian": "2105c9dbecc26c5d44353b47c49b061717b6639e040f07354b5fee32d9f11a6e"
-      },
-      "part-2/12-music-credits/12-music-credits.md": {
-        "english": "ecd128f3bcb3fe7249609f93f42365877e5d075788017f00eddd3b1db21c0b43",
-        "indonesian": "39499d04a1ae54bb5e3d615cb82138af64e0740359f37e975bd15472185b1785"
+        "indonesian": "bb15deca184f7bff72d938d0007ef29223984e5e89e20b17c69b831742f0c364"
       }
-    }
+    },
+    "editorialAudit": "docs/audits/babies-publication-review.json",
+    "comparisonScope": "Published reading files; source publication credits and duplicate introductions are excluded; generated edition introductions are checked separately."
   },
   "translationFiles": {
     "introduction.md": "747a9acd97c89d01ba1f30d2e7bc62ec757b751923947cdc475f28b086f736ea",
-    "lesson-01/program.md": "b528f38c589350d4c0f3837bda9b0785b21f786b228b90a709ff31052a5b981f",
-    "lesson-02/program.md": "086b1e535470b2c7dba5cb8d7264e10d3ed7a8a03b228b5ee09c4a238021f4c9",
-    "lesson-03/program.md": "c13d7a90d372c4bad752e85dc248b6a2ed5c9a1e13c56e9f46b19a7ac2ec0bf0",
-    "lesson-04/program.md": "0199a0d6ee8d259a229cf1952718efbbdf22fc750410859817b77ee66016ed11",
-    "unit-resource-r03cefd4fd12e/reading.md": "eb115b29807f6c97d74736b0fe758c0a0f2df4d7961c7da0dd9b5c866d5e9b01",
-    "unit-resource-r19b102b6c8f1/reading.md": "806952a69e3113550811bf5168e60b4cbb9025a06277fce32709c633794bdbd1",
-    "unit-resource-r35a110050c98/reading.md": "2b1c40a1de7b01f6b26c5fff28a028b9f7f46908a034f348457ac798e1654fe3",
-    "unit-resource-r3c97cba2c617/reading.md": "c20da40164220b2126ac098d985966b4991958298e4737a425fef51a7b8783a2",
-    "unit-resource-r449775142de5/reading.md": "5f93c3bafc244d00684c94388006996c51807236acc4ac5ba0d21ebc07db46d2",
-    "unit-resource-r4adf99901f41/reading.md": "73616348d9cf7b73e83e2ec1605e2ea03a9a57aa7f3419f98e7d233be0e1bb0e",
+    "lesson-01/program.md": "12c9578899c8f930e579acb8ff5b6116d6c42a2fce3dc5d5adf347dcf8fe0f98",
+    "lesson-02/program.md": "7db7379563eb27f4616e0344e4f2ec9a61cc9300d81efe3df1ed7465bfd5d5ae",
+    "lesson-03/program.md": "76dbe00386fdea15f06562d0a29458db72187cb611c90a97a63c55133530b602",
+    "lesson-04/program.md": "e3bde8686de617ba42b7767f6c6ae1cee34d37fee6b9b0377ee9f419a3345ede",
+    "unit-resource-r03cefd4fd12e/reading.md": "62387ded19ee1eac9535ada8c1686d0305c62f0f75a1b60c0a7619ad217a11da",
+    "unit-resource-r19b102b6c8f1/reading.md": "363de9cf5cf054a123f46f71d91bf2ec0c48c15f184917e6ec1bf00d21969d50",
+    "unit-resource-r35a110050c98/reading.md": "0c6bf8054f28962fb3395cfda236f89756e98912785532f9b9301b7f199301d5",
+    "unit-resource-r3c97cba2c617/reading.md": "26eaff5baa20d4ca322e1f9a025a71941b143ef08156a53b651e6544f5d63aa7",
+    "unit-resource-r449775142de5/reading.md": "cf36cb21f841e5a72e80f72f68c49a58c3e30e8bda7a0be6debe6b3f84c32e99",
+    "unit-resource-r4adf99901f41/reading.md": "c7a14135b9b2287116c81172f28c3fc4c0a374fab9466cf8b662c0f85fb8474a",
     "unit-resource-r535741ec65a6/reading.md": "bb15deca184f7bff72d938d0007ef29223984e5e89e20b17c69b831742f0c364",
-    "unit-resource-r5651fc71c983/reading.md": "17731e56433a36613f5a38835b4c0d671491c5b6a8c25150395541e82dcf72a4",
-    "unit-resource-r5b258791ee0d/reading.md": "da74735042f47a6345ec2e57bc4c815b7ccab9fd8738fe6433511f9ca269a20b",
-    "unit-resource-r60763059f219/reading.md": "93114910e3bff11e8d6fc3c782ebf229fa6779e4afb79da6e1ca31d10836ec05",
-    "unit-resource-r6ed154053a30/reading.md": "13e41c0afb982ff59806a4a84c0ff30fa340dc7978e2b9c149f6541a6bd30d9b",
-    "unit-resource-r755f61f89153/reading.md": "cc22aeced253d6b76952ed2b899d446a94baa28650b2a9dbfa0e0c9beb75ef0b",
-    "unit-resource-r7a50dc51e34d/reading.md": "d6a704d52d1ed4b386c9f8ff61a3fee45a30c03d412ac0e254f98bb8ba146206",
-    "unit-resource-r7c01c004fc2a/reading.md": "b610123b47d002d4a659b1b90980eaf1ce603987c4c6d476bc82625f2ab7a319",
-    "unit-resource-r7e2b6aa34dad/reading.md": "bdbaf8539df4548b21d102a47725ececc9dda983e27ecb643ded1367fa7a65d7",
-    "unit-resource-r7e2fe87a9d03/reading.md": "c02a8c4ae97f426eb42ac883afa2a401cc3067ee7505a139863e68018c97b5da",
-    "unit-resource-r861f9bbcd30f/reading.md": "af00a301b0379f19c7937d748531443aab908f27d3ad1c8cfd3e85b0854eb8ff",
-    "unit-resource-r88156fec92e8/reading.md": "4b0544b13d964be9258457f3e4c87b461617639eea019f4aed21b02e25ded90b",
-    "unit-resource-r885d4d1d8ce3/reading.md": "2f40149ddad180bc70be8a6f58059146ea44588af9407bcf0a101aea2a4f8101",
+    "unit-resource-r5651fc71c983/reading.md": "ae2edbd860ecd3f7c47a19057c69cb7a0620afd47d92245a12012756767cdcff",
+    "unit-resource-r5b258791ee0d/reading.md": "e4c95f046ac43c777ce334b26a3a4bdaa294fc0b9d91bd73f20c87cfbf918a11",
+    "unit-resource-r60763059f219/reading.md": "f2c51cfbe5345c023fcbe328798d82c685946e63794c69e484723ed4ded4f9df",
+    "unit-resource-r6ed154053a30/reading.md": "62de362eddcdfc67724b9c45d3b2cd30cbbf07773100d163092e2754f4c2c56b",
+    "unit-resource-r755f61f89153/reading.md": "0b5e5001dc05b1af5c1aeddd1332e62bc378117192b9cd88acebbc5f931d50af",
+    "unit-resource-r7a50dc51e34d/reading.md": "da3b4a97bf74f960b82a23036a3088b3bd904ac2d78a64772fa5222d7025fc50",
+    "unit-resource-r7c01c004fc2a/reading.md": "d59cf83cb20cb4dc8ed580c07f3a10e9bed420ab3a4d5c55dea1d091188b318a",
+    "unit-resource-r7e2b6aa34dad/reading.md": "23652de5c6206c153106f5918c7b105761a5a516f2da0fdfc76904a7e84deba4",
+    "unit-resource-r7e2fe87a9d03/reading.md": "c35a73ca4d77431902f76c1aa9c1730565cea27e2d17c0f345185c6329eaf928",
+    "unit-resource-r861f9bbcd30f/reading.md": "34bc119283fdbb420569588e999e09e95abd84ef09cdf00bc3f3905601c1871b",
+    "unit-resource-r88156fec92e8/reading.md": "46713d0c91137a7bfb13fde25dc4ed17836dab9cf8df24d9714bc6f9ecc2369e",
+    "unit-resource-r885d4d1d8ce3/reading.md": "5cab122ffbf789829b5d095559a52880e27b2a5cd93ea90aa74879f71627ee3c",
     "unit-resource-r900115eebe64/reading.md": "ad0d8d767eb7df2880808c1369afb0dfecc443608c1c8d51e8e2331115880e95",
-    "unit-resource-r94d2121f71a3/reading.md": "e6500d68318b4184cc11e8725f61206f74ba0c20fc3b77408b2a4dac212f5f9c",
-    "unit-resource-r9910e4fbcbec/reading.md": "56336539828311fe2fabb9ba82bb6085b484d1fb4d6ddc90fe83fd0b5fa5050c",
-    "unit-resource-ra110198e1be2/reading.md": "337a2586ddfe57b456d4a6328e6126f6cd437cf3f255ffaefc3d068582a326cd",
-    "unit-resource-rab0fe3b4acf0/reading.md": "a3f809a788d9446c219af57732e40ea7ca46c87bc52290b19a5bdf76c8dd93b2",
-    "unit-resource-rb411a37f25ae/reading.md": "b7a14b30d7665d7720373da588e480eddb6a18915543acb2eb174270a5884fcd",
-    "unit-resource-rb413b6d18c33/reading.md": "efc5aadfc5f32dbb2bb2d7967c9f2e42921d1b5467a3bdf3c5375b8b220b2858",
-    "unit-resource-rb7a11119b03d/reading.md": "9e8971424b8b1ae47d3b118eff4b4076f568b0280208dac03795f360f3a3c2ec",
+    "unit-resource-r94d2121f71a3/reading.md": "bc70e5a886a5b3c19a244850d65a14fba9451e14209299f1fec27f16f99cf487",
+    "unit-resource-r9910e4fbcbec/reading.md": "d783fd1ed278347d57d0833cd1cf0c60d0a52f3bc9e3b8255716580f50214fc2",
+    "unit-resource-ra110198e1be2/reading.md": "37d5a2c380811d2f330cfbb0d971e6c886683117a9487ccf1270c8b36d329ca4",
+    "unit-resource-rab0fe3b4acf0/reading.md": "3164a8b9acc9fa85865b8b122707ef47efa725417083c788482b145855fd8569",
+    "unit-resource-rb411a37f25ae/reading.md": "d1f7dbe611325f1bfc00fb3d7c3ea28b29e92c2154d97e4dde7646fe32452711",
+    "unit-resource-rb413b6d18c33/reading.md": "55477ee6ea0fc5c59159395b7132767aa8813850bc9f7928fc818037babc3a8b",
+    "unit-resource-rb7a11119b03d/reading.md": "ae60ea6872a0b7fd715bbfd11bf0fe2f16c966766cdebc0bfb1d3b4c1e413638",
     "unit-resource-rc8eff778cab1/reading.md": "a049e94f575b8dc972aa29d42540ec5e401eb41722c122bea3c5839e86ac01a9",
-    "unit-resource-rd849fcf0c076/reading.md": "76d2b4543c4abb63caf33471223801d313e9ab457df2637c1172c94fe7e669d4",
-    "unit-resource-re30e7e8d1496/reading.md": "184d4b61c0602b69d05d507eaf6e636f92016e954f594e5c28e9a25f86b2a02e",
-    "unit-resource-rea8f4da56b40/reading.md": "fa09f76b46c3a0c10202300fc6aec6765ac593ac593a8c21683e7e771ff9236b"
+    "unit-resource-rd849fcf0c076/reading.md": "71979851a5123ac426b60684253a498b4d09f5f49338f26b40091cc62d078580",
+    "unit-resource-re30e7e8d1496/reading.md": "c3fd147a3c5571ca28cc32ce650000b02afde525160c5648c594b45a6f4c6f6f",
+    "unit-resource-rea8f4da56b40/reading.md": "047f64dce79f062dce10d9d3f411ca3689d0e541a92b389e39abbb34515f061f"
+  },
+  "publicationAuthorization": {
+    "type": "explicit-project-owner-instruction",
+    "date": "2026-10-26"
   }
 }

@@ -1,6 +1,6 @@
 Di dunia yang serba cepat, kelemahlembutan seolah kurang dihargai. Kita sering melihat orang yang terlalu banyak bekerja, tergesa-gesa, stres, lelah, dan kehabisan tenaga. Perasaan-perasaan ini dapat merampas kelemahlembutan dari diri kita dan rumah tangga. Akibatnya, kita mudah bersikap kasar dan keras.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Pada skala 1 sampai 5, seberapa lemah lembutkah Anda? Mengapa kelemahlembutan penting untuk diteladankan dan ditumbuhkan dalam diri anak?
 
@@ -10,7 +10,7 @@ Berdoalah, undang Roh Kudus untuk menuntun diskusi Anda.
 
 Bacalah Filipi 4:5, 6 bersama-sama dengan suara lantang. Ayat ini mungkin sudah akrab, tetapi bacalah perlahan dan perhatikan setiap kata serta maknanya. Kemudian pertimbangkan terjemahan berikut. Garisbawahi kata-kata yang menarik perhatian dan lingkari sifat tabiat yang ingin Anda minta agar Allah tumbuhkan dalam diri Anda.
 
-> “Hendaklah semua orang melihat bahwa kamu lemah lembut dan baik hati. Tuhan akan segera datang. Jangan khawatir tentang apa pun. Berdoalah dan mintalah kepada Allah semua yang kamu perlukan. Dan setiap kali berdoa, ucapkanlah syukur” (Filipi 4:5, 6, BIMK).
+> “Hendaklah semua orang melihat bahwa kamu lemah lembut dan baik hati. Tuhan akan segera datang. Jangan khawatir tentang apa pun. Berdoalah dan mintalah kepada Allah semua yang kamu perlukan. Dan setiap kali berdoa, ucapkanlah syukur” (Filipi 4:5, 6).
 
 ### Diskusikan
 

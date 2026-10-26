@@ -8,7 +8,7 @@ Dalam 60 detik, minta setiap orang menuliskan daftar hal-hal yang menyebabkan st
 
 Anda mungkin mengenal kisah Yakub dan Esau—dua bersaudara yang berselisih. Sebelum bertemu kembali setelah terpisah selama 20 tahun, Yakub melakukan perjalanan bersama keluarganya dan sangat khawatir. Ada banyak hal yang mengganggu pikirannya. Namun terlepas dari itu, ia melakukan sesuatu.
 
-**Bacalah kisah mereka.** dalam Kejadian 32 dan 33, tetapi perhatikan secara khusus Kejadian 33:14.
+**Bacalah kisah mereka dalam Kejadian 32 dan 33**, tetapi perhatikan secara khusus Kejadian 33:14.
 
 Di tengah semua tekanan yang dialaminya, Yakub memilih untuk "berjalan dengan kecepatan anak-anak." Dia mengenal keluarganya, dan dia mengutamakan kebutuhan mereka.
 
@@ -35,6 +35,6 @@ Bagaimana gaya hidup yang terburu-buru dapat mengancam tujuan Anda dalam mendidi
 - Bagaimana Anda bisa memperlambat ritme rutinitas rumah tangga agar bisa menikmati waktu berkualitas?
 - Terkadang kita terjebak dalam kesibukan karena tekanan finansial. Jika Anda terlalu banyak membebani diri secara finansial, berdoalah agar Tuhan membantu Anda menemukan cara untuk mengurangi beban kerja sehingga Anda memiliki cukup waktu untuk anak-anak Anda saat mereka tumbuh.
 
-> ### Doa
+### Doa
 
 Mintalah Tuhan menunjukkan cara memperlambat langkah agar Anda dapat menggunakan waktu dengan lebih sadar dan terarah.

@@ -1,6 +1,6 @@
 Ada banyak pengaruh dari luar yang membentuk tabiat. Sekarang kita akan memperhatikan beberapa sifat yang dapat kita tumbuhkan dalam diri si kecil.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Ceritakan saat Anda pernah berbohong ketika masih kecil. Apa akibatnya?
 
@@ -20,8 +20,8 @@ Betapa bertolak belakangnya Allah dan Setan!
 
 Pertimbangkan ayat-ayat berikut dan pesannya tentang kejujuran. Ayat mana yang paling berbicara kepada Anda? Mengapa?
 
-- “Jangan lagi kamu saling mendustai, karena kamu telah menanggalkan manusia lama serta kelakuannya” (Kolose 3:9, BIMK).
-- “Karena itu, buanglah dusta dan berkatalah benar seorang kepada yang lain, karena kita adalah sesama anggota” (Efesus 4:25, BIMK).
+- “Jangan lagi kamu saling mendustai, karena kamu telah menanggalkan manusia lama serta kelakuannya” (Kolose 3:9).
+- “Karena itu, buanglah dusta dan berkatalah benar seorang kepada yang lain, karena kita adalah sesama anggota” (Efesus 4:25).
 - “TUHAN, siapa yang boleh menumpang dalam kemah-Mu? Siapa yang boleh diam di gunung-Mu yang kudus? Yaitu dia yang berlaku tidak bercela, yang melakukan apa yang adil dan yang mengatakan kebenaran dengan segenap hatinya” (Mazmur 15:1, 2, TB).
 - “Bibir dusta adalah kekejian bagi TUHAN, tetapi orang yang berlaku setia dikenan-Nya” (Amsal 12:22, TB).
 

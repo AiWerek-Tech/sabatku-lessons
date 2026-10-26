@@ -45,6 +45,6 @@ Doa dapat mencakup beberapa bagian berikut.
 
 Sertakan setiap bagian doa tersebut minggu ini. Jika memungkinkan, sediakan waktu bersama Allah tanpa terburu-buru, seperti bersama seorang sahabat. Ingatlah juga untuk mendoakan bayi Anda.
 
-> ### Doa
+### Doa
 
 Berdoalah berpasangan bagi satu sama lain. Doakan juga bayi Anda, agar mereka mengasihi Allah dan menjadikan doa bagian penting dalam hidup mereka sejak kecil.

@@ -26,7 +26,7 @@ Roh Kudus ingin menuntun Anda kepada Yesus. Yesus mengundang Anda untuk datang d
 
 Berpeganglah pada janji-Nya, percayalah kepada Firman-Nya, dan arahkan pandangan kepada-Nya.
 
-> ### Berdoa Bersama
+### Berdoa Bersama
 
 Bersyukurlah kepada Allah karena Ia telah mendekat kepada Anda pada triwulan ini. Pujilah Dia karena siapa diri-Nya. Berterima kasihlah atas kesabaran, pengampunan, dan kasih karunia-Nya. Mintalah agar Ia menjaga hubungan Anda dengan-Nya. Berdoalah bagi bayi Anda, agar Anda dapat dengan lembut menolongnya mengenal Allah sebagaimana adanya.
 

@@ -2,7 +2,7 @@
 
 Penelitian menunjukkan bahwa pengaruh orang tua merupakan faktor terpenting dalam perkembangan iman anak. Ada penelitian yang menyebut orang tua sebagai hampir satu-satunya pengaruh, hingga 99 persen. Pengaruh ayah terhadap iman anak tidak dapat disangkal. “Ketika ibu rutin ke gereja tetapi ayah jarang hadir atau tidak pernah hadir, hanya 2–3 persen anak mereka yang kelak rutin ke gereja. Jika ibu dan ayah sama-sama rutin ke gereja, 33 persen anak bertumbuh menjadi jemaat yang rutin hadir. Yang mengejutkan, jika ayah setia ke gereja tetapi ibu tidak pernah hadir, 44 persen anak akhirnya rutin ke gereja. Hasil ini paling tinggi dibandingkan situasi lainnya” (Barna Group; David Murrow, _Young Men and Faith_, dalam _Why Men Hate Going to Church_, hlm. 185).
 
-### Terhubung
+### Berbagi Pengalaman
 
 Diskusikan sifat-sifat ayah rohani yang Anda kenal. Apa yang Anda amati tentang anak-anak mereka dan interaksi ayah dengan anak-anaknya?
 

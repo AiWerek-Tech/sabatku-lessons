@@ -10,7 +10,7 @@ Kita mudah meninggikan diri. Kadang-kadang, menceritakan keberhasilan dan betapa
 
 Berdoalah, undang Roh Kudus untuk membimbing diskusi Anda.
 
-Seorang ibu yang berada berkecukupan berdiri di pintu masuk Sekolah Sabat dan menyambut para orang tua yang datang bersama anak-anak mereka. Ia menunjukkan pakaian baru anaknya dan dengan bangga menceritakan bahwa kemampuan motorik anaknya berkembang pesat. Ia lalu menasihati para orang tua lain tentang cara mempercepat perkembangan anak. Seorang ibu lain masuk dengan tenang sambil menggenggam erat tangan anaknya. Kepalanya tertunduk. Ia segera duduk dan merasa tidak mampu karena keadaan yang berada di luar kendalinya.
+Seorang ibu yang berkecukupan berdiri di pintu masuk Sekolah Sabat dan menyambut para orang tua yang datang bersama anak-anak mereka. Ia menunjukkan pakaian baru anaknya dan dengan bangga menceritakan bahwa kemampuan motorik anaknya berkembang pesat. Ia lalu menasihati para orang tua lain tentang cara mempercepat perkembangan anak. Seorang ibu lain masuk dengan tenang sambil menggenggam erat tangan anaknya. Kepalanya tertunduk. Ia segera duduk dan merasa tidak mampu karena keadaan yang berada di luar kendalinya.
 
 ### Diskusikan
 
@@ -32,6 +32,6 @@ Semakin dekat kita kepada Yesus, semakin berkuranglah keinginan untuk meninggika
 + Mengapa kerendahan hati penting untuk ditumbuhkan dalam diri Anda dan bayi Anda, terutama saat ia semakin besar?
 + Apa yang perlu Anda ubah agar dapat berjalan dengan lebih rendah hati bersama Allah?
 
-> ### Doa
+### Doa
 
 Mintalah agar Allah mengambil hati Anda dan menjaganya tetap murni, sekalipun Anda memiliki kekurangan. Mintalah agar Ia membentuk tabiat Anda supaya memantulkan tabiat-Nya, sehingga Anda dapat menunjukkan kasih-Nya kepada bayi dan keluarga Anda.

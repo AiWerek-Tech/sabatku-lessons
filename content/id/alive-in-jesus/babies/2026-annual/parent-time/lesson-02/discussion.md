@@ -1,14 +1,14 @@
-Sebagian besar dari kita memiliki beberapa impian rohani untuk anak-anak kita. Bagaimana kita dapat mempertajam fokusnya sedikit lebih lagi? Apa peran kita, dan apa peran Tuhan? Bagaimana kita dapat melindungi apa yang penting dan memupuknya setiap hari?
+Sebagian besar dari kita memiliki harapan bagi kehidupan rohani anak. Bagaimana kita dapat memperjelas harapan itu? Apa peran kita, dan apa peran Tuhan? Bagaimana kita dapat melindungi apa yang penting dan memupuknya setiap hari?
 
 ### Meninjau Kembali
 
-Ceritakan tentang percakapan komitmen yang kalian lakukan sebagai pasangan/dengan teman-teman selama minggu lalu mengenai topik minggu lalu: MIMPI (lihat pertanyaan yang diajukan).
+Ceritakan percakapan Anda dengan pasangan atau teman selama minggu lalu tentang komitmen pada topik Impian. Ingat kembali pertanyaan yang telah dibahas.
 
 ### Berinteraksi (Ajak setiap orang untuk berbagi.)
 
 Letakkan tanaman dalam pot di tengah lingkaran berbagi Anda.
 
-- Bagaimana mungkin merawat tanaman serupa dengan membina anak secara rohani? Diskusikan persamaan dan perbedaannya.
+- Apa persamaan antara merawat tanaman dan memelihara kehidupan rohani anak? Diskusikan persamaan dan perbedaannya.
 
 ### Mendalami Firman
 
@@ -20,7 +20,7 @@ Seorang petani. Segenggam benih. Empat lingkungan pertumbuhan.
 
 - Apa yang menghambat pertumbuhan semua biji?
 
-Masing-masing dari kita akan menciptakan semacam "lingkungan pertumbuhan" di rumah kita yang akan membantu atau menghalangi Tuhan dalam melakukan pekerjaan mukjizat-Nya berupa pertumbuhan. Kita perlu melindungi lingkungan pertumbuhan kita dari hal-hal yang dapat membahayakan, dan kita juga perlu dengan sengaja memelihara apa yang penting.
+Suasana yang kita bangun di rumah dapat mendukung atau menghambat pekerjaan Allah dalam menumbuhkan iman anak. Kita perlu melindungi lingkungan pertumbuhan kita dari hal-hal yang dapat membahayakan, dan kita juga perlu dengan sengaja memelihara apa yang penting.
 
 ### Renungkan
 
@@ -35,7 +35,7 @@ Di banyak budaya Barat, “hampir separuh dari semua anak muda yang dibesarkan d
 ### Tantangan
 
 + Apa peran Allah dalam menumbuhkan iman? (Baca 1 Korintus 3:6, 7; 2 Korintus 3:18.)
-+ Apa peranmu? (Lihat 1 Korintus 3:8.)
++ Apa peran Anda? (Lihat 1 Korintus 3:8.)
 + Bagaimana pengetahuan ini dapat mengubah prioritas “lingkungan pertumbuhan” Anda?
 
 ### Komitmen
@@ -45,6 +45,6 @@ Di banyak budaya Barat, “hampir separuh dari semua anak muda yang dibesarkan d
 
 Dari diskusi ini, sebutkan tiga kata yang ingin Anda tambahkan ke tujuan rohani Anda secara keseluruhan sebagai hal yang tidak dapat ditawar di rumah Anda? (Catatlah kata-kata tersebut.)
 
-Berdoa Bersama
+### Berdoa Bersama
 
-**INGAT** Jika memungkinkan, bawalah foto keluarga Anda saat masih kecil ke Acara Orang Tua pada hari Sabat mendatang.
+**INGAT** Jika memungkinkan, bawalah foto keluarga Anda saat masih kecil ke Parent Time pada hari Sabat mendatang.

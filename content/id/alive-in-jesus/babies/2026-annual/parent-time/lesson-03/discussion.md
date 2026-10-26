@@ -6,9 +6,9 @@ Coba lihat foto keluarga masing-masing orang dari masa kecil Anda.
 
 Sebutkan tiga kata untuk menggambarkan diri Anda saat masih kecil.
 
-- Jika Anda bisa merangkum motto hidup keluarga Anda dalam satu kata atau frasa, apa itu?
+- Jika Anda bisa merangkum moto hidup keluarga Anda dalam satu kata atau frasa, apa itu?
 
-Akui bahwa beberapa orang tua, karena alasan apa pun, tidak mampu merawat anak-anak mereka dalam suasana yang penuh kasih sayang, perhatian, dan pengasuhan. Namun demikian, Tuhan berjanji untuk memelihara dan menyembuhkan mereka yang tumbuh dalam situasi seperti itu. Mazmur 27:10 mengatakan, “Apabila ayah dan ibuku meninggalkan aku, maka TUHAN akan memelihara aku.” Selain itu, seiring kita belajar dan bertumbuh, Tuhan dapat membantu kita menciptakan rumah yang lebih sehat dan bahagia daripada rumah tempat kita dibesarkan.
+Perlu diingat bahwa, karena berbagai keadaan, sebagian orang tua dahulu tidak mampu membesarkan anak dalam suasana penuh kasih, perhatian, dan dukungan. Namun demikian, Tuhan berjanji untuk memelihara dan menyembuhkan mereka yang tumbuh dalam situasi seperti itu. Mazmur 27:10 mengatakan, “Apabila ayah dan ibuku meninggalkan aku, maka TUHAN akan memelihara aku.” Selain itu, seiring kita belajar dan bertumbuh, Tuhan dapat membantu kita menciptakan rumah yang lebih sehat dan bahagia daripada rumah tempat kita dibesarkan.
 
 ### Mendalami Firman
 
@@ -20,8 +20,8 @@ Pengasuhan rohani dapat didekati dengan dua cara:\
 Kita bisa mencoba mengajarkan anak-anak kita untuk (1) mengetahui tentang Tuhan, atau kita bisa membantu mereka untuk (2) mengenal Tuhan secara pribadi.
 
 - Apa perbedaan antara kedua pendekatan ini?
-- Seperti apa gambaran, suara, dan perasaan yang mungkin muncul saat mengenal Tuhan di rumah Anda?
-- Seperti apa rupa, suara, dan perasaan mengenal Tuhan secara pribadi?
+- Seperti apa suasana di rumah jika anak hanya mengetahui tentang Tuhan—apa yang terlihat, terdengar, dan dirasakan?
+- Bagaimana suasana itu berbeda jika anak mengenal Tuhan secara pribadi?
 - Apakah ada tumpang tindih antara tujuan 1 dan tujuan 2?
 - Dari tujuan-tujuan ini, mana yang lebih mudah dicapai?
 - Apa yang dapat Anda lakukan secara bertahap untuk memastikan kedua tujuan tersebut tercapai, tetapi tujuan kedua menjadi prioritas?
@@ -54,6 +54,6 @@ Pekan ini, luangkan waktu untuk berdiskusi dengan pasangan atau teman Anda menge
 
 Berdoalah, “Tuhan, sekarang setelah kami memiliki tujuan yang lebih jelas, bantulah kami untuk . . .”
 
-> ### Doa
+### Doa
 
 Mintalah pertolongan Tuhan untuk membangun suasana rumah yang menumbuhkan iman anak-anak. Berdoalah agar mereka sungguh mengenal Tuhan dan memiliki hubungan pribadi dengan-Nya.

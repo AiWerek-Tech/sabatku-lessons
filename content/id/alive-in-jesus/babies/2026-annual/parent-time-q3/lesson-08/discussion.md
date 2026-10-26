@@ -1,6 +1,6 @@
 Disiplin adalah salah satu cara penting untuk mengasihi anak, meskipun prosesnya tidak selalu menyenangkan. Dalam banyak bahasa, kata “disiplin” berkaitan dengan kata “murid”. Setiap upaya yang lembut untuk melatih dan mengarahkan perilaku anak sedang mempersiapkannya menjadi murid Yesus yang setia.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Ada berbagai cara mendisiplinkan anak yang melukai jiwa dan tubuhnya. Cara apa yang pernah Anda alami atau dengar, tetapi tidak pantas atau bahkan sangat merugikan?
 - Jika Yesus menjadi orang tua di dunia ini, cara mendisiplinkan seperti apa yang dapat Anda bayangkan akan Ia gunakan kepada anak-anak-Nya?

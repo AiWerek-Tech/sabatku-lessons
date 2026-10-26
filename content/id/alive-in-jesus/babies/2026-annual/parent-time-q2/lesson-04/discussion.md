@@ -37,6 +37,6 @@ Kata-kata dalam Alkitab berasal dari Allah sendiri. Ia ingin berbicara kepada ki
 
 + Apa yang perlu diubah dalam jadwal Anda agar minggu ini Anda dapat meluangkan lebih banyak waktu bersama Allah?
 
-> ### Doa
+### Doa
 
 Berdoalah bagi satu sama lain. Mintalah agar Allah menumbuhkan kerinduan yang lebih besar dalam hati Anda untuk meluangkan waktu bersama-Nya pada minggu mendatang.

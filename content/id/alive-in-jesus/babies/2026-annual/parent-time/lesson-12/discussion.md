@@ -1,4 +1,4 @@
-Salah satu tujuan Anda bisa memprioritaskan ibadah keluarga seiring pertumbuhan bayi Anda.
+Mengutamakan ibadah keluarga dapat menjadi salah satu tujuan Anda seiring pertumbuhan bayi.
 
 Namun bagaimana kita bisa menjaga agar ibadah tetap nyata dan penuh sukacita?
 
@@ -21,11 +21,11 @@ Bacalah pemikiran-pemikiran berikut.
 
 Kemudian berikan komentar: Apakah ini sesuatu yang sudah Anda ketahui, atau ini hal baru?
 
-- Dari umat Advent yang aktif, 40 persen keluarga tidak pernah beribadah di rumah, 27 persen beribadah setiap hari, dan 33 persen beribadah keluarga sekali seminggu. **1**
-- “Menghubungkan anak-anak kita dengan Tuhan melalui doa adalah salah satu aspek paling menggembirakan dalam membantu mereka bertumbuh secara rohani” (Donna Habenicht, **How to Help Your Child Really Love Jesus**(hlm. 103).
+- Menurut penelitian yang dikutip dalam [Adventist Review](https://adventistreview.org/issue-archives/page-2015/page-1510/1510-44/), di antara keluarga umat Advent yang aktif, 40 persen tidak pernah mengadakan ibadah di rumah, 27 persen melakukannya setiap hari, dan 33 persen mengadakan ibadah keluarga sekali seminggu.
+- “Menghubungkan anak-anak kita dengan Tuhan melalui doa adalah salah satu aspek paling menggembirakan dalam membantu mereka bertumbuh secara rohani” (Donna Habenicht, _How to Help Your Child Really Love Jesus_, hlm. 103).
 - “Waktu ibadah keluarga seharusnya dijadikan waktu paling membahagiakan dalam sehari” (Ellen G. White, _Christian Service_, hlm. 43). “Seharusnya tujuan khusus kepala keluarga adalah untuk membuat… ibadah menjadi sangat menarik” (Ellen G. White, Signs of the Times, 7 Agustus 1884).
 - “Hendaklah waktu ibadah keluarga singkat dan penuh semangat. Jangan biarkan anak-anak Anda atau anggota keluarga Anda merasa takut karena ibadah tersebut membosankan atau kurang menarik. Ketika sebuah bab yang panjang dibaca dan dijelaskan serta doa yang panjang dipanjatkan, ibadah yang berharga ini menjadi melelahkan, dan terasa lega ketika sudah selesai” (Ellen G. White, _Child Guidance_, hlm. 521).
-- “Keluarga adalah salah satu karunia Allah yang paling berharga bagi umat manusia. Kasih yang terwujud dan diungkapkan di antara anggota keluarga dapat menjadi pelajaran berharga, membantu setiap orang memahami kasih yang Allah miliki bagi mereka. Tetapi keluarga yang baik, kuat, dan bahagia tidak terjadi begitu saja—keluarga itu dibentuk. Proses itu membutuhkan usaha, kesabaran, kasih karunia, dan pengampunan. Itu juga membutuhkan waktu; dan memberikan waktu berarti memberikan diri sendiri, mungkin mengesampingkan hal-hal yang ingin dilakukan dan mengabdikan waktu itu untuk orang lain (dengan cara yang terbatas, seperti yang Kristus lakukan untuk kita). Salah satu cara untuk melakukan ini adalah melalui ibadah keluarga.” **2**
+- “Keluarga adalah salah satu karunia Allah yang paling berharga bagi umat manusia. Kasih yang terwujud dan diungkapkan di antara anggota keluarga dapat menjadi pelajaran berharga, membantu setiap orang memahami kasih yang Allah miliki bagi mereka. Tetapi keluarga yang baik, kuat, dan bahagia tidak terjadi begitu saja—keluarga itu dibentuk. Proses itu membutuhkan usaha, kesabaran, kasih karunia, dan pengampunan. Itu juga membutuhkan waktu; dan memberikan waktu berarti memberikan diri sendiri, mungkin mengesampingkan hal-hal yang ingin dilakukan dan mengabdikan waktu itu untuk orang lain (dengan cara yang terbatas, seperti yang Kristus lakukan untuk kita). Salah satu cara untuk melakukannya adalah melalui ibadah keluarga” ([Revival and Reformation, “The Family at Worship”](https://www.revivalandreformation.org/resources/all/the-family-at-worship)).
 
 ### Diskusi dan Tantangan
 
@@ -35,6 +35,6 @@ Kemudian berikan komentar: Apakah ini sesuatu yang sudah Anda ketahui, atau ini 
 - Apa saja tujuan dan rencana yang ingin Anda terapkan untuk ibadah keluarga di rumah Anda?
 - Apa yang dapat membantu Anda memulai pengalaman ibadah yang bermakna dalam keluarga/rumah Anda?
 
-> ### Doa
+### Doa
 
 Berdoalah bersama dan mintalah pertolongan Tuhan agar ibadah keluarga menjadi kegiatan yang disukai anak Anda.

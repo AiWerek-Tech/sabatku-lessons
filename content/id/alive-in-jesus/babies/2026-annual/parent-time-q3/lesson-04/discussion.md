@@ -1,6 +1,6 @@
 Ketika Anda menunjukkan kasih kepada si kecil melalui sentuhan lembut, tindakan yang baik, tatapan penuh kelembutan, dan kata-kata yang penuh perhatian, Anda sedang berkata, “Kamu istimewa bagiku. Aku senang kita bersama!” Kasih sayang adalah cara untuk menyampaikan kepada bayi bahwa mereka berharga.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Apa cara favorit Anda untuk menunjukkan kasih sayang kepada bayi? Apakah Anda paling senang memeluknya? Mengungkapkan kasih melalui kata-kata lembut? Atau menghabiskan banyak waktu untuk tertawa dan bermain bersama?
 - Berhentilah sejenak dan pikirkan cara-cara yang Anda sukai untuk menunjukkan kasih sayang kepada si kecil.
@@ -37,4 +37,4 @@ Bacalah kutipan-kutipan berikut dalam hati, lalu diskusikan pertanyaan di bawahn
 
 Berdoalah bagi satu sama lain agar minggu ini semakin menyadari kasih sayang Allah kepada Anda. Bersyukurlah kepada-Nya karena telah mempercayakan bayi yang begitu berharga untuk Anda kasihi. Mintalah pertolongan-Nya agar Anda tetap menunjukkan kasih sayang yang lembut kepada anak, apa pun keadaannya.
 
-> “Inilah doaku, semoga kasihmu makin melimpah dalam pengetahuan yang benar dan dalam segala macam pengertian” (Filipi 1:9, TB).
+> “Inilah doaku: semoga kasihmu semakin melimpah dalam pengetahuan dan pengertian yang mendalam, sehingga kamu dapat membedakan apa yang terbaik dan menjadi murni serta tidak bercela” (Filipi 1:9, 10).

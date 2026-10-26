@@ -28,7 +28,7 @@ Kebaikan dan kemurahan Allah menuntun kita kepada pertobatan (Roma 2:4). Pertoba
 + Seiring bertambahnya usia bayi, bagaimana Anda dapat menolongnya terbuka terhadap tuntunan Roh Kudus?
 + Apa yang paling berkesan bagi Anda dalam kutipan berikut?
 
-> “Sering kali kita berdukacita karena perbuatan jahat kita membawa akibat yang tidak menyenangkan bagi diri sendiri. Namun, itulah bukan pertobatan. Dukacita sejati atas dosa merupakan hasil pekerjaan Roh Kudus. Roh menyatakan bahwa hati kita tidak bersyukur karena telah meremehkan dan mendukakan Juruselamat, lalu membawa kita dengan hati yang hancur ke kaki salib. Setiap dosa kembali melukai Yesus... Kita berdukacita atas dosa-dosa yang telah mendatangkan penderitaan bagi-Nya. Dukacita seperti ini akan menuntun kita untuk meninggalkan dosa.” (Ellen G. White, _The Desire of Ages_, hlm. 300).
+> “Sering kali kita berdukacita karena perbuatan jahat kita membawa akibat yang tidak menyenangkan bagi diri sendiri. Namun, itu bukanlah pertobatan. Dukacita sejati atas dosa merupakan hasil pekerjaan Roh Kudus. Roh menyatakan bahwa hati kita tidak bersyukur karena telah meremehkan dan mendukakan Juruselamat, lalu membawa kita dengan hati yang hancur ke kaki salib. Setiap dosa kembali melukai Yesus... Kita berdukacita atas dosa-dosa yang telah mendatangkan penderitaan bagi-Nya. Dukacita seperti ini akan menuntun kita untuk meninggalkan dosa.” (Ellen G. White, _The Desire of Ages_, hlm. 300).
 
 Saat kita datang kepada Yesus dengan bertobat, sesuatu terjadi. Ia menyelubungi kita dengan jubah kebenaran-Nya yang sempurna dan menutupi dosa-dosa kita. Ia mengampuni kita sepenuhnya. Tabiat Yesus sempurna dan tanpa noda, dan Ia menawarkan jubah-Nya kepada kita (Wahyu 19:8; Efesus 5:27).
 
@@ -41,6 +41,6 @@ Kita semua perlu sungguh-sungguh bertobat dari dosa dan memerlukan pengampunan A
 + Bagaimana Anda dapat setiap hari mengenakan jubah kebenaran Yesus?
 + Bagaimana Anda dapat menolong anak memiliki pemahaman yang sehat dan benar tentang kasih karunia Allah?
 
-> ### Doa
+### Doa
 
 Berhentilah sejenak untuk merenungkan apa yang telah Yesus lakukan bagi Anda. Bersyukurlah atas karunia kasih karunia-Nya yang diberikan dengan cuma-cuma—jubah kebenaran-Nya yang sempurna.

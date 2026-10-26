@@ -20,7 +20,7 @@ Doa adalah salah satu alat paling praktis yang dapat Anda gunakan sebagai orang 
 
 ### Inspirasi bagi Saya
 
-Terdapat hikmat ilahi, fakta menarik, dan informasi yang diteliti dengan baik untuk dipertimbangkan saat Anda berinvestasi dalam pertumbuhan rohani bayi Anda. Di sepanjang bab-bab tersebut, Anda akan melihat kotak "Inspirasi bagi Saya" yang akan menyoroti pemikiran-pemikiran ini. Setiap kotak "Inspirasi bagi Saya" akan menyajikan fakta atau gagasan untuk menyemangati Anda dalam perjalanan pengasuhan anak Anda.
+Terdapat hikmat ilahi, fakta menarik, dan informasi yang diteliti dengan baik untuk dipertimbangkan saat Anda mendampingi pertumbuhan rohani bayi Anda. Di sepanjang bab-bab tersebut, Anda akan melihat kotak "Inspirasi bagi Saya" yang akan menyoroti pemikiran-pemikiran ini. Setiap kotak "Inspirasi bagi Saya" akan menyajikan fakta atau gagasan untuk menyemangati Anda dalam perjalanan pengasuhan anak Anda.
 
 ### Tips
 

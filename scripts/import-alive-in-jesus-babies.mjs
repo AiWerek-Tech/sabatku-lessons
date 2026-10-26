@@ -6,6 +6,13 @@ import {auditAliveInJesusTranslations,createReviewManifest} from './audit-alive-
 const root=path.resolve('.');
 const source=process.argv[2] || 'C:/Users/ADMIN/Music/Alive In Jesus/1. BABIES';
 const target=path.join(root,'content/id/alive-in-jesus/babies/2026-annual');
+// Reimports must never silently replace reviewed or published editions with drafts.
+for(const role of ['parent','teacher','parent-time','parent-time-q2','parent-time-q3','parent-time-q4']){
+ try{
+  const previous=JSON.parse(await readFile(path.join(target,role,'edition.json'),'utf8'));
+  if(previous.publicationStatus!=='draft')throw Error(`Cannot overwrite reviewed content: ${previous.id}`);
+ }catch(error){if(error.code!=='ENOENT')throw error;}
+}
 const corrections=JSON.parse(await readFile('scripts/babies-editorial-corrections.json','utf8')).filter(([from])=>!['Memercayai','terpenuhi','menulari'].includes(from)).sort((a,b)=>b[0].length-a[0].length);
 const songTranslations=JSON.parse(await readFile('scripts/babies-song-titles.json','utf8'));
 const songAliases=new Map(Object.entries({

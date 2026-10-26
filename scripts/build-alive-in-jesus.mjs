@@ -169,6 +169,16 @@ export async function buildAliveInJesus(sourceRoot, outputRoot, { includeDrafts 
         assert(Array.isArray(declaredDayOrder) && declaredDayOrder.length > 0 && declaredDayOrder.every(key => dayKeyPattern.test(key)), `${edition.id}.dayOrder is invalid`);
       }
 
+      const editionSupplementaryReadings = [];
+      for (const resource of edition.supplementaryReadings ?? []) {
+        assert(dayKeyPattern.test(resource.key ?? ''), `${edition.id}: invalid supplementary key`);
+        assert(typeof resource.file === 'string' && !path.isAbsolute(resource.file) && !resource.file.split(/[\\/]/).includes('..'), `${edition.id}: invalid supplementary file`);
+        const resourceMarkdown = (await readFile(path.join(editionDir, resource.file), 'utf8')).replace(/\r\n/g, '\n').replace(/\r/g, '\n');
+        const content = normalizeAliveInJesusMarkdown(resourceMarkdown);
+        assert(resource.title && content.length, `${edition.id}: supplementary reading is empty`);
+        editionSupplementaryReadings.push({ key: resource.key, title: resource.title, format: 'text/markdown', content, scope: 'edition' });
+      }
+
       for (const folder of unitFolders) {
         const lessonDir = path.join(editionDir, folder.name);
         const lesson = await readJson(path.join(lessonDir, 'lesson.json'));
@@ -201,14 +211,10 @@ export async function buildAliveInJesus(sourceRoot, outputRoot, { includeDrafts 
         }
 
         const supplementaryReadings = [];
-        for (const resource of edition.supplementaryReadings ?? []) {
-          assert(dayKeyPattern.test(resource.key ?? '') && !seenKeys.has(resource.key), `${edition.id}: invalid supplementary key`);
+        for (const resource of editionSupplementaryReadings) {
+          assert(!seenKeys.has(resource.key), `${edition.id}: invalid supplementary key`);
           seenKeys.add(resource.key);
-          assert(typeof resource.file === 'string' && !path.isAbsolute(resource.file) && !resource.file.split(/[\\/]/).includes('..'), `${edition.id}: invalid supplementary file`);
-          const resourceMarkdown = (await readFile(path.join(editionDir, resource.file), 'utf8')).replace(/\r\n/g, '\n').replace(/\r/g, '\n');
-          const content = normalizeAliveInJesusMarkdown(resourceMarkdown);
-          assert(resource.title && content.length, `${edition.id}: supplementary reading is empty`);
-          supplementaryReadings.push({ key: resource.key, title: resource.title, format: 'text/markdown', content, scope: 'edition' });
+          supplementaryReadings.push({ ...resource });
         }
         const lessonUrl = `editions/${edition.id}/lessons/${lesson.id}/index.json`;
         lessonList.push({ id: lesson.id, title: lesson.title, startDate: lesson.startDate, endDate: lesson.endDate, url: lessonUrl });

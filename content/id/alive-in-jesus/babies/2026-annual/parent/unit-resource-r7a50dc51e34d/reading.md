@@ -8,8 +8,8 @@ Kelompok dukungan dapat mengundang baik orang tua yang berpengalaman maupun oran
 
 > **TIPS:** **Berikut beberapa ide kelompok dukungan:**
 
-**Belajar bersama dan diskusikan sebuah buku.**—bisa jadi _Rumah Advent_; _Bimbingan Anak_; _Nasihat untuk Orang Tua_, _Guru dan Siswa_, oleh Ellen White, atau _Cara Membantu Anak Anda untuk Benar-Benar Mencintai Yesus_, oleh Donna J. Habenicht. Dalam sesi ini, Anda dapat membaca satu bab dan berbagi bagaimana Anda menerapkannya di rumah.\
-**Pilihlah topik yang menarik bagi kelompok tersebut.** dan undanglah seorang spesialis lokal atau orang tua yang berpengalaman untuk berbagi pengalaman mereka tentang masalah tertentu. Setelah presentasi, Anda dapat mendiskusikan bagaimana menerapkan hal ini pada keluarga dan rutinitas Anda.\
+**Belajar bersama dan diskusikan sebuah buku**—bisa jadi _Rumah Advent_; _Bimbingan Anak_; _Nasihat untuk Orang Tua_, _Guru dan Siswa_, oleh Ellen White, atau _Cara Membantu Anak Anda untuk Benar-Benar Mencintai Yesus_, oleh Donna J. Habenicht. Dalam sesi ini, Anda dapat membaca satu bab dan berbagi bagaimana Anda menerapkannya di rumah.\
+**Pilihlah topik yang menarik bagi kelompok tersebut** dan undanglah seorang spesialis lokal atau orang tua yang berpengalaman untuk berbagi pengalaman mereka tentang masalah tertentu. Setelah presentasi, Anda dapat mendiskusikan bagaimana menerapkan hal ini pada keluarga dan rutinitas Anda.\
 **Pilihlah sebuah proyek misi untuk kelas Sekolah Sabat.** misalnya, membantu keluarga yang membutuhkan atau berbagi dengan para ibu dari komunitas dan mengundang mereka ke program Sekolah Sabat Anda.\
 **Pelajari _Panduan Belajar Alkitab untuk Dewasa_ Pelajaran Sekolah Sabat** Dari perspektif keluarga dengan bayi. Studi ini dapat dilakukan dari perspektif bagaimana topik studi pekan ini dapat diterapkan di rumah dengan bayi, dalam upaya menjadikan anak-anak murid Yesus.
 

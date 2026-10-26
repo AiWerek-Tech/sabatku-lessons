@@ -1,4 +1,4 @@
-Ketika Anda melakukan sesuatu yang penting, ada baiknya untuk memulai dengan memikirkan hasil akhirnya. Ketika kita memikirkan akhir dari sesuatu, itu membantu kita membuat keputusan bijak untuk membawa kita ke tempat tujuan. Ini juga berlaku untuk pengasuhan anak. Meskipun Anda sekarang menggendong si kecil di pelukan Anda, dan hari-hari terasa panjang, tahun-tahun akan berlalu dengan cepat. Apa yang Allah harapkan bagi Anda dan bayi Anda? Bagaimana Anda bisa menjadi orang tua yang penuh perhatian dalam momen-momen sehari-hari?
+Saat melakukan sesuatu yang penting, ada baiknya kita terlebih dahulu memikirkan tujuan akhirnya. Dengan tujuan yang jelas, kita dapat mengambil keputusan bijak untuk mencapainya. Begitu pula dalam mengasuh anak. Meskipun Anda sekarang menggendong si kecil di pelukan Anda, dan hari-hari terasa panjang, tahun-tahun akan berlalu dengan cepat. Apa yang Allah harapkan bagi Anda dan bayi Anda? Bagaimana Anda bisa mengasuh anak dengan sadar dan terarah dalam keseharian?
 
 ### Berbagi Pengalaman
 
@@ -8,7 +8,7 @@ Tunjukkan sebuah hadiah terbungkus sebagai lambang. Ajak setiap orang untuk menj
 
 Kemudian, renungkanlah karunia ini secara pribadi dalam konteks pertanyaan-pertanyaan berikut:
 
-+ Bayangkan Anda berada di surga. Bagaimana karunia itu terlihat jika dipandang dari sudut kekekalan?
++ Bayangkan Anda berada di surga. Seberapa penting hadiah itu jika dipandang dari sudut kekekalan?
 + Menurut Anda, apa impian Tuhan untuk si kecil? Bagaimana kesamaan atau perbedaannya dengan impian Anda untuk mereka?
 
 ### Mendalami Firman
@@ -24,17 +24,17 @@ Sekarang bacalah **2 Korintus 5:20**. Diskusikan pertanyaan-pertanyaan yang sama
 
 ### Diskusi
 
-Bacalah kutipan-kutipan ini dalam hati. Tandai kata dan frasa saat Anda membaca, lalu fokuslah pada: sesuatu yang familiar, sesuatu yang mengejutkan, sesuatu yang memberi semangat, atau sesuatu yang perlu dieksplorasi lebih dalam.
+Bacalah kutipan-kutipan ini dalam hati. Tandai kata dan frasa saat Anda membaca, lalu fokuslah pada: sesuatu yang akrab, sesuatu yang mengejutkan, sesuatu yang memberi semangat, atau sesuatu yang perlu dieksplorasi lebih dalam.
 
 + “Tetapi Yesus berkata, ‘Biarkanlah anak-anak kecil datang kepada-Ku dan janganlah menghalangi mereka, karena Kerajaan Surga adalah milik orang-orang seperti mereka’” (Matius 19:14).
-+ “Sebagai pekerja bagi Tuhan, pekerjaan kita harus dimulai dari orang-orang terdekat. Harus dimulai dari rumah kita sendiri. Tidak ada ladang misi yang lebih penting daripada ini.” “Mendidik anak-anak menjadi orang Kristen adalah pelayanan tertinggi yang dapat diberikan orang tua kepada Allah” (Ellen G. White, _Child Guidance_, hlm. 476).
++ “Sebagai pekerja bagi Tuhan, pekerjaan kita harus dimulai dari orang-orang terdekat. Harus dimulai dari rumah kita sendiri. Tidak ada ladang misi yang lebih penting daripada ini.” “Mengasuh dan mendidik anak-anak adalah pekerjaan misi paling mulia yang dapat dilakukan seorang pria atau wanita” (Ellen G. White, _Child Guidance_, hlm. 476).
 
 Bagikan refleksi Anda tentang kutipan-kutipan ini.
 
 ### Tantangan
 
 + Pada skala 1 hingga 5 (1 sangat jarang, dan 5 hampir selalu), seberapa sering Anda menetapkan tujuan? Apakah Anda memperkirakan kebiasaan Anda menetapkan tujuan akan berdampak baik atau buruk pada cara Anda mengasuh anak?
-+ Apakah Anda lebih mungkin untuk menetapkan atau menindaklanjuti tujuan?
++ Mana yang lebih sering Anda lakukan: menetapkan tujuan atau menindaklanjutinya?
 + Hal-hal lain apa dalam hidup Anda yang mencoba menyaingi "mencari dahulu" yang Yesus bicarakan dalam Matius 6:33? Jelaskan secara spesifik dan jujur sebisa mungkin.
 + Bagaimana Anda bisa mengatasi tantangan ini?
 + Bagaimana Anda menghadapi saat-saat ketika Anda tidak berhasil "mengutamakan" Yesus dan hal-hal yang paling penting?
@@ -49,6 +49,6 @@ Pekan ini, luangkan waktu bersama pasangan atau teman untuk membicarakan tujuan 
 
 Mari kita berdoa bersama tentang hal ini.
 
-> ### Doa
+### Doa
 
 Serahkan kepada Tuhan harapan rohani Anda bagi anak-anak. Mintalah kekuatan dari-Nya agar Anda dapat memimpin keluarga sesuai kehendak-Nya.

@@ -1,6 +1,6 @@
 Walaupun si kecil masih bayi dan beberapa pokok yang dibahas triwulan ini mungkin belum langsung terasa relevan, perjalanan Anda sebagai orang tua masih panjang. Pemahaman dan kebiasaan baik yang mulai dibangun sekarang akan menolong di masa depan. Anda dapat membahas kembali beberapa topik ini dalam beberapa bulan atau tahun mendatang. Pembentukan tabiat memang merupakan pekerjaan seumur hidup—pekerjaan Allah di dalam diri kita dan anak-anak.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Bagian mana dari kutipan berikut yang paling menyentuh Anda?
 

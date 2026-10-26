@@ -1,6 +1,6 @@
 Orang yang mementingkan diri berpikir tentang “aku”, bukan “kita”. Ia menganggap dirinya pusat segala sesuatu, entah dalam hal baik maupun buruk. Ia tidak mendengarkan atau sungguh peduli kepada orang lain, selalu menginginkan yang terbaik untuk dirinya sendiri, tetapi tidak pernah menganggap dirinya egois.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Dalam budaya Anda, bagaimana masyarakat mendorong sikap mementingkan diri? Pikirkan berbagai usia dan tahap kehidupan.
 - Menurut Anda, mudah atau sulit membesarkan anak yang tidak mementingkan diri sendiri? Mengapa?

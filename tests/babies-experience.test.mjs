@@ -15,23 +15,31 @@ async function markdownFiles(dir) {
   return result;
 }
 
-test('Baby Steps keeps parent, teacher and Parent Time publications distinct and in review',async()=>{
-  const expected=[['parent','parent-book','quarterly-repeat-program',35],['teacher','teacher-guide','quarterly-repeat-program',17],['parent-time','parent-time-handout','weekly-parent-discussion',13]];
+test('Baby Steps keeps parent, teacher and Parent Time publications distinct and approved for publication',async()=>{
+  const expected=[
+    ['parent','parent-book','quarterly-repeat-program',35],
+    ['teacher','teacher-guide','quarterly-repeat-program',17],
+    ['parent-time','parent-time-handout','weekly-parent-discussion',13],
+    ['parent-time-q2','parent-time-handout','weekly-parent-discussion',13],
+    ['parent-time-q3','parent-time-handout','weekly-parent-discussion',13],
+    ['parent-time-q4','parent-time-handout','weekly-parent-discussion',13],
+  ];
   for(const [folder,role,structure,count] of expected) {
     const dir=path.join(root,folder),edition=await json(path.join(dir,'edition.json'));
     const review=await json(path.join(dir,'source-review.json'));
     assert.equal(edition.trackId,'babies');
     assert.equal(edition.bookRole,role);
     assert.equal(edition.structureType,structure);
-    assert.equal(edition.publicationStatus,'draft');
-    assert.equal(review.status,'needs-team-review');
+    assert.equal(edition.publicationStatus,'published');
+    assert.equal(review.status,'approved');
+    assert.equal(review.publicationAuthorization.type,'explicit-project-owner-instruction');
     assert.equal(edition.lessons.length,count);
-    if(folder!=='parent-time') assert.equal(edition.lessons.filter(x=>/^lesson-0[1-4]$/.test(x.id)).length,4);
+    if(!folder.startsWith('parent-time')) assert.equal(edition.lessons.filter(x=>/^lesson-0[1-4]$/.test(x.id)).length,4);
     assert.equal(await readFile(path.join(dir,'assets/cover.png')).then(b=>b.length>0),true);
   }
 });
 
-test('Babies uses four repeatable quarterly programs and thirteen separate Parent Time sessions',async()=>{
+test('Babies uses four repeatable quarterly programs and thirteen separate Parent Time sessions per quarter',async()=>{
   for(const role of ['parent','teacher']) {
     const edition=await json(path.join(root,role,'edition.json'));
     for(let i=1;i<=4;i++) {
@@ -41,15 +49,23 @@ test('Babies uses four repeatable quarterly programs and thirteen separate Paren
       assert.equal(lesson.readings[0].key,'program');
     }
   }
-  const handout=await json(path.join(root,'parent-time','edition.json'));
-  assert.deepEqual(handout.lessons.map(x=>x.id),Array.from({length:13},(_,i)=>`lesson-${String(i+1).padStart(2,'0')}`));
-  assert.equal(handout.englishEditionId,'2025-01-xaijbbpthone');
+  const handoutFolders=[
+    ['parent-time','2025-01-xaijbbpthone'],
+    ['parent-time-q2','2025-02-xaijbbpth2one'],
+    ['parent-time-q3','2025-03-xaijbbpth3one'],
+    ['parent-time-q4','2025-04-xaijbbpth4one'],
+  ];
+  for(const [folder,englishEditionId] of handoutFolders) {
+    const handout=await json(path.join(root,folder,'edition.json'));
+    assert.deepEqual(handout.lessons.map(x=>x.id),Array.from({length:13},(_,i)=>`lesson-${String(i+1).padStart(2,'0')}`));
+    assert.equal(handout.englishEditionId,englishEditionId);
+  }
 });
 
 test('reader content is cleaned up and song labels retain English titles with Indonesian subtitles',async()=>{
   const songTranslations=await json(path.resolve('scripts/babies-song-titles.json'));
   let audioLinkCount=0;
-  for(const role of ['parent','teacher','parent-time']) {
+  for(const role of ['parent','teacher','parent-time','parent-time-q2','parent-time-q3','parent-time-q4']) {
     const files=await markdownFiles(path.join(root,role));
     for(const file of files) {
       const markdown=await readFile(file,'utf8');

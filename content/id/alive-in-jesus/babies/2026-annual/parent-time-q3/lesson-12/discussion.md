@@ -1,6 +1,6 @@
 Cara kita memandang diri sebagai orang tua sering kali tercermin dalam diri anak.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Bagaimana Anda menggambarkan diri dalam tiga kata?
 - Faktor apa yang paling membentuk jati diri Anda?

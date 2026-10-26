@@ -37,6 +37,6 @@ Kita dapat meminta Roh Kudus bekerja di dalam diri kita untuk menuntun orang lai
 + Pengalaman apa dalam hidup Anda yang dapat dibagikan kepada orang lain? Apa yang Anda hargai dan kasihi tentang Allah serta tabiat-Nya?
 + Pertimbangkan untuk menceritakannya kepada teman, rekan kerja, atau kelompok kecil ini.
 
-> ### Doa
+### Doa
 
 Berdoalah dengan sungguh-sungguh agar Allah menuntun Anda kepada seseorang yang sedang mencari Dia. Mintalah kasih-Nya semakin memenuhi hati Anda. “Marilah kita saling mengasihi, sebab kasih itu berasal dari Allah; dan setiap orang yang mengasihi, lahir dari Allah dan mengenal Allah.” (1 Yohanes 4:7). Mintalah kasih seperti itu, kepedulian bagi jiwa orang lain, serta keberanian dan hikmat untuk bersaksi.

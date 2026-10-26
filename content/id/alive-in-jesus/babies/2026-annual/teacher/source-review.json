@@ -1,116 +1,114 @@
 {
   "schemaVersion": "alive-in-jesus-translation-review-v1",
   "editionId": "2026-q1-aij-babies-teacher",
-  "status": "needs-team-review",
+  "status": "approved",
   "sourceLocale": "en",
   "targetLocale": "id",
-  "reviewer": null,
-  "reviewedAt": null,
-  "note": "Generated checksum baseline. A reviewer must complete the source comparison and approve it before publication.",
+  "reviewer": "Codex — audit editorial dan perbandingan sumber",
+  "reviewedAt": "2026-10-26",
+  "note": "Audit editorial oleh Codex. Publikasi diinstruksikan secara eksplisit oleh pemilik proyek setelah meminta audit dan penyempurnaan semua edisi draf. Tidak menyatakan adanya peninjauan manusia baru oleh tim penerjemah.",
   "sourceAudit": {
-    "englishFiles": 19,
-    "indonesianFiles": 19,
-    "matchedFiles": 19,
+    "englishFiles": 17,
+    "indonesianFiles": 17,
+    "matchedFiles": 17,
     "missingIndonesian": [],
     "missingEnglish": [],
     "flaggedPairCount": 0,
     "sourceChecksums": {
-      "00-introduction/00-introduction.md": {
+      "unit-resource-ra110198e1be2/reading.md": {
         "english": "7fc1d652be47d88527762977d310413935c69bf2a2500d4e01839c022703b657",
-        "indonesian": "750e82fce3834b0ae1a127e13e335dc2f0f7fed3fe152065a0e7ff69b4a348bc"
+        "indonesian": "2566fcc15493a55407e1c7791aacdbf63bd650abacb2cf06ec0d7004b48f2b42"
       },
-      "02-curriculum-resources/02-curriculum-resources.md": {
+      "unit-resource-r5e4a19565be8/reading.md": {
         "english": "2a45421b44201acac68e71d6fc22a90ac5a84eb40a6809ff6d4eb014417dee59",
-        "indonesian": "a614cdccaa4dbf45b69949fcfe98c17b5adb5c5c40eece4c69e0ac0015442175"
+        "indonesian": "d8768a7cf61f2e0180c73347ae962626fc3558d78106fd9fc6364d913c8625f9"
       },
-      "introduction.md": {
-        "english": "ef2be81f64785fe5454785a8096d6085cf8211593120a754685eca895b34f65c",
-        "indonesian": "4029bc0ee94ae598a405de7c5b52b9d2862625895107f2ee076dda002ee2a83b"
-      },
-      "part-01/01-the-potential/01-the-potential.md": {
+      "unit-resource-r473aa92e28c3/reading.md": {
         "english": "d64e358e69b9b1e876ff5f27dc1b39ef6449abaabaa9c956f8b19a753390191c",
-        "indonesian": "79969f00832ebc90a666b1087b3e9ed555fe66895201c539fec5c8a55367633f"
+        "indonesian": "962864a4406f9c4c1949ec0c4cfbff4a4fc7a267eafb53c1eece65c29355c681"
       },
-      "part-02/02-the-purpose/02-the-purpose.md": {
+      "unit-resource-r7086b0563b12/reading.md": {
         "english": "d5ab8b1bd1aba03d7c650563431039897a468ba2cbe71728b4a41310a5217aaa",
-        "indonesian": "e5a59a93c2df344356688e88ca930f6ea5e005a8796364ec7f123d018c565027"
+        "indonesian": "adf6c292ed8aed647de83309b821f825129ef743df9ec916144e1a37263a6cbf"
       },
-      "part-03/03-01-baby-time/03-01-baby-time.md": {
+      "unit-resource-r5c73aa4c140b/reading.md": {
         "english": "f959dee807bc3f4fe80c7c0664329ab56a71725a9b66486031d85060b04569c2",
-        "indonesian": "358d0785a504a2455b1de9e42c76fe385eecb3cd648055340424fce9d33539aa"
+        "indonesian": "c6c6c27179a66536f23c2769a97380af952a4c4d251c4a23040e1d90d488da7d"
       },
-      "part-03/03-02-parent-time/03-02-parent-time.md": {
+      "unit-resource-rbd87f3047778/reading.md": {
         "english": "906fe5473597a108c2f8333de41cd9d591c93cbf777582b68cc3d3de5beed4cd",
-        "indonesian": "ff3667f897870775e8bb7838d04ee8829a8b95b1e698153c62d13419e91da25c"
+        "indonesian": "1c0372f43ed88efc3b1cbe532d7f4aeb3bf26aa5cc7a31e6eba8402dbc8faa8d"
       },
-      "part-03/03-03-home-time/03-03-home-time.md": {
+      "unit-resource-r112daf0c088a/reading.md": {
         "english": "af35c09b25462f13126b6b3aae24d1c1cf19111aeb11a886d1da66f064db46c0",
-        "indonesian": "59d8f4772ee71eb76413d24e4520826424f77118e5bbc1a53b3e5b67ec60cb56"
+        "indonesian": "41a19a37f475f7f8b6e3ae49cd8b0195d925ea53d8f411229163c1b5df863c31"
       },
-      "part-04/04-01-classroom-preparation/04-01-classroom-preparation.md": {
+      "unit-resource-r54bc26e5ef0e/reading.md": {
         "english": "771e7b24e98785bbe90e172a32728542e82f2393df60f259af847df27ab70b65",
-        "indonesian": "a9666ce37f95750e177bbb4a000d4ab69c31e0e0c32c17176a177c2bb1605aff"
+        "indonesian": "c9ed6b9a107527466cd156ab68a45146e35f0f28d354ff140706dac99e626169"
       },
-      "part-04/04-02-teacher-preparation/04-01-classroom-preparation.md": {
+      "unit-resource-r8620ec93f16c/reading.md": {
         "english": "7c08d11c4d9f9a8dbcf20f41d56afcfcc704d9372e2afde3afdb8fc65107bc8d",
-        "indonesian": "8fea76b5f2339dfc35fa33748d216da26f631b7389645953100fdad3882e31af"
+        "indonesian": "ae76bc13c5d63b31a20298875cacc638ea798296912623e4420c4b23db7a15c2"
       },
-      "part-05/05-01-scope-and-sequence/05-01-scope-and-sequence.md": {
+      "unit-resource-rde5b9ec7f2de/reading.md": {
         "english": "f81173b16294d6471d041ca99f851c2e419dec09b466acdd550e334693c01d67",
-        "indonesian": "da7c72eb5b71ac47c751c1849ac805804cebbfbe15330c9bf084296621cf3f3f"
+        "indonesian": "73c9f49b1f8d533c5603a4708dbbf0b728c99569defec81a27142a069dabca0a"
       },
-      "part-05/05-02-list-of-suggested-materials/05-02-list-of-suggested-materials.md": {
+      "unit-resource-r612bc12bd06d/reading.md": {
         "english": "3bc4ce3af4bd08f1d58f0ef54ed964161124a8a0fd2eb922520d15e8e74da2f9",
-        "indonesian": "a203f3f7880750fd210fb3c0a0c398d648429db8b85a7839c1c0a7b87d809d95"
+        "indonesian": "b219151eee497d1fe242c3c130d29d7e15779538788e26a3dda17f88fcdde672"
       },
-      "part-05/05-03-lesson-01-creation/05-03-lesson-01-creation.md": {
+      "lesson-01/program.md": {
         "english": "e7cbc69a1bfc26f10098595197a7979364ab01c2bb2ec2263f22a3130aaa67bb",
-        "indonesian": "4d9d2bc4b197762627c33b7c89f37435b1ed30e42b6fa4aa305f253a932fa77d"
+        "indonesian": "fbbe72740d61be978b87f9b061f32c767c214131c11fb8c82cc48ee1a89bf47b"
       },
-      "part-05/05-03-lesson-02-good-shepherd/05-03-lesson-02-good-shepherd.md": {
+      "lesson-02/program.md": {
         "english": "e08132c99a6afff110e857d4153d03254fca4b9296f34c5612212b249823b6b7",
-        "indonesian": "63bf6758859b24fa56b766c54a67c04658da7f4f0b2c8b6f0509aa129e315876"
+        "indonesian": "2eae5edbc46d5b7ce850be4bfbaff7c1a5b77d7f2e7cc203b762d752ac2fc8fe"
       },
-      "part-05/05-03-lesson-03-noah/05-03-lesson-03-noah.md": {
+      "lesson-03/program.md": {
         "english": "a49f53004ca9622a8a810ad1c0564c6130d41349d6584f2668b636ed8d104240",
-        "indonesian": "6ce57861f656be9a9febfc430029c1a9fdd70a76cc2de9ded0b31bcbad1e5001"
+        "indonesian": "a7f4c0c87bde1fcf645df6d113178d87e204961314a4fbf1a41e7226e32a76c7"
       },
-      "part-05/05-03-lesson-04-baby-jesus/05-03-lesson-04-baby-jesus.md": {
+      "lesson-04/program.md": {
         "english": "d28c9c79533ce4ebcffca40d959eca3b44f4e7391d623be97c97fc4c0c526e76",
-        "indonesian": "6f5179551ac0c5852d1a4d3c77900301a181bf6b07d399abcb44cbb3c94a8f29"
+        "indonesian": "7f785e07dde5bdb5a2eebf877d581933a48d97024885ac48cfe1aa6090ec78cb"
       },
-      "part-06/06-00-music/06-00-music.md": {
+      "unit-resource-r85c387c42c0c/reading.md": {
         "english": "cdec5e78d9b11c7d62264df5055c649772578b0fcec56b0760c4fb261f644b2d",
-        "indonesian": "99c9323f033d24e9ffcee774d9ffeb60391153f9780ec400f0a5e77268807197"
+        "indonesian": "4d48536bd37f9ae1f2ed1c7e77c92e35be9c69a6c4cc47a351fd4b9d3c60ee17"
       },
-      "part-06/06-01-references-and-resources/06-01-references-and-resources.md": {
+      "unit-resource-r190edca514fe/reading.md": {
         "english": "49daaf42c8bf9c51f65fdeddea00f86956ade6870a1819535b400f4afa1b4a51",
-        "indonesian": "c87c9b675e1328a38ade6179429521fa95eb600865875f42db6eaaf87b8f40e1"
-      },
-      "part-06/06-02-music-credits/06-02-music-credits.md": {
-        "english": "e929e6db06e1cd1a11feeb658e190a27e1aa34be72b3ac8104dd91201ec37351",
-        "indonesian": "0a975a1a197472b14ed4d0edb40a9a8303abdc75e86dc50294d324de1015fc5f"
+        "indonesian": "5cab122ffbf789829b5d095559a52880e27b2a5cd93ea90aa74879f71627ee3c"
       }
-    }
+    },
+    "editorialAudit": "docs/audits/babies-publication-review.json",
+    "comparisonScope": "Published reading files; source publication credits and duplicate introductions are excluded; generated edition introductions are checked separately."
   },
   "translationFiles": {
     "introduction.md": "e20a9d7eabb7db6d293aaa58a940c06b1fd41bb21bf3311b943a9d578395eec7",
-    "lesson-01/program.md": "1dddb35b3634356bd889d8e66b55aac191ad00471aee7c0a0466f20cd0a9e121",
-    "lesson-02/program.md": "f7f68e065c3bc6557d0115d54517228319a3cf39631a6f4f45b8ef4959fa389c",
-    "lesson-03/program.md": "62a31a4c2d7cca0e8a521f0738e931c51183a2c7a13ffa7c9d730a3ed9c81f96",
-    "lesson-04/program.md": "22ed90afe24cff21617c7b158270fa3576e0fa832a2d931b93e5413ddda22cdc",
-    "unit-resource-r112daf0c088a/reading.md": "052f7896bb502f5be2c3681f07fc3f139b066b994170abdc893b16376eb38c81",
-    "unit-resource-r190edca514fe/reading.md": "652524e846016db951ebdaf2c20df874237d548fbeb773c2d424661e4dd9cd63",
-    "unit-resource-r473aa92e28c3/reading.md": "0f8e048a67d8fc96a3fd9cc6220108237431f49f9d2e992a19dfebedda9b773d",
-    "unit-resource-r54bc26e5ef0e/reading.md": "84321659c23f0380d9c46d88d9dd6751564a2c6afdd20aa0db98b8703469c136",
-    "unit-resource-r5c73aa4c140b/reading.md": "af844eda16390ed6fb472e766ff37901b1692743e30bd0427c37420561f81fea",
-    "unit-resource-r5e4a19565be8/reading.md": "2b34a296ed93502a26856894ce941d4e65358284a88ba323f961f5362f1a3629",
-    "unit-resource-r612bc12bd06d/reading.md": "d189fdd190bbbf6281a6f0253c914c6d2cd2506a7ba5ff5c1e01eeae72b46386",
-    "unit-resource-r7086b0563b12/reading.md": "9626a931481d23c628168f94841177655631f3127d938c22e104ce452db3fabe",
+    "lesson-01/program.md": "fbbe72740d61be978b87f9b061f32c767c214131c11fb8c82cc48ee1a89bf47b",
+    "lesson-02/program.md": "2eae5edbc46d5b7ce850be4bfbaff7c1a5b77d7f2e7cc203b762d752ac2fc8fe",
+    "lesson-03/program.md": "a7f4c0c87bde1fcf645df6d113178d87e204961314a4fbf1a41e7226e32a76c7",
+    "lesson-04/program.md": "7f785e07dde5bdb5a2eebf877d581933a48d97024885ac48cfe1aa6090ec78cb",
+    "unit-resource-r112daf0c088a/reading.md": "41a19a37f475f7f8b6e3ae49cd8b0195d925ea53d8f411229163c1b5df863c31",
+    "unit-resource-r190edca514fe/reading.md": "5cab122ffbf789829b5d095559a52880e27b2a5cd93ea90aa74879f71627ee3c",
+    "unit-resource-r473aa92e28c3/reading.md": "962864a4406f9c4c1949ec0c4cfbff4a4fc7a267eafb53c1eece65c29355c681",
+    "unit-resource-r54bc26e5ef0e/reading.md": "c9ed6b9a107527466cd156ab68a45146e35f0f28d354ff140706dac99e626169",
+    "unit-resource-r5c73aa4c140b/reading.md": "c6c6c27179a66536f23c2769a97380af952a4c4d251c4a23040e1d90d488da7d",
+    "unit-resource-r5e4a19565be8/reading.md": "d8768a7cf61f2e0180c73347ae962626fc3558d78106fd9fc6364d913c8625f9",
+    "unit-resource-r612bc12bd06d/reading.md": "b219151eee497d1fe242c3c130d29d7e15779538788e26a3dda17f88fcdde672",
+    "unit-resource-r7086b0563b12/reading.md": "adf6c292ed8aed647de83309b821f825129ef743df9ec916144e1a37263a6cbf",
     "unit-resource-r85c387c42c0c/reading.md": "4d48536bd37f9ae1f2ed1c7e77c92e35be9c69a6c4cc47a351fd4b9d3c60ee17",
-    "unit-resource-r8620ec93f16c/reading.md": "c791d725238dfbdd84ca55f3611c56df0fc671f38272bced0defe200477f4b27",
+    "unit-resource-r8620ec93f16c/reading.md": "ae76bc13c5d63b31a20298875cacc638ea798296912623e4420c4b23db7a15c2",
     "unit-resource-ra110198e1be2/reading.md": "2566fcc15493a55407e1c7791aacdbf63bd650abacb2cf06ec0d7004b48f2b42",
-    "unit-resource-rbd87f3047778/reading.md": "f00627b292248a080b227d2f436442a0db356ce6ab660a43b7c9cf9a02af7927",
+    "unit-resource-rbd87f3047778/reading.md": "1c0372f43ed88efc3b1cbe532d7f4aeb3bf26aa5cc7a31e6eba8402dbc8faa8d",
     "unit-resource-rde5b9ec7f2de/reading.md": "73c9f49b1f8d533c5603a4708dbbf0b728c99569defec81a27142a069dabca0a"
+  },
+  "publicationAuthorization": {
+    "type": "explicit-project-owner-instruction",
+    "date": "2026-10-26"
   }
 }

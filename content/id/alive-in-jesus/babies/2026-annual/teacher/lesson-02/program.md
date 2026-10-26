@@ -72,7 +72,7 @@ Katakan: **Domba dan anak domba sangat lembut. Orang-orang membuat sweter lembut
 
 Domba berbulu, domba berbulu,\
 Domba berbulu, domba berbulu,\
-Yesus menciptakanmu dengan tekstur lembut dan seperti wol.\
+Yesus menciptakanmu dengan bulu yang lembut.\
 (mengulang)
 
 [♫ Woolly, Woolly Lamb (Anak Domba Berbulu Tebal)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-03-woolly-lamb.mp3)
@@ -82,7 +82,7 @@ Yesus menciptakanmu dengan tekstur lembut dan seperti wol.\
 Tunjukkan kain hijau atau rumput asli kepada bayi (balita dapat berpura-pura memberi makan domba). Katakan: **Setiap hari gembala membawa domba-dombanya mencari makanan yang baik. Domba-domba menyukai rumput.**
 
 ### Bernyanyi
- **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (ayat 1: rumput).
+ **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (bait 1: rumput).
 
 Yesus adalah Gembala yang Baik,\
 Dia membuat rumput untuk memberi makan domba-domba itu,\
@@ -98,7 +98,7 @@ Tunjukkan makanan lain yang dimakan bayi, seperti sayuran dan buah-buahan. Katak
 Tuangkan air dari satu cangkir ke cangkir lainnya. Biarkan bayi menyentuh air dengan bantuan orang tua mereka. Tunjukkan mainan domba yang berjalan menuju "air". Orang tua mungkin ingin memberikan air kepada bayi mereka yang berusia lebih dari 6 bulan. Katakan: **Domba perlu minum air. Gembala membawa mereka ke tempat dengan air tawar untuk minum. Mari kita bawa domba kita untuk minum**. Balita dapat menggunakan mainan domba untuk "minum" air, atau guru dapat mencontohkannya.
 
 ### Bernyanyi
- **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (ayat 2: air).
+ **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (bait 2: air).
 
 Yesus adalah Gembala yang Baik,\
 Ia menyediakan air bagi domba-domba yang haus,\
@@ -114,7 +114,7 @@ Katakan: **Penting bagi kita untuk minum air bersih setiap hari. Yesus menciptak
 Katakan: **Terkadang domba-domba itu terluka. Aduh! Mereka mungkin tergores atau terluka. Gembala membersihkan dan mengoleskan obat pada luka mereka. Gembala merawat mereka**. Oleskan setetes losion bayi atau minyak bayi ke tangan anak Anda atau tutupi dengan perban atau plester. Berikan plester kepada orang tua untuk membantu balita mereka memasang plester pada domba tersebut.
 
 ### Bernyanyi
- **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (ayat 3: perhatian).
+ **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (bait 3: pemeliharaan).
 
 Yesus adalah Gembala yang Baik,\
 Dia mengurus semua domba,\
@@ -136,7 +136,7 @@ Kenakan kain di kepala Anda dan ceritakan kepada anak-anak bahwa Anda sedang mem
 Katakan: **Gembala itu sangat gembira dan menyayangi semua dombanya. Gembala itu membawa mereka ke tempat yang aman. Mari kita bawa domba-domba kita ke kandang.** Tunjukkan bagaimana mainan domba masuk ke dalam sambil menyanyikan bait terakhir lagu tersebut. Balita yang lebih besar dapat "menggiring" domba ke dalam sendiri atau dengan sedikit bantuan.
 
 ### Bernyanyi
- **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (ayat 4: anak domba).
+ **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (bait 4: anak domba).
 
 Yesus adalah Gembala yang Baik,\
 Dia menyayangi semua anak domba kecil,\
@@ -163,7 +163,7 @@ Katakan: **Yesus sangat mengasihimu. Dia adalah gembala kita yang baik hati.**
 [♫ Who Am I? (Siapakah Aku?)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-08-who-am-i.mp3)
 
 ### Bernyanyi
- **“Gembala Mengasihi Domba-dombanya.”** Tunjukkan gambar Yesus kepada bayi itu dan tunjuklah domba-domba itu.\
+ **The Shepherd Loves His Lambs** (*Gembala Mengasihi Anak-Anak Dombanya*) Tunjukkan gambar Yesus kepada bayi itu dan tunjuklah domba-domba itu.\
 
 Gembala itu menyayangi anak-anak dombanya,\
 Dan Yesus mengasihiku.\
@@ -179,7 +179,7 @@ Bukalah Alkitab Anda, tunjuk, dan katakan: **Alkitab berkata, “TUHAN adalah ge
 
 Ucapkan kata-kata itu dengan lembut. **“Terima kasih, Yesus.”** Kemudian ucapkan bersama-sama dengan orang tua, **“Aku mengasihi-Mu, Yesus.”**
 
-### Menawarkan
+### Persembahan
 
 Katakan: **Tuhan sangat mengasihimu. Kita juga dapat menunjukkan kepada Tuhan bahwa kita mengasihi-Nya ketika kita memberikan uang persembahan kita kepada-Nya**. Edarkan wadah persembahan di antara kelompok orang tua. Anak-anak yang sudah cukup umur untuk memasukkan uang ke dalam wadah tersebut dapat melakukannya.
 
@@ -187,7 +187,7 @@ Katakan: **Tuhan sangat mengasihimu. Kita juga dapat menunjukkan kepada Tuhan ba
  **Here Is My Money** (*Ini Uang Persembahanku*) Bernyanyilah saat persembahan dikumpulkan.\
 
 Ini uangku untuk Yesus,\
-Demi Yesus, demi Yesus.\
+Untuk Yesus, untuk Yesus.\
 Ini uangku untuk Yesus,\
 Aku memberikan uangku kepada-Nya.\
 (mengulang)

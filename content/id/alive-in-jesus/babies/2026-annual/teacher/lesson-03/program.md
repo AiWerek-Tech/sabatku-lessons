@@ -58,7 +58,7 @@ Nuh adalah sahabat Tuhan. Dia mengasihi Tuhan.\
 
 ### Pembangunan perahu kayu
 
-Katakan: **Nuh mencari pohon dan kayu. Melihat, melihat, melihat... dia menggergaji kayu**. Buat suara dengan gergaji mainan di atas balok, benturkan dua balok kayu secara perlahan. **Bam, bam, bam . . . dia memukul kayu itu dengan palu**. Gunakan palu mainan pada sepotong kayu. (Berhati-hatilah agar tidak menakut-nakuti bayi dengan suara keras, jadi lakukan tindakan ini dengan lembut dan perlahan untuk menyampaikan maksud Anda.)
+Katakan: **Nuh mencari pohon dan kayu. Srek, srek, srek... Nuh menggergaji kayu**. Buat suara dengan gergaji mainan di atas balok, benturkan dua balok kayu secara perlahan. **Bam, bam, bam . . . dia memukul kayu itu dengan palu**. Gunakan palu mainan pada sepotong kayu. (Berhati-hatilah agar tidak menakut-nakuti bayi dengan suara keras, jadi lakukan tindakan ini dengan lembut dan perlahan untuk menyampaikan maksud Anda.)
 
 ### Bernyanyi
 ### Noah Took a Hammer (*Nuh Mengambil Palu*)
@@ -67,7 +67,7 @@ Nuh mengambil palu,\
 Lalu Nuh mengambil gergaji.\
 Nuh mengambil palu,\
 Lalu Nuh mengambil gergaji.\
-Dia membuatkannya sebuah perahu,\
+Ia membuat sebuah perahu,\
 Dan tahu bahwa itu akan mengapung.\
 Oh, Nuh mengambil palu,\
 Lalu Nuh mengambil gergaji.
@@ -113,7 +113,7 @@ Dalam banjir yang sangat, sangat besar.
 Katakan: **Dengarkan!** Meong meong. **Ini adalah seekor kucing betina dan seekor kucing jantan.** Tunjukkan dua mainan kucing kepada bayi itu sambil bernyanyi.
 
 ### Bernyanyi
- **Into Noah’s Ark** (*Masuk ke Bahtera Nuh*) (ayat 3: kucing).\
+ **Into Noah’s Ark** (*Masuk ke Bahtera Nuh*) (bait 3: kucing).\
 
 Kucing-kucing berdatangan sambil mendengkur ke dalam bahtera Nuh,\
 Meong, meong, meong. Meong, meong, meong.\
@@ -128,7 +128,7 @@ Dalam banjir yang sangat, sangat besar.
 Katakan: **Dengarkan!** Baa, baa. **Banyak sekali domba yang datang ke perahu!** Tunjukkan tujuh mainan domba kepada bayi itu sambil bernyanyi.
 
 ### Bernyanyi
- **Into Noah’s Ark** (*Masuk ke Bahtera Nuh*) (ayat 4: domba).\
+ **Into Noah’s Ark** (*Masuk ke Bahtera Nuh*) (bait 4: domba).\
 
 Domba-domba mengembik masuk ke dalam bahtera Nuh,\
 Baa, baa, baa. Baa, baa, baa.\
@@ -140,10 +140,10 @@ Dalam banjir yang sangat, sangat besar.
 
 ### Ayam
 
-Katakan: **Dengarkan!** Kokok ayam! Cluck, cluck, cluck. **Lihatlah ayam jantan dan ayam betina yang menuju ke perahu!** Tunjukkan kepada bayi itu dua mainan ayam (atau seekor ayam jantan dan seekor ayam betina) sambil bernyanyi.
+Katakan: **Dengarkan!** Kokok ayam! Kok, kok, kok. **Lihatlah ayam jantan dan ayam betina yang menuju ke perahu!** Tunjukkan kepada bayi itu dua mainan ayam (atau seekor ayam jantan dan seekor ayam betina) sambil bernyanyi.
 
 ### Bernyanyi
- **Into Noah’s Ark** (*Masuk ke Bahtera Nuh*) (ayat 5: ayam).\
+ **Into Noah’s Ark** (*Masuk ke Bahtera Nuh*) (bait 5: ayam).\
 
 Ayam-ayam berkokok masuk ke dalam bahtera Nuh,\
 Kok, kok, kok. Kok, kok, kok.\
@@ -168,7 +168,7 @@ Aku membuka Alkitabku dengan saksama, dan belajar tentang kasih Yesus.\
 
 ### Hujan
 
-Katakan: **Tuhan menjaga kita saat hujan turun.** (atau situasi familiar lainnya, seperti naik mobil atau kereta bayi). **Tuhan melindungi Nuh dan hewan-hewan ketika hujan turun.** Semprotkan air secara perlahan ke udara sebagai "hujan".
+Katakan: **Tuhan menjaga kita saat hujan turun.** (atau situasi akrab lainnya, seperti naik mobil atau kereta bayi). **Tuhan melindungi Nuh dan hewan-hewan ketika hujan turun.** Semprotkan air secara perlahan ke udara sebagai "hujan".
 
 ### Bernyanyi
 ### Jesus Cares for You (*Yesus Memeliharamu*)
@@ -188,7 +188,7 @@ Katakan: **Tuhan memberi kita ibu dan ayah serta orang lain untuk merawat bayi. 
 
 Ajak orang tua untuk mengatakan **“Terima kasih, Yesus”** dengan lembut kepada anak mereka sambil menggenggam tangan bayi mereka seperti sedang berdoa sambil mengulangi kata-kata tersebut.
 
-### Menawarkan
+### Persembahan
 
 Katakan: **Tuhan menjaga kita dan Dia sangat mengasihi kita. Kita juga dapat menunjukkan kepada Tuhan bahwa kita mengasihi-Nya ketika kita memberikan uang persembahan kita kepada-Nya.** Edarkan wadah persembahan di antara kelompok orang tua. Anak-anak yang sudah cukup umur untuk memasukkan uang ke dalam wadah tersebut dapat melakukannya.
 
@@ -196,7 +196,7 @@ Katakan: **Tuhan menjaga kita dan Dia sangat mengasihi kita. Kita juga dapat men
  **Here Is My Money** (*Ini Uang Persembahanku*) Bernyanyilah saat persembahan dikumpulkan.\
 
 Ini uangku untuk Yesus,\
-Demi Yesus, demi Yesus.\
+Untuk Yesus, untuk Yesus.\
 Ini uangku untuk Yesus,\
 Aku memberikan uangku kepada-Nya.\
 (mengulang)

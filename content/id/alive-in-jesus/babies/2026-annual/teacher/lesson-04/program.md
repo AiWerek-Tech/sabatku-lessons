@@ -52,7 +52,7 @@ Katakan: **Maria dan Yusuf harus pergi ke Betlehem. Maria sedang mengandung. Mar
 Klik-klop, klik-klop, dengar keledai berjalan.\
 Klik-klop, klik-klop, dengar keledai berjalan.\
 Keledai itu berjalan di jalan,\
-Cakar-cakar, cakar-cakar, cakar-cakar.\
+Klik-klop, klik-klop, klik-klop.\
 (mengulang)
 
 [♫ Clip-Clop (Klik-Klop)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-02-clip-clop.mp3)
@@ -85,7 +85,7 @@ Katakan: **Dengarkan!** Baa-baa. Baa-baa. **Ketika bayi Yesus terjaga, Dia dapat
 
 Domba berbulu, domba berbulu,\
 Domba berbulu, domba berbulu,\
-Yesus menciptakanmu dengan tekstur lembut dan seperti wol.\
+Yesus menciptakanmu dengan bulu yang lembut.\
 (mengulang)
 
 [♫ Woolly, Woolly Lamb (Anak Domba Berbulu Tebal)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-04-woolly-woolly-lamb.mp3)
@@ -97,7 +97,7 @@ Katakan: **Dengarkan!** Moo-moo. Moo-moo. **Ketika bayi Yesus terjaga, Dia bisa 
 ### Bernyanyi
 ### Jesus Made the Cows (*Yesus Menciptakan Sapi*)
 
-Yesus membuat sapi-sapi yang bernyanyi melenguh,\
+Yesus menciptakan sapi yang melenguh,\
 Yesus menciptakan sapi-sapi itu,\
 Aku sangat senang.\
 (mengulang)
@@ -109,11 +109,11 @@ Aku sangat senang.\
 Katakan: **Saatnya bayi Yesus dimandikan. Bayi Yesus menyukai air. Ibu Maria merawat bayi Yesus dengan baik.** Gunakan wadah kecil berisi air dan kain untuk mencuci boneka bayi. Kemudian keringkan boneka tersebut.
 
 ### Bernyanyi
- **Baby Jesus** (*Bayi Yesus*) (ayat 1: basuh).\
+ **Baby Jesus** (*Bayi Yesus*) (bait 1: memandikan).\
 
-Ibu Mary,\
+Ibu Maria,\
 Memandikan Bayi Yesus.\
-Ibu Mary,\
+Ibu Maria,\
 Memandikan Bayi Yesus.\
 Yesus adalah bayi kecil seperti aku.\
 
@@ -122,11 +122,11 @@ Katakan: **Sudah waktunya Bayi Yesus dibungkus selimut untuk bersiap tidur. Bayi
 [♫ Baby Jesus (Bayi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-06-baby-jesus-wash.mp3)
 
 ### Bernyanyi
- **Baby Jesus** (*Bayi Yesus*) (ayat 2: penutup).\
+ **Baby Jesus** (*Bayi Yesus*) (bait 2: menyelimuti).\
 
-Ibu Mary,\
+Ibu Maria,\
 Membungkus Bayi Yesus.\
-Ibu Mary,\
+Ibu Maria,\
 Membungkus Bayi Yesus.\
 Yesus adalah bayi kecil seperti aku.\
 
@@ -135,11 +135,11 @@ Katakan: **Ibu Maria dan Ayah Yusuf sangat menyayangi Bayi Yesus. Mereka memeluk
 [♫ Baby Jesus (Bayi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-07-baby-jesus-wrap.mp3)
 
 ### Bernyanyi
- **Baby Jesus** (*Bayi Yesus*) (ayat 3: pelukan).\
+ **Baby Jesus** (*Bayi Yesus*) (bait 3: memeluk).\
 
-Ibu Mary,\
+Ibu Maria,\
 Memeluk Bayi Yesus.\
-Ibu Mary,\
+Ibu Maria,\
 Memeluk Bayi Yesus.\
 Yesus adalah bayi kecil seperti aku.\
 
@@ -148,7 +148,7 @@ Katakan: **Saat itu malam hari. Shhhh... Semua orang sedang tidur. Ohhh... Lihat
 [♫ Baby Jesus (Bayi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-08-baby-jesus-hug.mp3)
 
 ### Bernyanyi
- **Baby Jesus** (*Bayi Yesus*) (ayat 4: tidur).\
+ **Baby Jesus** (*Bayi Yesus*) (bait 4: tidur).\
 
 Saatnya tidur,\
 Selamat malam, Bayi Yesus.\
@@ -161,7 +161,7 @@ Katakan: **Ibu dan ayahmu juga sangat menyayangimu. Mereka menyayangimu seperti 
 [♫ Baby Jesus (Bayi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-04-09-baby-jesus-sleep.mp3)
 
 ### Bernyanyi
- **Baby Jesus** (*Bayi Yesus*) (ayat 5: kamu).\
+ **Baby Jesus** (*Bayi Yesus*) (bait 5: untuk bayimu).\
 
 Saatnya tidur,\
 Selamat malam, sayang _______ (nama anak).\
@@ -205,7 +205,7 @@ Bintang Natal yang indah.\
 
 Katakan: **Para gembala mengasihi Bayi Yesus, dan kita pun mengasihi Yesus. Mari kita nyanyikan lagu hafalan kita. “Aku… mengasihi-Mu,… Tuhan”** (Mazmur 18:2).
 
-### Menawarkan
+### Persembahan
 
 Katakan: **Yesus sangat mengasihi kita. Kita juga dapat menunjukkan kepada Tuhan bahwa kita mengasihi-Nya ketika kita memberikan uang persembahan kita kepada-Nya**. Edarkan wadah persembahan di antara kelompok orang tua. Anak-anak yang sudah cukup umur untuk memasukkan uang ke dalam wadah tersebut dapat melakukannya.
 
@@ -213,7 +213,7 @@ Katakan: **Yesus sangat mengasihi kita. Kita juga dapat menunjukkan kepada Tuhan
  **Here Is My Money** (*Ini Uang Persembahanku*) Bernyanyilah saat persembahan dikumpulkan.\
 
 Ini uangku untuk Yesus,\
-Demi Yesus, demi Yesus.\
+Untuk Yesus, untuk Yesus.\
 Ini uangku untuk Yesus,\
 Aku memberikan uangku kepada-Nya.\
 (mengulang)

@@ -4,7 +4,7 @@ Sekalipun Anda tidak menyadarinya, lingkungan fisik dan emosional kelas Sekolah 
 
 Lingkungan kelas mencerminkan apa yang Anda yakini dan hargai. Lantai yang bersih kemungkinan besar menunjukkan bahwa ruang yang bersih penting bagi bayi (dan tentu saja ini merupakan aspek penting dari keselamatan dan kebersihan). Detail lainnya mencerminkan nilai-nilai yang Anda junjung tinggi untuk bayi Anda. Ketertiban, kenyamanan, dan keamanan adalah aspek penting dari lingkungan fisik yang membantu mendukung pembelajaran. Berikut beberapa ide yang dapat membantu menyediakan lingkungan terbaik bagi bayi dan orang tua mereka.
 
-### Ruang angkasa
+### Ruang Kelas
 
 Jika memungkinkan, pilihlah tempat khusus untuk kelas tersebut, meskipun Anda hanya memiliki satu bayi. Anak-anak dibawa kepada Yesus untuk diberkati oleh-Nya, dan mereka dapat menerima berkat-Nya hari ini juga.
 
@@ -17,7 +17,7 @@ Jika Anda memiliki kemewahan berupa bangunan gereja permanen dengan ruang untuk 
 + **Tidak perlu ruang yang besar.** (terutama jika hanya satu atau dua bayi). Tempat yang kecil mungkin cukup untuk bayi yang belum bisa berjalan. Perlu diingat bahwa orang tua mungkin perlu menyediakan ruang untuk gendongan bayi dan kereta dorong mereka.
 + **Jika memungkinkan, ruang tersebut perlu mendukung pembelajaran yang efektif**, Oleh karena itu, setidaknya harus cukup tenang agar bayi tidak terganggu atau merasa jengkel oleh suara-suara lain.
 + **Ruangannya bisa bersih**, terang, berventilasi baik, dan sebaiknya tidak terlalu panas atau terlalu dingin.
-+ **Ruangan tersebut harus dijaga kerapihannya.**; Bahan dan perlengkapan harus disimpan di tempat yang bersih, sebaiknya dalam wadah kedap udara dan berlabel agar tetap bersih dan terorganisir dengan baik, sehingga Anda dapat dengan mudah menemukannya setiap hari Sabat dan setiap kali pelajaran baru diajarkan. Bahan dan perlengkapan tersebut harus disimpan di tempat yang tidak terlihat saat tidak digunakan untuk menghindari gangguan.
++ **Jaga kerapian ruangan.** Bahan dan perlengkapan harus disimpan di tempat yang bersih, sebaiknya dalam wadah kedap udara dan berlabel agar tetap bersih dan terorganisir dengan baik, sehingga Anda dapat dengan mudah menemukannya setiap hari Sabat dan setiap kali pelajaran baru diajarkan. Bahan dan perlengkapan tersebut harus disimpan di tempat yang tidak terlihat saat tidak digunakan untuk menghindari gangguan.
 + **Ruangan tersebut harus senyaman mungkin**. Anda dapat memilih untuk menyediakan beberapa kursi dewasa, bantal hias, atau bantalan sebagai tempat duduk di lantai (alternatif untuk kursi dewasa). Barang-barang lain untuk membuatnya nyaman adalah lemari penyimpanan (untuk perlengkapan), tirai, keset atau karpet yang dapat dicuci, dinding yang dicat, atau wallpaper. Investasikan pada yang terbaik yang mampu Anda beli, tetapi ingatlah bahwa bayi tidak membutuhkan lebih dari sekadar kasih sayang, perhatian, dan kepedulian Anda. Baik lantai Anda berumput atau berkarpet, jika ruangan tersebut nyaman dan aman, maka akan sangat cocok.
 
 ### Dekorasi
@@ -42,10 +42,10 @@ Jika Anda tidak memiliki bahan pendamping yang disebutkan di atas, gunakan saja 
 
 ### Tujuan Dekorasi
 
-Ingatlah selalu bahwa lingkungan dan visual di kelas Anda juga merupakan alat pengajaran dan harus memenuhi tujuan yang Anda inginkan. Jika Anda tidak sengaja menggunakannya, hal itu dapat memberikan pesan yang berbeda dari tujuan Anda. Misalnya, jika Anda mengajarkan bahwa Yesus menciptakan hewan dan Anda mendekorasi dengan karakter Disney, hal itu akan menimbulkan kebingungan dalam pikiran anak, karena mereka tidak dapat membedakan antara kenyataan dan fiksi.
+Ingatlah selalu bahwa lingkungan dan visual di kelas Anda juga merupakan alat pengajaran dan harus memenuhi tujuan yang Anda inginkan. Jika Anda menggunakannya tanpa tujuan yang jelas, hal itu dapat memberikan pesan yang berbeda dari tujuan Anda. Misalnya, jika Anda mengajarkan bahwa Yesus menciptakan hewan dan Anda mendekorasi dengan karakter Disney, hal itu akan menimbulkan kebingungan dalam pikiran anak, karena mereka tidak dapat membedakan antara kenyataan dan fiksi.
 Segala sesuatu yang dilihat anak dan orang tua di ruang kelas Anda harus mengarahkan pikiran mereka kepada kasih Yesus. Tujuan dari pembelajaran Firman Tuhan yang sesuai usia di Sekolah Sabat adalah untuk mengarahkan pikiran muda mereka kepada kasih yang dimiliki orang tua bagi mereka, sama seperti kasih Yesus kepada mereka. Saat ini kita masih dapat menggunakan teladan Yesus untuk pilihan dekorasi kita. Yesus menyampaikan kebenaran dengan cara yang sederhana dan langsung. Kita dapat menggunakan hal-hal sederhana dari alam (sebenar dan seaman mungkin) untuk menggambarkan kebenaran abadi kepada orang tua dan bayi, dan setiap kali mereka melihat hal-hal itu, mereka dapat mengingat firman Yesus (lihat pasal 26 dari _The Desire of Ages_).
 
-### Sebelum Pelajaran tentang Hari Sabat
+### Persiapan Sebelum Sekolah Sabat
 
 Persiapkan sebaik mungkin agar semuanya berjalan lancar dan tidak ada jeda waktu yang lama antar aktivitas. Ini penting untuk menjaga agar bayi tetap terlibat. Berikut beberapa cara yang dapat Anda lakukan untuk mempersiapkannya:
 

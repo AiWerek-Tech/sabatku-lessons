@@ -1,6 +1,6 @@
 Kita hidup di dunia yang semakin sulit membedakan hal yang asli dari yang palsu. Teknologi “deepfake”, misalnya, memakai kecerdasan buatan untuk membuat video palsu yang tampak meyakinkan, seolah-olah seseorang mengatakan hal yang sebenarnya tidak pernah ia ucapkan. Banyak tiruan lain juga dapat terlihat sangat nyata. Alkitab mengingatkan kita agar mampu membedakan kebenaran dari kepalsuan; hal ini juga berlaku ketika kita membicarakan kasih. Ada kasih orang tua yang sejati, tetapi ada pula kasih tiruan yang tampak serupa.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Bersama kelompok, buatlah daftar tentang bagaimana kasih yang keliru dapat muncul dalam hubungan orang tua dan anak. Contohnya, tuntutan agar anak selalu sempurna.
 - Mungkin orang tua kita dahulu tidak mengasihi kita seperti yang Allah kehendaki. Jika Anda merasa nyaman, ceritakan pengalaman ketika cara mereka “mengasihi” justru melukai atau merendahkan harga diri Anda.

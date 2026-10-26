@@ -4,13 +4,13 @@ Tujuan buku ini sederhana: untuk mendorong Anda dalam pengasuhan anak, memberi A
 
 ### Penuntun Guru
 
-Sumber daya ini membekali para guru Sekolah Sabat dengan program dan informasi yang dibutuhkan untuk memimpin kelas Sekolah Sabat Bayi setiap pekan. Program ini sama dengan program yang diuraikan dalam Buku Orang Tua.
+Panduan ini membekali para guru Sekolah Sabat dengan program dan informasi yang dibutuhkan untuk memimpin kelas Sekolah Sabat Bayi setiap pekan. Program ini sama dengan program yang diuraikan dalam Buku Orang Tua.
 
 ### Selebaran untuk Waktu Orang Tua
 
 Selebaran pekanan untuk orang tua atau pengasuh tentang topik-topik yang membantu mendidik dan menginspirasi. Setelah program 20 menit untuk bayi di awal Sekolah Sabat, orang tua dapat berkumpul untuk menghabiskan 30 menit untuk berdiskusi, berbagi, dan berdoa. Setiap orang tua akan diberikan selebaran Waktu Orang Tua pekanan, yang dapat didiskusikan bersama sebagai kelompok. Orang tua dapat membawa selebaran tersebut pulang untuk direnungkan lebih lanjut, didiskusikan dengan pasangan atau teman, dan menyimpan selebaran pekanan ini sebagai sumber referensi di masa mendatang. Tujuan dari selebaran Waktu Orang Tua ini adalah untuk menumbuhkan hubungan pribadi Anda dengan Tuhan dan membekali Anda dengan ide-ide tambahan untuk membesarkan anak Anda.
 
-> ### SETIAP MINGGU AKAN TERLIHAT SEPERTI INI:
+### Kegiatan Setiap Pekan
 
 **Waktu di rumah: Minggu–Jumat** _(5-15 menit)_ Orang tua beribadah bersama bayi mereka setiap hari. Carilah waktu ketika bayi Anda merasa nyaman, ajak mereka ke tempat yang sama setiap hari, dan lakukan kegiatan ibadah yang sama (lihat bagian 2 dari Buku Orang Tua untuk kegiatan-kegiatan ini).
 

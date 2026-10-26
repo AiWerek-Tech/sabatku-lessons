@@ -35,15 +35,13 @@ Mungkin Anda pernah melihat gambar dalam buku anak-anak tentang Yesus yang berdi
 
 ### Tantangan Pekan Ini
 
-Dalam minggu mendatang, pikirkan cara memperluas dan memperdalam pengenalan Anda akan Allah. **Bacalah** Yohanes 15:1–11. Dengarkan pasal pertama buku _Kebahagiaan Sejati_. Berjalanlah di alam terbuka, berdoalah, dan carilah bukti tentang Pencipta Anda.
-
-**Perhatikan:** Anda tidak perlu menjadi teolog atau sarjana untuk mempelajari Alkitab. Allah ingin berbicara kepada setiap orang melalui Firman-Nya yang hidup.
+Pada minggu mendatang, **bacalah** Yohanes 15:1–11. Perkataan Yesus sendiri ini merupakan penawar bagi keadaan kita yang suam-suam kuku. Di sini Yesus menjelaskan seperti apa hubungan yang dekat dengan Allah.
 
 + Kata apa yang diulang sepuluh kali? Apa arti kata itu?
 + Bicarakan hal-hal yang paling berkesan bagi Anda dalam kutipan berikut.
 
 > “Bagaimanakah ranting kering yang terpisah dapat menjadi satu dengan pokok anggur? Bagaimanakah ranting itu dapat menerima kehidupan dan zat makanan dari pokok anggur yang hidup? Hanya dengan dicangkokkan pada pokok anggur dan dibawa ke dalam hubungan yang sedekat mungkin. Serat demi serat, urat demi urat, ranting itu melekat pada sumber kehidupan hingga kehidupan pokok anggur menjadi kehidupannya, dan ranting itu menghasilkan buah seperti pokok anggur.” (Ellen G. White, _Manuscript 67_, 1897).
 
-> ### Doa
+### Doa
 
-Mintalah agar Allah menolong Anda semakin mengenal Dia melalui Firman dan doa minggu ini. Berdoalah juga agar Anda dapat menunjukkan gambaran Allah yang benar kepada bayi Anda. Sebagai orang tua, salah satu tugas terpenting Anda ialah menolong anak memiliki pengenalan yang sehat dan benar tentang Allah.
+Berdoalah bersama bagi satu sama lain dan hubungan pribadi Anda dengan Allah. Doakan bayi Anda dan hubungannya dengan Allah kelak. Mintalah agar Allah menumbuhkan kerinduan untuk berjalan lebih dekat dengan-Nya minggu ini dan pada minggu-minggu mendatang saat Anda mempelajari topik ini bersama.

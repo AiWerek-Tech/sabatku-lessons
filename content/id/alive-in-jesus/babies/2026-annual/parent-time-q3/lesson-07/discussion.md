@@ -1,6 +1,6 @@
 Bayi Anda membutuhkan dorongan semangat dari Anda. Walaupun ia belum memahami kata-kata yang Anda ucapkan, ia dapat menangkap nada suara yang menguatkan dan sentuhan yang mendukung. Ketika Anda tertawa, berseru gembira, dan menunjukkan antusiasme pada setiap tahap perkembangan yang dicapainya, ia belajar bahwa dirinya tidak sendirian dan ada orang-orang yang bersukacita serta mendukung keberhasilannya. Saat ia bertumbuh, dorongan penuh kasih dari Anda menjadi gambaran baginya tentang dukungan Allah, yang selalu menyemangatinya.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Ingatlah saat seseorang pernah mengucapkan kata-kata yang sangat menguatkan Anda. Ceritakan pengalaman itu kepada orang di sebelah Anda.
 - “Membangkitkan keberanian” anak berarti menolongnya berani menghadapi tantangan hidup. Tantangan apa yang secara khusus Anda harap dapat dihadapi bayi dengan berani dan percaya diri? Apa yang dapat Anda lakukan sejak sekarang untuk menguatkannya?

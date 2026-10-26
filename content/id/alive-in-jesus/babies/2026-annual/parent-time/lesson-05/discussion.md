@@ -35,19 +35,19 @@ Mahatma Gandhi diminta oleh seorang ibu untuk menyuruh anaknya berhenti makan gu
 
 ### Tantangan
 
-Kata-kata apa yang terlintas di benak Anda ketika Anda memikirkan kata "keaslian"?
+Kata-kata apa yang terlintas di benak Anda ketika Anda memikirkan kata "ketulusan"?
 
 Bagikan tanggapan Anda.
-- Mengapa otentisitas rohani begitu penting bagi kita sebagai orang Kristen dan sebagai orang tua?
-- 1 Petrus 2:2-3 mengatakan kepada kita, “Seperti bayi yang baru lahir, rindulah akan susu murni firman, supaya kamu bertumbuh karenanya, jika memang kamu telah mengecap kasih karunia Tuhan.” Ini memberi tahu kita bahwa di mana pun kita berada dalam perjalanan kita bersama Tuhan, kita harus berpaling kepada Alkitab ( “susu murni firman”), karena melalui Alkitab, kita mengenal Tuhan.
+- Mengapa ketulusan iman begitu penting bagi kita sebagai orang Kristen dan sebagai orang tua?
+- 1 Petrus 2:2-3 mengatakan kepada kita, “Seperti bayi yang baru lahir, rindulah akan susu murni firman, supaya kamu bertumbuh karenanya, jika memang kamu telah mengecap kasih karunia Tuhan.” Ini memberi tahu kita bahwa di mana pun kita berada dalam perjalanan kita bersama Tuhan, kita harus berpaling kepada Alkitab (“susu murni firman”), karena melalui Alkitab, kita mengenal Tuhan.
 
 ### Komitmen
 
 “Penebusmu yang penuh belas kasih sedang mengawasimu dengan kasih dan simpati, siap mendengarkan doamu dan memberikan pertolongan yang kau butuhkan dalam pekerjaan hidupmu” (Ellen G. White, _Child Guidance_, hlm. 173).
 
 Refleksi pribadi.
-- Apa yang perlu Anda serahkan kepada Tuhan agar dapat menjalani hidup yang otentik dan menjadi teladan yang saleh?
+- Apa yang perlu Anda serahkan kepada Tuhan agar dapat menjalani hidup yang tulus dan menjadi teladan yang saleh?
 
-> ### Doa
+### Doa
 
 Dalam doa pribadi yang hening, mintalah Tuhan menunjukkan bagian-bagian hidup Anda yang perlu diserahkan kepada-Nya, agar Anda bertumbuh secara rohani dan membimbing anak kepada-Nya.

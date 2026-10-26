@@ -36,6 +36,6 @@ Firman yang disampaikan Allah kepada bangsa Israel di Gunung Sinai, dan kepada k
 
 Luangkan waktu untuk berdoa secara pribadi minggu ini. Mintalah agar Allah menolong Anda semakin bersukacita dalam hukum-Nya dan melihatnya sebagai pantulan indah tabiat-Nya. Sediakan waktu untuk **membaca** Mazmur 119. Perhatikan bagaimana pasal terpanjang dalam Alkitab ini menyampaikan gambaran hukum Allah yang jelas dan indah.
 
-> ### Doa
+### Doa
 
 Berdoalah bagi satu sama lain. Akuilah bahwa kita semua berdosa setiap hari dan memerlukan pengampunan Allah. Mintalah agar Allah menjaga Anda dari pencobaan, melepaskan Anda dari kejahatan, dan memberi hati yang teguh serta kerinduan lebih besar untuk berjalan dekat dengan-Nya.

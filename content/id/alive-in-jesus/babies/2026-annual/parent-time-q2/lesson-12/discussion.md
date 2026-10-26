@@ -2,7 +2,7 @@ Suatu hari nanti kita akan melihat Yesusâ€”benar-benar melihat Dia. Kita akan me
 
 ### Berbagi Pengalaman
 
-+ Kapan dalam hidup Anda paling merindukan kedatangan Yesus?
++ Kapan Anda paling merindukan Yesus dalam hidup Anda?
 + Hal apa tentang surga yang paling Anda rindukan?
 
 ### Mendalami Firman
@@ -26,6 +26,6 @@ Betapa luar biasanya saat kita akhirnya bersama Dia yang kita kenal dan kasihiâ€
 
 + Adakah seseorang dalam hidup Anda yang perlu mendengar pengharapan tentang surga? Bertekadlah untuk membagikannya. Bicarakan surga kepada bayi Anda, sekalipun ia belum memahami kata-kata Anda.
 
-> ### Doa
+### Doa
 
-Mintalah setiap orang dalam kelompok bergiliran berdoa. Bersyukurlah kepada Allah atas segala yang sedang Ia sediakan, terutama janji untuk kembali bersama-Nya selama-lamanya. Ia sungguh setia. Mintalah agar Ia menolong Anda tetap setia sampai Anda melihat-Nya.
+Mintalah setiap orang dalam kelompok bergiliran berdoa. Bersyukurlah kepada Allah atas segala yang sedang Ia sediakan, terutama janji untuk akhirnya bersatu kembali dengan-Nya selama-lamanya. Ia sungguh setia. Mintalah agar Ia menolong Anda tetap setia sampai Anda melihat-Nya.

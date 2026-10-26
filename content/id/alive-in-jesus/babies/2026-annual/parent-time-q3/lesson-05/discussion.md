@@ -1,6 +1,6 @@
 Anak-anak yang paling bahagia memiliki hubungan yang hangat, dekat, dan penuh kasih dengan orang tua yang menetapkan aturan serta batasan yang jelas. Jika kasih orang tua disertai batasan yang jelas, anak lebih mudah belajar taat. Jika kita bersikap kasar, anak dapat belajar menjadi marah dan memberontak. Jika kita lalai menunjukkan kasih, mereka menjadi sedih. Jika kita mengasihi tanpa batasan, mereka mungkin bingung dan merasa berhak mendapatkan apa saja. Menumbuhkan hati penuh kasih bagi bayi juga berarti membimbing mereka dengan lembut melalui batasan tertentu.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Seberapa baik Anda menetapkan batasan bagi diri sendiri? Teladan apa yang akan dilihat anak ketika ia bertumbuh? Dapatkah Anda berkata tidak dengan ramah tetapi tegas?
 - Apa yang terlintas di benak Anda ketika mendengar kata “ketaatan”?
@@ -10,7 +10,7 @@ Anak-anak yang paling bahagia memiliki hubungan yang hangat, dekat, dan penuh ka
 Bacalah Efesus 6:1–4 dan Kolose 3:20.
 
 - Apa manfaat mengajarkan ketaatan kepada anak?
-- Pernahkah Anda berpikir bahwa mendisiplinkan anak akan membuatnya marah? Bagaimana kurangnya disiplin dapat membuat orang tua membiarkan anak melakukan apa saja?
+- Pernahkah Anda berpikir bahwa mendisiplinkan anak akan membuatnya marah? Apakah larangan membangkitkan amarah anak berarti orang tua boleh membiarkannya melakukan apa saja?
 - Bagaimana kita dapat menerapkan disiplin tanpa memancing kejengkelan atau kemarahan?
 
 Bacalah Ulangan 21:18–21.

@@ -27,15 +27,6 @@ Karena bayi Anda memiliki rentang perhatian yang sangat pendek, penting bagi doa
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-05-spiritual-habits-for-the-family/field.png)
 
-> **Pokok Doa**\
-Ulangan 6:7-9 mengatakan,\
-“Hendaklah engkau mengajarkan hal-hal itu dengan sungguh-sungguh kepada anak-anakmu, dan bicarakanlah hal-hal itu ketika engkau duduk.”\
-di rumahmu, saat kamu berjalan di jalan, saat kamu berbaring, dan saat kamu bangun.\
-Engkau harus mengikatnya sebagai tanda di tanganmu. . . . Engkau harus menuliskannya pada tiang-tiang pintu.\
-di rumahmu dan di gerbangmu.”\
-
-Mintalah kepada Tuhan agar Dia membantu Anda membimbing bayi Anda untuk mengenal dan mengasihi-Nya. [Masukkan nama bayi Anda]\
-Masukkan ayat berikut ini saat Anda berdoa kepada Tuhan di waktu doa Anda sendiri. Tuhan, tolonglah aku.\
-untuk mengajari [nama bayi Anda] untuk “mengasihi Tuhan [mereka] dengan segenap [nama bayi Anda]”\
-dengan sepenuh hati, dengan segenap jiwa [nama bayi Anda], dan dengan segenap kekuatan [nama bayi Anda]”\
-(Ulangan 6:5).
+> **Pokok Doa**
+>
+> Ulangan 6:7–9 mengingatkan kita untuk mengajarkan firman Tuhan berulang-ulang kepada anak-anak—saat duduk di rumah, berjalan, berbaring, dan bangun—serta menjadikannya bagian nyata dari kehidupan keluarga. Mintalah Tuhan menolong Anda membimbing bayi untuk mengenal dan mengasihi-Nya. Sebutkan nama bayi Anda dalam doa pribadi: Tuhan, tolonglah aku mengajar [nama bayi Anda] mengasihi Engkau dengan segenap hati, jiwa, dan kekuatannya (Ulangan 6:5).

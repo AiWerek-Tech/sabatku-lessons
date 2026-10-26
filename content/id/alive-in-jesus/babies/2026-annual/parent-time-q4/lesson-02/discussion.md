@@ -1,4 +1,4 @@
-### Terhubung
+### Berbagi Pengalaman
 
 Mana yang lebih Anda inginkan bagi anak?
 
@@ -41,7 +41,7 @@ Ellen White banyak menulis tentang perkembangan tabiat. Bacalah kutipan-kutipan 
 
 ### Berdoa
 
-Berpasanganlah dan berdoalah memohon hikmat, keteguhan, serta ketenangan saat membimbing anak dan merendahkan sifatnya yang mementingkan diri. Roh Allah ingin tinggal bersama anak Anda; doakan agar hati kecilnya terbuka bagi Dia.
+Berpasanganlah dan berdoalah memohon hikmat, keteguhan, serta ketenangan saat membimbing anak dan menolongnya mengatasi sifat mementingkan diri. Roh Allah ingin tinggal bersama anak Anda; doakan agar hati kecilnya terbuka bagi Dia.
 
 ### Tantangan Pekan Ini
 

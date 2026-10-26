@@ -61,7 +61,7 @@ Katakan: **Domba dan anak domba sangat lembut. Orang-orang membuat sweter lembut
 
 Domba berbulu, domba berbulu,\
 Domba berbulu, domba berbulu,\
-Yesus menciptakanmu dengan tekstur lembut dan seperti wol.\
+Yesus menciptakanmu dengan bulu yang lembut.\
 (mengulang)
 
 [♫ Woolly, Woolly Lamb (Anak Domba Berbulu Tebal)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-03-woolly-lamb.mp3)
@@ -71,7 +71,7 @@ Yesus menciptakanmu dengan tekstur lembut dan seperti wol.\
 Tunjukkan kain hijau atau rumput asli kepada bayi Anda. Katakan: **Setiap hari gembala membawa domba-dombanya mencari makanan yang baik. Domba-domba menyukai rumput.**(Jika Anda memiliki balita, mereka dapat berpura-pura memberi makan domba.)
 
 ### Bernyanyi
- **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (ayat 1: rumput).
+ **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (bait 1: rumput).
 
 Yesus adalah Gembala yang Baik,\
 Dia membuat rumput untuk memberi makan domba-domba itu,\
@@ -87,7 +87,7 @@ Jika bayi Anda sudah lebih dari 6 bulan, tunjukkan makanan lain yang mungkin dis
 Tuangkan air dari satu cangkir ke cangkir lainnya. Bayi Anda mungkin suka menyentuh air. "Ajak" boneka domba ke "air". Anda mungkin ingin memberi bayi Anda air jika mereka berusia lebih dari 6 bulan. Katakan: **Domba perlu minum air. Gembala membawa mereka ke tempat dengan air tawar untuk minum. Mari kita bawa domba kita untuk minum.** Balita dapat menggunakan mainan domba untuk "minum" air, atau Anda dapat mencontohkannya jika bayi Anda masih sangat kecil.
 
 ### Bernyanyi
- **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (ayat 2: air).
+ **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (bait 2: air).
 
 Yesus adalah Gembala yang Baik,\
 Ia menyediakan air bagi domba-domba yang haus,\
@@ -103,7 +103,7 @@ Katakan: **Penting bagi kita untuk minum air bersih setiap hari. Yesus menciptak
 Katakan: **Terkadang domba-domba itu terluka. Aduh! Mereka mungkin tergores atau terluka. Gembala membersihkan dan mengoleskan obat pada luka mereka. Gembala merawat mereka.** Oleskan setetes losion bayi atau minyak bayi ke tangan bayi Anda atau tutupi dengan perban atau plester. Jika Anda memiliki balita, mereka dapat menempelkan plester pada gambar domba tersebut.
 
 ### Bernyanyi
- **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (ayat 3: perhatian).
+ **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (bait 3: pemeliharaan).
 
 Yesus adalah Gembala yang Baik,\
 Dia mengurus semua domba,\
@@ -125,7 +125,7 @@ Kenakan kain di kepala Anda dan ceritakan kepada anak-anak bahwa Anda sedang mem
 Katakan: **Gembala itu sangat gembira dan menyayangi semua dombanya. Gembala itu membawa mereka ke tempat yang aman. Mari kita bawa domba-domba kita ke kandang.** Tunjukkan bagaimana mainan domba masuk ke dalam sambil menyanyikan bait terakhir lagu tersebut. Balita yang lebih besar dapat "menggiring" domba ke dalam sendiri atau dengan sedikit bantuan.
 
 ### Bernyanyi
- **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (ayat 4: anak domba).
+ **Jesus Is the Good Shepherd** (*Yesus Gembalaku yang Baik*) (bait 4: anak domba).
 
 Yesus adalah Gembala yang Baik,\
 Dia menyayangi semua anak domba kecil,\
@@ -136,7 +136,7 @@ Dia mencintaiku apa adanya.
 
 ### Kamu istimewa
 
-Katakan: **Siapakah ini?** Dekatkan cermin ke wajah bayi Anda. **Kamu istimewa di mata Yesus.** Kemudian, tunjukkan gambar Yesus kepada bayi Anda. **Tuhan mengasihimu dan menjagamu. Dia menciptakan Ibu dan Ayah untuk merawatmu seperti gembala merawat domba-dombanya.**.
+Katakan: **Siapakah ini?** Dekatkan cermin ke wajah bayi Anda. **Kamu istimewa di mata Yesus.** Kemudian, tunjukkan gambar Yesus kepada bayi Anda. **Tuhan mengasihimu dan menjagamu. Dia menciptakan Ibu dan Ayah untuk merawatmu seperti gembala merawat domba-dombanya.**
 
 ### Bernyanyi
 ### Who Am I? (*Siapakah Aku?*)
@@ -154,7 +154,7 @@ Katakan: **Yesus sangat mengasihimu. Dia adalah gembala kita yang baik hati.**
 [♫ Who Am I? (Siapakah Aku?)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-08-who-am-i.mp3)
 
 ### Bernyanyi
- **“Gembala Mengasihi Domba-dombanya.”**\
+ **The Shepherd Loves His Lambs** (*Gembala Mengasihi Anak-Anak Dombanya*)\
 
 Gembala itu menyayangi anak-anak dombanya,\
 Dan Yesus mengasihiku.\
@@ -166,7 +166,7 @@ Tunjukkan gambar Yesus kepada bayi Anda dan tunjuklah domba-domba itu.
 
 ### Ayat Hafalan
 
-Bukalah Alkitab Anda, tunjuk, dan katakan: **Alkitab berkata, “TUHAN adalah gembalaku” (Mazmur 23:1).** Mintalah orang tua untuk memeluk bayi mereka dengan lembut dan berkata: **Tuhan menjagamu. Ibu dan Ayah juga menjagamu.**.
+Bukalah Alkitab Anda, tunjuk, dan katakan: **Alkitab berkata, “TUHAN adalah gembalaku” (Mazmur 23:1).** Mintalah orang tua untuk memeluk bayi mereka dengan lembut dan berkata: **Tuhan menjagamu. Ibu dan Ayah juga menjagamu.**
 
 ### Terima kasih
 

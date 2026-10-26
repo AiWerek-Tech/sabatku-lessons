@@ -1,6 +1,6 @@
 Alkitab mengajarkan bahwa kasih yang sejati melenyapkan ketakutan. Sungguh indah membayangkan hubungan yang benar-benar memberi rasa aman. Karena kasih manusia tidak sempurna, satu-satunya cara menciptakan lingkungan penuh kasih dan bebas dari ketakutan bagi bayi adalah dengan menerima sedalam-dalamnya kasih Allah yang sempurna.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Hal apa yang pernah Anda perhatikan membuat bayi takut? Adakah suara, benda, orang, kegiatan, atau keadaan tertentu yang membuatnya takut? Apa cara favoritnya untuk ditenangkan?
 - Ingatkah Anda saat Allah menenangkan Anda ketika takut atau cemas? Bagaimana Ia memberi rasa aman saat Anda paling membutuhkannya?

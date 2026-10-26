@@ -1,4 +1,4 @@
-Salah satu cara terpenting untuk membangun hubungan yang hidup dengan Allah adalah menyediakan waktu teratur dan tidak terburu-buru untuk membaca Firman-Nya, Alkitab. Hal ini menjadi tantangan tersendiri bagi orang tua yang memiliki anak kecil. Diperlukan perencanaan yang sengaja dan tekad untuk melakukannya.
+Salah satu cara terpenting untuk membangun hubungan yang hidup dengan Allah adalah menyediakan waktu teratur dan tidak terburu-buru untuk membaca Firman-Nya, Alkitab. Hal ini menjadi tantangan tersendiri bagi orang tua yang memiliki anak kecil. Diperlukan perencanaan yang matang dan tekad untuk melakukannya.
 
 ### Berbagi Pengalaman
 
@@ -27,7 +27,7 @@ Bacalah kutipan-kutipan berikut dalam hati. Tandai kata atau frasa yang menarik 
 
 > “Hanya sedikit manfaat yang diperoleh dari membaca Kitab Suci dengan tergesa-gesa. Seseorang dapat membaca seluruh Alkitab, tetapi tetap tidak melihat keindahannya atau memahami maknanya yang dalam dan tersembunyi.” (Ellen G. White, _Kebahagiaan Sejati_, hlm. 90).
 
-> “Ketika mempelajari Firman Allah, kita harus melakukannya dengan hati yang rendah. Kita harus menyingkirkan segala keegoisan dan keinginan untuk menjadi berbeda. Pendapat yang telah lama kita pegang tidak boleh dianggap tidak mungkin salah.” (Ellen G. White, _Counsels to Writers and Editors_, hlm. 36, 37).
+> “Ketika mempelajari Firman Allah, kita harus melakukannya dengan hati yang rendah. Kita harus menyingkirkan segala keegoisan dan keinginan untuk menonjolkan gagasan sendiri. Pendapat yang telah lama kita pegang tidak boleh dianggap tidak mungkin salah.” (Ellen G. White, _Counsels to Writers and Editors_, hlm. 36, 37).
 
 ### Tantangan Pekan Ini
 
@@ -41,6 +41,6 @@ Anda tidak harus menjadi teolog atau sarjana untuk mempelajari Alkitab. Allah in
 
 _(Untuk gagasan lain, lihat kembali bahan Triwulan 1, Handout 7, “Membaca”, serta bagian “Referensi dan Sumber” di akhir Buku Orang Tua Baby Steps.)_
 
-> ### Doa
+### Doa
 
 Mintalah agar Allah memberi Anda kerinduan untuk berjalan semakin dekat dengan-Nya. Berdoalah setiap hari pada minggu mendatang. Berdoalah juga bagi bayi Anda dan hubungannya dengan Allah serta Firman-Nya kelak.

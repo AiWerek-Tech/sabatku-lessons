@@ -1,6 +1,6 @@
 American Academy of Child and Adolescent Psychiatry menyatakan bahwa “anak-anak yang melakukan pekerjaan rumah dapat memiliki rasa percaya diri lebih tinggi, menjadi lebih bertanggung jawab, dan lebih siap menghadapi frustrasi, kesulitan, serta menunda kepuasan. Keterampilan ini dapat membantu mereka lebih berhasil di sekolah, pekerjaan, dan hubungan dengan orang lain.”
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Apa yang dilakukan atau tidak dilakukan orang tua Anda untuk mengajarkan sikap suka menolong saat Anda masih kecil? Pikirkan contoh-contoh khusus.
 

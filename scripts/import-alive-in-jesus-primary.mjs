@@ -1,6 +1,7 @@
 import { cp, mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { normalizeAliveInJesusMarkdown } from './build-alive-in-jesus.mjs';
 
 const repositoryRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const sourceRoot = process.argv[2] || 'C:/Users/ADMIN/Music/Alive In Jesus/4. PRIMARY';
@@ -62,7 +63,7 @@ function roleEdition(role, id, title, sourceUrl, cover, lessons, dayOrder = null
 async function markdownFile(file, title) {
   const original = await readFile(file, 'utf8');
   const parsed = frontmatter(original);
-  return { content: `${parsed.body}\n`, title: parsed.values.title || title || path.basename(file, '.md') };
+  return { content: `${normalizeAliveInJesusMarkdown(parsed.body)}\n`, title: parsed.values.title || title || path.basename(file, '.md') };
 }
 
 async function writeRoleEdition(roleDirectory, edition) {
@@ -111,7 +112,7 @@ async function main() {
         title: values.title,
         date,
         file: `${dayKeys[day]}.md`,
-        content: body,
+        content: `${normalizeAliveInJesusMarkdown(body)}\n`,
       });
     }
     studentLessons.push({ id: lessonId, title: weekTitle, startDate: readings[0].date, endDate: readings.at(-1).date, readings });
@@ -174,7 +175,7 @@ async function main() {
       title: overviewTitle,
       startDate,
       endDate,
-      readings: [{ key: 'teacher-guide', title: `Panduan Guru · ${overviewTitle}`, date: endDate, file: 'teacher-guide.md', content: sections.join('\n\n---\n\n') }],
+      readings: [{ key: 'teacher-guide', title: `Panduan Guru · ${overviewTitle}`, date: endDate, file: 'teacher-guide.md', content: `${normalizeAliveInJesusMarkdown(sections.join('\n\n---\n\n'))}\n` }],
     });
   }
   const globalTeacherFolders = [
@@ -195,7 +196,7 @@ async function main() {
       title,
       startDate: '2026-09-27',
       endDate: '2026-12-26',
-      readings: [{ key: 'resource', title, date: '2026-09-27', file: 'resource.md', content: parts.join('\n\n---\n\n') }],
+      readings: [{ key: 'resource', title, date: '2026-09-27', file: 'resource.md', content: `${normalizeAliveInJesusMarkdown(parts.join('\n\n---\n\n'))}\n` }],
     });
   }
   const teacherEdition = roleEdition(
@@ -205,8 +206,8 @@ async function main() {
   await writeRoleEdition(teacherTarget, teacherEdition);
   await cp(path.join(sourceRoot, 'cover teacher.png'), path.join(teacherTarget, 'assets/cover.png'));
 
-  const teacherIntroduction = frontmatter(await readFile(path.join(teacherSource, 'introduction.md'), 'utf8')).body;
-  const studentIntroduction = frontmatter(await readFile(path.join(studentSource, 'introduction.md'), 'utf8')).body;
+  const teacherIntroduction = `${normalizeAliveInJesusMarkdown(frontmatter(await readFile(path.join(teacherSource, 'introduction.md'), 'utf8')).body)}\n`;
+  const studentIntroduction = `${normalizeAliveInJesusMarkdown(frontmatter(await readFile(path.join(studentSource, 'introduction.md'), 'utf8')).body)}\n`;
   await writeFile(path.join(studentTarget, 'introduction.md'), studentIntroduction, 'utf8');
   await writeFile(path.join(teacherTarget, 'introduction.md'), teacherIntroduction, 'utf8');
   console.log(`Imported Primary student and teacher books, with family readings inside the student edition, to ${path.relative(repositoryRoot, targetRoot)}.`);

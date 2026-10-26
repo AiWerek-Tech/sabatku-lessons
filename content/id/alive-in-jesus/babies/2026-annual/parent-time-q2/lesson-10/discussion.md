@@ -29,6 +29,6 @@ Alkitab memberi nasihat bijaksana tentang cara menghadapi tantangan dan kemundur
 
 > “Ia mengawasi engkau, hai anak Allah yang gemetar. Apakah engkau dicobai? Ia akan melepaskan engkau. Apakah engkau lemah? Ia akan menguatkan engkau. Apakah engkau tidak mengerti? Ia akan menerangi engkau. Apakah engkau terluka? Ia akan menyembuhkan engkau... ‘Datanglah kepada-Ku,’ demikianlah undangan-Nya. Apa pun kecemasan dan pencobaanmu, kemukakanlah persoalanmu kepada Tuhan. Hatimu akan dikuatkan untuk bertahan. Jalan akan dibukakan bagimu untuk keluar dari kesulitan atau rasa malu. Semakin engkau merasa lemah dan tidak berdaya, semakin kuat engkau dalam kekuatan-Nya. Semakin berat bebanmu, semakin diberkatilah ketenangan saat menyerahkannya kepada Pemikul Beban.” (Ellen G. White, _The Desire of Ages_, hlm. 329).
 
-> ### Doa dan Tantangan
+### Doa dan Tantangan
 
 Jika saat ini Anda sedang menghadapi masa sulit, ingatlah bahwa Allah peduli kepada Anda. Ambillah Alkitab dan buku catatan, lalu luangkan waktu bersama Allah di tempat yang tenang selama yang memungkinkan—mungkin di alam terbuka.

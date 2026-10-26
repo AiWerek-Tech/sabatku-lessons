@@ -2,7 +2,7 @@ Sebagai orang tua, Anda adalah guru, mentor, dan pembimbing pertama bayi Anda. I
 
 Seiring pertumbuhan bayi Anda, memprioritaskan waktu khusus bersama si kecil dalam menyembah Yesus akan sama pentingnya dengan waktu renungan pribadi Anda sendiri bersama-Nya. Di tahun-tahun pembentukan ini, kebiasaan beribadah ini akan memberikan teladan yang kuat yang akan mengundang pergeseran bertahap menuju kepemilikan pribadi atas waktu renungan mereka bersama Sahabat abadi mereka, Yesus.
 
-INSPIRASI MENGAJARKAN KEPADA SAYA . . .
+### Inspirasi bagi Saya
 
 **Didiklah anak sesuai dengan jalan yang seharusnya ia tempuh, dan ketika ia dewasa ia tidak akan menyimpang dari jalan itu.** _(Amsal 22:6)_.
 

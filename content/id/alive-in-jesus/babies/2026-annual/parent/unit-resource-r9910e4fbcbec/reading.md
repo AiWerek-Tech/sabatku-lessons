@@ -16,7 +16,7 @@ Si kecil akan sangat diuntungkan dari lingkungan rumah yang tenang dan teratur. 
 
 Saat Anda memperkenalkan rutinitas rumah tangga ini, perkenalkan juga rutinitas rohani sesegera mungkin. Pengembangan karakter sangat penting di tahun-tahun awal. Doa (diucapkan atau dinyanyikan) saat bangun tidur dan sebelum tidur serta sebelum setiap makan, ibadah keluarga, ibadah khusus bersama bayi Anda, dan percakapan santai tentang Tuhan adalah semua praktik yang dapat diintegrasikan ke dalam kehidupan sehari-hari si kecil saat mereka tumbuh. Semua praktik ini akan dibahas lebih lanjut dalam buku ini. Rutinitas ini dapat memberikan dampak yang mendalam pada pikiran mereka dan akan meletakkan dasar bagi pengembangan karakter yang berpusat pada Kristus.
 
-INSPIRASI MENGAJARKAN KEPADA SAYA . . .
+### Inspirasi bagi Saya
 
 **“Karena Tuhan bukanlah penyebab kekacauan”.** _(1 Korintus 14:33)_.
 
@@ -24,9 +24,9 @@ INSPIRASI MENGAJARKAN KEPADA SAYA . . .
 
 > **TIPS** Aturan sederhana pertama yang dipelajari bayi adalah:
 
-**+** Ada waktu untuk tidur.\
-**+** Ada waktu untuk makan.\
-**+** Ada waktu untuk bermain.\
++ Ada waktu untuk tidur.\
++ Ada waktu untuk makan.\
++ Ada waktu untuk bermain.\
 
 Anda dapat menentukan waktu-waktu ini dengan mengatur rutinitas harian untuk bayi dan keluarga.\
 

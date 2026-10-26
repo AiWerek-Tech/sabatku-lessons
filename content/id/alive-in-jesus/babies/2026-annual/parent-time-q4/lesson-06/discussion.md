@@ -1,6 +1,6 @@
 Apa ungkapan terkenal tentang kesehatan yang dikenal dalam budaya Anda? Mungkin Anda pernah mendengar, “Kesehatan baru dihargai setelah sakit datang,” atau “Kamu adalah apa yang kamu makan,” atau “Makan sehat adalah bentuk menghargai diri.”
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Seberapa penting pola hidup sehat bagi Anda dan keluarga?
 

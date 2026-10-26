@@ -11,7 +11,7 @@ Pikirkan tentang fakta-fakta menakjubkan ini!
 + **Mereka sudah bisa membedakan antara ekspresi bahagia dan sedih**. Mereka sangat peka terhadap emosi orang lain, serta emosi mereka sendiri, dan mereka akan bereaksi terhadap apa yang mereka rasakan. Ini berarti mereka akan belajar tentang emosi dan cinta jauh sebelum mereka belajar tentang kata-kata dan fakta.
 + **Selama beberapa bulan pertama, bayi dapat membedakan antara bahasa mereka** dan bahasa asing—sebelum akhirnya terbiasa dengan bahasa ibu dan ayah mereka pada akhir tahun pertama. Pada tahun kedua, mereka akan mengenali bayangan diri mereka sendiri di cermin.
 + **Penelitian menunjukkan** bahwa “selama tiga tahun pertama kehidupan [seorang anak] mereka belajar lebih banyak daripada sepanjang sisa hidup mereka” (Habenicht dan Burton, 2004).
-+ “Yohanes Pembaptis dipenuhi Roh Kudus sejak lahir. Jika kita hidup dalam persekutuan dengan Tuhan, kita pun dapat mengharapkan Roh Kudus untuk membentuk anak-anak kita, bahkan sejak saat-saat pertama mereka” (Ellen G. White, _ The Adventist Home_, hlm. 274, 275).
++ “Yohanes Pembaptis dipenuhi Roh Kudus sejak lahir. Jika kita hidup dalam persekutuan dengan Tuhan, kita pun dapat mengharapkan Roh Kudus untuk membentuk anak-anak kita, bahkan sejak saat-saat pertama mereka” (Ellen G. White, _The Adventist Home_, hlm. 274, 275).
 
 Jika Anda pernah berpikir bahwa bayi terlalu muda untuk belajar tentang Yesus, fakta-fakta mencengangkan ini menunjukkan hal yang sebaliknya. Karena mereka sangat peka terhadap rangsangan di sekitar mereka, SEKARANG adalah waktu yang tepat untuk memupuk kecintaan mereka kepada Tuhan serta perkembangan fisik mereka.
 

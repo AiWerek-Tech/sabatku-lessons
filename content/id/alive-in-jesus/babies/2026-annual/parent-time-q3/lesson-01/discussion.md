@@ -4,7 +4,7 @@ Allah, Bapa kita di surga, adalah sumber segala kasih yang sejati. Kita melihat 
 
 Kasih Allah itu murni, tidak mementingkan diri, dan kekal. Kasih itu paling nyata ketika Yesus datang ke dunia. “Kristus datang ke dunia dengan membawa kasih yang telah terkumpul sepanjang kekekalan” (Ellen G. White, _Education_, hlm. 76). Ia menawarkan kasih ini kepada Anda hari ini, esok, dan selama-lamanya. Ia juga berharap Anda membalas kasih-Nya.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Banyak orang tua berkata bahwa hati mereka terasa “bertambah luas” ketika bayi mereka lahir. Ada juga yang membutuhkan waktu lebih lama untuk menjalin kedekatan, khususnya jika keadaan seputar kelahiran terasa sulit. Bagaimana hati Anda berubah sejak bayi Anda lahir?
 - Apakah Anda memperoleh pemahaman baru tentang kasih Allah yang sebelumnya sulit Anda mengerti sebelum menjadi orang tua? Ceritakan kepada kelompok.

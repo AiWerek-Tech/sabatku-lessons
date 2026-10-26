@@ -1,6 +1,6 @@
 “Seperti apakah kehidupan kita dan anak-anak jika siang dan malam lebih banyak kita habiskan di alam, sama seperti waktu yang kita habiskan dengan teknologi?” tanya Richard Louv, penulis buku _Last Child in the Woods: Saving Our Children From Nature-Deficit Disorder_. Banyak anak maupun orang dewasa akan merasakan kesehatan fisik, mental, dan rohani yang lebih baik jika mereka menghabiskan lebih banyak waktu di alam. Penelitian juga menunjukkan bahwa masa kanak-kanak yang lebih banyak diisi dengan bermain, bukan menatap layar, membawa banyak manfaat jangka panjang.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Pada hari biasa, apakah Anda lebih banyak berada di dalam atau di luar ruangan?
 - Apakah Anda melihat perubahan pada bayi ketika mengajaknya keluar?

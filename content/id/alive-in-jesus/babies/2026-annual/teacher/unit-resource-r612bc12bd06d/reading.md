@@ -8,13 +8,13 @@ Ya! Bagi orang tua yang memiliki bayi di pertengahan tahun, Anda dapat memulai d
 
 + Lonceng
 + Sumber cahaya (senter, lampu)
-+ Penggemar
++ Kipas angin
 + Gelas atau wadah untuk air
 + Handuk kertas
 + Bunga
 + Satu set lampu Natal (berbentuk bintang) untuk langit-langit
 + Bentuk bintang pada stik
-+ Terasa seperti sinar matahari
++ Matahari dari kain flanel
 + Peluit burung atau burung musik
 + Mainan burung yang bisa bergerak atau terbang
 + Mainan ikan atau sarung tangan ikan dari kain flanel (opsional: bawa mangkuk berisi ikan hidup di hari tertentu)
@@ -43,7 +43,7 @@ Ya! Bagi orang tua yang memiliki bayi di pertengahan tahun, Anda dapat memulai d
 + Gergaji mainan
 + Palu mainan
 + Balok kayu
-+ Beberapa pasang mainan binatang yang berbeda, baik yang bersih maupun yang kotor (2 anjing, 2 kucing, ayam betina, ayam jantan)
++ Beberapa pasang mainan binatang yang berbeda, baik hewan yang halal maupun yang haram (2 anjing, 2 kucing, ayam betina, ayam jantan)
 + 2 burung mainan
 + Beberapa mainan domba
 + Hewan mainan lainnya
@@ -63,6 +63,6 @@ Ya! Bagi orang tua yang memiliki bayi di pertengahan tahun, Anda dapat memulai d
 + Domba mainan
 + Bintang di atas tongkat atau "Malaikat" (boneka/kain flanel)
 
-### Materi yang Disediakan untuk “Pengunjung Awal” dan “Waktu Bersama Orang Tua”
+### Materi yang Disediakan untuk “Kedatangan Lebih Awal” dan “Waktu Bersama Orang Tua”
 
-Sediakan dua set mainan agar bayi yang lahir lebih awal memiliki sesuatu untuk dimainkan. Pertimbangkan untuk menyediakan set mainan yang berbeda untuk digunakan selama Waktu Orang Tua. Jika Anda memiliki sukarelawan di gereja yang bersedia membantu, mereka mungkin dapat mengawasi bayi selama Waktu Orang Tua (di hadapan orang tua) sementara Anda melakukan sesi percakapan dengan orang tua.
+Sediakan dua set mainan agar bayi yang datang lebih awal memiliki sesuatu untuk dimainkan. Pertimbangkan untuk menyediakan set mainan yang berbeda untuk digunakan selama Waktu Orang Tua. Jika Anda memiliki sukarelawan di gereja yang bersedia membantu, mereka mungkin dapat mengawasi bayi selama Waktu Orang Tua (di hadapan orang tua) sementara Anda melakukan sesi percakapan dengan orang tua.

@@ -35,7 +35,7 @@ Genggam kedua tangan mungil bayi Anda sambil mengucapkan doa singkat untuk mengu
 Tunjukkan sumber cahaya (senter, lampu, atau lainnya). Katakan: **Lihatlah cahaya itu! Tuhan menciptakan cahaya. Dia menciptakan siang.** (nyalakan lampu/lampu ruangan) **dan Dia menjadikan malam itu** (matikan lampu/lampu ruangan) **karena Tuhan mengasihi kita** Ulangi beberapa kali (bernyanyi sambil menggerakkan senter atau menyalakan dan mematikannya).
 
 ### Bernyanyi
- **God Made the Light, Wind, Water** (*Allah Menciptakan Cahaya, Angin, dan Air*) (ayat 1: terang).\
+ **God Made the Light, Wind, Water** (*Allah Menciptakan Cahaya, Angin, dan Air*) (bait 1: terang).\
 
 Siapa yang menciptakan cahaya yang dapat kamu lihat?\
 Tuhan menciptakan cahaya, untukmu dan untukku.\
@@ -45,10 +45,10 @@ Tuhan menciptakan cahaya, untukmu dan untukku.
 
 ### Angin
 
-Tiupkan udara dengan lembut di atas kepala bayi Anda. **Bisakah kamu merasakan angin? Tuhan menciptakan angin dan udara yang bisa kita rasakan.**.
+Tiupkan udara dengan lembut di atas kepala bayi Anda. **Bisakah kamu merasakan angin? Tuhan menciptakan angin dan udara yang bisa kita rasakan.**
 
 ### Bernyanyi
- **God Made the Light, Wind, Water** (*Allah Menciptakan Cahaya, Angin, dan Air*) (ayat 2: angin).\
+ **God Made the Light, Wind, Water** (*Allah Menciptakan Cahaya, Angin, dan Air*) (bait 2: angin).\
 
 Siapa yang menciptakan angin yang bisa kamu dengar?\
 Tuhan menciptakan angin, untukmu dan untukku.\
@@ -70,11 +70,11 @@ Katakan: **Tuhan menciptakan awan di tempat yang sangat tinggi. Dia menciptakan 
 Tuangkan air dari satu cangkir ke cangkir lainnya dan ucapkan: **Lihat! Tuhan juga menciptakan air. Hmmm. Air itu baik untuk diminum. Baik untuk mandi dan bermain. Air itu menyenangkan! Tuhan menciptakan air.** Biarkan bayi Anda menyentuh air. Siapkan handuk untuk mengeringkan tangan mungil mereka.
 
 ### Bernyanyi
- **God Made the Light, Wind, Water** (*Allah Menciptakan Cahaya, Angin, dan Air*) (ayat 3: air).\
+ **God Made the Light, Wind, Water** (*Allah Menciptakan Cahaya, Angin, dan Air*) (bait 3: air).\
 
-Siapa yang menciptakan air yang Anda rasakan?\
+Siapa yang menciptakan air yang kamu rasakan?\
 Tuhan menciptakan air, untukmu dan untukku.\
-Siapa yang menciptakan air yang Anda rasakan?\
+Siapa yang menciptakan air yang kamu rasakan?\
 Tuhan menciptakan air, untukmu dan untukku.
 
 [♫ God Made the Light, Wind, Water (Allah Menciptakan Cahaya, Angin, dan Air)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3)
@@ -109,7 +109,7 @@ Untuk bintang-bintang berkelap-kelip yang Yesus ciptakan untukku.\
 
 ### Burung
 
-Tirukan suara burung (bersiul). Katakan: Dengarkan! **Suara apakah itu? Burung! Tuhan memenuhi langit dengan burung-burung yang terbang dan bernyanyi riang gembira.**. Tunjukkan mainan burung dan buatlah ia terbang.
+Tirukan suara burung (bersiul). Katakan: Dengarkan! **Suara apakah itu? Burung! Tuhan memenuhi langit dengan burung-burung yang terbang dan bernyanyi riang gembira.** Tunjukkan mainan burung dan buatlah ia terbang.
 
 ### Ikan
 
@@ -140,7 +140,7 @@ Hewan, hewan,\
 Yesus menciptakan hewan-hewan itu;\
 Ini adalah hewan yang saya kenal...\
 
-Di akhir lagu, tiru suara binatang yang berbeda dan tunjukkan mainan binatang lainnya. Katakan: **Hewan apa lagi yang diciptakan Tuhan? Tuhan menciptakan anjing (atau hewan lain). Bisakah kamu mendengar anjing menggonggong? Guk, guk. Tuhan menciptakan anjing. Tuhan menciptakan hewan-hewan karena Dia mengasihi kita.**.
+Di akhir lagu, tiru suara binatang yang berbeda dan tunjukkan mainan binatang lainnya. Katakan: **Hewan apa lagi yang diciptakan Tuhan? Tuhan menciptakan anjing (atau hewan lain). Bisakah kamu mendengar anjing menggonggong? Guk, guk. Tuhan menciptakan anjing. Tuhan menciptakan hewan-hewan karena Dia mengasihi kita.**
 
 [♫ Animals (Binatang-Binatang)](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-08-animals.mp3)
 
@@ -149,7 +149,7 @@ Di akhir lagu, tiru suara binatang yang berbeda dan tunjukkan mainan binatang la
 
 ### Ayat Hafalan
 
-Katakan: **Hewan-hewan di dunia kita sangat istimewa. Tuhan menciptakan setiap dari mereka. Kita bisa bersikap baik dan lembut kepada hewan.** Kemudian buka Alkitab Anda, tunjuk, dan katakan: **Alkitab berkata, “Allah melihat [semua binatang] yang telah Ia ciptakan, dan… itu sangat baik.”** (Kejadian 1:31). Peluk bayi Anda dengan lembut sambil mengucapkan ayat hafalan tersebut.
+Katakan: **Hewan-hewan di dunia kita sangat istimewa. Tuhan menciptakan semuanya. Kita bisa bersikap baik dan lembut kepada hewan.** Kemudian buka Alkitab Anda, tunjuk, dan katakan: **Alkitab berkata, “Allah melihat [semua binatang] yang telah Ia ciptakan, dan… itu sangat baik.”** (Kejadian 1:31). Peluk bayi Anda dengan lembut sambil mengucapkan ayat hafalan tersebut.
 
 ### Aku
 
@@ -173,12 +173,12 @@ Katakan: **Tuhan menciptakan dunia kita. Pada hari ketujuh, Tuhan memberi kita h
 ### The Sabbath (*Hari Sabat*)
 
 Hari Sabat adalah hari favoritku,\
-Saya suka pergi ke gereja untuk bernyanyi dan berdoa,\
+Aku suka ke gereja, bernyanyi dan berdoa,\
 Hari Sabat adalah hari favoritku,\
 Terima kasih Tuhan atas hari Sabat!\
 
 Hari Sabat adalah hari favoritku,\
-Saya suka pergi ke gereja untuk bernyanyi dan berdoa,\
+Aku suka ke gereja, bernyanyi dan berdoa,\
 Hari Sabat adalah hari favoritku,\
 Terima kasih Tuhan atas hari Sabat!\
 Terima kasih Tuhan atas hari Sabat!

@@ -1,6 +1,6 @@
 Satu potong kue lagi, satu film lagi, satu pakaian baru lagi. Kemampuan untuk berhenti dan tidak terus menuruti keinginan disebut pengendalian diri. Kita membutuhkannya dan perlu mengajarkan sifat ini kepada anak. Kita diingatkan, “Pelajaran pertama yang harus diajarkan kepada mereka adalah pengendalian diri; sebab orang yang tidak disiplin dan keras kepala tidak dapat mengharapkan keberhasilan di dunia ini ataupun upah di dunia yang akan datang” (Ellen G. White, _Child Guidance_, hlm. 91).
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Pernahkah Anda bertemu orang sukses yang tidak memiliki pengendalian diri? Seperti apa orang itu?
 - Mengapa pengendalian diri merupakan sifat tabiat yang penting untuk ditumbuhkan dalam diri anak?
@@ -42,7 +42,7 @@ Garisbawahi gagasan utama dalam kutipan berikut, lalu tuliskan satu kata ringkas
 
 ### Doa
 
-Doakan satu sama lain dan anak-anak Anda. Mintalah agar Allah memberi pengendalian diri di area kelemahan serta menjaga perkataan dan pikiran Anda. Mohonkan hikmat untuk mengetahui cara menanamkan pengendalian diri dalam diri bayi yang sedang bertumbuh.
+Doakan satu sama lain dan anak-anak Anda. Mintalah agar Allah memberi pengendalian diri dalam hal-hal yang masih menjadi kelemahan Anda serta menjaga perkataan dan pikiran Anda. Mohonkan hikmat untuk mengetahui cara menanamkan pengendalian diri dalam diri bayi yang sedang bertumbuh.
 
 ### Tantangan Pekan Ini
 

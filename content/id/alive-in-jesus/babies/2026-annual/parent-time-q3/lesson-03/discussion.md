@@ -1,6 +1,6 @@
 Coba ingat saat Anda merasa menjadi orang tua yang paling buruk. Kita semua tentu pernah merasa cemas, tidak sabar, belum dewasa, atau marah. Bayi sering kali menyingkapkan kelemahan kita. Mereka membutuhkan banyak perhatian, belum dapat diajak bernalar, dan tidak selalu melakukan apa yang kita inginkan. Ketika merawat si kecil yang masih berkembang, sifat mementingkan diri dalam diri kita dapat meledak sewaktu-waktu, terutama saat kita kelelahan.
 
-### Terhubung
+### Berbagi Pengalaman
 
 - Saat menyadari sisi terburuk dari karakter kita, apa yang mendorong kita untuk semakin menyerupai Kristus?
 - Setelah “meledak” atau membiarkan sifat mementingkan diri mengambil alih, apakah Anda biasanya terlalu keras kepada diri sendiri, terlalu memaklumi diri, atau cukup seimbang? Mengapa?

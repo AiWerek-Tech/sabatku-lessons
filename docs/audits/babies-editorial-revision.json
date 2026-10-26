@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "status": "draft-human-review-required",
+  "status": "historical-import-baseline",
   "files": [
     {
       "role": "parent",
@@ -1364,5 +1364,7 @@
     "English song titles are preserved, Indonesian titles are presented as subtitles, and playable audio links point to the official provider.",
     "Parent Time Series 1 Q1 was compared with the English PDF by session/page range and source hash; the reference PDF is not copied into this Indonesian content repository.",
     "Source credits and publication metadata are retained in audit/edition metadata and are not inserted as reader-facing lesson paragraphs."
-  ]
+  ],
+  "supersededBy": "docs/audits/babies-publication-review.json",
+  "historicalStatus": "draft-human-review-required"
 }

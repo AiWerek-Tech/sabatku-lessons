@@ -19,16 +19,16 @@ Ayat Alkitab ini menunjukkan kepada kita sebuah tujuan besar (mengasihi Tuhan) d
 - Apa pesan utama Tuhan bagi Anda dalam kata-kata yang diilhami ini?
 - Apa yang dikatakan ayat-ayat ini tentang momen-momen sehari-hari yang dapat dipelajari anak-anak kita? Seperti apa momen-momen tersebut di rumah Anda seiring pertumbuhan si kecil?
 
-Minggu lalu kita membahas pentingnya bagi si kecil untuk mengenal Tuhan. Mengenal-Nya berarti membuka hati kepada Tuhan. Alkitab KJV menyebutkan kata "percaya" 131 kali, "iman" 231 kali, dan kata "hati" 762 kali. Tuhan mengasihi anak Anda bahkan lebih dari Anda dan ingin memiliki hubungan yang dekat dengannya—dan dengan Anda!
+Minggu lalu kita membahas pentingnya bagi si kecil untuk mengenal Tuhan. Mengenal-Nya berarti membuka hati kepada Tuhan. Dalam Alkitab bahasa Inggris versi KJV, kata “believe” (percaya) muncul 131 kali, “faith” (iman) 231 kali, dan “heart” (hati) 762 kali. Tuhan mengasihi anak Anda bahkan lebih dari Anda dan ingin memiliki hubungan yang dekat dengannya—dan dengan Anda!
 
 ### Tantangan
 
-- Bagaimana detail yang diuraikan dalam Ulangan 6:6-9 dapat dihubungkan dengan tujuan menghubungkan hati anak Anda dengan Tuhan? Tradisi, praktik, dan rutinitas keluarga apa yang dapat Anda terapkan untuk menumbuhkan kasih anak Anda kepada Yesus? (Ada banyak cara yang dibagikan dalam Buku Panduan Orang Tua Langkah-Langkah Awal untuk memicu pemikiran Anda.)
+- Bagaimana detail yang diuraikan dalam Ulangan 6:6-9 dapat dihubungkan dengan tujuan menghubungkan hati anak Anda dengan Tuhan? Tradisi, praktik, dan rutinitas keluarga apa yang dapat Anda terapkan untuk menumbuhkan kasih anak Anda kepada Yesus? (Ada banyak cara yang dibagikan dalam Buku Orang Tua Baby Steps untuk memicu pemikiran Anda.)
 
 ### Komitmen
 
 Pekan ini, bersama pasangan atau teman, perluas pemikiran Anda dan temukan dua ide (dua langkah kecil) yang dapat Anda integrasikan ke dalam budaya rumah Anda untuk memupuk hubungan hati dengan Tuhan (selain hubungan pikiran).
 
-> ### Doa
+### Doa
 
 Doakan hubungan bayi Anda dengan Yesus, sekarang dan pada masa mendatang. Mintalah Tuhan menolong Anda mengambil langkah-langkah kecil yang menguatkan hubungan itu.
