@@ -2,7 +2,7 @@
 
 ### Pesan Utama
 
-Yesus bisa melakukan apa saja. Aku bisa mempercayai-Nya.
+Yesus bisa melakukan apa saja. Aku bisa memercayai-Nya.
 
 ### Ayat Hafalan
 
@@ -24,7 +24,7 @@ Beberapa aspek dari kepercayaan dasar berikut tercermin dalam pelajaran ini:
 
 ### Kata Pilihan Minggu Ini
 
-**Kepercayaan:** Percaya berarti mengandalkan sesuatu atau seseorang. Ketika Anda mempercayai seseorang, Anda percaya bahwa kata-katanya benar. Anda tahu Anda dapat mengandalkannya. Kita dapat mempercayai Yesus. Dia selalu penuh kasih. Kata-kata-Nya benar. Dan Dia selalu menepati janji-Nya.
+**Kepercayaan:** Percaya berarti mengandalkan sesuatu atau seseorang. Ketika Anda memercayai seseorang, Anda percaya bahwa kata-katanya benar. Anda tahu Anda dapat mengandalkannya. Kita dapat memercayai Yesus. Dia selalu penuh kasih. Kata-kata-Nya benar. Dan Dia selalu menepati janji-Nya.
 
 ### Ringkasan Pelajaran
 

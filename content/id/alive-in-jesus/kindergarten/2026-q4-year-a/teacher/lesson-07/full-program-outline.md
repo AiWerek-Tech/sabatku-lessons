@@ -12,41 +12,41 @@
 
 **MENYANYI:** Nyanyikan lagu-lagu berikut dengan gerakan dan alat peraga:
 
-- “Kami Menyambut Anda”
+- “We Welcome You” (Kami Menyambutmu)
 - “Sahabatku Selamanya Yesus”
-- “Apa yang Dapat Dilakukan Yesus?”
-- “Lagu Pengunjung” dan ucapan terima kasih
-- “Selamat Ulang Tahun” untuk setiap anak yang berulang tahun minggu lalu
+- “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
+- “Visitor Song” (Lagu Pengunjung) dan ucapan terima kasih
+- “Happy Birthday” (Selamat ulang tahun) untuk setiap anak yang berulang tahun minggu lalu
 
 ### Lagu Pujian
 
-[♫ Kami Menyambut Anda](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
+[♫ We Welcome You (Kami Menyambutmu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
 
-[♫ Sahabatku Selamanya, Yesus](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/my-forever-friend-jesus.mp3)
+[♫ My Forever Friend Jesus (Sahabatku Selamanya, Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/my-forever-friend-jesus.mp3)
 
-[♫ Apa yang Dapat Dilakukan Yesus?](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/what-can-jesus-do.mp3)
+[♫ What Can Jesus Do? (Apa yang Dapat Dilakukan Yesus?)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/what-can-jesus-do.mp3)
 
-[♫ Lagu Pengunjung](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
+[♫ Visitor Song (Lagu Pengunjung)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
 
-[♫ Selamat ulang tahun](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
+[♫ Happy Birthday (Selamat ulang tahun)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
 
-**BERDOA:** Nyanyikan lagu “When I Kneel Down to Pray” (Saat Aku Berlutut untuk Berdoa). Kemudian ajak seorang anak untuk berdoa, berterima kasih kepada Tuhan atas sesuatu yang dapat Dia lakukan. Berdoalah juga, berterima kasih kepada Tuhan atas kuasa-Nya dan karena menyertai kita hari ini.
+**BERDOA:** Nyanyikan lagu “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa). Kemudian ajak seorang anak untuk berdoa, berterima kasih kepada Tuhan atas sesuatu yang dapat Dia lakukan. Berdoalah juga, berterima kasih kepada Tuhan atas kuasa-Nya dan karena menyertai kita hari ini.
 
-[♫ Saat Aku Berlutut untuk Berdoa](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
+[♫ When I Kneel Down To Pray (Saat Aku Berlutut untuk Berdoa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
 
 ### PERSEMBAHAN DAN AYAT HAFALAN (6 MENIT)
 
-**MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang ke mana arah penawaran pada triwulan ini.
+**MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang tujuan persembahan triwulan ini.
 
-**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand” dan ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan. Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
+**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku) dan ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan. Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
 
-[♫ Bukalah Hatiku, Bukalah Tanganku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
+[♫ Open My Heart, Open My Hand (Bukalah Hatiku, Bukalah Tanganku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
 
-**MENYANYI:** Nyanyikan lagu “Firman Tuhan,” dan ajak seorang anak untuk maju ke depan memegang Alkitab khusus kelas.
+**MENYANYI:** Nyanyikan lagu “God’s Words” (Firman Tuhan), dan ajak seorang anak untuk maju ke depan memegang Alkitab khusus kelas.
 
-[♫ Firman Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
+[♫ God’s Words (Firman Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
 
-- Pernahkah Anda merasa sangat sedih? Mengapa?
+- Pernahkah kamu merasa sangat sedih? Mengapa?
 
 Ceritakan bahwa terkadang kita sedih karena seseorang yang kita cintai telah meninggal. Atau mungkin kita kehilangan hewan peliharaan yang kita sayangi. Ayat hafalan hari ini dapat menyemangati kita saat kita sedih. Tunjukkan kepada anak-anak cara menemukan ayat hafalan, 1 Korintus 15:22. Ucapkan bersama-sama: “Dalam Kristus semua orang akan dihidupkan kembali” (1 Korintus 15:22).
 
@@ -54,7 +54,7 @@ Ayat ini memberi tahu kita bahwa meskipun kita mungkin terkadang sedih, Yesus ak
 
 Dengarkan dan nyanyikan Lagu Ayat Alkitab 1 Korintus 15:22.
 
-[♫ 1 Korintus 15:22](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/7-1-corinthians-15-22.mp3)
+[♫ 1 Corinthians 15:22 (1 Korintus 15:22)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/7-1-corinthians-15-22.mp3)
 
 ### KOTAK KEJUTAN RAHASIA (7 MENIT)
 
@@ -105,7 +105,7 @@ Berikan kepada setiap anak Kartu Pengumpul Alam 46: Kungkang Berbulu Lebat untuk
 
 ### KERAJINAN TANGAN (15 MENIT)
 
-**KEAHLIAN:** Boneka Anak Perempuan Kecil. Tunjukkan kepada anak-anak cara membuat mainan boneka anak perempuan kecil. Ajak mereka menggunakan mainan boneka ini untuk berlatih menceritakan kisah Alkitab kepada anak atau anggota keluarga lain hari ini agar mereka tahu bahwa Yesus memiliki kuasa atas kematian.
+**KERAJINAN:** Boneka Anak Perempuan Kecil. Tunjukkan kepada anak-anak cara membuat mainan boneka anak perempuan kecil. Ajak mereka menggunakan mainan boneka ini untuk berlatih menceritakan kisah Alkitab kepada anak atau anggota keluarga lain hari ini agar mereka tahu bahwa Yesus memiliki kuasa atas kematian.
 
 **MENERAPKAN:** Seperti Yairus, kita dapat bersyukur bahwa Yesus memiliki kuasa atas kematian. Suatu hari Ia akan kembali dari surga dan menghapuskan kematian untuk selama-lamanya. Bukankah itu kabar yang luar biasa?
 
@@ -113,8 +113,8 @@ Berikan setiap orang selembar pita untuk dilempar. Hitung mundur dari 10, lalu l
 
 **TANTANGAN MISI:** Jelaskan bahwa para misionaris bekerja di seluruh dunia untuk memberitakan kabar baik ini kepada orang lain juga. Ucapkan terima kasih kepada anak-anak karena telah berdoa untuk para guru dan pengkhotbah misionaris minggu lalu. Tantangan Misi pekan ini adalah berdoa setiap hari untuk para pembangun yang adalah misionaris. Apa yang bisa kalian lakukan pekan ini untuk membantu orang lain mengenal Yesus?
 
-**MENYANYI:** Nyanyikan lagu “Yesus Mampu.” Sampaikan bahwa minggu depan kita akan belajar tentang tiga orang lagi yang disembuhkan Yesus pada hari yang sangat istimewa.
+**MENYANYI:** Nyanyikan lagu “Jesus Can” (Yesus Mampu). Sampaikan bahwa minggu depan kita akan belajar tentang tiga orang lagi yang disembuhkan Yesus pada hari yang sangat istimewa.
 
-[♫ Yesus Mampu](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
+[♫ Jesus Can (Yesus Mampu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
 
 **BERDOA:** Berdoalah, ucapkan terima kasih kepada Yesus karena Dia memiliki kuasa atas kematian. Mintalah Dia untuk membantu kita membagikan kabar baik yang luar biasa ini kepada orang lain pekan ini.

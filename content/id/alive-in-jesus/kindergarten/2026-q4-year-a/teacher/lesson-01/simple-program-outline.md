@@ -3,25 +3,25 @@
 ### KEGIATAN SEBELUM KELAS
 
 - Aktivitas: Uji berbagai barang rumah tangga untuk melihat apakah tenggelam atau mengapung.
-- Nyanyikan **“Pack It Up”** saat Anda memasuki program.
+- Nyanyikan **“Pack It Up” (Berkemaslah)** saat Anda memasuki program.
 
 ### SAMBUTAN DAN LAGU-LAGU
 
 - Selamat datang
 - Lagu-lagu
-	- **“Kami Menyambut Anda”**
-	- **“Tuhan Menolongku”**
-	- **“Tumbuh Dewasa Bersama Yesus”** Hal-hal menakjubkan apa yang Yesus lakukan di bumi?
-	- **“Apa yang Dapat Dilakukan Yesus?”**
-	- **“Lagu Pengunjung”** dan ucapan terima kasih
-	- **"Selamat ulang tahun"** untuk setiap anak yang berulang tahun minggu lalu
-- **“Saat Aku Berlutut untuk Berdoa”** dan doa
+	- **“We Welcome You” (Kami Menyambutmu)**
+	- **“God Helps Me” (Tuhan Menolongku)**
+	- **“Growing Up With Jesus” (Bertumbuh Bersama Yesus)** Hal-hal menakjubkan apa yang Yesus lakukan di bumi?
+	- **“What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)**
+	- **“Visitor Song” (Lagu Pengunjung)** dan ucapan terima kasih
+	- **"Happy Birthday" (Selamat ulang tahun)** untuk setiap anak yang berulang tahun minggu lalu
+- **“When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)** dan doa
 
 ### PERSEMBAHAN, DOA, AYAT HAFALAN
 
 - Jelaskan proyek misi triwulanan dan lokasinya serta bagikan yang pertama **Fakta Singkat Misi**.
-- Kumpulkan persembahan dan nyanyikan lagu **“Bukalah Hatiku, Bukalah Tanganku.”** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
-- Menyanyi **“Firman Tuhan.”** Anak memegang Alkitab kelas.
+- Kumpulkan persembahan dan nyanyikan lagu **“Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku).** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
+- Menyanyi **“God’s Words” (Firman Tuhan).** Anak memegang Alkitab kelas.
 - **Ayat Hafalan** dan **Lagu Ayat Alkitab**: “Diam! Tenanglah!” (Markus 4:39).
 
 ### KOTAK KEJUTAN RAHASIA (SIAPKAN DIRI UNTUK KISAHNYA)
@@ -48,7 +48,7 @@
 ### KERAJINAN
 
 - **Kerajinan:** Perahu di Tengah Badai.
-- Putar lagu **“Yesus Mampu”** sambil anak-anak menggoyangkan botol, lalu membiarkan air di dalamnya menjadi tenang. Ucapkan **Pesan Utama** bersama: **“Yesus bisa melakukan apa saja. Dia bisa membuatku tetap tenang.”**
+- Putar lagu **“Jesus Can” (Yesus Mampu)** sambil anak-anak menggoyangkan botol, lalu membiarkan air di dalamnya menjadi tenang. Ucapkan **Pesan Utama** bersama: **“Yesus bisa melakukan apa saja. Dia bisa membuatku tetap tenang.”**
 - **Tantangan Misi:** Berdoalah, mintalah Yesus untuk menumbuhkan hal-hal baik dalam dirimu sehingga kamu dapat menunjukkan kepada orang lain seperti apa Yesus itu.
-- Menyanyi **“Yesus Mampu.”**
+- Menyanyi **“Jesus Can” (Yesus Mampu).**
 - **Berdoa.**

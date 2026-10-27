@@ -1,0 +1,462 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "Codex",
+  "scope": "Primary Indonesian student and teacher publications",
+  "documentsChecked": 116,
+  "englishSources": {
+    "student": {
+      "folder": "AIJ_Primary_2026_Q4_EN_MD/2026-04-pr",
+      "checksums": {
+        "00-music-and-podcasts/00-music-and-podcasts.md": "fa9e7c924ac6d49cc49afa276788a6475ea938143b3eeff4f56c2d6ce8465a55",
+        "00-primary-friends/primary-friends.md": "acad5609ae3d01b9e3d86f0590434bbba6c7b692ef0ea4da9cd1cf625a1ef356",
+        "00-primary-parents/primary-parents.md": "18045f8ddb5a72c6125f25deb9e744b66d030118609c5ce16affa206d2777602",
+        "00-short-devotions/short-devotions.md": "8e5d479ef22ebb31d3d66668afabb05bb872abb41424279dbfcdb140d100f9f5",
+        "01/01.md": "cabd8d994076b6e6fb4745aa2ee9a1f79004af9511dd2d6a128acffbcaa6ae72",
+        "01/02.md": "2fa1b33f9cf5055aec154c4ac0e162e0642e75048abe1753261b40bb953bf2e8",
+        "01/03.md": "21f18a63aff277a301dc5e0ff78b0640eea80c483f2cc75dac34b3cb88280858",
+        "01/04.md": "32b94523d3d8cee718606ca512b10273efb848fe8f051f7df7772e49b65ea6ba",
+        "01/05.md": "f46614d4a5044e347abf6b89e92cadcc24d61ea95d49f20658fe237a70d65dbd",
+        "01/06.md": "68e794e63fcbc423b30d897a9f842109d42385da7d5e6de643052d96cce4c743",
+        "01/07.md": "fb17efcd706e9cfd9f9be3d98d31615776ff210bfe537eb258bbae402aedb083",
+        "02/01.md": "6eb2cdb4ab84f0aef6e99bf1d4ed916bf5f21d5efc7429c52170c15787e91c0f",
+        "02/02.md": "cf46f407ec95a8abf29508a2945bc5c388e68d45f40107cf6733a18516226f0a",
+        "02/03.md": "45f7179830024a93866671936297ca450a6b1b4f724464c25f273440b19ab982",
+        "02/04.md": "9fc4a2fdfbb22c26afb9da937999f8d2c0e7739c1152b5082eabe81727fa3d0d",
+        "02/05.md": "714d15b63600b5c25001b01752a4ea7f3da8c7357229f5f79e4d4236206b8c39",
+        "02/06.md": "6431c92e6fd6860b5f0f77e034c5e3a0ffe10d710b5f3e83ac7cb334b5529990",
+        "02/07.md": "23ea6cfc468351ca2d44bc8907fe13b440a24bb37533ee0f8848b965240df30b",
+        "03/01.md": "66d519afc58d5c94f7d287800cecdf2954b62be5fc346186b718d866a43e6912",
+        "03/02.md": "3ecf502b400e3272de172c75b8496e2a57182a16c77f0d413d112c24681240f6",
+        "03/03.md": "1b6991f82c29b4ebbeada9c67c55f5c9472f18707cfc6f46e860ef7c1c8a1c74",
+        "03/04.md": "f68b0d7ed16f8db468871257118e0cc773bc46cc650aac2e7c7319f2a6508b1e",
+        "03/05.md": "4a1e6dcf7ea4667c982cfca3a70e38ba4d4c2d15d85a5264072044afda0cf4d2",
+        "03/06.md": "d7f0ab395f15f0074b7379cb21bd5793e64caf306f3e3b6f8ef7cbd3bc1205be",
+        "03/07.md": "d5d672e3a2f6931a41f78eb819f191f1f9008905fc447414ed414f543e590ba6",
+        "04/01.md": "87a679900ddd1fd0e0ea930df938c6b38fd7d86f6f4c96a8581912d3d35be9c7",
+        "04/02.md": "7ac01240ffd887dbbfee7456fd481bd00ed7067339f6e40ac0f0fc44ca890ef9",
+        "04/03.md": "8aa50a87fef6feaa037bbbeca0fddbfd42681a8d1edf3c85f1d191873eb83d34",
+        "04/04.md": "6e9e07c4be28d18af935067a4b9bd0c0c12eb3a805962a16d90c4694c30b0c64",
+        "04/05.md": "8a4d5ffcab17e81e84c9f7d9c162e83075e8486870ec5b99f0f26d93b895bedb",
+        "04/06.md": "ccabeb7174d89390d909a28c0c856913e403a1cbe3e73b51b896cf4931267992",
+        "04/07.md": "68c3fef967f806d5f609fc78f4aa8bf485ad461b352536845a60397d85347768",
+        "05/01.md": "5b5bc2e56f5db29fb9a002d1bac38ce00c5b10940dec9742174a7a5e9827c85d",
+        "05/02.md": "b467ff6c39d39d094b2c3b8c16c07aa58b1e857a2922f87e9c5b66788e7d3d70",
+        "05/03.md": "5e54298ff3bbd226c47855babb65a40af3139cd5622dd3121ebe1c777c3c8c28",
+        "05/04.md": "52711b31f44f22b8205a295a306e0fd243385dffdc405011abb741e565cc23fd",
+        "05/05.md": "63cd6ed5ce749471246f9aeda69e165a742413945b70799928d4b522f00c7b55",
+        "05/06.md": "ba6ba35ea7c200fc9ebce0f51aead8d952de1953d90d5401cf74f7e6a140c265",
+        "05/07.md": "3573a572390cfb9c3494f0577652c7c6ff828bed93931ae856e07d8dba9b42b0",
+        "06/01.md": "f80a6edbe8d0afee6bb51c2feb1c1b222f7de4b6f426b79e5e6060503a334a7d",
+        "06/02.md": "794987b756d850469706e8172745aa2b472dadef553dceefad396d543f8c87ce",
+        "06/03.md": "4768e01a14b92cf422d47b51304671fac731f51b34be7534d5527aec514bf91a",
+        "06/04.md": "fba39a27007b825bc4be4d69333435858ee9b1b0ded10f39ee9796f2310a7af8",
+        "06/05.md": "6fa437a9087f839e5f15a7b007adacc248670c6a793a89e17535daa73442506b",
+        "06/06.md": "e401dacb2fbec39f023462c72582fa7301c2d81b71986edf2dce44a8a3dc19f6",
+        "06/07.md": "270e923ed3645a77b3225ab13bf18a2f5a60e943ff6dd3151288864a9b8efe66",
+        "07/01.md": "63063db3eb0c212f9b4c08ff249c71ecae669daacab622ce9dfa15d03e3d66e3",
+        "07/02.md": "b1cda1aceb32b90ee499430e0c8f84c980f3e3cc1293b67c7f7984aba424693a",
+        "07/03.md": "291e812a43b0896872252e164fc6f20e1bb989aa9d044083061035246db83c5a",
+        "07/04.md": "460d923d395508730c199f9f3d4442664aa77baf5cbed06f35cc975ce300c78a",
+        "07/05.md": "bd19ed6ffc2f127620bef1bc0496ada61439d27b4f26140c348a2afed17d25d4",
+        "07/06.md": "edd7e2253fd3e03b153f13cdc91e6dfc5d4f1b4ed103b800a55c1799bcc0d532",
+        "07/07.md": "bd9db5e876e1405c69d77197c260c5825a57f39992e353e662b6d5a2d62c7b1f",
+        "08/01.md": "95473cba9f331516be252c4cc9e50e78d486cb0349a7e699fe6b186d66fe8c55",
+        "08/02.md": "efca691378a40676ac5e717afa79e2eea0799f6743e3403a9ae0af627739d781",
+        "08/03.md": "cf78cb2c3696b411cf780ec9fe109c074e5d406df84ee2d07d8c3c9edd993b3c",
+        "08/04.md": "0386ccc1f7d8968889c289790ea6398c2e86d2a5c0e9f8fe9df08fbec21ada3d",
+        "08/05.md": "3215451f4f39b28fdd403bbdec20d7c80aeafe9262237725b7de4ad6273d0fb5",
+        "08/06.md": "f56ed31afa95a4b556b25c0bd07d6276f67042774e0c25558fa90f7476bf6e18",
+        "08/07.md": "e4dd5319963b627e5a28f12dbf84352d62ccbdbabc239d93051c0da4684ff758",
+        "09/01.md": "2f08e866e84bdd3efc7692b381b1451addc2d75125decacf09e8da3e34537ce7",
+        "09/02.md": "a3b5dd1704ab5225cfd31a2e6c770ffc9b496868b24a7b5c51da7854f0bffda6",
+        "09/03.md": "82c8f876d6e1ef871699acac59c6eadd3d465c68a2ad367940ec89cd5250b789",
+        "09/04.md": "ef35760233b812609a3d5285254bb98f53b76ca6ed9cb283e13e0482d0f754f3",
+        "09/05.md": "0ad22741f2bb49f6745245e7f04bda32dad4d086bc3fce455cc35e05f4dd50db",
+        "09/06.md": "ce3fdf880e140a6ea0f101c9c66768f190e0dec59447fe98957a0aeec96d6dc2",
+        "09/07.md": "76dcd6c409231e2bd059d54f5ca84dfc1ddff007f0b9cca5d276bf8feabc50d1",
+        "10/01.md": "2f3a0b3b2e1a50e7b06320c2a15002a737657f98e6180fc4aa4138dba0ac119f",
+        "10/02.md": "c5ae63b91bb9a2f44e3636704ca526bc5099dd8a76e5242819232f1b9f83c60b",
+        "10/03.md": "484476e7d893f5a693930f127531c92e8052f4da03616c7d881f9c180cec60af",
+        "10/04.md": "7de9afe1c5bc3afa60263084227f8f95aaa01768bae326f0228f55ad4a02ee80",
+        "10/05.md": "f909242294222106ba0537f96954f120af3150620956f32b01f3d116a5ba7fb6",
+        "10/06.md": "01663c284b1c4b508665c5505f5dd67c4282cf19fcf0cd8acc5e02aea3c5a55f",
+        "10/07.md": "ed20ba25b6e2a4b59a4753f0480f01dc005bcfb3df081a587cc9cafa2ce44e8b",
+        "11/01.md": "4a84e737e1e44ead8af42fb9cfa8f2a3aaa844bab435406514b552966760cb15",
+        "11/02.md": "c7a0700c459ecc8651d0c7c93840c4728b6a948effc6d6e8cc691385f58e052d",
+        "11/03.md": "4842e7f875446c1af52d089ac209070b2da3a9debcfba027e431fa4987d10835",
+        "11/04.md": "4ed43fa6cea13a0c4182e1c31ee971bf2c5c1f1f60965a4660f33159d5295be7",
+        "11/05.md": "aa0f43a131d6d8732a7841897bf096d59ad0b12776b353d9015e0a28f0b503cc",
+        "11/06.md": "8e0b05e344f48f37962f111fc133f0dbba283e7bde1de496916e29b3edc50c24",
+        "11/07.md": "4aa885a9a8395fa432dffa28066e40ed0d276d77eb4dcad3b92d31b9f542db36",
+        "12/01.md": "7c0bd42a30ac9b57f440cb451f5c77496488bf060cd3b1e893be9a1032fba4ff",
+        "12/02.md": "44beee712c41dabdd99801d495ce31a362939384ccfbfd97169c765b5d4cf37a",
+        "12/03.md": "02d42124f31be4d2439f025ee70db1c26b20efc767c0a08e31ece1d7def33a85",
+        "12/04.md": "01026f09d3e99d3ef9f68d9b7061d611d95cc1335d1ff145768440593e16fede",
+        "12/05.md": "833820dc7ce4d6dd5d12cdda3595d23d52815d1ea3ec029c10640ae3eb513232",
+        "12/06.md": "89de97f3243fdda2ed8f321290d9c41e4965cb2a42923293c589fb45eb9e7d59",
+        "12/07.md": "dbc1992faec40e8121ba6551b7688066c38e8f4eeee73504153b49c4eb244e78",
+        "13/01.md": "d37c9c3581c252b33559f95616d10dfa73c986aeee49a5a2ee77597666c0f9ab",
+        "13/02.md": "f453f992b6bdd88eb6423d722b05f044063a5f6e5b9be4640545314edc844e49",
+        "13/03.md": "b7e2b5809427de983bed9574acb27d0d4eca38e38fc7d2348b1cc4d7fbff9039",
+        "13/04.md": "e945e695ca5778ab0b17ec1f8e6684cae54a138ee7cc3ca5b80ec1e70a18afdc",
+        "13/05.md": "725515e6fe382e00d3ffb9af5a1e8c68f6ee56635d69600db0dab52752b1cb01",
+        "13/06.md": "ae0033c976652e1c608b29e39734872d82c5892d9bd160ca86f8bd2a014193d7",
+        "13/07.md": "95495e4719dc2019ed505dcca51834c6532aaf5b25143f312f549dc447cdd5a8",
+        "introduction.md": "fa1284d195b6ac1c087e8068791d3449967fbea220e1314ced16d3b09e2c5e2e"
+      }
+    },
+    "teacher": {
+      "folder": "AIJ_Primary_Teacher_2026_Q4_EN_MD/2026-04-pr-tg",
+      "checksums": {
+        "000-primary-teacher/000-primary-teacher.md": "7e500dcdab211c46f297a7763816adf855c058f75bcae212d9423361875b066d",
+        "001-tips-for-telling-bible-stories/001-tips-for-telling-bible-stories.md": "2804a50ca7abbc2e4edc9750d957b075528f5b3f2bfa841ad3ce6679b369df50",
+        "002-craft-resources/002-craft-resources.md": "a63b26dfca156b2e2bf35cf80e7f45cf723fd24c4adc9fc38f85a8d1506d603a",
+        "003-character-cards/003-character-cards.md": "2586152e0a4bd681be402ed26cf235b13d0d90dc61a2b4735f8278ee16d53796",
+        "004-mission-fast-facts/004-mission-fast-facts.md": "1dac954341f086553ed6e398aab3c88a6799159e4042e647f71e577425848503",
+        "005-music/005-music.md": "2b1ee311322f9a1849bf23215fea8eac504a91147cf92a2f98d99423cdaca96b",
+        "01/01-overview.md": "b4552ea510eade30461ae6370f9469037e3e52ce433edeb11715e9bcd1dc6965",
+        "01/02-a-quiet-moment.md": "2a3150d19106998b3d992c7298df5ab0bd7985f828f44a8e485ef7d987a17afa",
+        "01/03-simple-program-outline.md": "424ecb9ef41fe070477ce90678b2d46dc77839165f0e1632c2decdf764a50caf",
+        "01/04-program-preparation.md": "7684e654e55fe5b6a9968cefede9218816982a1b83ea1e8faf2964a7e0970139",
+        "01/05-full-program-outline.md": "39fabe12d92e67ec6cdf8fff55a65dbb2b8b1def19efbb6e426c79a235a06795",
+        "01/06-tell-the-story.md": "5abc810036561bb2d3958d9f104b01903d4a5f43640c982c611d1bb6abfc6ed7",
+        "01/07-mission-story.md": "ee5d85a97465454d36f23a190ec03878738cb23ded35f94bc70744d8ed4c0b60",
+        "01/08-craft.md": "78c9b75e600b9b8a39b009e22a943fbff29f365377e709626c84311e0b081582",
+        "02/01-overview.md": "e33cf4b02a88bf2146a4fee4d1c83abc603407a2f52a2ae165e5b7d25cc4f152",
+        "02/02-a-quiet-moment.md": "aaa80e5c6cabb630af958ea4e3d63299f01896fddd8117b2c13d2915fc47db3f",
+        "02/03-simple-program-outline.md": "905f56d4fcec4b1ae8255972f99522299fe863c243a6bafb0c635e3a0203dfe2",
+        "02/04-program-preparation.md": "8c1ab489f873b5870d13df10b75ffa2a7ec77dfea8c59c5108be7078a4281ec2",
+        "02/05-full-program-outline.md": "fbff4f7fea8b835e5325c806f6fbfe7e13581d649274293c89b106d5d0aeef21",
+        "02/06-tell-the-story.md": "4ad4f6964d1ab0ad06cecc1537369901d21a9e94861783067662e0a89b6988d3",
+        "02/07-nature-lesson.md": "478bafd78a2f7fa6950bed45989a076f9b3a11f779c352ea1929ca10fb9fd1f9",
+        "02/08-craft.md": "91eec22ad532fb07acf65d86e6caf38b19ad7d36a05d6d2f5fe428b92b4acef1",
+        "03/01-overview.md": "b3f7426961290bb1c52e8714d384f8564c6208663dc5f268ad3ab4388883c1b0",
+        "03/02-a-quiet-moment.md": "8cb716f6dbd627fbccce118ef4f1e1fd013d0d1e9b92f8306126aee69a207d93",
+        "03/03-simple-program-outline.md": "5d3611b7237e9d310de9e611de7af301cd5a5b1b541aac8546cad6e2a1f921a7",
+        "03/04-program-preparation.md": "168648a05a109cdb533d51c4550ece0d00fae24d624047135c8ca5e934a3dba4",
+        "03/05-full-program-outline.md": "8a80159ebf0c3c31f67357523a33d71287983ae2e9594118a3d9d099e638b2cd",
+        "03/06-tell-the-story.md": "57a57589be17c4dbf728ca9e187bdbc287fcfc67c9b5e6158c5ab40e78671970",
+        "03/07-mission-story.md": "8a6e7578e90115d8962867b5d5489f7c5d779969fbf6ccbae8b9468b7e579ce6",
+        "03/08-craft.md": "b2bdeba1763a05beaacf2b6d26ad02a55d0a549747f19ca51fa01628c0d9bf3c",
+        "04/01-overview.md": "a8696023f6640caf4af853162b3103c8f5f9b709db14ffbdfafee7c1e962bffb",
+        "04/02-a-quiet-moment.md": "5a306ecedc8041de702f6242f106cddbf5904ff2d082f760f900747719257eb1",
+        "04/03-simple-program-outline.md": "513a578bb264b4af841bbc78af6056e7bbeab44c14f27b7332a70f3deccade41",
+        "04/04-program-preparation.md": "ab608214ad571ddc7f8ed920b47f23cd44a51e1258b468905172b48c5880778b",
+        "04/05-full-program-outline.md": "ed0dfad56fab0f49dedb19cbf597b49de4c26144ae836f31aa26882534c86466",
+        "04/06-tell-the-story.md": "ae2097cea41b037a988393e20296483cd79a5464459058f67ce65f04a19c1a04",
+        "04/07-nature-lesson.md": "31272cf616c52e2f35503fdfe7a79c195f92e6a9420f7e437ea0f9230f216f68",
+        "04/08-craft.md": "e2c16ef6ed6cebfa25eec13aaf9cd1caa8c7ff32b439d268595e9c0825921c22",
+        "05/01-overview.md": "593b9139158730d694dca592b968f5a563d505b88ab850ff44306295a9a54772",
+        "05/02-a-quiet-moment.md": "5cd3e3126857441e8cab03cc1d17e50c47d44decf54654078a5df45ee04cfdfe",
+        "05/03-simple-program-outline.md": "e48234f0a600af79e37fee159ade613231e4ddfab4505bffdad14180a6f75b5c",
+        "05/04-program-preparation.md": "9f9261e6fd2699d98c31d11c48f7579ba4b6073063680e5ffe8ca161b05715a4",
+        "05/05-full-program-outline.md": "8a10c07f49c46c1abbcb4c46eb2475cf23434cc1683d7df664190244dd75bba0",
+        "05/06-tell-the-story.md": "29ea24157efdead52b07262dddd99d746ac56a44279d6c68af4045e24fcdddb2",
+        "05/07-mission-story.md": "afd843b6922063fc68751c2ec3ae6d07591e36ed014180928f955fca18095b6d",
+        "05/08-craft.md": "9903efc01e2a3320d2c8f14608d028da5f2f60e715c0fbc8e81231f3cbdc949e",
+        "06/01-overview.md": "fbd8c690ba3e5beca73021d4e0aa74ba357cdc4c359a4ab3e20700cb6351325a",
+        "06/02-a-quiet-moment.md": "dbf2a065726c229e8105ad8a8f0a4842fa6dada396b035d4b25064943d3eefb0",
+        "06/03-simple-program-outline.md": "9ae6722dddf983515a19dc4b0cce402e270d4c2f62f527f7124530f0218b6f75",
+        "06/04-program-preparation.md": "3ef68746aa0a7be3e34657445bce1f0af706b60a4fdc5c7759b35b0e0f36f198",
+        "06/05-full-program-outline.md": "49bef753121cdbad8ec896f970d5140059343abb982ec630884ed32301e459e6",
+        "06/06-tell-the-story.md": "7f7107b169e3eedcea4521864a834a989eacbb3ad007b87651d9dbe0f4ef5fb5",
+        "06/07-nature-lesson.md": "8b2f43a028f809f12375cedd6d0b24de4d95dc75b676cea831328b2decd0c81c",
+        "06/08-craft.md": "f5a9a8323bdbece08cf349e4e6bfacc42342d448769381ba999971578e9bd110",
+        "07/01-overview.md": "bda83af90f6dbdddfca6f505c03a58e914b4a9c14a66953de91e11ba3875c354",
+        "07/02-a-quiet-moment.md": "f52bb09432cfd233cb7c48c379829d23b1f58fbf39a2a3e9eb5b81003e3c640c",
+        "07/03-simple-program-outline.md": "dc9ed9475990817116fed8a2f4b8a10e8dd25dbd09074216b5ecd48cde20d4be",
+        "07/04-program-preparation.md": "6b0cbc6474a55f2108dd3cba1833a1cfbb4fc8afefc4ba3e87077af917481174",
+        "07/05-full-program-outline.md": "5c4b0550a54200d5cd7fc4008df58d8995d0743d4aab2bff9f73d79293cfeae7",
+        "07/06-tell-the-story.md": "1ca61bee8be8c3d551312d849472897ae78b6f941843fb0624c9b80340bdb0be",
+        "07/07-mission-story.md": "30fe7beaf0c71a4ebb34ee7f8cbe21062fb5f6a25318a8bf8e01bd82b90a8443",
+        "07/08-craft.md": "a497d6aa884501ee3eb83fcdc19060dfdf64ce8906739acef582523f35f9f70c",
+        "08/01-overview.md": "3c8af58812c020302b7c000773a8c3fb200a4386bca856141d539b9300d01d8a",
+        "08/02-a-quiet-moment.md": "cadc37fdf0d1716ad0ab0fd7bafe54251834af326d059017ce936181a676d081",
+        "08/03-simple-program-outline.md": "4722f505d9efbd11ad09ec67c71d7f85e644d4a2226d1c01b0d3432daf34daf1",
+        "08/04-program-preparation.md": "5230c8d7e4aee6ff1a6279c2a1c5cd4b868dd8262e0e2c56692b62fc518bde18",
+        "08/05-full-program-outline.md": "c2bf41fdaa3f96399287b349b368cfdacdf6518426fdfe6f0acfeb94aec79112",
+        "08/06-tell-the-story.md": "1296fe1903d2959b4979ad974e5d8c587e33cf4795bbd86c79d1604359795f16",
+        "08/07-nature-lesson.md": "fc07a2c517a681b7a49f81e25b42f929fb347eaafd99fe1e42636a6c4eed8909",
+        "08/08-craft.md": "b860676f230850e170114b21911f5e57136345ab2b78f9e28d6fb818a91a22ab",
+        "09/01-overview.md": "b6478e9ed50625639694114b6d92b4de7569c7f7506d342c800e2c11d5ab178e",
+        "09/02-a-quiet-moment.md": "aa3ecb53811ca28bf9eba7885513b1ff50bb43f99590476895329ac820bef0fb",
+        "09/03-simple-program-outline.md": "40983430267454b8e18050da0328a7b1b060f34c463b7ed71383014084fc0688",
+        "09/04-program-preparation.md": "c0ab5f0c1b24eb69e7f3d648a786ca1dfec8e3cfe2de012cd255c60131a2656d",
+        "09/05-full-program-outline.md": "410234c4508c96ca0e006f27c03cb0105176733303cfc53f0ddf5bb5144b859d",
+        "09/06-tell-the-story.md": "22ab3c51fa53c5a9be32869e58e903edba348dbb603ff5c3bc4c081e8b90660f",
+        "09/07-mission-story.md": "da2a5701d4dcaedf09977467b84a57ccb7ea0fefc01fdaf4a45e8a5011547df8",
+        "09/08-craft.md": "9a9b0351ac5dd24e087a8e509a4c9b492eb2ffe03b16725a36d3b5ca46874451",
+        "10/01-overview.md": "6fbef09aa7f647edc7d8b532a73946f8de35c3eb59e07df1810e9bd30c4f9aba",
+        "10/02-a-quiet-moment.md": "e203b3d864e3bc59ccb0d333471ba8162e8a31dc55be8c5eb2e00c9a104cebff",
+        "10/03-simple-program-outline.md": "3f2ed27553cd9e43bcbf83132336a51ad8399d81ab0ca1dbc72d24b8ac270934",
+        "10/04-program-preparation.md": "388e4cdafb9f112e493d18e44934ba5183d490d3da61c9f961ee51e17594c78b",
+        "10/05-full-program-outline.md": "c7cdb9d34efbe3840200762c63378f48d93224edb005dd2d3357997ce0f5217a",
+        "10/06-tell-the-story.md": "c2ed4e08ae3a023587af0758153a2ea247443b626f0b81092335d9fdee896981",
+        "10/07-nature-lesson.md": "f4c914916ec440ab2803b9b51d92216254d6721e42455c6f94c15c5f6b51e205",
+        "10/08-craft.md": "f2a74482dc5d0708d1867946caa861383c21fc0da4a9b2b41a32f1a9f9c0d18d",
+        "11/01-overview.md": "389b9f34dfccd7ebfc8d2d70d7fa9e71427680cdbf36de3670e198863fe3feab",
+        "11/02-a-quiet-moment.md": "4f5c79744503171d3bc54d9d6f0d475f7880988bec2cbb33e3df1bb623d8a42b",
+        "11/03-simple-program-outline.md": "7a4c7c570bf283d6ef9aa592848ec97945ebbcdc3c658da9c43b84f1e1f9826e",
+        "11/04-program-preparation.md": "0d07c6c591396320c3a6b152b69d155d5883ca2d47125069574183dd6d9ecfa6",
+        "11/05-full-program-outline.md": "99842f5e88fc12f52e4c03f4f54d98e0523b5f7b4805a3b9d092bac635bc4fe6",
+        "11/06-tell-the-story.md": "95b3cd12e79e06448388ec6a6a78c8aa56a169edf6793eb6fefe97bb07b01ade",
+        "11/07-mission-story.md": "6d7bde7ac121e72958cb4deab244d7da3dd8bdc6c584562ee691fd4c7fbca8ba",
+        "11/08-craft.md": "b7fd9e8602d7d039c8ddc9e59392db79f43d118d503be580fbf182994125c89d",
+        "12/01-overview.md": "395c4e829c164a7ff3c5f4fd3ec22c7ac1083b442805801ede79fa44f93e11af",
+        "12/02-a-quiet-moment.md": "9f3871d690ffcfadf6e8471a488b0ba11ca60449f4d5bf62c6d3a19c6b16a00e",
+        "12/03-simple-program-outline.md": "883cabf0a51566e3cc4dd0f4b9ec4b343687dce10612a3b7a4356a861b873ab6",
+        "12/04-program-preparation.md": "c57b3856c6d76fb967898c09a513a99fe7a1a8089fc000e215798f7ad3140855",
+        "12/05-full-program-outline.md": "a91cb24e1b96c05d1164e78151a391aa3e72143f529b15b9d03d3247f40fe4e0",
+        "12/06-tell-the-story.md": "66941d03897423bc1dd1d49f1205fb96960f083dcaa076338180138c42f20dae",
+        "12/07-nature-lesson.md": "1b5e5df1c357a1e0632b0c684ec18d92d3ae48b43d39993fd6cd9f78df175f73",
+        "12/08-craft.md": "34a8516c87c0443f09abbf79ae70b2126108593538a357d1cbc01ec03068fe8c",
+        "13/01-overview.md": "9e3659ac06b9e61ae31fe812c776c94084d010250ef85de6396cc950e344c5e8",
+        "13/02-a-quiet-moment.md": "d6244f4dc9802780b8e5d7e82522a32495f57b4062339ac67b6d31a3b1f707bd",
+        "13/03-simple-program-outline.md": "717622279ef0cd52f9d0156cd4bba54eba08976ca1a830e25690cfea44af48ea",
+        "13/04-program-preparation.md": "5e6492e67181aab58aa84bd6f2d0a1016972cd38b33f93771ba57593c2673584",
+        "13/05-full-program-outline.md": "93fb4a5f10631d5cde853ff0e33587ffb8d18d86522fbcb0e2302186d855db42",
+        "13/06-tell-the-story.md": "8c5639e53d014c5614f7cf8a82694c6e36084a7c35378800e4ead3d5087f6c0a",
+        "13/07-mission-story.md": "b916c8802b50d1e92604871d4fb03b835618607c5fb2e452f4b8556d2157b82a",
+        "13/08-craft.md": "f539b0a026e2f432d2b134a7f92629ee678c6dffef0206586bdeb0bffabed9c9",
+        "13/09-resource.md": "fb4a1e04864953107062ba9b5eef772f788961de60b35ed26e299b67bdb19861",
+        "introduction.md": "50ce24e5f1f6a030ec764b2463d069812dbe248f0a210aa3f440cf8fa7999ac8"
+      }
+    }
+  },
+  "findings": [
+    "Preserve seven dated student readings per week and the independent weekly teacher guide.",
+    "Retain original English song names for provider recordings and hymns, with Indonesian subtitles; keep lyrics, reference links and ordinary narrative in Indonesian.",
+    "Quarterly playlist means the playlist for the current quarter, not playback once every three months; craft means kerajinan, not keahlian.",
+    "Correct unfinished twinkling translation, cardboard/wooden props, actors and movement direction in the healing story; remove English-specific three-word counts from Indonesian narration.",
+    "Correct grammatical learning objectives and idiomatic descriptions; preserve the existing approved Bible quotations and local verse numbering.",
+    "All original media and reference URLs remain intact; no editorial notes added to lesson text."
+  ],
+  "limitations": "AI editorial audit, without claiming a new human review, exhaustive perfection of every sentence or Android device testing.",
+  "changes": [
+    {
+      "file": "student/lesson-01/friday.md",
+      "before": "4507605c68bfbca0d6e562f08539fb55fc39e9d0c0a39a879edda21d32cac3d7",
+      "after": "fe8238e851420dc3862472b5b79b412f89fab99db24ab5127f194c3ce4f11dfe"
+    },
+    {
+      "file": "student/lesson-01/thursday.md",
+      "before": "0cfafeeae3ae9f824f8d724a380e40304c8a908cd777d5f25ce7b25aee85b0ec",
+      "after": "6f1682e570edb8898c667f45f77fb20dad83ceaf1bbdaf930c36c66e7ffccd3e"
+    },
+    {
+      "file": "student/lesson-01/wednesday.md",
+      "before": "0fb821e54bc4126f38c40030dfe9c849cf6f43f8c2688cf70f9a710657f0c462",
+      "after": "f83d436ae39efe35809f9b113f6f19e5ab9df7d9e84470a14f7d64834793ebe8"
+    },
+    {
+      "file": "student/lesson-02/friday.md",
+      "before": "8765638469e928c1958eea1bab71da5c01c9d7d9c5446d22fb1e401e1e04c7ad",
+      "after": "86c4a1cf544334a0313f12e902495e59d5c173b76388f9d58efbe6eac826c386"
+    },
+    {
+      "file": "student/lesson-02/monday.md",
+      "before": "b4c8ded6598fb1bff3600de9e9d85fcf59438a0cddcc76418fa28e7109c0a108",
+      "after": "4480d7401608c5dae0ba9cf17479173d8621de21874c9e68a95baf1fc21dac5e"
+    },
+    {
+      "file": "student/lesson-02/wednesday.md",
+      "before": "19bffd9618c8ed3e62121ab0355d5311882317f65aff5503486d5e2419ac8402",
+      "after": "83ae70f5ca37eb1a296f6a8764d492aae3259575ca3a9acd9771b1673040aa4d"
+    },
+    {
+      "file": "student/lesson-03/friday.md",
+      "before": "9546d4cfcc83442b55ac14312794b4474b9be25f456292b92732395f0c5389b2",
+      "after": "bab66e2aec5a139b2d8d6a09019c075aa6c052c9ed4cf6a24354aa7595a44233"
+    },
+    {
+      "file": "student/lesson-03/sabbath.md",
+      "before": "377a5e4c87daff545f25a13b86c4359db3380630745a1b4e77a8e3e82bbb2b92",
+      "after": "e5a4f18ddb59d33bdbce90b35307f2aca2d8a86dcf7ddfc4f026510e0ebe3a33"
+    },
+    {
+      "file": "student/lesson-04/friday.md",
+      "before": "c62a2fecbec8a9d5965e67d672ad38b3727f1070790142a6bea38b65544ee042",
+      "after": "9f56c700fabc3050d6e0b8df35aa5714d07654b9dda9ef43434a490b83876bbc"
+    },
+    {
+      "file": "student/lesson-04/sunday.md",
+      "before": "7216793df1329eb69103bacb6e0113789dfb9af6a4d97083089269f3f4b88ce3",
+      "after": "0c054a78d087e80c0ef00714104a115e7558e9a8f8592f3e9b6a308b862e0953"
+    },
+    {
+      "file": "student/lesson-04/thursday.md",
+      "before": "16604d1d6139ec90412bddeef3aa21052fe15b803090452ea35014bae13c78f9",
+      "after": "e2507c0686d6a401e3cedb6487973808693f5fe736422bb952b45cfde3d6debe"
+    },
+    {
+      "file": "student/lesson-04/wednesday.md",
+      "before": "f0929ef778afe6fb5c906e4bc2cca8e5f393bbe3b4589a228a58fc24b994ec80",
+      "after": "cbf05428ae83f68c24ae07dac3438982604026c5277f1c0fbbe32fbc457b8a56"
+    },
+    {
+      "file": "student/lesson-05/friday.md",
+      "before": "b8a2c9cb5eab3cc0b583511985ca49f1b24c433b46e2bf223507346217b2f833",
+      "after": "851c92d5d7edd907868864a704fbcaeb4f0c1e635d0965ad4b63acf384a1c95b"
+    },
+    {
+      "file": "student/lesson-06/friday.md",
+      "before": "c4705a720f42a8cc6c04b097200421eb8ca85b38da0ec02383618ef5d032061d",
+      "after": "d92c8cf70b97b3c611bd8fe818c00e8dbb7a65d0b9a93aed1abcb5d4553a8d6c"
+    },
+    {
+      "file": "student/lesson-07/friday.md",
+      "before": "5daa348ab4600d7647fd6aed53a98534508a16746d6f92e49722d2ea21edbd23",
+      "after": "f3d2950309a83314342522f47413354e85a6bacb183faed25dcc488a24be9367"
+    },
+    {
+      "file": "student/lesson-07/sunday.md",
+      "before": "9e63853843956353e966bd7e45c062611df3e375f04a08f7a4927960fc04f4bf",
+      "after": "6639bc7bf99d52c4e88533398c99ba60f249ef72dbfff047fe21b98a53ed2d2a"
+    },
+    {
+      "file": "student/lesson-07/thursday.md",
+      "before": "64a75232a413dcab0b0d74f95f04d9e52174fc007a0ebc19d2627d146232cfac",
+      "after": "07af57e484043cbe231fae14cc6018089e4c13c360efe534fb186becf943089c"
+    },
+    {
+      "file": "student/lesson-07/tuesday.md",
+      "before": "6b40f54881a3043e82f373ad3f41c5f7d11001a950327b0697d831f59f900594",
+      "after": "57da124ca6552c68dd1b6ee30f3273bf5a20abaa172511feeb21bc91caca83b3"
+    },
+    {
+      "file": "student/lesson-08/friday.md",
+      "before": "e7b7cdffd7d6eebae44f8746fd1edf3e962b819b229b0470d5f9a98080ece6d8",
+      "after": "f1f1ca662068b588de218ffb90650966d10a8aca2cb937d2ec8076ede0a75d26"
+    },
+    {
+      "file": "student/lesson-08/thursday.md",
+      "before": "ab70df77fb7919175dcd3dfa161fbb12d15289d570e2d8c792855dddc6199dde",
+      "after": "0991a41016d5b074632a2e4b3436c9764e414cb7f69e6ac1f3b077a321bb3f33"
+    },
+    {
+      "file": "student/lesson-08/wednesday.md",
+      "before": "a65762ea93045c56f94ea1b204d44975e8798694da8f8c73cd430e146e3f8f51",
+      "after": "21dd607b2483c72da4d254c14506d67ace3f7e785a7d0b4caa8838bc222b4605"
+    },
+    {
+      "file": "student/lesson-09/friday.md",
+      "before": "92ef8fe6b104b72f11cd2c52f30a993180f6d4ff0ec0559e84bdefb23e9dce90",
+      "after": "aae2243ef3e5eb6cd477805837122b6ed55c4f149826489eb2e193f8017ea20e"
+    },
+    {
+      "file": "student/lesson-09/wednesday.md",
+      "before": "59f2303b1d3fd23e4820a5c75f1e077c21859ee0d28679217a83427e16bf9e80",
+      "after": "7cfd3d450a81bc3351ea96836e2b46e71eb829b378171d8403c18776de8dd86b"
+    },
+    {
+      "file": "student/lesson-10/friday.md",
+      "before": "e3666bb7136755ff0af6550d80b530afb05559ff224382805a1c7804fd3c29d9",
+      "after": "f2acddca29cb6633ea7fc6db8185cc1f7faa68516a6e5ff399d9567f8f0c38dc"
+    },
+    {
+      "file": "student/lesson-11/friday.md",
+      "before": "01688d4138ff5498988a58721044dc4ac5cfb3aea0df3628a1526b5a1306966f",
+      "after": "1b442e278a1ab279f35d294caa36f2e5267cbf2ed2826d535ae86171632e086e"
+    },
+    {
+      "file": "student/lesson-11/thursday.md",
+      "before": "43ef230fbb54b487ac88efdf22f6d850ab141882a71370db7bfd9463cf452214",
+      "after": "b782d27190cdcd9c6d80c62b55f5f04f2bd856f23f5bb1b60481df72819a4a63"
+    },
+    {
+      "file": "student/lesson-12/friday.md",
+      "before": "1f42ad9f55d8e10cf925c7f578610e4a6ef11ac59fff4ba3fe18c89a164d9fec",
+      "after": "cce4ea37e88cadc3f76dc9eb1cfaa8cbd0cfe3d183d0fc42c59ad8287ae451d7"
+    },
+    {
+      "file": "student/lesson-13/friday.md",
+      "before": "796db1ddedc6af3c8d094ccd274835dbdc1ae805d543ce870bcebd3ebf0c0d20",
+      "after": "73ceb8337f77f1a3088fc2ee1ca60a2d5578434ae94a4607d0eb4edc4f606cd0"
+    },
+    {
+      "file": "student/lesson-13/monday.md",
+      "before": "c1b9b6c363be11f3c95105faa8ef2e134ac40e6b47a6f2c88eecea8d477fc3ec",
+      "after": "a89a17f1943753e079f7e12994c4f2b3843863a0bd4f5aea228684495e7ee0f1"
+    },
+    {
+      "file": "student/unit-resource-family/music-and-podcasts.md",
+      "before": "cacf9e39246e8f17d7c9cf98963d75b7818d80e0de3055f59972627f656a85f3",
+      "after": "fa4fbc9e9b490939fbcb08771f73b976cec6d76bed53fce505bf5d1f07dde71e"
+    },
+    {
+      "file": "teacher/lesson-01/teacher-guide.md",
+      "before": "732d66052cbde1878cbe9b82f9f1e3adebfb8c32f0f56bddaa6979c274c14584",
+      "after": "c57f690a191d94ce926e4b83322a2d81d1f5cceaae2872a66aa3b248da848110"
+    },
+    {
+      "file": "teacher/lesson-02/teacher-guide.md",
+      "before": "784194c92b4283c92a477eb5c1abf3ab6bafb22c2f61b9216f302c58b6f0402a",
+      "after": "0a9331a41985a4ce76649b691baf1d699d68a702717158737b4eab9da5d2aabc"
+    },
+    {
+      "file": "teacher/lesson-03/teacher-guide.md",
+      "before": "689a82e6966ef2accc50db6e8e9856e68a7551696641332bd1a69f93dffde656",
+      "after": "709d1d62c6e44c4702be3f493800f48e0173d998ed30f37427173e1e06c06c72"
+    },
+    {
+      "file": "teacher/lesson-04/teacher-guide.md",
+      "before": "975864bce53408f1b83b1df696f9505dce1a277c85f4781066e57d7badf8b49c",
+      "after": "999146257ccab8e5d0f8e69d92c46f8ae6d19a19226ad38c14b75fd223ece3f7"
+    },
+    {
+      "file": "teacher/lesson-05/teacher-guide.md",
+      "before": "10f7295b6498403d5aa82c42df5c96b831917da2255b94465cece90a9ac57675",
+      "after": "d232f275b6ee8519bbb9b588c5c2b079b262404f0e7eb85acf44f25fab8a429b"
+    },
+    {
+      "file": "teacher/lesson-06/teacher-guide.md",
+      "before": "3919c12e158953f0d1e48068eaaf3ae719034d6b1f4eb3f8add93f9cd700829e",
+      "after": "5f671c911d99a1431cde2a09b432249aa47ed309d081c8d7b3c40882208eb72d"
+    },
+    {
+      "file": "teacher/lesson-07/teacher-guide.md",
+      "before": "a4da9e52566f34e8f617fbca33518745e30ab384d1a77c2b28d85abee5dbc022",
+      "after": "6fa3171ffccc9bec846c4223cfff745135e699620c64f22b2b9a87988bbc8fcd"
+    },
+    {
+      "file": "teacher/lesson-08/teacher-guide.md",
+      "before": "1883b75b76bf8aa212e0a0ce564c8af8a25cd34bfb4dde7eec681473c144d861",
+      "after": "b5a886a1f286b8e476909a1426aa0ef58b02fd572d895e585708e081fb345898"
+    },
+    {
+      "file": "teacher/lesson-09/teacher-guide.md",
+      "before": "51c31e19af4a13243256467c008dacf0feafa10ecefc4bd0cb7480a63af0c804",
+      "after": "ff5551b10837ed48b92a5890bca8125741678111f5c5a6cba406af322a2780e4"
+    },
+    {
+      "file": "teacher/lesson-10/teacher-guide.md",
+      "before": "4bd1e6368519358afb0db2eecaeeb05d8657f25f2ce6ac07d317dd6ea54ef3a9",
+      "after": "c7abadfc44caa23c1599d749d17faeef36df21f24a354136fd96a5681ede3ced"
+    },
+    {
+      "file": "teacher/lesson-11/teacher-guide.md",
+      "before": "644215f18fcb8f8b3aa6bef3929325429433509dd2ae433a5cb35eea2939ae34",
+      "after": "f6ab8eed892543a64e2d7eb34a05a21f03832dfe2a44cf5ee2d40d1109a705d4"
+    },
+    {
+      "file": "teacher/lesson-12/teacher-guide.md",
+      "before": "fd08d4a0215a328a843742bc7f13e75ce526aa54433ef847195533ecbf5e8f86",
+      "after": "cea59f4c66927e8092fafe513fbaf03fbde64b184f6a35baa662b0e8dfe2afe4"
+    },
+    {
+      "file": "teacher/lesson-13/teacher-guide.md",
+      "before": "882b3ea5f8e9cd8ba7727d553358f9c2c929c5f26d8e390f3001d2d4badffe40",
+      "after": "ca7c81846379a91f4c2c88872aebd5027f82f966b95a4f760929e10a4136de6e"
+    },
+    {
+      "file": "teacher/unit-resource-01/resource.md",
+      "before": "d3aa4563528636bbd876346ecb5bc541252118483c86b0bb93a98f07cb4fc464",
+      "after": "a77f0d46afe8fcd65703b411bd576dd2998c55bcf353af29e50099a2cfe82e17"
+    },
+    {
+      "file": "teacher/unit-resource-06/resource.md",
+      "before": "7725dc08fc3dcd4f1fef263bc87a74acd3e64983fd3ee711564c160411105c4a",
+      "after": "564bea0d4eefc65ded653d2610e6ad644afc0d72ffdd9cd77c218a6106c81828"
+    }
+  ]
+}

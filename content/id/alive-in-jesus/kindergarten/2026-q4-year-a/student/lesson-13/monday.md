@@ -12,7 +12,7 @@ Apa yang Yesus katakan? **Bacalah Yohanes 11:4.**
 
 Sembari berlari pulang, utusan itu menyampaikan firman Yesus kepada Maria dan Marta. _Sungguh melegakan! Lazarus akan sembuh!_
 
-Maria dan Marta merawat saudara mereka. Dua hari berlalu. Yesus tidak datang. Akhirnya, dengan kesedihan yang mendalam, mereka menyaksikan Lazarus menghembuskan napas terakhirnya dan meninggal.
+Maria dan Marta merawat saudara mereka. Dua hari berlalu. Yesus tidak datang. Akhirnya, dengan kesedihan yang mendalam, mereka menyaksikan Lazarus mengembuskan napas terakhirnya dan meninggal.
 
 Kembali di kota tempat Yesus berada, para murid merasa bingung. Sudah dua hari sejak utusan itu datang. Dua hari penuh! Mengapa Yesus tidak segera pergi untuk membantu teman-Nya yang sakit?
 

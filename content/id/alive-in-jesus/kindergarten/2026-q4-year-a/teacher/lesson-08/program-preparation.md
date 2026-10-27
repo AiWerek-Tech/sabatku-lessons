@@ -25,18 +25,18 @@ Siapkan kertas konstruksi berwarna, pensil, spidol, pelubang kertas, gunting, pe
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Berkemaslah”
-	- “Kami Menyambut Anda”
-	- “Yesus Adalah Tuhanku”
+	- “Pack It Up” (Berkemaslah)
+	- “We Welcome You” (Kami Menyambutmu)
+	- “Jesus Is My God” (Yesus Tuhanku)
 	- “Yesus mengasihiku, dan aku mengasihi Yesus”
-	- “Hari Sabat”
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
-	- Lagu Ayat Alkitab: “Markus 2:28”
-	- “Yesus Mampu”
+	- “The Sabbath” (Hari Sabat)
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
+	- Lagu Ayat Alkitab: “Mark 2:28” (Markus 2:28)
+	- “Jesus Can” (Yesus Mampu)
 - Kartu Koleksi Alam 47: Singa
 - PowerPoint Program Pekan ke-8
 - Fakta Singkat Misi

@@ -40,17 +40,17 @@ Cetak templat kerajinan pekan ke-11 di atas kertas karton putih, dan siapkan spi
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Berkemaslah”
-	- “Kami Menyambut Anda”
-	- “Aku Bisa Percaya pada Tuhan”
-	- "Selalu"
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
-	- Lagu Ayat Alkitab: “Matius 8:13”
-	- “Yesus Mampu”
+	- “Pack It Up” (Berkemaslah)
+	- “We Welcome You” (Kami Menyambutmu)
+	- “I Can Trust God” (Aku Dapat Memercayai Tuhan)
+	- "Always" (Selalu)
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
+	- Lagu Ayat Alkitab: “Matthew 8:13” (Matius 8:13)
+	- “Jesus Can” (Yesus Mampu)
 - Kartu Koleksi Alam 50: Bintang Berkelap-kelip
 - PowerPoint Program Pekan ke-11
 - Fakta Singkat Misi

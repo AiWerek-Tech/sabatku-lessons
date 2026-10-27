@@ -6,9 +6,9 @@
 
 **BERMAIN:** Siapkan adonan mainan (play-dough) dan minta anak-anak menggunakannya untuk menunjukkan sesuatu yang mereka sukai lakukan pada hari Sabat.
 
-**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack It Up.”
+**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack It Up” (Berkemaslah).
 
-[♫ Berkemaslah](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
+[♫ Pack It Up (Berkemaslah)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
 
 ### SAMBUTAN, LAGU-LAGU, DOA (5 MENIT)
 
@@ -16,44 +16,44 @@
 
 **MENYANYI:** Nyanyikan lagu-lagu berikut dengan gerakan dan alat peraga:
 
-- “Kami Menyambut Anda”
-- “Yesus Adalah Tuhanku”
+- “We Welcome You” (Kami Menyambutmu)
+- “Jesus Is My God” (Yesus Tuhanku)
 - “Yesus Mengasihi Saya, dan Saya Mengasihi Yesus”
-- “Hari Sabat”
-- “Lagu Pengunjung” dan ucapan terima kasih
-- “Selamat Ulang Tahun” untuk setiap anak yang berulang tahun minggu lalu
+- “The Sabbath” (Hari Sabat)
+- “Visitor Song” (Lagu Pengunjung) dan ucapan terima kasih
+- “Happy Birthday” (Selamat ulang tahun) untuk setiap anak yang berulang tahun minggu lalu
 
 ### Lagu Pujian
 
-[♫ Kami Menyambut Anda](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
+[♫ We Welcome You (Kami Menyambutmu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
 
-[♫ Yesus Adalah Tuhanku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-is-my-god.mp3)
+[♫ Jesus Is My God (Yesus Tuhanku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-is-my-god.mp3)
 
-[♫ Yesus Mengasihi Aku dan Aku Mengasihi Yesus](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-loves-me-and-i-love-jesus.mp3)
+[♫ Jesus Loves Me and I Love Jesus (Yesus Mengasihi Aku dan Aku Mengasihi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-loves-me-and-i-love-jesus.mp3)
 
-[♫ Hari Sabat](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/the-sabbath.mp3)
+[♫ The Sabbath (Hari Sabat)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/the-sabbath.mp3)
 
-[♫ Lagu Pengunjung](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
+[♫ Visitor Song (Lagu Pengunjung)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
 
-[♫ Selamat ulang tahun](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
+[♫ Happy Birthday (Selamat ulang tahun)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
 
-**BERDOA:** Nyanyikan lagu “When I Kneel Down to Pray” (Saat Aku Berlutut untuk Berdoa). Kemudian ajak seorang anak untuk berdoa. Lalu berdoalah juga, ucapkan terima kasih kepada Yesus atas firman-Nya dalam Alkitab dan atas karunia kasih-Nya berupa hari Sabat.
+**BERDOA:** Nyanyikan lagu “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa). Kemudian ajak seorang anak untuk berdoa. Lalu berdoalah juga, ucapkan terima kasih kepada Yesus atas firman-Nya dalam Alkitab dan atas karunia kasih-Nya berupa hari Sabat.
 
-[♫ Saat Aku Berlutut untuk Berdoa](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
+[♫ When I Kneel Down To Pray (Saat Aku Berlutut untuk Berdoa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
 
 ### PERSEMBAHAN DAN AYAT HAFALAN (6 MENIT)
 
-**MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang penawaran misi triwulan ini.
+**MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang persembahan misi triwulan ini.
 
-**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand,” dan ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan.
+**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku), dan ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan.
 
-[♫ Bukalah Hatiku, Bukalah Tanganku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
+[♫ Open My Heart, Open My Hand (Bukalah Hatiku, Bukalah Tanganku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
 
 Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
 
-BERNYANYI dan BERDISKUSI: Nyanyikan lagu “Firman Tuhan.” Ajak seorang anak maju ke depan dan memegang Alkitab khusus kelas. Tekankan bahwa semua kata dalam Alkitab adalah benar.
+BERNYANYI dan BERDISKUSI: Nyanyikan lagu “God’s Words” (Firman Tuhan). Ajak seorang anak maju ke depan dan memegang Alkitab khusus kelas. Tekankan bahwa semua kata dalam Alkitab adalah benar.
 
-[♫ Firman Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
+[♫ God’s Words (Firman Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
 
 - Kapan Tuhan menciptakan hari Sabat yang pertama? (Pada hari ketujuh Penciptaan.)
 
@@ -63,7 +63,7 @@ Sampaikan bahwa Tuhan menciptakan hari Sabat selama Pekan Penciptaan. Ayat hafal
 
 Dengarkan dan nyanyikan Lagu Ayat Alkitab Markus 2:28.
 
-[♫ Markus 2:28](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/8-mark-2-28.mp3)
+[♫ Mark 2:28 (Markus 2:28)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/8-mark-2-28.mp3)
 
 ### KOTAK KEJUTAN RAHASIA (7 MENIT)
 
@@ -103,9 +103,9 @@ Apa satu hal yang paling Anda sukai tentang hari Sabat?
 
 ### KERAJINAN TANGAN (15 MENIT)
 
-**KEAHLIAN:** Uluran Tangan. Ajak anak-anak membuat kerajinan tangan untuk mengingatkan mereka agar menggunakan tangan mereka untuk menyampaikan kasih Yesus kepada orang lain—seperti permainan “Estafet Bungkusan” kita. Saat mereka bekerja, diskusikan pertanyaan berikut dengan banyak pertanyaan pendukung.
+**KERAJINAN:** Uluran Tangan. Ajak anak-anak membuat kerajinan tangan untuk mengingatkan mereka agar menggunakan tangan mereka untuk menyampaikan kasih Yesus kepada orang lain—seperti permainan “Estafet Bungkusan” kita. Saat mereka bekerja, diskusikan pertanyaan berikut dengan banyak pertanyaan pendukung.
 
-- Bagaimana Anda dapat menunjukkan kebaikan kepada seseorang seperti yang Yesus lakukan, pada hari Sabat? (Tersenyum, bersikap ceria, mengunjungi seseorang yang kesepian, berbagi kisah atau ayat Alkitab, mengundang mereka ke Sekolah Sabat, memberi hadiah, bernyanyi atau memainkan alat musik untuk mereka, dll.)
+- Bagaimana kamu dapat menunjukkan kebaikan kepada seseorang seperti yang Yesus lakukan, pada hari Sabat? (Tersenyum, bersikap ceria, mengunjungi seseorang yang kesepian, berbagi kisah atau ayat Alkitab, mengundang mereka ke Sekolah Sabat, memberi hadiah, bernyanyi atau memainkan alat musik untuk mereka, dll.)
 
 **TANTANGAN MISI:** Terima kasih kepada anak-anak karena telah berdoa untuk para pembangun dan pengrajin misionaris minggu lalu. Tantangan Misi pekan ini adalah berdoa setiap hari pekan ini untuk para petani dan pengusaha yang merupakan misionaris. Apa yang bisa kalian tanam atau berikan untuk membantu orang lain belajar tentang Yesus?
 
@@ -113,8 +113,8 @@ Apa satu hal yang paling Anda sukai tentang hari Sabat?
 
 Mari kita meneladani Yesus dan menjadikan hari Sabat ini (hari ini) sebagai sukacita bagi orang lain. Ulangi Pesan Utama: Yesus dapat melakukan apa saja. Dia memberi kita hari Sabat. Kemudian lambaikan tongkat pita dan serukan “Selamat Hari Sabat!”
 
-**MENYANYI:** Nyanyikan lagu “Yesus Bisa.” Sampaikan bahwa minggu depan kita akan belajar tentang orang lain yang disembuhkan Yesus pada hari Sabat.
+**MENYANYI:** Nyanyikan lagu “Jesus Can” (Yesus Mampu). Sampaikan bahwa minggu depan kita akan belajar tentang orang lain yang disembuhkan Yesus pada hari Sabat.
 
-[♫ Yesus Mampu](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
+[♫ Jesus Can (Yesus Mampu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
 
 **BERDOA:** Berdoalah, ucapkan terima kasih kepada Tuhan karena telah memberi kita karunia yang luar biasa berupa hari Sabat. Mintalah kepada-Nya agar Dia membantu kita untuk membagikan kasih-Nya kepada orang lain hari ini dan setiap hari Sabat.

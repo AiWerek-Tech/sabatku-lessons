@@ -21,7 +21,7 @@ Kurikulum Alive in Jesus Beginner dirancang sebagai kurikulum tiga tahun untuk a
 
 ### Perkembangan Sosial dan Emosi
 
-- Perlu merasa diterima serta dapat mempercayai orang di sekitarnya.
+- Perlu merasa diterima serta dapat memercayai orang di sekitarnya.
 - Menginginkan dukungan dan pengakuan.
 - Bertumbuh baik dalam suasana kasih dan penerimaan tanpa syarat.
 - Umumnya masih memandang kejadian dari sudut pandang dirinya sendiri.

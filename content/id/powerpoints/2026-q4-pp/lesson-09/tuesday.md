@@ -8,7 +8,7 @@ Hal-hal besar apakah yang telah Allah lakukan dalam hidupmu?
 
 ## Daftarkan
 
-Dalam jurnal pelajaran Alkitabmu, tuliskan lima hal yang membuatmu ingin memuji Allah hari ini.
+Dalam jurnal pendalaman Alkitabmu, tuliskan lima hal yang membuatmu ingin memuji Allah hari ini.
 
 ## Doakan
 

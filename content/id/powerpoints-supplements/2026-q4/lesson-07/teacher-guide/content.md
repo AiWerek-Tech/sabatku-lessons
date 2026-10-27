@@ -215,8 +215,8 @@ Sampaikan suka dan duka para siswa (pengalaman menyenangkan maupun kesulitan) ya
 
 ### Lagu yang Disarankan
 
-- “Lord, Be Glorified” (*He Is Our Song*, no. 148).
-- “Glorify You” (*He Is Our Song*, no. 21).
+- “Lord, Be Glorified” (Tuhan, Dimuliakanlah Engkau) (*He Is Our Song*, no. 148).
+- “Glorify You” (Memuliakan-Mu) (*He Is Our Song*, no. 21).
 
 ### Misi
 
@@ -424,7 +424,7 @@ Bacalah 1 Korintus 12:12–31.
 
 ## Tuliskan
 
-Dalam jurnal pelajaran Alkitabmu, gambarlah atau buatlah daftar anggota-anggota tubuh yang disebutkan dalam ayat-ayat tersebut. Di samping setiap anggota tubuh, tuliskan berbagai tanggung jawab dalam jemaatmu yang mengingatkanmu bahwa jemaat bekerja seperti satu tubuh dengan berbagai anggotanya.
+Dalam jurnal pendalaman Alkitabmu, gambarlah atau buatlah daftar anggota-anggota tubuh yang disebutkan dalam ayat-ayat tersebut. Di samping setiap anggota tubuh, tuliskan berbagai tanggung jawab dalam jemaatmu yang mengingatkanmu bahwa jemaat bekerja seperti satu tubuh dengan berbagai anggotanya.
 
 ## Doakan
 

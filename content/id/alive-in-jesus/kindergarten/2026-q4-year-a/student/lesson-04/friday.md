@@ -34,4 +34,4 @@ Pilih atau buat benda lain untuk dijadikan pengingat pelajaran pekan ini. Letakk
 
 ### Untuk Orang Tua
 
-“Sekarang kita dapat berasumsi bahwa kaki kita berdiri kokoh, dan bahwa kita tidak akan pernah tergoyahkan. . . . Hanya dengan menyadari kelemahan kita sendiri dan memandang teguh kepada Yesus kita dapat berjalan dengan aman” (Ellen G. White, _The Desire of Ages_, hlm. 382.4).
+“Sekarang mungkin kita merasa telah berdiri kokoh dan tidak akan pernah tergoyahkan. . . . Hanya dengan menyadari kelemahan kita sendiri dan memandang teguh kepada Yesus kita dapat berjalan dengan aman” (Ellen G. White, _The Desire of Ages_, hlm. 382.4).

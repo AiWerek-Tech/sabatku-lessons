@@ -23,7 +23,7 @@ Helen Keller menjadi terkenal karena semua yang dilakukannya untuk membantu oran
 
 ### Ayo Lakukan
 
-Ceritakan betapa yakinnya Bartimeus bahwa Yesus akan mendengarkan dan membantunya. Nyanyikan lagu, “Aku Telah Memutuskan untuk Mengikuti Yesus” atau lagu lain yang kamu ketahui tentang memilih Yesus.
+Ceritakan betapa yakinnya Bartimeus bahwa Yesus akan mendengarkan dan membantunya. Nyanyikan lagu, “I Have Decided to Follow Jesus” (Aku Telah Memutuskan Mengikut Yesus) atau lagu lain yang kamu ketahui tentang memilih Yesus.
 
 ### Ide Doa
 

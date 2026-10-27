@@ -16,7 +16,7 @@ Alkitab mengatakan kepada kita, “Orang itu percaya kepada apa yang dikatakan Y
 
 Dengan hati yang gembira, bangsawan itu berterima kasih kepada Yesus. Kemudian dengan senyum lebar di wajahnya, ia berjalan pergi, karena tahu bahwa kata-kata Yesus itu benar.
 
-Perkataan Yesus selalu benar. Kita dapat mempercayai Alkitab. Ucapkan ayat hafalanmu dan ucapkan terima kasih kepada Yesus atas firman-Nya yang penuh kuasa.
+Perkataan Yesus selalu benar. Kita dapat memercayai Alkitab. Ucapkan ayat hafalanmu dan ucapkan terima kasih kepada Yesus atas firman-Nya yang penuh kuasa.
 
 ### Percakapan Iman Orang Tua
 

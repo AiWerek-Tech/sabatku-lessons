@@ -219,11 +219,11 @@ Sampaikan sukacita maupun kesedihan para siswa—hal-hal yang menyenangkan atau 
 
 ## Lagu yang Disarankan (Suggested Songs)
 
-- “You Are My Hiding Place” — *He Is Our Song*, No. 96.
-- “Faithful One” — *Praise Time*, No. 46.
-- “O Lord, You're Beautiful” — *He Is Our Song*, No. 23.
-- “Face to Face” — *He Is Our Song*, No. 143.
-- “Come Away” — *He Is Our Song*, No. 74.
+- “You Are My Hiding Place” (Engkaulah Tempat Perlindunganku) — *He Is Our Song*, No. 96.
+- “Faithful One” (Engkau yang Setia) — *Praise Time*, No. 46.
+- “O Lord, You're Beautiful” (Tuhan, Engkau Indah) — *He Is Our Song*, No. 23.
+- “Face to Face” (Berhadapan Muka) — *He Is Our Song*, No. 143.
+- “Come Away” (Mari Menyendiri bersama-Nya) — *He Is Our Song*, No. 74.
 
 *Judul dan rujukan lagu dipertahankan sebagaimana sumber; lirik tidak disediakan dalam halaman ini.*
 
@@ -237,7 +237,7 @@ Gunakan *Adventist Mission* untuk remaja dan dewasa (kunjungi www.juniorpowerpoi
 
 **Perlengkapan:** kotak persembahan pelangi dan *He Is Our Song*.
 
-Lanjutkan penggunaan kotak persembahan pelangi dari tiga minggu sebelumnya. Pilih warna lain dan bicarakan apa yang dilambangkan oleh warna tersebut. Anda dapat menyanyikan satu bait lagu “The Coloring Song” (*He Is Our Song*, No. 61).
+Lanjutkan penggunaan kotak persembahan pelangi dari tiga minggu sebelumnya. Pilih warna lain dan bicarakan apa yang dilambangkan oleh warna tersebut. Anda dapat menyanyikan satu bait lagu “The Coloring Song” (Nyanyian tentang Warna) (*He Is Our Song*, No. 61).
 
 **Tanyakan:** Bagaimana warna ini mencerminkan kasih karunia Allah?
 
@@ -459,7 +459,7 @@ Bacalah **1 Raja-raja 19:1–9**.
 
 #### Pikirkan
 
-Dalam kisah itu, Elia merasa takut dan melarikan diri untuk menyelamatkan nyawanya. Namun, Allah tidak menyerah terhadapnya. Allah memberikan bukti kepada Elia bahwa Dia akan terus memeliharanya.
+Dalam kisah itu, Elia merasa takut dan melarikan diri untuk menyelamatkan nyawanya. Namun, Allah tidak berhenti memedulikannya. Allah memberikan bukti kepada Elia bahwa Dia akan terus memeliharanya.
 
 #### Tuliskan
 

@@ -21,7 +21,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[Berbagi dan Memuji]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Bergantianlah menyebutkan hal-hal yang mustahil untuk kamu lakukan, tetapi tidak mustahil bagi Tuhan.\
 • Mintalah orang dewasa untuk berbagi pengalaman tentang suatu masa dalam hidup mereka ketika mereka tidak mampu melakukan sesuatu sendiri. Kepada siapa mereka meminta bantuan?\
-• Nyanyikan lagu “Aku Terus Percaya pada Tuhanku” atau “Arahkan Pandanganmu kepada Yesus” (Buku Nyanyian Gereja Advent Hari Ketujuh, no. 290). Ketika kita percaya kepada Tuhan dan tetap mengarahkan pandangan kita kepada-Nya, Dia membantu kita melakukan hal yang mustahil.\
+• Nyanyikan lagu “I Just Keep Trusting My Lord” (Aku Terus Percaya kepada Tuhanku) atau “Turn Your Eyes Upon Jesus” (Arahkan Pandanganmu kepada Yesus) (Buku Nyanyian Gereja Advent Hari Ketujuh, no. 290). Ketika kita percaya kepada Tuhan dan tetap mengarahkan pandangan kita kepada-Nya, Dia membantu kita melakukan hal yang mustahil.\
 • Gunakan plastisin untuk membentuk sosok manusia dan salib. Posisikan sehingga mata menghadap salib, sebagai pengingat untuk tetap fokus pada Yesus.\
 \
 ^[Jurnal Keluarga]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\

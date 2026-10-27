@@ -19,7 +19,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 - **Bacalah Yesaya 45:22**, ayat hafalanmu. Seberapa besar kemungkinan murid-murid menyukai ayat ini?
 
 {"style": {"block": {"backgroundColor": "#eef0f1", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#56666f"}}}
-^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Nyanyikan dan diskusikan lirik bagian refrain dari lagu “Turn Your Eyes Upon Jesus,” himne nomor 290 dalam Buku Nyanyian Gereja Advent Hari Ketujuh:\
+^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Nyanyikan dan diskusikan lirik bagian refrain dari lagu “Turn Your Eyes Upon Jesus” (Arahkan Pandanganmu kepada Yesus), himne nomor 290 dalam Buku Nyanyian Gereja Advent Hari Ketujuh:\
 “Arahkan pandanganmu kepada Yesus, tataplah wajah-Nya yang menakjubkan. Maka segala sesuatu di bumi akan tampak samar dalam terang kemuliaan dan kasih karunia-Nya.”
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}

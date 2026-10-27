@@ -9,7 +9,7 @@ Pemimpin sinagoge yang marah itu salah paham tentang hari Sabat. Ia telah melewa
 
 Yesus menggelengkan kepala-Nya. Ia berkata, “Kalian semua adalah orang-orang munafik! Kalian semua melepaskan hewan-hewan pekerja kalian dan membawa mereka minum air setiap hari—bahkan pada hari Sabat! Perempuan yang Kusembuhkan ini adalah saudari kita orang Yahudi. . . . Tentu tidak salah jika ia disembuhkan dari penyakitnya pada hari Sabat!” (Lukas 13:15,16, ICB).
 
-Pemimpin sinagoge dan orang-orang yang mempercayainya terdiam. Mereka telah melihat dan mendengar kebenaran.
+Pemimpin sinagoge dan orang-orang yang memercayainya terdiam. Mereka telah melihat dan mendengar kebenaran.
 
 Orang-orang juga telah melihat dan mendengar kebenaran, dan mereka sangat gembira. Tentu saja wanita itu lebih penting daripada seekor binatang! Tentu saja salah satu anak Allah layak disembuhkan pada hari Sabat! Kebenaran itu sangat masuk akal.
 

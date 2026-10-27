@@ -61,7 +61,7 @@ Aku sudah menggambar peta tembok itu. Dengan begitu, aku akan tahu di mana menem
 
 **Petunjuk:** Perhatikan ayat berikut:
 
-> “Serahkanlah kepada TUHAN apa pun yang kamu lakukan, maka Ia akan meneguhkan rencana-rencanamu.” (Amsal 16:3; redaksi Indonesia perlu diperiksa terhadap TB 1974).
+> “Serahkanlah kepada TUHAN apa pun yang kamu lakukan, maka Ia akan meneguhkan rencana-rencanamu.” (Amsal 16:3).
 
 Dapatkah kamu memasukkan semua kata dari ayat tersebut ke dalam kotak-kotak pada diagram? Kata-kata dapat ditulis dari kiri ke kanan ataupun sebaliknya. Untuk membantumu memulai, beberapa huruf telah tersedia.
 

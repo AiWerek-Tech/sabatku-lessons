@@ -1,0 +1,48 @@
+{
+  "shared": [
+    ["mempercayai", "memercayai"],
+    ["Mempercayai", "Memercayai"],
+    ["menghembuskan", "mengembuskan"],
+    ["jurnal belajar Alkitabmu", "jurnal pendalaman Alkitabmu"],
+    ["jurnal pelajaran Alkitabmu", "jurnal pendalaman Alkitabmu"],
+    ["mazbah", "mezbah"],
+    ["Mazbah", "Mezbah"],
+    ["bagian refrain", "bagian refrein"],
+    ["orang-orang Majus", "orang-orang majus"],
+    ["(Amsal 16:3; redaksi Indonesia perlu diperiksa terhadap TB 1974)", "(Amsal 16:3)"],
+    ["(1 Yohanes 4:19; terjemahan makna sumber NIV — **periksa redaksi TB 1974**)", "(1 Yohanes 4:19)"],
+    ["Kristen yang baru ketika Yesus tidak lagi bersama mereka", "Kristen yang baru setelah Yesus kembali ke surga"],
+    ["Allah tidak menyerah terhadapnya", "Allah tidak berhenti memedulikannya"],
+    ["Tuhan menyediakan sarana untuk perjalanan ke Mesir", "Tuhan menyediakan kebutuhan untuk perjalanan ke Mesir"],
+    ["Mintalah kepada Allah agar Dia memperlengkapimu dengan perlengkapan senjata-Nya.", "Mintalah kepada Allah agar Ia memperlengkapimu dengan seluruh senjata rohani-Nya."],
+    ["Mintalah agar Allah menolongmu menerima panggilan-Nya, supaya kamu dapat melakukan pekerjaan yang untuknya Dia telah memilihmu.", "Mintalah agar Allah menolongmu menerima panggilan-Nya dan melakukan tugas yang Ia percayakan kepadamu."],
+    ["Apa saja hal-hal selain Allah yang dipercayai orang, dan mengapa mereka memercayainya?", "Selain Allah, apa saja yang dijadikan sandaran oleh orang-orang, dan mengapa?"],
+    ["karakter yang berintegritas", "sikap jujur dan teguh dalam kebenaran"],
+    ["Gambarlah atau buatlah seekor burung.", "Gambarlah seekor burung atau buatlah burung dari bahan prakarya."],
+    ["Tampilkan judul PowerPoint", "Tampilkan Pesan Utama"],
+    ["; terjemahan dari kutipan yang dicetak dalam penuntun.", "."],
+    ["; terjemahan dari kutipan dalam sumber guru.", "."],
+    ["; terjemahan puisi dari kutipan dalam sumber.", "."],
+    ["jurnal pendalaman Alkitabmu,*", "jurnal pendalaman Alkitabmu,"],
+    ["\\*Jurnal belajar Alkitab terdapat di bagian belakang buku panduan belajar Alkitab *PowerPoints*. Jika memerlukan ruang tambahan, gunakan buku catatan atau buat berkas khusus di komputermu. Menuliskan pikiran dan gagasan setiap kali kamu belajar Alkitab membantu menanamkannya dalam ingatanmu.", "Gunakan catatan belajarmu atau buku tulis sebagai jurnal pendalaman Alkitab. Menuliskan pikiran dan gagasan saat belajar membantu kamu mengingatnya."],
+    ["**Catatan sumber:** Jika kelas Anda besar", "**Penyesuaian kegiatan:** Jika kelas Anda besar"]
+  ],
+  "files": {
+    "student/lesson-02/sabbath.md": [
+      ["Lihat gambar teka-teki sumber berjudul `Teka-teki Pelajaran 02 - Sumber.png`.", "![Teka-teki sumber bahasa Inggris](../../assets/puzzle-02.png)"]
+    ],
+    "student/lesson-01/wednesday.md": [
+      ["jurnal pendalaman Alkitabmu,*", "jurnal pendalaman Alkitabmu,"]
+    ],
+    "student/lesson-07/tuesday.md": [
+      ["gambarlah atau buatlah daftar anggota-anggota tubuh yang disebutkan dalam ayat-ayat tersebut", "gambarlah anggota-anggota tubuh yang disebutkan dalam ayat-ayat tersebut atau tuliskan daftarnya"]
+    ],
+    "teacher/lesson-09/teacher-guide/content.md": [
+      ["(*He Is Our Song*, No. 341)", "(*The SDA Hymnal*, No. 341)"]
+    ],
+    "teacher/lesson-05/teacher-guide/content.md": [
+      ["*Halaman cetak 61 merupakan halaman catatan kosong dalam sumber.*", ""],
+      ["Materi siswa yang dicetak ulang dalam penuntun guru dipertahankan di bawah ini sebagai referensi guru, terpisah dari berkas harian siswa.", ""]
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ### AYAT HAFALAN (2 MENIT)
 
-Nyanyikan **Lagu Kitab Suci**, dan mengajak orang tua dan anak-anak untuk mengucapkan ayat hafalan bersama-sama: “Janganlah lupa berbuat baik dan berbagi” (Ibrani 13:16).
+Nyanyikan lagu ayat hafalan, lalu ajak orang tua dan anak-anak untuk mengucapkan ayat hafalan bersama-sama: “Janganlah lupa berbuat baik dan berbagi” (Ibrani 13:16).
 
 [♫ Hebrews 13:16 (Ibrani 13:16) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10-hebrews-13-16.mp3)
 

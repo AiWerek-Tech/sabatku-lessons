@@ -30,7 +30,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 • Tunjukkan angka tujuh kamu dan jelaskan semua hal baik yang telah kamu catat tentang hari Sabat.\
 • Ceritakan tentang tiga mukjizat Sabat yang telah kamu pelajari minggu ini. Apa hal baru yang kamu pelajari?\
 • Apa yang dapat dilakukan keluarga kamu untuk merawat seseorang pada hari Sabat? Kumpulkan ide-ide kamu dan tuliskan. Kemudian pilih satu dan rencanakan untuk melaksanakannya besok, jika memungkinkan.\
-• Nyanyikan “Lebih Tentang Yesus” (Buku Nyanyian Gereja Advent Hari Ketujuh, no. 245) atau lagu pujian lain pilihan kamu.\
+• Nyanyikan “More About Jesus” (Lebih Mengenal Yesus) (Buku Nyanyian Gereja Advent Hari Ketujuh, no. 245) atau lagu pujian lain pilihan kamu.\
 \
 ^[Jurnal Keluarga]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Apa yang kamu pelajari dari Yesus dalam kisah-kisah ini?\

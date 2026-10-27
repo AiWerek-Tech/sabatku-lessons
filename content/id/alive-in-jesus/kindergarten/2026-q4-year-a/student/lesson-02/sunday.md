@@ -10,7 +10,7 @@ _**“Percayalah kepada Tuhan Yesus Kristus, maka kamu akan diselamatkan, kamu d
 
 ### Kata Pilihan Minggu Ini
 
-_**“Percaya”**_ - Ketika kamu mempercayai seseorang, kamu tahu di dalam hati bahwa apa yang mereka katakan itu benar. Kamu merasa yakin akan hal itu.
+_**“Percaya”**_ - Ketika kamu memercayai seseorang, kamu tahu di dalam hati bahwa apa yang mereka katakan itu benar. Kamu merasa yakin akan hal itu.
 
 ### Pelajaran pekan ini
 

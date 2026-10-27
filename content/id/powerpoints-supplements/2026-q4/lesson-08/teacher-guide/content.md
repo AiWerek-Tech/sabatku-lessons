@@ -211,10 +211,10 @@ Sampaikan sukacita dan kesedihan para siswa (hal yang menyenangkan dan hal yang 
 
 ### Lagu-lagu yang Disarankan
 
-- “You Are My Hiding Place” (*He Is Our Song*, no. 96).
-- “Mighty Warrior” (*He Is Our Song*, no. 76).
-- “He’s Able” (*He Is Our Song*, no. 100).
-- “My God Is So Great” (*Praise Time*, no. 36).
+- “You Are My Hiding Place” (Engkaulah Tempat Perlindunganku) (*He Is Our Song*, no. 96).
+- “Mighty Warrior” (Pahlawan yang Perkasa) (*He Is Our Song*, no. 76).
+- “He’s Able” (Dia Sanggup) (*He Is Our Song*, no. 100).
+- “My God Is So Great” (Allahku Mahabesar) (*Praise Time*, no. 36).
 
 ### Misi
 
@@ -373,7 +373,6 @@ Berdoalah agar Allah menjadikan para siswa sebagai garam dunia saat mereka melay
 
 ## Halaman Catatan (halaman sumber 91)
 
-Halaman 91 pada penuntun guru merupakan halaman kosong yang disediakan untuk catatan.
 
 ---
 
@@ -518,7 +517,7 @@ Gambarlah bagian dari perlengkapan senjata itu yang paling kamu perlukan untuk m
 
 ## Doakan
 
-Mintalah kepada Allah agar Dia memperlengkapimu dengan perlengkapan senjata-Nya.
+Mintalah kepada Allah agar Ia memperlengkapimu dengan seluruh senjata rohani-Nya.
 
 # Jumat
 

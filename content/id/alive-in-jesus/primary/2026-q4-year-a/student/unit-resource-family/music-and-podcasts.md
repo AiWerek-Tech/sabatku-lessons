@@ -1,30 +1,30 @@
 **Lagu-lagu Ayat Suci**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/1-john-14-27.mp3] “Yohanes 14:27” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"Johanna McKay"},{"key":"Pianis","value":"Johanna McKay"},{"key":"Pemain Selo","value":"Jared Chung"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 14:27 (Yohanes 14:27)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/1-john-14-27.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/2-1-peter-5-7.mp3] “1 Petrus 5:7” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"Elle Stojanovic, TVAC Choir"},{"key":"Pianis","value":"Johanna McKay"},{"key":"Gitaris","value":"David Williams"},{"key":"Perkusi","value":"David Williams"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ 1 Peter 5:7 (1 Petrus 5:7)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/2-1-peter-5-7.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/3-romans-12-10.mp3] “Roma 12:10” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"Nela Breski, TVAC Choir"},{"key":"Gitaris","value":"David Williams"},{"key":"Perkusi","value":"David Williams"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Romans 12:10 (Roma 12:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/3-romans-12-10.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/4-isaiah-45-22.mp3] “Yesaya 45:22” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"David Williams"},{"key":"Pianis","value":"Johanna McKay"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Isaiah 45:22 (Yesaya 45:22)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/4-isaiah-45-22.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/5-psalm-145-8.mp3] “Mazmur 145:8” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"Johanna McKay, TVAC Choir"},{"key":"Gitaris","value":"David Williams"},{"key":"Pemain Selo","value":"Jared Chung"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Psalm 145:8 (Mazmur 145:8)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/5-psalm-145-8.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/6-john-10-10.mp3] “Yohanes 10:10” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"David Williams, TVAC Choir"},{"key":"Pianis","value":"Johanna McKay"},{"key":"Gitaris","value":"David Williams"},{"key":"Perkusi","value":"David Williams"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 10:10 (Yohanes 10:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/6-john-10-10.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/7-luke-8-50.mp3] “Lukas 8:50” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"Elle Stojanovic"},{"key":"Gitaris","value":"David Williams"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Luke 8:50 (Lukas 8:50)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/7-luke-8-50.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/8-john-8-32.mp3] “Yohanes 8:32” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"Nela Breski, Sheli Coblacoglo, TVAC Choir"},{"key":"Gitaris","value":"David Williams"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 8:32 (Yohanes 8:32)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/8-john-8-32.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/9-isaiah-54-10.mp3] “Yesaya 54:10” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"David Williams"},{"key":"Pianis","value":"Johanna McKay"},{"key":"Pemain Selo","value":"Jared Chung"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Isaiah 54:10 (Yesaya 54:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/9-isaiah-54-10.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/10-psalm-146-8.mp3] “Mazmur 146:8” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"Johanna McKay"},{"key":"Pianis","value":"David Williams"},{"key":"Gitaris","value":"David Williams"},{"key":"Pemain Glockenspiel","value":"David Williams"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Psalm 146:8 (Mazmur 146:8)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/10-psalm-146-8.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/11-matthew-8-13.mp3] “Matius 8:13” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"Johanna McKay, TVAC Choir"},{"key":"Pianis","value":"Johanna McKay"},{"key":"Perkusi","value":"David Williams"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Matthew 8:13 (Matius 8:13)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/11-matthew-8-13.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/12-jeremiah-31-13.mp3] “Yeremia 31:13” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"Nela Breski, TVAC Choir"},{"key":"Pianis","value":"David Williams"},{"key":"Pemain Ukulele","value":"David Williams"},{"key":"Pemain Glockenspiel","value":"David Williams"},{"key":"Siulan","value":"David Williams"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Jeremiah 31:13 (Yeremia 31:13)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/12-jeremiah-31-13.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/13-john-11-25.mp3] “Yohanes 11:25” {"credits":[{"key":"Penulis","value":"Rosie Smith"},{"key":"Penyanyi","value":"David Williams"},{"key":"Pianis","value":"Johanna McKay"},{"key":"Pemain Ukulele","value":"David Williams"},{"key":"Perkusi","value":"David Williams"}],"title": "Kredit","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 11:25 (Yohanes 11:25)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/13-john-11-25.mp3)
 
 ```=Podcast Mingguan
 

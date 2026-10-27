@@ -26,7 +26,7 @@ Kisah-kisah tentang Yesus menyebar di antara orang banyak. Ia telah menghentikan
 
 Yesus telah menunjukkan kepada mereka bahwa Ia mampu melakukan hal yang mustahil, sehingga mereka percaya bahwa Ia adalah Mesias—orang yang diutus untuk menjadi raja mereka. Mereka memiliki gagasan besar bahwa Ia akan menyembuhkan semua orang sakit dan menderita, dan memberi makan setiap orang Yahudi yang lapar. Mereka membayangkan Ia akan membebaskan mereka dari kekuasaan Romawi yang kejam, menyembuhkan tentara yang terluka, dan menyediakan makanan bagi seluruh pasukan. Dan mereka yakin Ia akan menjadikan Israel tempat paling kuat di dunia!
 
-Bahkan para murid pun mempercayai hal ini dan menjadi bagian dari rencana tersebut. Mereka menganggap Yesus terlalu rendah hati untuk menjadikan diri-Nya raja, jadi mereka berencana memaksa-Nya menjadi penguasa baru Israel. Berhentilah sejenak dan pikirkan: Mungkinkah Yesus dipaksa melakukan sesuatu yang bukan kehendak Allah? **Bacalah Yohanes 5:19.**
+Bahkan para murid pun memercayai hal ini dan menjadi bagian dari rencana tersebut. Mereka menganggap Yesus terlalu rendah hati untuk menjadikan diri-Nya raja, jadi mereka berencana memaksa-Nya menjadi penguasa baru Israel. Berhentilah sejenak dan pikirkan: Mungkinkah Yesus dipaksa melakukan sesuatu yang bukan kehendak Allah? **Bacalah Yohanes 5:19.**
 
 Yesus berfokus pada pengajaran kepada orang-orang tentang kerajaan kasih-Nya dan melakukan kehendak Bapa-Nya. Tetapi mereka secara egois berfokus pada kerajaan di bumi untuk diri mereka sendiri. Dua kerajaan yang berbeda... dan mereka telah memilih yang salah. Seandainya saja mereka berdoa, "Bukalah mataku, supaya aku dapat melihat hal-hal yang ajaib dari hukum-Mu" (Mazmur 119:18).
 

@@ -20,8 +20,8 @@ PIKIRKAN... LALU DISKUSIKAN:
 • Pilihlah seorang anggota keluarga untuk membacakan kisah perwira Romawi dari Lukas 7:1-10 dengan lantang.\
 • Bergantianlah memeragakan berbagai karakter di berbagai bagian cerita.\
 • Apakah kamu mengenal seseorang yang baru saja beriman kepada Yesus? Rencanakan untuk mengundang mereka ke rumah kamu untuk makan bersama dan berbagi kisah iman mereka dengan kamu. Sebagai keluarga, tuliskan beberapa pertanyaan untuk diajukan kepada mereka.\
-• Nyanyikan atau dengarkan lagu “Faith” dari musikal Music Machine. Cari di platform online.\
-• Nyanyikan lagu pujian favorit kamu tentang iman atau “Tis So Sweet to Trust in Jesus” (The Seventh-day Adventist Hymnal, no. 524).\
+• Nyanyikan atau dengarkan lagu “Faith” (Iman) dari musikal Music Machine. Cari di platform online.\
+• Nyanyikan lagu pujian favorit kamu tentang iman atau “Tis So Sweet to Trust in Jesus” (Indahnya Percaya kepada Yesus) (The Seventh-day Adventist Hymnal, no. 524).\
 \
 ^[Jurnal Keluarga]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Kisah ini telah membantu saya memahami bahwa . . .\

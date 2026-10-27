@@ -25,17 +25,17 @@ Cetak templat kerajinan pekan ke-3 pada karton putih, dua lembar untuk setiap an
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Berkemaslah”
-	- “Kami Menyambut Anda”
-	- “Tuhan Menolongku”
-	- “Apa yang Dapat Dilakukan Yesus?”
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
-	- Lagu Ayat Alkitab: “Yohanes 10:10”
-	- “Yesus Mampu”
+	- “Pack It Up” (Berkemaslah)
+	- “We Welcome You” (Kami Menyambutmu)
+	- “God Helps Me” (Tuhan Menolongku)
+	- “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
+	- Lagu Ayat Alkitab: “John 10:10” (Yohanes 10:10)
+	- “Jesus Can” (Yesus Mampu)
 - Kartu Koleksi Alam 42: Lumba-lumba Biasa Berparuh Panjang
 - PowerPoint Program Pekan ke-3
 - Fakta Singkat Misi

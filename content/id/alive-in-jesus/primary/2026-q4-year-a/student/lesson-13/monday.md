@@ -11,7 +11,7 @@ Yesus merencanakannya seperti ini. Ini adalah kesempatan untuk membuktikan bahwa
 
 Yesus juga tahu bahwa orang-orang akan diberkati dengan melihat dan mengalami akhir bahagia dari kisah Lazarus. Ia dapat melihat bahwa membangkitkan Lazarus akan membantu mereka percaya pada kebangkitan orang mati di akhir zaman. **Bacalah tentang janji kebangkitan Allah dalam 1 Korintus 15:52.** Nah, itu adalah janji yang indah!
 
-Yesus melihat dan memahami situasi jauh lebih baik daripada kita. Seolah-olah Dia memiliki seluruh teka-teki, sementara kita hanya memiliki beberapa keping teka-teki. Kita dapat mempercayai-Nya untuk membantu kita memahami sedikit lebih banyak bagian dari teka-teki itu, seperti yang Yesus lakukan kepada para murid ketika Dia berkata, “Penyakit ini tidak akan berakhir dengan kematian. Ini untuk kemuliaan Allah. Hal ini terjadi untuk memuliakan Anak Allah” (Yohanes 11:4, ICB).
+Yesus melihat dan memahami situasi jauh lebih baik daripada kita. Seolah-olah Dia memiliki seluruh teka-teki, sementara kita hanya memiliki beberapa keping teka-teki. Kita dapat memercayai-Nya untuk membantu kita memahami sedikit lebih banyak bagian dari teka-teki itu, seperti yang Yesus lakukan kepada para murid ketika Dia berkata, “Penyakit ini tidak akan berakhir dengan kematian. Ini untuk kemuliaan Allah. Hal ini terjadi untuk memuliakan Anak Allah” (Yohanes 11:4, ICB).
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#6b5191", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:

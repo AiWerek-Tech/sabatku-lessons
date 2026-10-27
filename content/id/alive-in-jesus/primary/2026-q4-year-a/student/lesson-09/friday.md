@@ -30,7 +30,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 • Gunakan gulungan kasur yang kamu buat pada hari Senin untuk menceritakan kisah bagaimana orang sakit itu disembuhkan, hingga saat ia menggulung kasurnya.\
 • Ajak keluarga kamu untuk mengingat kembali minggu lalu dan berbagi momen ketika seseorang menunjukkan kebaikan hati kepada mereka.\
 • Bacalah ayat hafalan kamu.\
-• Nyanyikan “Dia Mampu”, “Aku Lebih Memilih Yesus” (Buku Nyanyian Gereja Advent Hari Ketujuh, no. 327) atau lagu lain tentang kasih atau kuasa Allah yang besar.\
+• Nyanyikan “He’s Able” (Dia Sanggup), “I’d Rather Have Jesus” (Lebih Baik Memiliki Yesus) (Buku Nyanyian Gereja Advent Hari Ketujuh, no. 327) atau lagu lain tentang kasih atau kuasa Allah yang besar.\
 \
 ^[Jurnal Keluarga]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Apa yang telah kamu pelajari tentang cinta tanpa syarat minggu ini?\

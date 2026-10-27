@@ -24,7 +24,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[Jumat Malam]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 \
 ^[Berbagi dan Memuji]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
-• Nyanyikan himne “Mencari yang Hilang” (The Seventh-day Adventist Hymnal, no. 373) atau lagu pujian favorit lainnya tentang membantu sesama.\
+• Nyanyikan himne “Seeking the Lost” (Mencari yang Hilang) (The Seventh-day Adventist Hymnal, no. 373) atau lagu pujian favorit lainnya tentang membantu sesama.\
 • Buatlah rantai belas kasihan. Siapkan potongan kertas tipis serta selotip atau stapler. Mintalah setiap anggota keluarga menuliskan tindakan belas kasihan yang mereka lihat dilakukan anggota keluarga lain pekan ini. Bacalah setiap tulisan sambil menyambungkan potongan-potongan kertas menjadi rantai. Rekatkan atau jepit ujung potongan pertama, lalu sambungkan potongan berikutnya, dan seterusnya.\
 \
 ^[Jurnal Keluarga]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\

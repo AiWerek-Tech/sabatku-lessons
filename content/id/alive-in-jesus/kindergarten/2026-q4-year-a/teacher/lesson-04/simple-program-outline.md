@@ -8,19 +8,19 @@
 
 - Selamat datang
 - Lagu-lagu
-	- **“Kami Menyambut Anda”**
-	- **“Allah Maha Perkasa”**
-	- **“Berani dan Tegas”**
-	- **“Apa yang Dapat Dilakukan Yesus?”**
-	- **“Lagu Pengunjung”** dan ucapan terima kasih
-	- **"Selamat ulang tahun"** untuk setiap anak yang berulang tahun minggu lalu
-- **“Saat Aku Berlutut untuk Berdoa”** dan doa
+	- **“We Welcome You” (Kami Menyambutmu)**
+	- **“God Is Mighty” (Allah Maha Perkasa)**
+	- **“Bold and Brave” (Teguh dan Berani)**
+	- **“What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)**
+	- **“Visitor Song” (Lagu Pengunjung)** dan ucapan terima kasih
+	- **"Happy Birthday" (Selamat ulang tahun)** untuk setiap anak yang berulang tahun minggu lalu
+- **“When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)** dan doa
 
 ### PERSEMBAHAN, DOA, AYAT HAFALAN
 
 - Bagikan **Fakta Singkat Misi**.
-- Kumpulkan persembahan dan nyanyikan lagu **“Bukalah Hatiku, Bukalah Tanganku.”** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
-- Menyanyi **“Firman Tuhan.”** Anak memegang Alkitab kelas.
+- Kumpulkan persembahan dan nyanyikan lagu **“Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku).** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
+- Menyanyi **“God’s Words” (Firman Tuhan).** Anak memegang Alkitab kelas.
 - **Ayat Hafalan** dan **Lagu Ayat Alkitab**: “Segera Yesus berbicara kepada mereka, katanya: ‘Tenanglah! Ini Aku; jangan takut’ ” (Matius 14:27).
 
 ### KOTAK KEJUTAN RAHASIA (SIAPKAN DIRI UNTUK KISAHNYA)
@@ -48,5 +48,5 @@
 - **Kerajinan:** Berjalan di Atas Air - Teater Boneka
 - **Terapkan:** Tinjau, lalu berbaris dan sampaikan kata-kata berani dengan tepuk tangan.
 - **Tantangan Misi:** Selenggarakan Sekolah Sabat di rumah untuk mainan Anda; kemudian, undang seorang teman untuk bergabung.
-- Menyanyi **“Yesus Mampu.”**
+- Menyanyi **“Jesus Can” (Yesus Mampu).**
 - **Berdoa.**

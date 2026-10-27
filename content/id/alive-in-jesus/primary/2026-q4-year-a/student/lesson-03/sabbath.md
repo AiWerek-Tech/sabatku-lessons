@@ -3,7 +3,7 @@
 
 Mimpi indah melihat Yesus terus menghantuinya. Ellen tersenyum saat mengingat tatapan belas kasih-Nya. Dia tahu tanpa ragu bahwa Yesus mengasihinya!
 
-Mimpi itu datang tepat ketika gadis muda itu sangat membutuhkannya. Ellen Harmon, yang suatu hari akan menjadi Ellen White, seorang pendiri dan pemimpin di gereja kami, merasa sendirian dan sangat putus asa. Menderita kesakitan dan sering sakit, dia berpikir bahwa Tuhan itu keras dan menghukum. Ellen tidak percaya bahwa dia cukup baik untuk Tuhan. Tetapi Tuhan telah menunjukkan kepadanya visi sejati tentang Yesus, Sahabat dan Juruselamatnya. Kasih dan kebaikan-Nya mengubahnya seketika.
+Mimpi itu datang tepat ketika gadis muda itu sangat membutuhkannya. Ellen Harmon, yang suatu hari akan menjadi Ellen White, salah satu pendiri dan pemimpin Gereja Advent, merasa sendirian dan sangat putus asa. Menderita kesakitan dan sering sakit, dia berpikir bahwa Tuhan itu keras dan menghukum. Ellen tidak percaya bahwa dia cukup baik untuk Tuhan. Tetapi Tuhan telah menunjukkan kepadanya penglihatan yang nyata tentang Yesus, Sahabat dan Juruselamatnya. Kasih dan kebaikan-Nya mengubahnya seketika.
 
 “Hatiku dipenuhi dengan kedamaian dan kasih kepada Tuhan.” Itu sangat berbeda dengan kesedihan yang dia rasakan sebelumnya.
 

@@ -7,7 +7,7 @@ Saat Anda bersiap untuk membagikan cerita ini, silakan baca Panduan Murid untuk 
 - Gunakan baskom berisi air sebagai danau dengan perahu mainan, atau wadah plastik sebagai perahu, untuk Yesus dan satu atau dua orang lainnya.
 - Gunakan figur Yesus, boneka kayu, atau set boneka dari kain flanel, jika tersedia.
 - Senter
-- Buat suara badai (atau cari di internet) dan gunakan botol semprot berisi air. Goyangkan bak mandi untuk suara ombak besar.
+- Buat suara badai (atau cari di internet) dan gunakan botol semprot berisi air. Goyangkan baskom agar airnya bergelombang seperti ombak besar.
 - Tampilkan gambar dari Panduan Murid saat Anda menceritakan kisah tersebut **(PowerPoint Program Pekan 1)**.
 - Gunakan nada dan gerakan yang ekspresif untuk menarik minat anak-anak.
 
@@ -52,9 +52,9 @@ Mereka mengerahkan seluruh kekuatan mereka untuk mencoba menyelamatkan diri dan 
 
 Para murid ketakutan. Mereka telah melupakan sesuatu yang sangat penting. **Apa yang mereka lupakan?** **(Berikan jeda agar anak-anak menjawab.)**
 
-**►** Yesus bersama mereka di perahu mereka. Dia tidak takut akan kegelapan yang berawan atau angin yang berisik. Dia telah menciptakan angin dan gelombang pada saat Penciptaan. Bahkan, Yesus begitu damai, Dia masih tertidur lelap.
+**►** Yesus bersama mereka di perahu mereka. Dia tidak takut pada langit yang gelap berawan atau angin yang menderu. Dia telah menciptakan angin dan gelombang pada saat Penciptaan. Bahkan, Yesus begitu damai, Dia masih tertidur lelap.
 
-Sambil berpegangan pada perahu yang bergoyang, murid-murid pergi kepada Yesus dan membangunkan-Nya. “Guru, apakah Engkau peduli kepada kami? Kami akan tenggelam!” (Markus 4:38, ICB). **Apakah Yesus peduli? Apakah menurut Anda Dia akan membiarkan mereka tenggelam?**
+Sambil berpegangan pada perahu yang bergoyang, murid-murid pergi kepada Yesus dan membangunkan-Nya. “Guru, apakah Engkau peduli kepada kami? Kami akan tenggelam!” (Markus 4:38, ICB). **Apakah Yesus peduli? Menurut kalian, apakah Dia akan membiarkan mereka tenggelam?**
 
 **►** Yesus berdiri dan menghadapi badai yang dahsyat. Ia mengangkat tangan-Nya yang kuat di atas ombak yang bergemuruh. Dan dengan suara yang lantang dan tenang, Ia memerintahkan angin dan ombak untuk berhenti.
 
@@ -70,4 +70,4 @@ Para murid memandang Yesus dengan mata terbelalak penuh keheranan. Yesus telah m
 
 Dalam keheningan, suara para murid berbisik, "Siapakah Dia, sehingga angin dan laut pun taat kepada-Nya!" (Markus 4:41).
 
-**►** Kita tahu jawabannya! Yesus adalah Tuhan. Dia mahakuasa. Dia bisa melakukan apa saja! Kita selalu bisa mempercayai-Nya, dan janji-janji-Nya dalam Alkitab, untuk menolong kita. Dia membuat hati kita damai.
+**►** Kita tahu jawabannya! Yesus adalah Tuhan. Dia mahakuasa. Dia bisa melakukan apa saja! Kita selalu bisa memercayai-Nya, dan janji-janji-Nya dalam Alkitab, untuk menolong kita. Dia membuat hati kita damai.

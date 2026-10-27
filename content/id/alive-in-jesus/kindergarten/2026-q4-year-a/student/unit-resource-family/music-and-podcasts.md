@@ -1,30 +1,30 @@
 ### Lagu Ayat Alkitab
 
-[♫ Markus 4:39](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/1-mark-4-39.mp3)
+[♫ Mark 4:39 (Markus 4:39)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/1-mark-4-39.mp3)
 
-[♫ Kisah Para Rasul 16:31](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/2-acts-16-31.mp3)
+[♫ Acts 16:31 (Kisah Para Rasul 16:31)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/2-acts-16-31.mp3)
 
-[♫ Yohanes 10:10](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/3-john-10-10.mp3)
+[♫ John 10:10 (Yohanes 10:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/3-john-10-10.mp3)
 
-[♫ Matius 14:27](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/4-matthew-14-27.mp3)
+[♫ Matthew 14:27 (Matius 14:27)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/4-matthew-14-27.mp3)
 
-[♫ Mazmur 34:18](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/5-psalm-34-18.mp3)
+[♫ Psalm 34:18 (Mazmur 34:18)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/5-psalm-34-18.mp3)
 
-[♫ Lukas 8:48](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/6-luke-8-48.mp3)
+[♫ Luke 8:48 (Lukas 8:48)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/6-luke-8-48.mp3)
 
-[♫ 1 Korintus 15:22](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/7-1-corinthians-15-22.mp3)
+[♫ 1 Corinthians 15:22 (1 Korintus 15:22)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/7-1-corinthians-15-22.mp3)
 
-[♫ Markus 2:28](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/8-mark-2-28.mp3)
+[♫ Mark 2:28 (Markus 2:28)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/8-mark-2-28.mp3)
 
-[♫ Efesus 2:8](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/9-ephesians-2-8.mp3)
+[♫ Ephesians 2:8 (Efesus 2:8)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/9-ephesians-2-8.mp3)
 
-[♫ Yoel 2:32](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/10-joel-2-32.mp3)
+[♫ Joel 2:32 (Yoel 2:32)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/10-joel-2-32.mp3)
 
-[♫ Matius 8:13](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/11-matthew-8-13.mp3)
+[♫ Matthew 8:13 (Matius 8:13)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/11-matthew-8-13.mp3)
 
-[♫ Roma 15:13](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/12-romans-15-13.mp3)
+[♫ Romans 15:13 (Roma 15:13)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/12-romans-15-13.mp3)
 
-[♫ Yohanes 11:25](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/13-john-11-25.mp3?updated)
+[♫ John 11:25 (Yohanes 11:25)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/13-john-11-25.mp3?updated)
 
 ### Podcast Mingguan
 

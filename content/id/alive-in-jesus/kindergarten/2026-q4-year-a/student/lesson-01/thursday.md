@@ -18,7 +18,7 @@ Yesus memandang wajah murid-murid-Nya. Ia berkata, “Mengapa kalian begitu taku
 
 Yesus ingin mereka memiliki iman, meskipun hanya sedikit, agar iman itu dapat tumbuh besar seperti benih dan pohon dalam kisah yang telah Dia ceritakan kepada orang-orang hari itu. Dia juga ingin mereka menemukan kedamaian dengan mendengarkan suara-Nya.
 
-Kamu juga dapat mempercayai Yesus untuk membantu kamu merasa aman, damai, dan berani. Dengarkan perkataan-Nya dalam ayat hafalanmu. “Diam! Tenanglah!” (Markus 4:39). Terima kasih, Yesus!
+Kamu juga dapat memercayai Yesus untuk membantu kamu merasa aman, damai, dan berani. Dengarkan perkataan-Nya dalam ayat hafalanmu. “Diam! Tenanglah!” (Markus 4:39). Terima kasih, Yesus!
 
 ### Percakapan Iman Orang Tua
 
@@ -30,4 +30,4 @@ Ceritakan kepada anak Anda tentang saat Tuhan memberikan kedamaian dan ketenanga
 
 ### Ide Doa
 
-Mintalah Yesus untuk membantu kita mempercayai-Nya ketika hal-hal menakutkan terjadi.
+Mintalah Yesus untuk membantu kita memercayai-Nya ketika hal-hal menakutkan terjadi.

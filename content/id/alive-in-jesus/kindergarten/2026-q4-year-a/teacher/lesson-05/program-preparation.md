@@ -27,18 +27,18 @@ Cetak templat kerajinan pekan ke-5 di atas kertas karton putih, kertas karton me
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Berkemaslah”
-	- “Kami Menyambut Anda”
-	- “Keluarga Besar Tuhan”
+	- “Pack It Up” (Berkemaslah)
+	- “We Welcome You” (Kami Menyambutmu)
+	- “God’s Big Family” (Keluarga Besar Tuhan)
 	- “Yesus mengasihiku, dan aku mengasihi Yesus”
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
-	- Lagu Ayat Alkitab: “Mazmur 34:18”
-	- “Sahabatku Selamanya, Yesus”
-	- “Yesus Mampu”
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
+	- Lagu Ayat Alkitab: “Psalm 34:18” (Mazmur 34:18)
+	- “My Forever Friend Jesus” (Sahabatku Selamanya, Yesus)
+	- “Jesus Can” (Yesus Mampu)
 - Kartu Koleksi Alam 44: Salamander Axolotl Meksiko
 - PowerPoint Program Pekan ke-5
 - Fakta Singkat Misi

@@ -22,23 +22,23 @@ Gunakan kaus kaki untuk mewakili ulat. Masukkan lebih banyak kaus kaki ke dalamn
 
 ### Bahan Kerajinan
 
-Cetak templat kerajinan pekan ke-6 Untuk setiap anak, kertas karton putih atau berwarna terang, peniti kerajinan, spidol/pensil warna, gunting.
+Cetak templat kerajinan pekan ke-6 Untuk setiap anak, kertas karton putih atau berwarna terang, kancing belah untuk kerajinan, spidol/pensil warna, gunting.
 
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Berkemaslah”
-	- “Kami Menyambut Anda”
-	- “Aku Bisa Percaya pada Tuhan”
-	- “Sahabatku Selamanya, Yesus”
-	- “Aku Akan Melayani-Mu, Yesus”
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
-	- Lagu Ayat Alkitab: “Lukas 8:48”
-	- “Yesus Mampu”
+	- “Pack It Up” (Berkemaslah)
+	- “We Welcome You” (Kami Menyambutmu)
+	- “I Can Trust God” (Aku Dapat Memercayai Tuhan)
+	- “My Forever Friend Jesus” (Sahabatku Selamanya, Yesus)
+	- “I Will Serve You, Jesus” (Aku Akan Melayani-Mu, Yesus)
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
+	- Lagu Ayat Alkitab: “Luke 8:48” (Lukas 8:48)
+	- “Jesus Can” (Yesus Mampu)
 - Kartu Koleksi Alam 45: Ngengat Luna
 - PowerPoint Program Pekan ke-6
 - Fakta Singkat Misi

@@ -8,7 +8,7 @@ Mengapa penting bagi Maria dan Yusuf untuk melihat serta mendengar seorang malai
 
 ## Tuliskan
 
-Dalam jurnal pelajaran Alkitabmu, tuliskan menurut pendapatmu bagaimana pemberitahuan dari malaikat membantu Maria dan Yusuf memercayai rencana Allah bagi kehidupan mereka.
+Dalam jurnal pendalaman Alkitabmu, tuliskan menurut pendapatmu bagaimana pemberitahuan dari malaikat membantu Maria dan Yusuf memercayai rencana Allah bagi kehidupan mereka.
 
 ## Doakan
 

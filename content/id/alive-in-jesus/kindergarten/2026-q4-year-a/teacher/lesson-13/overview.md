@@ -37,5 +37,5 @@ Sahabat Yesus, Lazarus, sedang sakit. Saudari-saudarinya, Maria dan Marta, mengi
 Anak-anak akan:
 
 - **Mengetahui** bahwa Yesus memiliki kuasa atas kematian.
-- **Merasakan** aman karena tahu mereka dapat mempercayai Yesus bahkan ketika mereka tidak memahami semuanya.
+- **Merasakan** aman karena tahu mereka dapat memercayai Yesus bahkan ketika mereka tidak memahami semuanya.
 - **Menanggapi** dengan memberi tahu orang lain bahwa Yesus akan menghapus kematian selamanya ketika Ia datang kembali.

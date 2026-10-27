@@ -43,7 +43,7 @@ Malam berikutnya, sambil mengamati bintang itu, mereka menyusun rencana perjalan
 
 Tanpa mereka sadari, setiap hadiah memiliki makna yang berkaitan dengan kehidupan Yesus. Emas melambangkan asal-usul Yesus sebagai keturunan raja dari garis Daud, juga pemerintahan-Nya yang kekal sebagai Raja segala raja. Karena mur digunakan untuk mengawetkan jenazah sebelum penguburan, hadiah itu menjadi gambaran awal kematian Yesus sebagai korban bagi dosa-dosa kita. Kemenyan digunakan oleh para imam di Bait Suci, sehingga melambangkan peran Yesus sebagai Imam Besar kita yang menjadi Pengantara demi pengampunan dosa-dosa kita.
 
-Setelah menyelesaikan segala persiapan yang diperlukan, orang-orang Majus memasang pelana pada unta mereka dan berangkat mencari Raja yang baru lahir itu. Bintang yang pertama kali mereka lihat ketika Yesus lahir akan menuntun mereka pada malam hari. Selama berminggu-minggu bahkan berbulan-bulan, para pengembara itu dengan sabar mengikuti bintang tersebut.
+Setelah menyelesaikan segala persiapan yang diperlukan, orang-orang majus memasang pelana pada unta mereka dan berangkat mencari Raja yang baru lahir itu. Bintang yang pertama kali mereka lihat ketika Yesus lahir akan menuntun mereka pada malam hari. Selama berminggu-minggu bahkan berbulan-bulan, para pengembara itu dengan sabar mengikuti bintang tersebut.
 
 Akhirnya mereka melihat kubah keemasan Bait Suci di Yerusalem. Dengan penuh harapan, mereka masuk ke kota itu.
 
@@ -51,17 +51,17 @@ Akhirnya mereka melihat kubah keemasan Bait Suci di Yerusalem. Dengan penuh hara
 
 Berita itu segera tersebar. Raja Herodes mengundang mereka untuk menjadi tamunya sementara ia berusaha memperoleh informasi bagi mereka. Informasi itu juga akan berguna baginya karena ia sedang merencanakan cara untuk menyingkirkan siapa pun yang mungkin menjadi pesaing takhta dan telah lahir sebagai seorang raja.
 
-Herodes memanggil para imam. Mereka meneliti nubuat-nubuat kuno. Dari nubuat-nubuat itu, ia mengetahui bahwa kelahiran seorang raja telah dinubuatkan akan terjadi di Betlehem. Herodes memanggil orang-orang Majus dan memberitahukan apa yang telah diketahuinya. Ia meminta mereka kembali ke Yerusalem membawa kabar mengenai tempat kelahiran bayi itu supaya ia juga dapat pergi menyembah raja yang baru lahir tersebut.
+Herodes memanggil para imam. Mereka meneliti nubuat-nubuat kuno. Dari nubuat-nubuat itu, ia mengetahui bahwa kelahiran seorang raja telah dinubuatkan akan terjadi di Betlehem. Herodes memanggil orang-orang majus dan memberitahukan apa yang telah diketahuinya. Ia meminta mereka kembali ke Yerusalem membawa kabar mengenai tempat kelahiran bayi itu supaya ia juga dapat pergi menyembah raja yang baru lahir tersebut.
 
-Sekali lagi orang-orang Majus mengikuti bintang itu. Bintang tersebut berhenti di pinggiran Betlehem. Ketika mereka mencapai tempat bintang itu berhenti, mereka berada di depan sebuah rumah yang sangat sederhana. Di dalamnya, mereka menemukan Maria, Yusuf, dan Yesus yang masih kecil.
+Sekali lagi orang-orang majus mengikuti bintang itu. Bintang tersebut berhenti di pinggiran Betlehem. Ketika mereka mencapai tempat bintang itu berhenti, mereka berada di depan sebuah rumah yang sangat sederhana. Di dalamnya, mereka menemukan Maria, Yusuf, dan Yesus yang masih kecil.
 
 Ketika melihat Yesus, mereka tahu bahwa perjalanan mereka tidak sia-sia. Meskipun keadaan sekeliling-Nya sangat sederhana, Allah meyakinkan mereka bahwa mereka telah menemukan Dia yang selama ini dicari. Mereka menyembah-Nya dan mempersembahkan hadiah-hadiah mereka.
 
-Sekali lagi Allah sedang menuntun rencana orang-orang yang percaya kepada-Nya. Melalui mimpi, Ia memperingatkan orang-orang Majus supaya tidak kembali kepada Herodes, tetapi pulang melalui jalan lain. Mereka taat dan kembali ke negeri mereka untuk menyebarkan kabar yang luar biasa tentang Yesus.
+Sekali lagi Allah sedang menuntun rencana orang-orang yang percaya kepada-Nya. Melalui mimpi, Ia memperingatkan orang-orang majus supaya tidak kembali kepada Herodes, tetapi pulang melalui jalan lain. Mereka taat dan kembali ke negeri mereka untuk menyebarkan kabar yang luar biasa tentang Yesus.
 
 Namun, masih ada dua mimpi dan dua perjalanan lagi dalam kisah ini. Ketika Herodes menyadari bahwa para pengunjung itu tidak kembali melalui Yerusalem, ia mulai merencanakan kejahatan. Tetapi rencana Allah jauh mendahului rencana Herodes. Sekali lagi Allah menggunakan mimpi untuk menggerakkan Yusuf supaya segera membawa Maria dan Yesus pergi ke Mesir.
 
-Dengan memercayai pemeliharaan dan tuntunan Allah, Yusuf berhasil membawa Maria dan Yesus ke tempat yang aman di Mesir, jauh dari Herodes dan rencana-rencana jahatnya. Dengan hadiah yang dibawa orang-orang Majus, keluarga kecil itu dapat tinggal di negeri asing untuk sementara waktu. Allah akan memberitahukan ketika bahaya telah berlalu dan menuntun mereka pulang ke Nazaret.
+Dengan memercayai pemeliharaan dan tuntunan Allah, Yusuf berhasil membawa Maria dan Yesus ke tempat yang aman di Mesir, jauh dari Herodes dan rencana-rencana jahatnya. Dengan hadiah yang dibawa orang-orang majus, keluarga kecil itu dapat tinggal di negeri asing untuk sementara waktu. Allah akan memberitahukan ketika bahaya telah berlalu dan menuntun mereka pulang ke Nazaret.
 
 ## Kegiatan Sabat — Teka-teki 13
 

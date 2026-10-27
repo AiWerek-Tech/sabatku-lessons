@@ -2,7 +2,7 @@
 
 ### Pesan Utama:
 
-Yesus bisa melakukan apa saja. Aku bisa mempercayai-Nya.
+Yesus bisa melakukan apa saja. Aku bisa memercayai-Nya.
 
 ### Ayat Hafalan
 
@@ -10,7 +10,7 @@ _**“Pergilah, dan seperti yang telah kamu percayai, demikianlah akan terjadi k
 
 ### Kata Pilihan Minggu Ini
 
-_**"Memercayai"**_ - Percaya berarti mengandalkan sesuatu atau seseorang. Ketika kamu mempercayai seseorang, kamu percaya bahwa kata-katanya benar. Kamu tahu kamu dapat mengandalkannya. Kita dapat mempercayai Yesus. Dia selalu penuh kasih. Kata-kata-Nya benar. Dan Dia selalu menepati janji-Nya.
+_**"Memercayai"**_ - Percaya berarti mengandalkan sesuatu atau seseorang. Ketika kamu memercayai seseorang, kamu percaya bahwa kata-katanya benar. Kamu tahu kamu dapat mengandalkannya. Kita dapat memercayai Yesus. Dia selalu penuh kasih. Kata-kata-Nya benar. Dan Dia selalu menepati janji-Nya.
 
 ### Pelajaran pekan ini
 
@@ -28,9 +28,9 @@ Bagaimana ia memperlakukan orang-orang Yahudi? **Bacalah Lukas 7:5.**
 
 Betapa baiknya pria itu. Namun hari ini, senyumnya yang biasa hilang. Ia dipenuhi kekhawatiran. Salah satu temannya, yang juga pelayannya, jatuh sakit parah. Jika tidak segera dilakukan sesuatu, ia akan meninggal.
 
-Maju mundur, maju mundur, sang perwira berjalan—berpikir, berpikir, berpikir. Apa yang bisa dia lakukan? Dia selalu mengambil keputusan cepat, tetapi dia tidak tahu bagaimana membantu temannya yang sakit dan waktu semakin habis.
+Sang perwira terus berjalan mondar-mandir sambil berpikir keras. Apa yang bisa dia lakukan? Dia selalu mengambil keputusan cepat, tetapi dia tidak tahu bagaimana membantu temannya yang sakit dan waktu semakin habis.
 
-Di aula yang sunyi, ia mulai memikirkan tentang Tuhan orang Yahudi. Meskipun ia dibesarkan di tengah-tengah berhala-berhala Romawi yang buruk rupa, ia telah belajar untuk percaya kepada satu-satunya Tuhan sejati orang Yahudi. Ia juga ingat teman-teman Yahudinya berbicara tentang Yesus. Mereka menceritakan kepadanya kata-kata bijak Yesus dan berbicara tentang mukjizat penyembuhan-Nya. Perwira itu senang mendengar kisah-kisah tentang Yesus. Yesus bahkan pernah berkata bahwa Ia adalah "jalan, kebenaran, dan kehidupan" (Yohanes 14:6).
+Di lorong yang sunyi, ia mulai memikirkan tentang Tuhan orang Yahudi. Meskipun ia dibesarkan di tengah-tengah berhala-berhala Romawi yang buruk rupa, ia telah belajar untuk percaya kepada satu-satunya Tuhan sejati orang Yahudi. Ia juga ingat teman-teman Yahudinya berbicara tentang Yesus. Mereka menceritakan kepadanya kata-kata bijak Yesus dan berbicara tentang mukjizat penyembuhan-Nya. Perwira itu senang mendengar kisah-kisah tentang Yesus. Yesus bahkan pernah berkata bahwa Ia adalah "jalan, kebenaran, dan kehidupan" (Yohanes 14:6).
 
 Itu dia! Dia akan percaya kepada Yesus! Yesus bisa menyembuhkan temannya dan memberinya kesehatan dan kehidupan baru.
 

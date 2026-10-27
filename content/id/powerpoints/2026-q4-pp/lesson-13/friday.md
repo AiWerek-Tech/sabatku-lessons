@@ -1,6 +1,6 @@
 ## Nyanyikan
 
-Untuk mengawali ibadah keluarga, nyanyikan atau putarlah beberapa lagu Natal kesukaan keluargamu. Akhiri dengan lagu “We Three Kings”. Mintalah anggota keluarga yang berbeda menyanyikan (atau membacakan) masing-masing satu bait, lalu semua menyanyikan bagian refrain bersama-sama.
+Untuk mengawali ibadah keluarga, nyanyikan atau putarlah beberapa lagu Natal kesukaan keluargamu. Akhiri dengan lagu “We Three Kings” (Kami Tiga Orang Majus). Mintalah anggota keluarga yang berbeda menyanyikan (atau membacakan) masing-masing satu bait, lalu semua menyanyikan bagian refrein bersama-sama.
 
 ## Bacaan Alkitab
 

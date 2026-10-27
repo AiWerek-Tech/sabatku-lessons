@@ -8,7 +8,7 @@ Saat Anda bersiap untuk membagikan cerita ini, silakan baca Panduan Murid untuk 
 - Saat Anda menunjuk anak-anak, minta mereka untuk mengatakan dengan lantang, “Tolong bantu saya!”
 - Menggoyangkan **koin** di dalam **cangkir**.
 - Biarkan anak-anak mencium aroma beberapa **wadah rempah-rempah** (kayu manis, cengkeh, jahe, dll.)
-- Gunakan **boneka manekin** (Yesus; Bartimeus) atau **set boneka dari kain flanel** jika diinginkan.
+- Gunakan **boneka kayu** (Yesus; Bartimeus) atau **set boneka dari kain flanel** jika diinginkan.
 - Berbicaralah dengan ekspresif dan ajak anak-anak melakukan beberapa aktivitas.
 
 **Berdoa:** Sebelum memulai, berdoalah. Mintalah Tuhan untuk membantu setiap orang memahami kisah Alkitab hari ini. Dengan melakukan ini, Anda akan menunjukkan betapa pentingnya berdoa untuk mengundang Tuhan mengajari kita dari Firman-Nya yang hidup sebelum kita membaca Alkitab.

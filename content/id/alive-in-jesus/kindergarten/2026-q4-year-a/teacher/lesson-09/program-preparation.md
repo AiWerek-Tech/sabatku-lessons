@@ -29,17 +29,17 @@ Cetak sebuah templat kerajinan pekan ke-9 untuk setiap anak di atas kertas karto
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Berkemaslah”
-	- “Kami Menyambut Anda”
+	- “Pack It Up” (Berkemaslah)
+	- “We Welcome You” (Kami Menyambutmu)
 	- “Yesus mengasihiku, dan aku mengasihi Yesus”
-	- “Apa yang Dapat Dilakukan Yesus?”
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
-	- Lagu Ayat Alkitab: “Efesus 2:8”
-	- “Yesus Mampu”
+	- “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
+	- Lagu Ayat Alkitab: “Ephesians 2:8” (Efesus 2:8)
+	- “Jesus Can” (Yesus Mampu)
 - Kartu Koleksi Alam 48: Gurita Jurang
 - PowerPoint Program Pekan ke-9
 - Fakta Singkat Misi

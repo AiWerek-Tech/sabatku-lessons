@@ -220,10 +220,10 @@ Sampaikan suka dan duka para siswa (hal-hal yang menyenangkan dan menyulitkan) y
 
 ### Lagu yang Disarankan
 
-- “In His Time” (*He Is Our Song*, no. 93).
-- “We Must Wait (on the Lord)” (*He Is Our Song*, no. 129).
-- “In Moments Like These” (*He Is Our Song*, no. 147).
-- “All Through the Day” (*He Is Our Song*, no. 77).
+- “In His Time” (Pada Waktu-Nya) (*He Is Our Song*, no. 93).
+- “We Must Wait (on the Lord)” (Kita Harus Menantikan Tuhan) (*He Is Our Song*, no. 129).
+- “In Moments Like These” (Pada Saat Seperti Ini) (*He Is Our Song*, no. 147).
+- “All Through the Day” (Sepanjang Hari) (*He Is Our Song*, no. 77).
 
 ### Misi
 
@@ -241,7 +241,7 @@ Gunakan *Adventist Mission* untuk remaja dan dewasa (buka www.juniorpowerpoints.
 - Kotak persembahan pelangi.
 - Buku nyanyian *He Is Our Song*.
 
-Lanjutkan penggunaan kotak persembahan pelangi dari dua minggu lalu. Pilih warna yang berbeda dan bicarakan apa yang dilambangkan oleh warna tersebut. Anda dapat menyanyikan satu bait “The Coloring Song” (*He Is Our Song*, no. 61).
+Lanjutkan penggunaan kotak persembahan pelangi dari dua minggu lalu. Pilih warna yang berbeda dan bicarakan apa yang dilambangkan oleh warna tersebut. Anda dapat menyanyikan satu bait “The Coloring Song” (Nyanyian tentang Warna) (*He Is Our Song*, no. 61).
 
 **Tanyakan:** Bagaimana warna ini mencerminkan kasih karunia Allah?
 

@@ -11,7 +11,7 @@ Yesus telah melakukan hal yang mustahil! Orang tuanya takjub. Putri kesayangan m
 
 Yesus tersenyum melihat gadis muda yang cantik ini, penuh kehidupan, kesehatan, dan energi. Ia telah mendorong Yairus untuk terus percaya kepada-Nya, bahkan ketika keadaan tampak tanpa harapan, dan Yairus telah melakukannya. Sekarang Yairus tahu tanpa ragu bahwa Allah kita yang penuh belas kasih memiliki kuasa atas hidup dan mati. Putrinya hidup!
 
-Yesus mendorong kita untuk mempercayai-Nya seperti yang dilakukan Yairus. Firman-Nya berkata, “Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar pada pengertianmu sendiri” (Amsal 3:5). Ketika kita merasa tidak berdaya untuk menyelesaikan suatu masalah, atau tampaknya semua pilihan kita telah habis, kita dapat percaya bahwa Yesus mengerti. Kita dapat memiliki iman bahwa Dia dapat melakukan hal yang mustahil bagi kita, seperti yang Dia lakukan untuk Yairus.
+Yesus mendorong kita untuk memercayai-Nya seperti yang dilakukan Yairus. Firman-Nya berkata, “Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar pada pengertianmu sendiri” (Amsal 3:5). Ketika kita merasa tidak berdaya untuk menyelesaikan suatu masalah, atau tampaknya semua pilihan kita telah habis, kita dapat percaya bahwa Yesus mengerti. Kita dapat memiliki iman bahwa Dia dapat melakukan hal yang mustahil bagi kita, seperti yang Dia lakukan untuk Yairus.
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#d26127", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:

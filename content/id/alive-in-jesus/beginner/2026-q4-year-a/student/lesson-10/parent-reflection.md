@@ -1,4 +1,4 @@
-Apa yang akan Anda lakukan jika Yesus mengetuk pintu rumah hari ini? Apakah Anda memintanya datang lagi nanti? Apakah Anda menyambut-Nya dengan sopan seperti tamu yang belum dikenal? Atau Anda mempersilakan-Nya mengambil makanan dan duduk santai seperti seorang sahabat dekat yang setia?
+Apa yang akan Anda lakukan jika Yesus mengetuk pintu rumah hari ini? Apakah Anda meminta-Nya datang lagi nanti? Apakah Anda menyambut-Nya dengan sopan seperti tamu yang belum dikenal? Atau Anda mempersilakan-Nya mengambil makanan dan duduk santai seperti seorang sahabat dekat yang setia?
 
 Di Betlehem tidak ada tempat bagi Yesus. Namun, Ia ingin Anda menyediakan tempat bagi-Nya dalam hati.
 

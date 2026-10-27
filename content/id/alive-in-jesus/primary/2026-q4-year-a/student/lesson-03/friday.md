@@ -3,7 +3,7 @@
 
 Kakinya yang kuat membawanya sampai ke rumah. Pria yang telah sembuh itu menerobos pintu, masih memuji Tuhan di setiap langkahnya. Dia telah diampuni, disembuhkan, dan sampai di rumah!
 
-Keluarganya hampir tak berani percaya dengan apa yang mereka lihat! _Apakah ini benar-benar orang yang sama yang dibawa pergi pagi ini?_ pasti mereka bertanya-tanya. Seluruh keluarga berkumpul di sekelilingnya dengan air mata sukacita. Beberapa saat yang lalu mereka melihatnya terbaring di tikarnya dengan mata sedih dan putus asa, tak mampu bergerak. Kini tubuhnya bersinar penuh kekuatan dan matanya berbinar bahagia saat ia menyanyikan pujian kepada Tuhan.
+Keluarganya hampir tak berani percaya dengan apa yang mereka lihat! _Apakah ini benar-benar orang yang sama yang dibawa pergi pagi ini?_ pasti mereka bertanya-tanya. Seluruh keluarga berkumpul di sekelilingnya dengan air mata sukacita. Beberapa saat yang lalu mereka melihatnya terbaring di tikarnya dengan mata sedih dan putus asa, tak mampu bergerak. Kini tubuhnya kembali kuat dan matanya berbinar bahagia saat ia menyanyikan pujian kepada Tuhan.
 
 Keluarganya pasti juga bersorak gembira. Yesus telah memberi mereka seorang pria yang sehat dan bahagia sebagai pengganti pria yang dulu. Dengan hati yang penuh syukur, pria ini dan keluarganya siap menyerahkan hidup mereka untuk Yesus. Tidak ada yang dapat menggoyahkan iman mereka; tidak ada yang dapat mengurangi kesetiaan mereka kepada Yesus. Dia telah membawa sukacita ke rumah mereka yang sedih. Dia benar-benar sahabat orang berdosa (Matius 11:19).
 
@@ -18,7 +18,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[Berbagi dan Memuji]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Tuliskan hal-hal berikut, masing-masing di selembar kertas yang berbeda: orang sakit, Yesus, empat teman, kerumunan orang, keluarga. Bagikan kertas-kertas tersebut di antara anggota keluarga kamu. Kemudian mintalah setiap orang menceritakan kisah tersebut dari sudut pandangnya masing-masing.\
 • Bacalah ayat hafalan kamu dan bagikan apa artinya bagi kamu.\
-• Nyanyikan lagu “We Are His Hands” atau “Showers of Blessing” (The _Seventh-day Adventist Hymnal_, no. 195). Diskusikan sesuatu yang dapat dilakukan keluarga kamu untuk menunjukkan persahabatan kepada orang lain. Rencanakan untuk mewujudkan rencana kamu. Jika kamu tidak mengetahui lagu-lagu di atas, ajarkan keluarga kamu lagu Mazmur 9:1 yang kamu buat kemarin.\
+• Nyanyikan lagu “We Are His Hands” (Kitalah Tangan-Nya) atau “Showers of Blessing” (Hujan Berkat) (The _Seventh-day Adventist Hymnal_, no. 195). Diskusikan sesuatu yang dapat dilakukan keluarga kamu untuk menunjukkan persahabatan kepada orang lain. Rencanakan untuk mewujudkan rencana kamu. Jika kamu tidak mengetahui lagu-lagu di atas, ajarkan keluarga kamu lagu Mazmur 9:1 yang kamu buat kemarin.\
 \
 ^[Jurnal Keluarga]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • **Bacalah Yeremia 17:7.** Ayat ini dapat diterapkan kepada siapa dalam kisah minggu ini?\

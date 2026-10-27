@@ -8,7 +8,7 @@ Bagaimana Elisabet menyambut Maria, bahkan sebelum Maria menceritakan tentang ma
 
 ## Tuliskan
 
-Dalam jurnal pelajaran Alkitabmu, bandingkan persamaan dan perbedaan tugas yang Allah pilih untuk Maria dan Elisabet.
+Dalam jurnal pendalaman Alkitabmu, bandingkan persamaan dan perbedaan tugas yang Allah pilih untuk Maria dan Elisabet.
 
 ## Renungkan
 

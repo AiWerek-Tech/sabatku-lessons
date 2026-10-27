@@ -198,10 +198,10 @@ Ceritakan sukacita dan kesedihan siswa (hal-hal yang menggembirakan dan menyusah
 
 ### Lagu yang Disarankan
 
-- “Special Delivery” — *He Is Our Song*, no. 51.
-- “Emmanuel” — *He Is Our Song*, no. 52.
-- “Go, Tell It on the Mountain” — *The SDA Hymnal*, no. 121.
-- “Joy to the World” — *The SDA Hymnal*, no. 125.
+- “Special Delivery” (Kiriman Istimewa) — *He Is Our Song*, no. 51.
+- “Emmanuel” (Imanuel) — *He Is Our Song*, no. 52.
+- “Go, Tell It on the Mountain” (Pergilah, Kabarkan di Gunung) — *The SDA Hymnal*, no. 121.
+- “Joy to the World” (Sukacita bagi Dunia) — *The SDA Hymnal*, no. 125.
 
 ### Misi
 
@@ -333,7 +333,6 @@ Halaman ini berjudul *Notes* (Catatan) dan tidak memuat teks instruksional tamba
 
 ## Lampiran A — Kisah Siswa dalam Penuntun Guru (Halaman 132)
 
-Bagian ini dicetak ulang sebagai referensi bagi guru dalam PDF sumber, halaman 132. Teks lengkapnya diterjemahkan berikut ini; bukan berkas untuk hari-hari siswa.
 
 ## Kisah Alkitab — Sukacita Bagimu dan Bagiku
 

@@ -2,7 +2,7 @@
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/12/nature-lesson.png)
 
-- **Bagaimana perasaan Anda saat melihat bunga berwarna cerah ini?**
+- **Bagaimana perasaan kamu saat melihat bunga berwarna cerah ini?**
 
 Tuhan menciptakan begitu banyak bunga yang indah! Gerbera adalah bunga yang cantik dan cerah dengan warna kuning, merah, oranye, ungu, hijau, dan merah muda. Hanya dengan melihat warna-warna cerah dan cerianya saja sudah membuat Anda tersenyum! Mari kita lihat lebih dekat:
 

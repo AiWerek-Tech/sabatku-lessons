@@ -25,12 +25,12 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[Berbagi dan Memuji]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Bagikan rekaman suara yang kamu mulai pada hari Senin, lalu ceritakan kisah Alkitab minggu ini dengan kata-kata kamu sendiri.\
 • Ucapkan atau nyanyikan ayat hafalan kamu.\
-• Nyanyikan “Puji Dia! Puji Dia!” (Buku Nyanyian Gereja Advent Hari Ketujuh, no. 249).\
+• Nyanyikan “Praise Him! Praise Him!” (Puji Dia! Puji Dia!) (Buku Nyanyian Gereja Advent Hari Ketujuh, no. 249).\
 • Gadis itu termasuk keluarga Allah, jadi Yesus memanggilnya untuk bangun. Pada Kedatangan Kedua Yesus, Ia juga akan memanggil anak-anak-Nya untuk bangun. Kemudian Ia akan membawa mereka untuk tinggal bersama-Nya selamanya. **Bacalah 1 Tesalonika 4:16, 17.**\
 \
 ^[Jurnal Keluarga]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Dalam kisah ini, apa yang membantu kamu mengenal Yesus sedikit lebih baik?\
-• Tuliskan Gagasan Utama minggu ini: Saya dapat mempercayai Yesus, bahkan ketika keadaan tampak tanpa harapan. Diskusikan momen-momen mana dalam cerita yang merupakan momen kepercayaan yang besar saat kamu menghias halaman kamu.\
+• Tuliskan Gagasan Utama minggu ini: Saya dapat memercayai Yesus, bahkan ketika keadaan tampak tanpa harapan. Diskusikan momen-momen mana dalam cerita yang merupakan momen kepercayaan yang besar saat kamu menghias halaman kamu.\
 \
 ^[Berdoa]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 Sebagai sebuah keluarga, syukurlah kami tidak perlu takut tetapi hanya perlu percaya kepada-Nya.\

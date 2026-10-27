@@ -24,7 +24,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 • Bagikan tantangan bercerita hari Rabu ini dengan keluarga kamu.\
 • Pajang pembatas buku atau kartu ucapan belasungkawa kamu. Pikirkan orang-orang dalam keluarga kamu, keluarga besar, dan komunitas yang mungkin membutuhkan simpati dan perhatian. Rencanakan sesuatu yang dapat kamu lakukan untuk seseorang.\
 • Sebagai keluarga, carilah hal-hal di alam sekitar yang mengingatkan kamu bahwa Yesus dapat menghidupkan segala sesuatu. Jika kamu tidak dapat melakukan ini, **bacalah Lukas 19:40** dan diskusikan betapa menakjubkannya jika kita dapat melihat hal-hal ini menjadi hidup!\
-• Nyanyikan lagu “What a Friend We Have in Jesus” (The _Seventh-day Adventist Hymnal_, no. 499) atau lagu pujian lain pilihan kamu.\
+• Nyanyikan lagu “What a Friend We Have in Jesus” (Yesus Sahabat Kita) (The _Seventh-day Adventist Hymnal_, no. 499) atau lagu pujian lain pilihan kamu.\
 \
 ^[Jurnal Keluarga]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Pelajaran apa yang telah kamu dapatkan tentang simpati?\

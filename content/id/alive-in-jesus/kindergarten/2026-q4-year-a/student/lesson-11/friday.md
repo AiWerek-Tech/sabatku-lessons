@@ -11,7 +11,7 @@ Carilah teman atau anggota keluarga untuk menjadi pendampingmu. Buatlah jalur ri
 Bergantianlah menjadi teman yang matanya ditutup, dan pemimpin yang dipercaya.
 
 - Bagaimana perasaanmu saat matamu ditutup?
-- Apa yang membantumu mempercayai temanmu untuk memimpinmu?
+- Apa yang membantumu memercayai temanmu untuk memimpinmu?
 - Apa yang membantu kamu menjadi rekan yang baik dan terpercaya saat memimpin?
 
 ### Kejutan Makanan
@@ -24,7 +24,7 @@ Mainkan permainan ini bersama orang tua atau orang dewasa yang kamu percayai. Mi
 
 ### Ide Doa
 
-Bersyukurlah kepada Yesus karena kamu dapat mempercayai-Nya. Mintalah kepada-Nya untuk membantumu menjadi teman yang baik yang juga dipercaya orang lain.
+Bersyukurlah kepada Yesus karena kamu dapat memercayai-Nya. Mintalah kepada-Nya untuk membantumu menjadi teman yang baik yang juga dipercaya orang lain.
 
 ### Kegiatan Keluarga Jumat Malam
 
@@ -32,7 +32,7 @@ Bersyukurlah kepada Yesus karena kamu dapat mempercayai-Nya. Mintalah kepada-Nya
 
 Buatlah sesuatu untuk mengingatkanmu tentang cerita pekan ini. Letakkan di dalam kotak kenangan khususmu. Lihatlah benda-benda lain di dalam kotakmu dan coba ingat cerita dan pesan yang terkait dengan setiap benda tersebut.\
 
-Akhiri dengan menyanyikan lagu “Yesus Menyelamatkan” lagi (dari pelajaran hari Kamis).\
+Akhiri dengan menyanyikan lagu “Jesus Saves” (Yesus Menyelamatkan) lagi (dari pelajaran hari Kamis).\
 
 ### Untuk Orang Tua
 

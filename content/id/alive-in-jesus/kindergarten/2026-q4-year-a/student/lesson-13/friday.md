@@ -22,7 +22,7 @@ Suatu hari nanti akan ada lebih banyak senyuman, air mata bahagia, dan tawa keti
 
 ### Ayo Lakukan
 
-Nyanyikan lagu “My God is So Big” atau lagu lain yang kamu ketahui yang menggambarkan betapa dahsyatnya kuasa Yesus.
+Nyanyikan lagu “My God is So Big” (Allahku Begitu Besar) atau lagu lain yang kamu ketahui yang menggambarkan betapa dahsyatnya kuasa Yesus.
 
 ### Ide Doa
 

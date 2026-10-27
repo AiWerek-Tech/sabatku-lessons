@@ -10,9 +10,9 @@ Tanyakan kepada mereka apakah mereka ingin menunjukkan seberapa kuat mereka deng
 
 Ajak anak-anak untuk menggambar sesuatu, atau seseorang, yang berkuasa.
 
-**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack It Up.”
+**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack It Up” (Berkemaslah).
 
-[♫ Berkemaslah](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
+[♫ Pack It Up (Berkemaslah)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
 
 ### SAMBUTAN, LAGU-LAGU, DOA (5 MENIT)
 
@@ -20,39 +20,39 @@ Ajak anak-anak untuk menggambar sesuatu, atau seseorang, yang berkuasa.
 
 **MENYANYI:** Nyanyikan lagu-lagu berikut dengan gerakan dan alat peraga:
 
-- “Kami Menyambut Anda”
-- “Sahabatku Selamanya, Yesus”
-- “Allah Maha Perkasa”
-- “Lagu Pengunjung” dan ucapan terima kasih
-- “Selamat Ulang Tahun” untuk setiap anak yang berulang tahun minggu lalu
+- “We Welcome You” (Kami Menyambutmu)
+- “My Forever Friend Jesus” (Sahabatku Selamanya, Yesus)
+- “God Is Mighty” (Allah Maha Perkasa)
+- “Visitor Song” (Lagu Pengunjung) dan ucapan terima kasih
+- “Happy Birthday” (Selamat ulang tahun) untuk setiap anak yang berulang tahun minggu lalu
 
 ### Lagu Pujian
 
-[♫ Kami Menyambut Anda](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
+[♫ We Welcome You (Kami Menyambutmu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
 
-[♫ Sahabatku Selamanya, Yesus](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/my-forever-friend-jesus.mp3)
+[♫ My Forever Friend Jesus (Sahabatku Selamanya, Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/my-forever-friend-jesus.mp3)
 
-[♫ Allah Maha Perkasa](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/god-is-mighty.mp3)
+[♫ God Is Mighty (Allah Maha Perkasa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/god-is-mighty.mp3)
 
-[♫ Lagu Pengunjung](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
+[♫ Visitor Song (Lagu Pengunjung)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
 
-[♫ Selamat ulang tahun](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
+[♫ Happy Birthday (Selamat ulang tahun)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
 
-**BERDOA:** Nyanyikan lagu “When I Kneel Down to Pray” Berlututlah bersama, dan ajak seorang anak untuk berdoa. Kemudian berdoalah juga, ucapkan terima kasih kepada Yesus karena Dia mahakuasa dan mengasihi kita. Mohon kepada-Nya agar Dia membantu semua anak untuk belajar lebih banyak tentang Dia hari ini.
+**BERDOA:** Nyanyikan lagu “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa) Berlututlah bersama, dan ajak seorang anak untuk berdoa. Kemudian berdoalah juga, ucapkan terima kasih kepada Yesus karena Dia mahakuasa dan mengasihi kita. Mohon kepada-Nya agar Dia membantu semua anak untuk belajar lebih banyak tentang Dia hari ini.
 
-[♫ Saat Aku Berlutut untuk Berdoa](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
+[♫ When I Kneel Down To Pray (Saat Aku Berlutut untuk Berdoa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
 
 ### PERSEMBAHAN DAN AYAT HAFALAN (6 MENIT)
 
 **MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang ke mana dana yang ditawarkan akan dialokasikan pada triwulan ini.
 
-**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand,” dan ajak seorang anak untuk mengumpulkan persembahan Sekolah Sabat di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan. Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
+**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku), dan ajak seorang anak untuk mengumpulkan persembahan Sekolah Sabat di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan. Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
 
-[♫ Bukalah Hatiku, Bukalah Tanganku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
+[♫ Open My Heart, Open My Hand (Bukalah Hatiku, Bukalah Tanganku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
 
-BERNYANYI dan BERDISKUSI: Nyanyikan lagu “Firman Tuhan.” Ajak seorang anak untuk maju ke depan dan memegang Alkitab khusus kelas.
+BERNYANYI dan BERDISKUSI: Nyanyikan lagu “God’s Words” (Firman Tuhan). Ajak seorang anak untuk maju ke depan dan memegang Alkitab khusus kelas.
 
-[♫ Firman Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
+[♫ God’s Words (Firman Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
 
 - Siapakah Makhluk yang paling berkuasa di alam semesta? (Tuhan.)
 
@@ -64,7 +64,7 @@ Ketika Yesus kembali, Dia akan memberikan hidup kekal kepada semua sahabat-Nya y
 
 Dengarkan dan nyanyikan Lagu Ayat Alkitab Yohanes 11:25 bersama-sama.
 
-[♫ Yohanes 11:25](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/13-john-11-25.mp3?updated)
+[♫ John 11:25 (Yohanes 11:25)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/13-john-11-25.mp3?updated)
 
 ### KOTAK KEJUTAN RAHASIA (7 MENIT)
 
@@ -123,22 +123,22 @@ Berikan kepada setiap anak Kartu Koleksi Alam 52: Gorila Punggung Perak untuk di
 
 ### KERAJINAN TANGAN (15 MENIT)
 
-**KEAHLIAN:** “Bangunlah, Lazarus!” Buatlah kerajinan tangan Lazarus untuk mengingatkan anak-anak akan kasih dan kuasa Yesus. Saat anak-anak mengerjakan kerajinan tangan tersebut, diskusikan:
+**KERAJINAN:** “Bangunlah, Lazarus!” Buatlah kerajinan tangan Lazarus untuk mengingatkan anak-anak akan kasih dan kuasa Yesus. Saat anak-anak mengerjakan kerajinan tangan tersebut, diskusikan:
 
 - Menurutmu, apa pikiran pertama Lazarus ketika Yesus memanggilnya keluar dari kubur?
 
 Jelaskan bagaimana Lazarus pasti bertanya-tanya apa yang terjadi ketika dia "bangun" dari kematian! Dia pasti merasa sangat bersyukur bisa bersama saudara perempuannya dan Sahabatnya yang terkasih, Yesus, lagi. Ajak anak-anak untuk mengangkat kerajinan Lazarus mereka saat Anda mengucapkan Pesan Utama untuk terakhir kalinya: “Yesus [tunjuk ke atas] dapat melakukan apa saja [lompat dengan satu kepalan tangan di udara]. Dia mahakuasa [kencangkan otot].”
 
-TINJAU dan NYANYIKAN: Nyanyikan lagu “Apa yang Dapat Dilakukan Yesus?” Tunjukkan Ringkasan PowerPoint Program, dan untuk setiap gambar, ajak anak-anak untuk melengkapi kalimat Anda: “Yesus dapat . . .” (menenangkan badai; menyembuhkan orang buta, dll.).
+TINJAU dan NYANYIKAN: Nyanyikan lagu “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?) Tunjukkan Ringkasan PowerPoint Program, dan untuk setiap gambar, ajak anak-anak untuk melengkapi kalimat Anda: “Yesus dapat . . .” (menenangkan badai; menyembuhkan orang buta, dll.).
 
-[♫ Apa yang Dapat Dilakukan Yesus?](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/what-can-jesus-do.mp3)
+[♫ What Can Jesus Do? (Apa yang Dapat Dilakukan Yesus?)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/what-can-jesus-do.mp3)
 
-- Apa yang ingin Anda sampaikan kepada Sahabat kita, Yesus, karena Anda tahu Dia mampu melakukan apa saja? Jika mereka ingin mengucapkan “Terima Kasih,” ajak mereka untuk menempelkan stiker pada tulisan besar “TERIMA KASIH” yang telah Anda tulis di bagian depan.
+- Apa yang ingin kamu sampaikan kepada Sahabat kita, Yesus, karena kamu tahu Dia mampu melakukan apa saja? Jika mereka ingin mengucapkan “Terima Kasih,” ajak mereka untuk menempelkan stiker pada tulisan besar “TERIMA KASIH” yang telah kamu tulis di bagian depan.
 
-Tantangan: Seperti Maria, Marta, dan para murid, kita dapat mempercayai Yesus, bahkan ketika kita tidak memahami semuanya. Bersama-sama kita dapat menantikan hari kedatangan Yesus—ketika tidak seorang pun akan mati lagi! Inilah kabar terbaik. Kepada siapa Anda dapat menyampaikan kabar ini pekan ini?
+Tantangan: Seperti Maria, Marta, dan para murid, kita dapat memercayai Yesus, bahkan ketika kita tidak memahami semuanya. Bersama-sama kita dapat menantikan hari kedatangan Yesus—ketika tidak seorang pun akan mati lagi! Inilah kabar terbaik. Kepada siapa Anda dapat menyampaikan kabar ini pekan ini?
 
-**MENYANYI:** Nyanyikan lagu “Yesus Mampu.” Sampaikan bahwa minggu depan kita akan memulai panduan pelajaran baru dengan lebih banyak kisah indah dari Alkitab tentang Tuhan kita yang luar biasa.
+**MENYANYI:** Nyanyikan lagu “Jesus Can” (Yesus Mampu). Sampaikan bahwa minggu depan kita akan memulai panduan pelajaran baru dengan lebih banyak kisah indah dari Alkitab tentang Tuhan kita yang luar biasa.
 
-[♫ Yesus Mampu](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
+[♫ Jesus Can (Yesus Mampu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
 
 **BERDOA:** Berdoalah, ucapkan terima kasih kepada Yesus karena Dia mampu melakukan apa saja. Ucapkan terima kasih kepada-Nya atas kuasa-Nya atas kematian dan bahwa suatu hari nanti Dia akan membawa kita bersama-Nya di surga.

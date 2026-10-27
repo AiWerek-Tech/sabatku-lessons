@@ -12,49 +12,49 @@ Tunjukkan gambar-gambar yang digambar oleh anak-anak yang datang lebih awal. Ber
 
 **MENYANYI:** Nyanyikan lagu-lagu berikut dengan gerakan dan alat peraga:
 
-- “Kami Menyambut Anda”
-- “Berani dan Tegas”
-- “Allah Maha Perkasa”
-- “Apa yang Dapat Dilakukan Yesus?”
+- “We Welcome You” (Kami Menyambutmu)
+- “Bold and Brave” (Teguh dan Berani)
+- “God Is Mighty” (Allah Maha Perkasa)
+- “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
 
-[♫ Kami Menyambut Anda](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
+[♫ We Welcome You (Kami Menyambutmu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
 
-[♫ Allah Maha Perkasa](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/god-is-mighty.mp3)
+[♫ God Is Mighty (Allah Maha Perkasa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/god-is-mighty.mp3)
 
-[♫ Berani dan Tegas](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/bold-and-brave.mp3)
+[♫ Bold and Brave (Teguh dan Berani)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/bold-and-brave.mp3)
 
-[♫ Apa yang Dapat Dilakukan Yesus?](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/what-can-jesus-do.mp3)
+[♫ What Can Jesus Do? (Apa yang Dapat Dilakukan Yesus?)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/what-can-jesus-do.mp3)
 
 Tanyakan: Apa yang Yesus lakukan dalam kisah Alkitab kita minggu lalu? (Ia menenangkan badai dan menenangkan hati para murid.) Bagikan bagaimana hari ini kita akan menemukan hal lain yang dapat Yesus lakukan, karena Ia dapat melakukan apa saja!
 
-- “Selamat Ulang Tahun” untuk setiap anak yang berulang tahun minggu lalu
-- “Lagu Pengunjung” dan ucapan terima kasih
+- “Happy Birthday” (Selamat ulang tahun) untuk setiap anak yang berulang tahun minggu lalu
+- “Visitor Song” (Lagu Pengunjung) dan ucapan terima kasih
 
-[♫ Lagu Pengunjung](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
+[♫ Visitor Song (Lagu Pengunjung)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
 
-[♫ Selamat ulang tahun](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
+[♫ Happy Birthday (Selamat ulang tahun)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
 
-**BERDOA:** Nyanyikan lagu “When I Kneel Down to Pray” (Saat Aku Berlutut untuk Berdoa). Kemudian ajak seorang anak untuk berdoa. Lalu berdoalah juga, ucapkan terima kasih kepada Tuhan atas firman-Nya yang berharga dalam Alkitab dan karena telah menjadikan kita berani.
+**BERDOA:** Nyanyikan lagu “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa). Kemudian ajak seorang anak untuk berdoa. Lalu berdoalah juga, ucapkan terima kasih kepada Tuhan atas firman-Nya yang berharga dalam Alkitab dan karena telah menjadikan kita berani.
 
-[♫ Saat Aku Berlutut untuk Berdoa](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
+[♫ When I Kneel Down To Pray (Saat Aku Berlutut untuk Berdoa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
 
 ### PERSEMBAHAN DAN AYAT HAFALAN (6 MENIT)
 
-**MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang penawaran misi triwulan ini.
+**MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang persembahan misi triwulan ini.
 
-**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand” dan ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan. Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
+**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku) dan ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan. Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
 
-[♫ Bukalah Hatiku, Bukalah Tanganku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
+[♫ Open My Heart, Open My Hand (Bukalah Hatiku, Bukalah Tanganku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
 
-BERNYANYI dan BERDISKUSI: Nyanyikan lagu “Firman Tuhan.” Ajak seorang anak maju ke depan untuk memegang Alkitab khusus kelas. Bicarakan tentang bagaimana firman Tuhan itu berkuasa dan benar. Jelaskan bahwa ayat hafalan hari ini dapat membantu kita merasa berani. Tunjukkan kepada anak-anak cara menemukan ayat hafalan, Matius 14:27. Ucapkan bersama-sama: “Segera Yesus berkata kepada mereka: ‘Tenanglah! Ini Aku; jangan takut.’ ”
+BERNYANYI dan BERDISKUSI: Nyanyikan lagu “God’s Words” (Firman Tuhan). Ajak seorang anak maju ke depan untuk memegang Alkitab khusus kelas. Bicarakan tentang bagaimana firman Tuhan itu berkuasa dan benar. Jelaskan bahwa ayat hafalan hari ini dapat membantu kita merasa berani. Tunjukkan kepada anak-anak cara menemukan ayat hafalan, Matius 14:27. Ucapkan bersama-sama: “Segera Yesus berkata kepada mereka: ‘Tenanglah! Ini Aku; jangan takut.’ ”
 
-[♫ Firman Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
+[♫ God’s Words (Firman Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
 
 - Bagaimana perasaanmu jika Yesus mengucapkan kata-kata itu kepadamu?
 
 Dengarkan dan nyanyikan Lagu Ayat Alkitab Matius 14:27. Dorong anak-anak untuk menunjukkan “kegembiraan” (keceriaan; kepercayaan diri) dalam ekspresi wajah mereka saat menyanyikan ayat tersebut.
 
-[♫ Matius 14:27](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/4-matthew-14-27.mp3)
+[♫ Matthew 14:27 (Matius 14:27)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/4-matthew-14-27.mp3)
 
 ### KOTAK KEJUTAN RAHASIA (7 MENIT)
 
@@ -93,7 +93,7 @@ Tekankan bahwa ketika kita tetap dekat dengan Yesus, Dia membuat kita berani. Aj
 
 ### KERAJINAN TANGAN (15 MENIT)
 
-**KEAHLIAN:** Berjalan di Atas Air - Teater Boneka. Tunjukkan kepada anak-anak kerajinan tangan pekan ini tentang Yesus dan Petrus berjalan di atas air, dan jelaskan cara membuatnya.
+**KERAJINAN:** Berjalan di Atas Air - Teater Boneka. Tunjukkan kepada anak-anak kerajinan tangan pekan ini tentang Yesus dan Petrus berjalan di atas air, dan jelaskan cara membuatnya.
 
 **MENERAPKAN:** Hari ini kita belajar bahwa Yesus dapat melakukan apa saja. Dia bahkan dapat membantu seseorang berjalan di atas air yang berbadai, dan menenangkan badai (lagi!). Kita belajar bahwa Yesus dapat membuat kita berani.
 
@@ -101,8 +101,8 @@ Ajak anak-anak berbaris saat kita "menyampaikan" beberapa kata-kata penyemangat.
 
 **TANTANGAN MISI:** Tantangan Misi Anda pekan ini adalah mendirikan Sekolah Sabat di rumah untuk mainan Anda. Apa yang akan Anda nyanyikan, katakan, dan bagikan jika Anda menjadi gurunya? Berlatihlah pekan ini, lalu di akhir minggu, ajak anggota keluarga atau teman muda untuk bergabung dengan Anda. Undang mereka ke Sekolah Sabat Anda pada hari Sabat.
 
-**MENYANYI:** Nyanyikan lagu “Yesus Mampu.” Sampaikan bahwa minggu depan kita akan belajar lebih banyak tentang kuasa Yesus, karena Ia mampu melakukan apa saja! (Lompatlah dengan satu kepalan tangan di udara.) Ajak semua orang untuk bertepuk tangan.
+**MENYANYI:** Nyanyikan lagu “Jesus Can” (Yesus Mampu). Sampaikan bahwa minggu depan kita akan belajar lebih banyak tentang kuasa Yesus, karena Ia mampu melakukan apa saja! (Lompatlah dengan satu kepalan tangan di udara.) Ajak semua orang untuk bertepuk tangan.
 
-[♫ Yesus Mampu](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
+[♫ Jesus Can (Yesus Mampu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
 
 **BERDOA:** Ajak seorang anak untuk berdoa. Kemudian panjatkan doa sendiri, berterima kasih kepada Tuhan karena telah menjadikan kita berani, seperti Petrus yang berani.

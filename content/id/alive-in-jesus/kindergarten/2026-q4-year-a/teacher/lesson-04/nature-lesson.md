@@ -6,7 +6,7 @@ Tunjukkan gambar **Elang Emas**.
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/04/nature-lesson.png)
 
-- **Apa yang Anda perhatikan tentang makhluk cantik ini?**
+- **Apa yang kamu perhatikan tentang makhluk cantik ini?**
 
 Mari kita lihat sayapnya. Elang Emas dapat terbang sangat cepat. Ia dapat terbang lebih cepat daripada kecepatan lari Anda. Ia lebih cepat daripada cheetah. Bahkan, ketika menukik dari langit, ia dapat terbang lebih dari 100 mil per jam (160 kilometer per jam). Itu bahkan lebih cepat daripada mobil! Bisakah Anda **menggerakkan lengan Anda seperti sayap** untuk menunjukkan bagaimana Elang Emas terbang sangat cepat?
 

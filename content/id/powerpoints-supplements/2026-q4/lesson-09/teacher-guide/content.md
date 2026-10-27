@@ -147,7 +147,7 @@ Mintalah siswa memulai kegiatan persiapan yang Anda pilih.
 
 - **Kegiatan:** Daftar Kehormatan (*Honor Roll*)
 
-- **Perlengkapan:** *The SDA Hymnal* atau rekaman lagu “My Tribute” oleh Andraé Crouch
+- **Perlengkapan:** *The SDA Hymnal* atau rekaman lagu “My Tribute” (Persembahan Syukurku) oleh Andraé Crouch
 
 
 
@@ -247,9 +247,9 @@ Sampaikan sukacita dan kesusahan siswa (hal-hal yang menyenangkan dan mengganggu
 
 ### Lagu yang Disarankan
 
-- “Make Me a Servant” (*He Is Our Song*, No. 126).
-- “Unto Thee, O Lord” (*He Is Our Song*, No. 102).
-- “To God Be the Glory” (*He Is Our Song*, No. 341).
+- “Make Me a Servant” (Jadikan Aku Pelayan-Mu) (*He Is Our Song*, No. 126).
+- “Unto Thee, O Lord” (Kepada-Mu, ya Tuhan) (*He Is Our Song*, No. 102).
+- “To God Be the Glory” (Bagi Allah Segala Kemuliaan) (*The SDA Hymnal*, No. 341).
 
 ### Misi
 
@@ -333,7 +333,7 @@ Dalam doa yang dicatat dalam Nehemia 9, kasih karunia dan kuasa Allah dikenang k
 
 ### Daftar Kehormatan (*Honor Roll*)
 
-**Perlengkapan:** *The SDA Hymnal* atau rekaman lagu “My Tribute” oleh Andraé Crouch.
+**Perlengkapan:** *The SDA Hymnal* atau rekaman lagu “My Tribute” (Persembahan Syukurku) oleh Andraé Crouch.
 
 **Katakan:** Di banyak sekolah, siswa yang rajin belajar dan mencapai hasil sangat baik dicantumkan namanya dalam daftar kehormatan.
 
@@ -347,7 +347,7 @@ Dalam doa yang dicatat dalam Nehemia 9, kasih karunia dan kuasa Allah dikenang k
 
 **Diskusi:**
 
-Bersama siswa, nyanyikan bagian refrain lagu “To God Be the Glory” (*The SDA Hymnal*, No. 341) atau putarkan rekaman “My Tribute” karya Andraé Crouch, jika tersedia.
+Bersama siswa, nyanyikan bagian refrein lagu “To God Be the Glory” (Bagi Allah Segala Kemuliaan) (*The SDA Hymnal*, No. 341) atau putarkan rekaman “My Tribute” (Persembahan Syukurku) karya Andraé Crouch, jika tersedia.
 
 **Tanyakan:** Apa yang dapat kamu katakan untuk memberikan kemuliaan kepada Allah ketika seseorang memujimu karena:
 
@@ -404,7 +404,6 @@ Halaman ini disediakan sebagai halaman catatan dan tidak berisi bahan tertulis p
 
 ## Lampiran Guru — Kisah Siswa yang Dicetak Ulang, hlm. 102
 
-Pada bagian ini, sumber penuntun guru mencetak ulang kisah siswa *Giving God the Credit*. Teks terjemahannya dipertahankan dalam lampiran ini sebagai referensi guru, terpisah dari berkas harian siswa.
 
 Bayangkan kamu dipilih untuk melayani sebagai seorang penatua di jemaatmu. Bagaimana kamu akan menghadapi anggota jemaat yang tidak mau melayani Allah? Mari kita lihat bagaimana “Penatua” Nehemia menangani berbagai masalah yang dihadapinya.
 
@@ -495,7 +494,7 @@ Bacalah Nehemia 9:1–8.
 
 ## Daftarkan
 
-Dalam jurnal pelajaran Alkitabmu, tuliskan lima hal terpenting yang membuatmu ingin memuji Allah.
+Dalam jurnal pendalaman Alkitabmu, tuliskan lima hal terpenting yang membuatmu ingin memuji Allah.
 
 ## Bagikan
 
@@ -517,7 +516,7 @@ Hal-hal besar apakah yang telah Allah lakukan dalam hidupmu?
 
 ## Daftarkan
 
-Dalam jurnal pelajaran Alkitabmu, tuliskan lima hal yang membuatmu ingin memuji Allah hari ini.
+Dalam jurnal pendalaman Alkitabmu, tuliskan lima hal yang membuatmu ingin memuji Allah hari ini.
 
 ## Doakan
 
@@ -535,7 +534,7 @@ Bacalah sekilas Nehemia 13 dan temukan dua atau tiga cara orang Israel membagika
 
 ## Daftarkan
 
-Dalam jurnal pelajaran Alkitabmu, tuliskan lima cara kamu dapat membagikan kepada orang lain berkat-berkat yang membuatmu memuji Allah.
+Dalam jurnal pendalaman Alkitabmu, tuliskan lima cara kamu dapat membagikan kepada orang lain berkat-berkat yang membuatmu memuji Allah.
 
 ## Doakan
 

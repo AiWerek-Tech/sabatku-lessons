@@ -35,5 +35,5 @@ Setelah seharian mengajar, Yesus dan para murid berangkat menuju seberang danau.
 Anak-anak akan:
 
 - **Mengetahui** bahwa Yesus memiliki kuasa atas alam.
-- **Merasakan** memiliki keinginan untuk mempercayai Yesus ketika mereka takut.
+- **Merasakan** memiliki keinginan untuk memercayai Yesus ketika mereka takut.
 - **Menanggapi** dengan meminta Yesus untuk membantu mereka ketika mereka takut.

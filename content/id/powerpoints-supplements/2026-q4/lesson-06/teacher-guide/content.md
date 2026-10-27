@@ -262,9 +262,9 @@ Sampaikan sukacita maupun kesedihan siswa (hal-hal yang menggembirakan dan meres
 
 ### Lagu yang Disarankan (Suggested Songs)
 
-- “Make Me a Servant” (*He Is Our Song*, no. 126).
-- “The Lord Is Building Jerusalem” (*He Is Our Song*, no. 117).
-- “Salt and Light” (*Praise Time*, no. 43).
+- “Make Me a Servant” (Jadikan Aku Pelayan-Mu) (*He Is Our Song*, no. 126).
+- “The Lord Is Building Jerusalem” (Tuhan Membangun Yerusalem) (*He Is Our Song*, no. 117).
+- “Salt and Light” (Garam dan Terang) (*Praise Time*, no. 43).
 
 ### Misi (Mission)
 

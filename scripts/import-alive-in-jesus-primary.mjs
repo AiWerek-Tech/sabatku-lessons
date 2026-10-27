@@ -2,6 +2,7 @@ import { cp, mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { normalizeAliveInJesusMarkdown } from './build-alive-in-jesus.mjs';
+import { labelPrimarySongs } from './primary-song-labels.mjs';
 
 const repositoryRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const sourceRoot = process.argv[2] || 'C:/Users/ADMIN/Music/Alive In Jesus/4. PRIMARY';
@@ -63,7 +64,7 @@ function roleEdition(role, id, title, sourceUrl, cover, lessons, dayOrder = null
 async function markdownFile(file, title) {
   const original = await readFile(file, 'utf8');
   const parsed = frontmatter(original);
-  return { content: `${normalizeAliveInJesusMarkdown(parsed.body)}\n`, title: parsed.values.title || title || path.basename(file, '.md') };
+  return { content: `${labelPrimarySongs(normalizeAliveInJesusMarkdown(parsed.body))}\n`, title: parsed.values.title || title || path.basename(file, '.md') };
 }
 
 async function writeRoleEdition(roleDirectory, edition) {
@@ -89,6 +90,15 @@ async function writeRoleEdition(roleDirectory, edition) {
 }
 
 async function main() {
+  for (const role of ['student', 'teacher']) {
+    const existing = await readFile(path.join(targetRoot, role, 'edition.json'), 'utf8').catch(error => {
+      if (error.code === 'ENOENT') return null;
+      throw error;
+    });
+    if (existing && (JSON.parse(existing).publicationStatus === 'published' || JSON.parse(existing).sourceReviewRequired)) {
+      throw new Error('Reviewed/published Primary content must not be overwritten by the source importer. Apply an audited editorial revision instead.');
+    }
+  }
   const studentSource = path.join(sourceRoot, 'AIJ_Primary_2026_Q4_ID_MD');
   const teacherSource = path.join(sourceRoot, 'AIJ_Primary_Teacher_2026_Q4_ID_MD');
   const studentTarget = path.join(targetRoot, 'student');
@@ -112,7 +122,7 @@ async function main() {
         title: values.title,
         date,
         file: `${dayKeys[day]}.md`,
-        content: `${normalizeAliveInJesusMarkdown(body)}\n`,
+        content: `${labelPrimarySongs(normalizeAliveInJesusMarkdown(body))}\n`,
       });
     }
     studentLessons.push({ id: lessonId, title: weekTitle, startDate: readings[0].date, endDate: readings.at(-1).date, readings });
@@ -175,7 +185,7 @@ async function main() {
       title: overviewTitle,
       startDate,
       endDate,
-      readings: [{ key: 'teacher-guide', title: `Panduan Guru · ${overviewTitle}`, date: endDate, file: 'teacher-guide.md', content: `${normalizeAliveInJesusMarkdown(sections.join('\n\n---\n\n'))}\n` }],
+      readings: [{ key: 'teacher-guide', title: `Panduan Guru · ${overviewTitle}`, date: endDate, file: 'teacher-guide.md', content: `${labelPrimarySongs(normalizeAliveInJesusMarkdown(sections.join('\n\n---\n\n')))}\n` }],
     });
   }
   const globalTeacherFolders = [

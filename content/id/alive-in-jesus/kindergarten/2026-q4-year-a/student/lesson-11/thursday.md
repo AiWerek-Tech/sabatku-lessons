@@ -6,11 +6,11 @@ Yesus berkata, “Pergilah, dan seperti yang telah kamu percayai, demikianlah ak
 
 Apa yang terjadi ketika Yesus mengucapkan kata-kata ini? **Bacalah Lukas 7:10.**
 
-Betapa luar biasanya Juruselamat kita! Yesus senang menolong prajurit Romawi yang telah mempercayai kuasa-Nya. Dan Yesus mengasihi, dan akan menyelamatkan, setiap orang yang mempercayai-Nya hari ini juga!
+Betapa luar biasanya Juruselamat kita! Yesus senang menolong prajurit Romawi yang telah memercayai kuasa-Nya. Dan Yesus mengasihi, dan akan menyelamatkan, setiap orang yang memercayai-Nya hari ini juga!
 
-Pada malam itu, saat matahari mulai terbenam, sang perwira mungkin mengumpulkan keluarga dan para pelayannya untuk beribadah malam. Bayangkan betapa bersyukurnya mereka. Yesus telah menunjukkan kuasa-Nya kepada mereka. Yesus telah menunjukkan kasih-Nya kepada mereka. Mereka diundang untuk menjadi bagian dari keluarga Allah. Mereka selalu dapat mempercayai-Nya!
+Pada malam itu, saat matahari mulai terbenam, sang perwira mungkin mengumpulkan keluarga dan para pelayannya untuk beribadah malam. Bayangkan betapa bersyukurnya mereka. Yesus telah menunjukkan kuasa-Nya kepada mereka. Yesus telah menunjukkan kasih-Nya kepada mereka. Mereka diundang untuk menjadi bagian dari keluarga Allah. Mereka selalu dapat memercayai-Nya!
 
-Kamu pun bisa mempercayai-Nya. “Dan orang-orang yang mengenal nama-Mu akan percaya kepada-Mu; sebab Engkau, Tuhan, tidak meninggalkan orang-orang yang mencari Engkau” (Mazmur 9:10).
+Kamu pun bisa memercayai-Nya. “Dan orang-orang yang mengenal nama-Mu akan percaya kepada-Mu; sebab Engkau, Tuhan, tidak meninggalkan orang-orang yang mencari Engkau” (Mazmur 9:10).
 
 ### Aku Ingin Tahu
 
@@ -18,7 +18,7 @@ Kamu pun bisa mempercayai-Nya. “Dan orang-orang yang mengenal nama-Mu akan per
 
 ### Ayo Lakukan
 
-Nyanyikan himne “Yesus Menyelamatkan” atau lagu lain yang telah kamu pelajari di Sekolah Sabat.
+Nyanyikan himne “Jesus Saves” (Yesus Menyelamatkan) atau lagu lain yang telah kamu pelajari di Sekolah Sabat.
 
 ### Ide Doa
 

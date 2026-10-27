@@ -3,26 +3,26 @@
 ### KEGIATAN SEBELUM KELAS
 
 - Aktivitas: Kotak "Sentuh dan Rasakan" agar anak-anak menebak isinya
-- Nyanyikan **“Pack It Up”** saat Anda memasuki program.
+- Nyanyikan **“Pack It Up” (Berkemaslah)** saat Anda memasuki program.
 
 ### SAMBUTAN DAN LAGU-LAGU
 
 - Selamat datang
 - Lagu-lagu
-	- **“Kami Menyambut Anda”**
-	- **“Aku Bisa Percaya pada Tuhan”**
-	- **“Sahabatku Selamanya, Yesus”**
-	- **“Aku Akan Melayani-Mu, Yesus”**
-	- **“Lagu Pengunjung”** dan ucapan terima kasih
-	- **"Selamat ulang tahun"** untuk setiap anak yang berulang tahun minggu lalu
-- **“Saat Aku Berlutut untuk Berdoa”** dan doa
+	- **“We Welcome You” (Kami Menyambutmu)**
+	- **“I Can Trust God” (Aku Dapat Memercayai Tuhan)**
+	- **“My Forever Friend Jesus” (Sahabatku Selamanya, Yesus)**
+	- **“I Will Serve You, Jesus” (Aku Akan Melayani-Mu, Yesus)**
+	- **“Visitor Song” (Lagu Pengunjung)** dan ucapan terima kasih
+	- **"Happy Birthday" (Selamat ulang tahun)** untuk setiap anak yang berulang tahun minggu lalu
+- **“When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)** dan doa
 
 ### PERSEMBAHAN, DOA, AYAT HAFALAN
 
 - Bagikan **Fakta Singkat Misi**.
-- Kumpulkan persembahan dan nyanyikan lagu **“Bukalah Hatiku, Bukalah Tanganku.”** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
-- Menyanyi **“Saat Aku Berlutut untuk Berdoa”** sebelum berdoa bersama.
-- Menyanyi **“Firman Tuhan.”** Anak memegang Alkitab kelas.
+- Kumpulkan persembahan dan nyanyikan lagu **“Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku).** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
+- Menyanyi **“When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)** sebelum berdoa bersama.
+- Menyanyi **“God’s Words” (Firman Tuhan).** Anak memegang Alkitab kelas.
 - **Ayat Hafalan** dan **Lagu Ayat Alkitab**: “Anakku, tabahlah hatimu, imanmu telah menyembuhkanmu. Pergilah dengan damai” (Lukas 8:48).
 
 ### KOTAK KEJUTAN RAHASIA (SIAPKAN DIRI UNTUK KISAHNYA)
@@ -52,5 +52,5 @@
 - **Kerajinan:** Sentuhan Iman
 - **Terapkan:** Diskusikan hal-hal baik apa yang dapat Yesus ubah dalam diri kita, dan jawablah dengan "Ya!" secara aktif setelah setiap poin.
 - **Tantangan Misi:** Berdoalah setiap hari untuk para guru dan pengkhotbah yang menjadi misionaris. Kepada siapa Anda dapat menceritakan tentang Yesus?
-- Menyanyi **“Yesus Mampu.”**
+- Menyanyi **“Jesus Can” (Yesus Mampu).**
 - **Berdoa.**

@@ -8,7 +8,7 @@ Bacalah sekilas Nehemia 13 dan temukan dua atau tiga cara orang Israel membagika
 
 ## Daftarkan
 
-Dalam jurnal pelajaran Alkitabmu, tuliskan lima cara kamu dapat membagikan kepada orang lain berkat-berkat yang membuatmu memuji Allah.
+Dalam jurnal pendalaman Alkitabmu, tuliskan lima cara kamu dapat membagikan kepada orang lain berkat-berkat yang membuatmu memuji Allah.
 
 ## Doakan
 

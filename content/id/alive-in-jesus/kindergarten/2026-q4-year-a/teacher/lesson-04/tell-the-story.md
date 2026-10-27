@@ -7,7 +7,7 @@ Saat Anda bersiap untuk membagikan cerita ini, silakan baca Panduan Murid untuk 
 - Gunakan **kotak pasir** sebagai latar cerita, dengan **pasir/selofan biru** untuk mewakili Danau Galilea.
 - Sebuah **perahu**, yang terbuat dari kotak tisu yang dipotong atau sejenisnya
 - **Boneka tempel** untuk Yesus dan Petrus serta para murid, atau **set boneka kain**, jika tersedia.
-- Gunakan **wadah garam** yang diisi air untuk membuat "hujan" atau gunakan botol semprot.
+- Gunakan **botol penabur garam** yang diisi air untuk membuat "hujan" atau gunakan botol semprot.
 - Cari beberapa efek suara audio untuk badai dan putar suara tersebut saat Anda menceritakan kisah.
 - Letakkan beberapa figur orang-orangan sebagai murid di tepi "daratan" di kotak pasir dan di perahu di tepi "air" untuk memulai cerita.
 - Tampilkan gambar dari Panduan Murid saat Anda menceritakan kisah tersebut **(PowerPoint Program Pekan ke-4)**.

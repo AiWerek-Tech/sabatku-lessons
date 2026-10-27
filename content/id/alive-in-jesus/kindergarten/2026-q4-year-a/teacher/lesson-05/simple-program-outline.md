@@ -3,24 +3,24 @@
 ### KEGIATAN SEBELUM KELAS
 
 - Aktivitas: Buatlah untaian persahabatan dengan foto-foto anak-anak.
-- Nyanyikan **“Pack It Up”** saat Anda memasuki program.
+- Nyanyikan **“Pack It Up” (Berkemaslah)** saat Anda memasuki program.
 
 ### SAMBUTAN DAN LAGU-LAGU
 
 - Selamat datang
 - Lagu-lagu
-	- **“Kami Menyambut Anda”**
+	- **“We Welcome You” (Kami Menyambutmu)**
 	- **“Yesus Mengasihi Saya, dan Saya Mengasihi Yesus”**
-	- **“Keluarga Besar Tuhan”**
-	- **“Lagu Pengunjung”** dan ucapan terima kasih
-	- **"Selamat ulang tahun"** untuk setiap anak yang berulang tahun minggu lalu
-- **“Saat Aku Berlutut untuk Berdoa”** dan doa
+	- **“God’s Big Family” (Keluarga Besar Tuhan)**
+	- **“Visitor Song” (Lagu Pengunjung)** dan ucapan terima kasih
+	- **"Happy Birthday" (Selamat ulang tahun)** untuk setiap anak yang berulang tahun minggu lalu
+- **“When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)** dan doa
 
 ### PERSEMBAHAN, DOA, AYAT HAFALAN
 
 - Bagikan **Fakta Singkat Misi**.
-- Kumpulkan persembahan dan nyanyikan lagu **“Bukalah Hatiku, Bukalah Tanganku.”** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
-- Menyanyi **“Firman Tuhan.”** Anak memegang Alkitab kelas.
+- Kumpulkan persembahan dan nyanyikan lagu **“Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku).** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
+- Menyanyi **“God’s Words” (Firman Tuhan).** Anak memegang Alkitab kelas.
 - **Ayat Hafalan** dan **Lagu Ayat Alkitab**: “Tuhan dekat kepada orang-orang yang patah hati” (Mazmur 34:18).
 
 ### KOTAK KEJUTAN RAHASIA (SIAPKAN DIRI UNTUK KISAHNYA)
@@ -44,8 +44,8 @@
 
 ### KERAJINAN
 
-- **Kerajinan:** Hati yang Menyembuhkan. Bermain **“Sahabatku Selamanya, Yesus.”**
-- **Terapkan:** Dalam lingkaran, diskusikan cara untuk melibatkan orang lain; balon atau pita untuk merayakan. Bernyanyi. **“Sahabatku Selamanya, Yesus.”**
+- **Kerajinan:** Hati yang Menyembuhkan. Bermain **“My Forever Friend Jesus” (Sahabatku Selamanya, Yesus).**
+- **Terapkan:** Dalam lingkaran, diskusikan cara untuk melibatkan orang lain; balon atau pita untuk merayakan. Bernyanyi. **“My Forever Friend Jesus” (Sahabatku Selamanya, Yesus).**
 - **Tantangan Misi:** Berdoalah setiap hari untuk para dokter, perawat, dan dokter gigi yang merupakan misionaris. **Apa yang bisa Anda lakukan pekan ini untuk merawat seseorang atau hewan yang membutuhkan bantuan?**
-- Menyanyi **“Yesus Mampu.”**
+- Menyanyi **“Jesus Can” (Yesus Mampu).**
 - **Berdoa.**

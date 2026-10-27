@@ -7,15 +7,15 @@ Basah kuyup dan diterpa angin kencang, para murid yang ketakutan tiba-tiba terin
 
 Kilat menyambar langit, dan mereka semua melihat-Nya. Para murid menatap dengan mata terbelalak; beberapa tersentak takjub. “Yesus sedang tidur” (Matius 8:24, ICB). Di sana Ia berbaring, dengan mata tertutup dan kepala menunduk, tidur dengan tenang di tengah badai dahsyat.
 
-Allah mengetahui mengapa Yesus dapat tidur nyenyak di tengah badai, karena Firman-Nya berkata, “Apabila engkau berbaring, engkau tidak akan takut; ya, engkau akan berbaring dan tidurmu akan nyenyak” (Amsal 3:24). Yesus sepenuhnya mempercayai Allah. Dan Allah menyertai-Nya, melewati badai yang menakutkan itu.
+Allah mengetahui mengapa Yesus dapat tidur nyenyak di tengah badai, karena Firman-Nya berkata, “Apabila engkau berbaring, engkau tidak akan takut; ya, engkau akan berbaring dan tidurmu akan nyenyak” (Amsal 3:24). Yesus sepenuhnya memercayai Allah. Dan Allah menyertai-Nya, melewati badai yang menakutkan itu.
 
-Sahabat kita Yesus menunjukkan kepada kita bahwa kita dapat mempercayai Tuhan untuk menyertai kita, bahkan di tengah badai dan masa-masa menakutkan kita. Tuhan tidak selalu menghilangkan masalah kita. Tetapi Dia telah berjanji bahwa Dia akan selalu bersama kita melalui masa-masa menakutkan kita, membantu kita untuk berani. Mazmur 46:1-2 mengatakan, “Allah adalah tempat perlindungan dan kekuatan kita, pertolongan yang nyata dalam kesusahan. Karena itu kita tidak akan takut, sekalipun bumi berguncang dan sekalipun gunung-gunung dipindahkan ke tengah laut.” Kita dapat seperti Yesus. Kita dapat mempercayai Tuhan dan beristirahat dengan tenang.
+Sahabat kita Yesus menunjukkan kepada kita bahwa kita dapat memercayai Tuhan untuk menyertai kita, bahkan di tengah badai dan masa-masa menakutkan kita. Tuhan tidak selalu menghilangkan masalah kita. Tetapi Dia telah berjanji bahwa Dia akan selalu bersama kita melalui masa-masa menakutkan kita, membantu kita untuk berani. Mazmur 46:1-2 mengatakan, “Allah adalah tempat perlindungan dan kekuatan kita, pertolongan yang nyata dalam kesusahan. Karena itu kita tidak akan takut, sekalipun bumi berguncang dan sekalipun gunung-gunung dipindahkan ke tengah laut.” Kita dapat seperti Yesus. Kita dapat memercayai Tuhan dan beristirahat dengan tenang.
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#126792", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:
 
 - Pernahkah kamu terbangun dan diberi tahu bahwa kamu tertidur lelap saat terjadi sesuatu yang menakutkan, seperti badai atau gempa bumi? Ingat, Tuhan menyertai kamu!
-- Apa yang dapat membantu kamu untuk sepenuhnya mempercayai Tuhan bahkan ketika kamu takut atau menghadapi masa-masa sulit? **Bacalah 1 Petrus 5:7.**
+- Apa yang dapat membantu kamu untuk sepenuhnya memercayai Tuhan bahkan ketika kamu takut atau menghadapi masa-masa sulit? **Bacalah 1 Petrus 5:7.**
 
 {"style": {"block": {"backgroundColor": "#f3eff2", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#885d79"}}}
 ^[OBROLAN IMAN BERSAMA ORANG TUA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Ceritakan pengalaman ketika Yesus memberi kamu kedamaian, meskipun kamu sedang mengalami berbagai kesulitan.

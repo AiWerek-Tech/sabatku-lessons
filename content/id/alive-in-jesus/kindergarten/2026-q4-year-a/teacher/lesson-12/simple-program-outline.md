@@ -3,24 +3,24 @@
 ### KEGIATAN SEBELUM KELAS
 
 - Aktivitas: Membuat alat musik perkusi yang menyenangkan
-- Nyanyikan **“Pack It Up”** saat Anda memasuki program.
+- Nyanyikan **“Pack It Up” (Berkemaslah)** saat Anda memasuki program.
 
 ### SAMBUTAN DAN LAGU-LAGU
 
 - Selamat datang
 - Lagu-lagu:
-	- **“Kami Menyambut Anda” (dengan iringan musik riang)**
-	- **“Bersukacitalah selalu di dalam Tuhan”**
-	- **"Selalu"**
-	- **“Lagu Pengunjung”** dan ucapan terima kasih
-	- **"Selamat ulang tahun"** untuk setiap anak yang berulang tahun minggu lalu
-- **“Saat Aku Berlutut untuk Berdoa”** dan doa
+	- **“We Welcome You” (Kami Menyambutmu) (dengan iringan musik riang)**
+	- **“Rejoice in the Lord Always” (Bersukacitalah Selalu dalam Tuhan)**
+	- **"Always" (Selalu)**
+	- **“Visitor Song” (Lagu Pengunjung)** dan ucapan terima kasih
+	- **"Happy Birthday" (Selamat ulang tahun)** untuk setiap anak yang berulang tahun minggu lalu
+- **“When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)** dan doa
 
 ### PERSEMBAHAN, DOA, AYAT HAFALAN
 
 - Bagikan **Fakta Singkat Misi**.
-- Kumpulkan persembahan dan nyanyikan lagu **“Bukalah Hatiku, Bukalah Tanganku.”** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
-- Menyanyi **“Firman Tuhan.”** Anak memegang Alkitab kelas.
+- Kumpulkan persembahan dan nyanyikan lagu **“Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku).** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
+- Menyanyi **“God’s Words” (Firman Tuhan).** Anak memegang Alkitab kelas.
 - **Ayat Hafalan** dan **Lagu Ayat Alkitab**: “Semoga Allah, sumber pengharapan, memenuhi kamu dengan sukacita dan damai sejahtera dalam beriman” (Roma 15:13).
 
 ### KOTAK KEJUTAN RAHASIA (SIAPKAN DIRI UNTUK KISAHNYA)
@@ -44,7 +44,7 @@
 ### KERAJINAN
 
 - **Kerajinan:** Gerbera yang Menyenangkan - Kartu Ucapan Belasungkawa
-- **Tinjauan:** Gunakan alat musik perkusi yang riang untuk mengingat bagaimana Yesus dapat memberi kita sukacita. Bernyanyilah.**“Bersukacitalah selalu di dalam Tuhan”** lagi.
+- **Tinjauan:** Gunakan alat musik perkusi yang riang untuk mengingat bagaimana Yesus dapat memberi kita sukacita. Bernyanyilah.**“Rejoice in the Lord Always” (Bersukacitalah Selalu dalam Tuhan)** lagi.
 - **Tantangan Misi:** Bagikan gagasan utama dari pelajaran ini dengan anggota keluarga yang tinggal jauh.
-- Menyanyi **“Yesus Mampu.”**
+- Menyanyi **“Jesus Can” (Yesus Mampu).**
 - **Berdoa.**

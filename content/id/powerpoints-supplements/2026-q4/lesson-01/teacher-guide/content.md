@@ -226,9 +226,9 @@ Ceritakan sukacita dan kesedihan siswa (hal-hal menyenangkan atau yang menggangg
 
 ### Lagu yang Disarankan
 
-- “He Will Carry You” (*He Is Our Song*, No. 82)
-- “He’s Able” (*He Is Our Song*, No. 100)
-- “The Coloring Song” (*He Is Our Song*, No. 61)
+- “He Will Carry You” (Ia Akan Menopangmu) (*He Is Our Song*, No. 82)
+- “He’s Able” (Dia Sanggup) (*He Is Our Song*, No. 100)
+- “The Coloring Song” (Nyanyian tentang Warna) (*He Is Our Song*, No. 61)
 
 ### Misi
 
@@ -425,7 +425,7 @@ Bacalah 1 Raja-raja 17:5 dan kisah minggu ini, “Allah Memikirkanmu”.
 
 ## Gambar
 
-Gambarlah atau buatlah seekor burung. Tuliskan ayat hafalan, 1 Raja-raja 17:5, pada burung itu, lalu gantungkan sebagai pengingat akan burung-burung gagak yang memberi Elia makan.
+Gambarlah seekor burung atau buatlah burung dari bahan prakarya. Tuliskan ayat hafalan, 1 Raja-raja 17:5, pada burung itu, lalu gantungkan sebagai pengingat akan burung-burung gagak yang memberi Elia makan.
 
 ## Hafalkan
 
@@ -487,7 +487,7 @@ Bacalah Lukas 4:25–26.
 
 ## Daftarkan
 
-Dalam jurnal belajar Alkitabmu,* tuliskan kisah-kisah ketika Allah secara ajaib menyediakan kebutuhan sederhana sehari-hari.
+Dalam jurnal pendalaman Alkitabmu, tuliskan kisah-kisah ketika Allah secara ajaib menyediakan kebutuhan sederhana sehari-hari.
 
 ## Selidiki
 
@@ -501,7 +501,7 @@ Pangganglah roti, bagikan sebagian kepada seorang teman, dan ceritakan kepadanya
 
 Bersyukurlah kepada Allah atas semua berkat yang Ia sediakan melalui alam.
 
-\*Jurnal belajar Alkitab terdapat di bagian belakang buku panduan belajar Alkitab *PowerPoints*. Jika memerlukan ruang tambahan, gunakan buku catatan atau buat berkas khusus di komputermu. Menuliskan pikiran dan gagasan setiap kali kamu belajar Alkitab membantu menanamkannya dalam ingatanmu.
+Gunakan catatan belajarmu atau buku tulis sebagai jurnal pendalaman Alkitab. Menuliskan pikiran dan gagasan saat belajar membantu kamu mengingatnya.
 
 ### Kamis
 
@@ -511,7 +511,7 @@ Bacalah 2 Tawarikh 7:13–14.
 
 ## Daftarkan
 
-Dalam jurnal belajar Alkitabmu, tuliskan semua kisah Alkitab yang dapat kamu ingat yang melibatkan roti.
+Dalam jurnal pendalaman Alkitabmu, tuliskan semua kisah Alkitab yang dapat kamu ingat yang melibatkan roti.
 
 ## Tuliskan
 

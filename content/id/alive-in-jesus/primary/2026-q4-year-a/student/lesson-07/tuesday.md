@@ -11,7 +11,7 @@ Begitu Yesus mendengar perkataan utusan itu, Ia berkata, “Jangan takut; percay
 
 “Yesus hanya memperbolehkan Petrus, Yakobus, dan Yohanes, saudara Yakobus, ikut bersama-Nya ke rumah Yairus” (Markus 5:37, ICB). Terdorong oleh perkataan dan perbuatan Yesus, Yairus bergegas mengikuti-Nya.
 
-Seperti Yairus, kita juga dapat mempercayai Yesus, bahkan ketika keadaan tampak tanpa harapan. Terkadang ketika kita menghadapi masalah besar dan berdoa tentangnya, keadaan malah memburuk sebelum membaik. Yesus mendorong kita untuk terus mempercayai-Nya, meskipun situasinya tampak mustahil.
+Seperti Yairus, kita juga dapat memercayai Yesus, bahkan ketika keadaan tampak tanpa harapan. Terkadang ketika kita menghadapi masalah besar dan berdoa tentangnya, keadaan malah memburuk sebelum membaik. Yesus mendorong kita untuk terus memercayai-Nya, meskipun situasinya tampak mustahil.
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#6b5191", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:
@@ -20,7 +20,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 - Dapatkah kamu memikirkan dua situasi berbeda di mana kamu mungkin membagikan firman Yesus kepada seseorang, "Jangan takut; percayalah saja"?
 
 {"style": {"block": {"backgroundColor": "#eef0f1", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#56666f"}}}
-^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Tulis kata PERCAYA dalam huruf gelembung. Isi huruf gelembung dengan kata-kata yang menggambarkan semua alasan mengapa kamu mengasihi dan mempercayai Yesus. Pikirkan semua yang dapat Dia lakukan dan telah Dia lakukan untuk kamu dan orang lain!
+^[LAKUKAN:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Tulis kata PERCAYA dalam huruf gelembung. Isi huruf gelembung dengan kata-kata yang menggambarkan semua alasan mengapa kamu mengasihi dan memercayai Yesus. Pikirkan semua yang dapat Dia lakukan dan telah Dia lakukan untuk kamu dan orang lain!
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Ucapkan ayat hafalan kamu, lalu ucapkan terima kasih kepada Yesus karena kamu dapat mempercayai-Nya, bahkan ketika keadaan tampak tanpa harapan.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Ucapkan ayat hafalan kamu, lalu ucapkan terima kasih kepada Yesus karena kamu dapat memercayai-Nya, bahkan ketika keadaan tampak tanpa harapan.

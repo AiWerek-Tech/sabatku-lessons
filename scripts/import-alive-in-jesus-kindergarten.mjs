@@ -3,6 +3,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { auditAliveInJesusTranslations, createReviewManifest } from './audit-alive-in-jesus-translations.mjs';
 import { normalizeAliveInJesusMarkdown } from './build-alive-in-jesus.mjs';
+import { labelKindergartenSongs } from './kindergarten-song-labels.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const source = path.resolve(process.argv[2] || 'C:/Users/ADMIN/Music/Alive In Jesus/3. KINDERGARTEN');
@@ -23,7 +24,7 @@ function parse(text) {
 
 // Copyediting only: preserve names, Scripture wording and facts for team review.
 function presentation(text) {
-  return normalizeAliveInJesusMarkdown(text)
+  return labelKindergartenSongs(normalizeAliveInJesusMarkdown(text))
     .replaceAll('Bagan Penawaran', 'Bagan Persembahan')
     .replaceAll('bagan penawaran', 'bagan persembahan')
     .replaceAll('Keyakinan Fundamental', 'Kepercayaan Dasar')

@@ -4,7 +4,7 @@ Bacalah Mazmur 20:7; 32:8–10; 56:3–4, 11.
 
 ## Diskusikan
 
-Apa saja hal-hal selain Allah yang dipercayai orang, dan mengapa mereka memercayainya?
+Selain Allah, apa saja yang dijadikan sandaran oleh orang-orang, dan mengapa?
 
 ## Pikirkan
 

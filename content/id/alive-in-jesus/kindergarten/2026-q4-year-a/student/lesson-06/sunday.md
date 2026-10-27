@@ -10,7 +10,7 @@ _**“Anakku, tabahlah; imanmu telah menyembuhkanmu. Pergilah dengan damai.”**
 
 ### Kata Pilihan Minggu Ini
 
-_**“Iman”**_ - Iman berarti mempercayai dan meyakini seseorang atau sesuatu. Ketika kita memiliki iman, kita yakin akan sesuatu. Memiliki iman kepada Yesus berarti percaya bahwa Dia akan melakukan dan mengatakan semua yang telah Dia janjikan.
+_**“Iman”**_ - Iman berarti memercayai dan meyakini seseorang atau sesuatu. Ketika kita memiliki iman, kita yakin akan sesuatu. Memiliki iman kepada Yesus berarti percaya bahwa Dia akan melakukan dan mengatakan semua yang telah Dia janjikan.
 
 ### Pelajaran pekan ini
 
@@ -20,7 +20,7 @@ didasarkan pada Matius 9:18–26; Markus 5:21–43; Lukas 8:40–56; dan _The De
 
 ### Tidak Ada Harapan
 
-Saat ia berjalan perlahan keluar pintu, setetes air mata mengalir di pipi wanita yang sakit itu. Ia segera menyekanya sambil menatap tanah. Wanita itu terus-menerus kesakitan, dan ia merasa lelah seperti nenek buyut yang sudah tua. Dokter baru saja mengatakan kepadanya bahwa ia telah melakukan semua yang ia bisa untuk membantunya. Namun, tidak ada yang berhasil.
+Saat ia berjalan perlahan keluar pintu, setetes air mata mengalir di pipi wanita yang sakit itu. Ia segera menyekanya sambil menatap tanah. Wanita itu terus-menerus kesakitan, dan ia merasa lelah seperti nenek buyut yang sudah tua. Dokter baru saja mengatakan bahwa segala upaya telah dilakukan untuk menolongnya. Namun, tidak ada yang berhasil.
 
 Selama 12 tahun, dia telah berobat kepada banyak dokter, satu demi satu. Dia telah mencoba berbagai macam pengobatan dan obat-obatan yang rasanya tidak enak. Tetapi hasilnya selalu sama. Para dokter akan menggelengkan kepala dan menyuruhnya pergi.
 

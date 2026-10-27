@@ -3,24 +3,24 @@
 ### KEGIATAN SEBELUM KELAS
 
 - Aktivitas: Anak-anak memasangkan gendongan pada teman mereka dan mendiskusikan cara lain untuk membantu teman.
-- Nyanyikan **“Pack It Up”** saat Anda memasuki program.
+- Nyanyikan **“Pack It Up” (Berkemaslah)** saat Anda memasuki program.
 
 ### SAMBUTAN DAN LAGU-LAGU
 
 - Selamat datang
 - Lagu-lagu
-	- **“Kami Menyambut Anda”**
-	- **“Tuhan Menolongku”**
-	- **“Apa yang Dapat Dilakukan Yesus?”**
-	- **“Lagu Pengunjung”** dan ucapan terima kasih
-	- **"Selamat ulang tahun"** untuk setiap anak yang berulang tahun minggu lalu
-- **“Saat Aku Berlutut untuk Berdoa”** dan doa
+	- **“We Welcome You” (Kami Menyambutmu)**
+	- **“God Helps Me” (Tuhan Menolongku)**
+	- **“What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)**
+	- **“Visitor Song” (Lagu Pengunjung)** dan ucapan terima kasih
+	- **"Happy Birthday" (Selamat ulang tahun)** untuk setiap anak yang berulang tahun minggu lalu
+- **“When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)** dan doa
 
 ### PERSEMBAHAN, DOA, AYAT HAFALAN
 
 - Bagikan **Fakta Singkat Misi**.
-- Kumpulkan persembahan dan nyanyikan lagu **“Bukalah Hatiku, Bukalah Tanganku.”** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
-- Menyanyi **“Firman Tuhan.”** Anak memegang Alkitab kelas.
+- Kumpulkan persembahan dan nyanyikan lagu **“Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku).** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
+- Menyanyi **“God’s Words” (Firman Tuhan).** Anak memegang Alkitab kelas.
 - **Ayat Hafalan** dan **Lagu Ayat Alkitab**: “Aku datang supaya mereka mempunyai hidup, dan mempunyai hidup yang lebih melimpah” (Yohanes 10:10). Ilustrasikan dengan mengisi cangkir hingga meluap.
 
 ### KOTAK KEJUTAN RAHASIA (SIAPKAN DIRI UNTUK KISAHNYA)
@@ -48,5 +48,5 @@
 - **Kerajinan:** Disembuhkan dengan Dua Cara
 - **Terapkan:** Diskusikan ide-ide untuk membagikan Yesus kepada teman-teman pekan ini. Berdirilah membentuk lingkaran bersama teman-teman dan serukan bersama. **Pesan Utama: Yesus bisa melakukan apa saja. Dia senang membantu saya dan teman-teman saya.**
 - **Tantangan Misi:** Pelajari cara mengatakan “Yesus mengasihimu” dalam bahasa lain dan sampaikan kepada seseorang yang berbicara bahasa tersebut.
-- Menyanyi **“Yesus Mampu.”**
+- Menyanyi **“Jesus Can” (Yesus Mampu).**
 - **Berdoa.**

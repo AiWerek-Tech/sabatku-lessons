@@ -22,7 +22,7 @@ Saat Anda bersiap untuk membagikan cerita ini, silakan baca Panduan Murid untuk 
 - Teman-teman menurunkan pria itu dengan tali melalui lubang ke kaki Yesus. **(Turunkan boneka perlahan.)**
 - Yesus menatap mata orang itu. Ia berkata, “Anak muda, dosa-dosamu telah diampuni” (Markus 2:5, ICB).
 - Kata-kata Yesus menyembuhkan hatinya. Dia sangat bahagia dan damai. Dia telah diampuni!
-- Lalu Yesus berkata, “Aku berkata kepadamu, bangunlah! Angkat tikarmu dan pulanglah ke rumahmu!” (Markus 2:11, ICB). Orang itu bangun. Ia bisa berjalan. Ia sembuh! **(Bangunlah, boneka, dan berjalanlah pergi.)**
+- Lalu Yesus berkata, “Aku berkata kepadamu, bangunlah! Angkat tikarmu dan pulanglah ke rumahmu!” (Markus 2:11, ICB). Orang itu bangun. Ia bisa berjalan. Ia sembuh! **(Tegakkan boneka, lalu gerakkan seolah-olah sedang berjalan pergi.)**
 - Orang-orang takjub! Yesus telah mengampuni dan menyembuhkan orang ini.
 
 ### CERITAKAN KISAHNYA
@@ -57,7 +57,7 @@ Kata-kata Yesus langsung menyembuhkan hatinya. Ia merasa diampuni dan dipenuhi k
 
 Namun Yesus belum selesai menyembuhkannya. Dengan suara lembut, Ia berkata, “Aku berkata kepadamu: Bangunlah, angkatlah tempat tidurmu, dan pulanglah ke rumahmu” (Markus 2:11).
 
-**►** Seketika itu juga pria itu berdiri. Dia mengambil tikarnya dan berjalan keluar sementara semua orang memperhatikannya. **(Bangunkan boneka, lipat alasnya, dan "berjalan" pergi.)**
+**►** Seketika itu juga pria itu berdiri. Dia mengambil tikarnya dan berjalan keluar sementara semua orang memperhatikannya. **(Tegakkan boneka, lipat alasnya, lalu gerakkan boneka seolah-olah sedang berjalan pergi.)**
 
 Orang-orang itu menatap dengan takjub. “Kami belum pernah melihat hal seperti ini!” kata mereka satu sama lain (Markus 2:12).
 

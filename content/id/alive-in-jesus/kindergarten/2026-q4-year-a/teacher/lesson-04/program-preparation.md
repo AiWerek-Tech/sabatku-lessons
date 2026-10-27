@@ -25,17 +25,17 @@ Cetak sebuah templat kerajinan pekan ke-4 di atas kertas karton untuk setiap ana
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Kami Menyambut Anda”
-	- “Allah Maha Perkasa”
-	- “Berani dan Tegas”
-	- “Apa yang Dapat Dilakukan Yesus?”
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
-	- Lagu Ayat Alkitab: “Matius 14:27”
-	- “Yesus Mampu”
+	- “We Welcome You” (Kami Menyambutmu)
+	- “God Is Mighty” (Allah Maha Perkasa)
+	- “Bold and Brave” (Teguh dan Berani)
+	- “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
+	- Lagu Ayat Alkitab: “Matthew 14:27” (Matius 14:27)
+	- “Jesus Can” (Yesus Mampu)
 - Kartu Koleksi Alam 43: Elang Emas
 - PowerPoint Program Pekan ke-4
 - Fakta Singkat Misi

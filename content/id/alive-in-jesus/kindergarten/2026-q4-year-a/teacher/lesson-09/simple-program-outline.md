@@ -3,24 +3,24 @@
 ### KEGIATAN SEBELUM KELAS
 
 - Aktivitas: Tantangan—teka-teki, mencocokkan simetri, dll.
-- Nyanyikan **“Pack It Up”** saat Anda memasuki program.
+- Nyanyikan **“Pack It Up” (Berkemaslah)** saat Anda memasuki program.
 
 ### SAMBUTAN DAN LAGU-LAGU
 
 - Selamat datang
 - Lagu-lagu
-	- **“Kami Menyambut Anda”**
+	- **“We Welcome You” (Kami Menyambutmu)**
 	- **“Yesus Mengasihi Saya, dan Saya Mengasihi Yesus”**
-	- **“Apa yang Dapat Dilakukan Yesus?”**
-	- **“Lagu Pengunjung”** dan ucapan terima kasih
-	- **"Selamat ulang tahun"** untuk setiap anak yang berulang tahun minggu lalu
-- **“Saat Aku Berlutut untuk Berdoa”** dan doa
+	- **“What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)**
+	- **“Visitor Song” (Lagu Pengunjung)** dan ucapan terima kasih
+	- **"Happy Birthday" (Selamat ulang tahun)** untuk setiap anak yang berulang tahun minggu lalu
+- **“When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)** dan doa
 
 ### PERSEMBAHAN, DOA, AYAT HAFALAN
 
 - Bagikan **Fakta Singkat Misi**.
-- Kumpulkan persembahan dan nyanyikan lagu **“Bukalah Hatiku, Bukalah Tanganku.”** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
-- Menyanyi **“Firman Tuhan.”** Anak memegang Alkitab kelas.
+- Kumpulkan persembahan dan nyanyikan lagu **“Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku).** Tampilkan dan warnai **Bagan Persembahan**. Berdoalah atas persembahan.
+- Menyanyi **“God’s Words” (Firman Tuhan).** Anak memegang Alkitab kelas.
 - **Ayat Hafalan** dan **Lagu Ayat Alkitab**: “Sebab oleh kasih karunia kamu telah diselamatkan melalui iman, dan itu bukan dari dirimu sendiri; itu adalah karunia Allah” (Efesus 2:8).
 
 ### KOTAK KEJUTAN RAHASIA (SIAPKAN DIRI UNTUK KISAHNYA)
@@ -48,5 +48,5 @@
 - **Kerajinan:** Boneka Jari Berjalan
 - **Tantangan Misi:** Kumpulkan uang tambahan untuk diberikan kepada misionaris global. Bawalah ke Sekolah Sabat minggu depan.
 - **Tinjauan:** Anak-anak berbagi apa yang telah mereka pelajari, lalu melompat dari posisi jongkok jika mereka memilih untuk mengatakan, “Aku memilih Yesus untuk menyelamatkanku.”
-- Menyanyi **“Yesus Mampu.”**
+- Menyanyi **“Jesus Can” (Yesus Mampu).**
 - **Berdoa.**

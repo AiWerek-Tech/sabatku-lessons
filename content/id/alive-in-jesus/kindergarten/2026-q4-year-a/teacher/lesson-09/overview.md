@@ -37,5 +37,5 @@ Yesus mengunjungi Kolam Bethesda pada hari Sabat dan melihat seorang pria yang t
 Anak-anak akan:
 
 - **Mengetahui** bahwa Yesus adalah satu-satunya yang dapat menyelamatkan mereka.
-- **Merasakan** keinginan untuk mempercayai Yesus ketika mereka merasa tak berdaya.
+- **Merasakan** keinginan untuk memercayai Yesus ketika mereka merasa tak berdaya.
 - **Menanggapi** dengan meminta Yesus untuk menyelamatkan mereka.

@@ -10,7 +10,7 @@ Pendeta itu bercerita tentang bagaimana ayahnya tertidur dengan tenang. Ia akan 
 
 Rosie membayangkan momen itu. Dia merasakan perasaan yang benar-benar baru. Dia tidak menangis lagi. Hatinya terasa hangat dan dipenuhi penghiburan.
 
-Sepanjang pagi, dia merasa tenang. Dia merasa seperti selimut cinta membungkusnya dengan erat.
+Sepanjang pagi, dia merasa tenang. Ia merasa seolah-olah diselimuti kasih yang hangat.
 
 Yesus yang penuh kasih telah mengirimkan mentari. Dia telah membantunya merasakan kasih-Nya. Dan suatu hari nanti, dia akan bertemu ayahnya lagi. Oh, betapa bahagianya!
 

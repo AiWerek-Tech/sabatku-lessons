@@ -21,7 +21,7 @@ Aku adalah karunia berupa _______?
 
 Apakah kamu tahu apa itu?
 
-### Klik untuk Menampilkan Jawabannya
+### Jawaban Teka-Teki
 
 **Waktu!**
 
@@ -31,7 +31,7 @@ Apakah kamu tahu apa itu?
 
 ### Ayo Lakukan
 
-Duduklah di luar dan saksikan matahari terbenam saat Sabat dimulai. Setelah membaca teka-teki, mintalah anak Anda membuka hadiah saat Anda membuka Sabat dengan nyanyian dan doa. Perkenalkan lagu “Yesus Mengasihi Aku (Lagu Sabat)” yang ada di bawah ini. Letakkan jam di kamar tidur anak Anda untuk mengingatkan mereka tentang hadiah istimewa waktu Sabat.
+Duduklah di luar dan saksikan matahari terbenam saat Sabat dimulai. Setelah membaca teka-teki, mintalah anak Anda membuka hadiah saat Anda membuka Sabat dengan nyanyian dan doa. Perkenalkan lagu “Jesus Loves Me (Sabbath Song)” (Yesus Mengasihiku (Lagu Sabat)) yang ada di bawah ini. Letakkan jam di kamar tidur anak Anda untuk mengingatkan mereka tentang hadiah istimewa waktu Sabat.
 
 ### Ide Doa
 
@@ -43,9 +43,9 @@ Bersyukurlah kepada Yesus karena telah memberikan anugerah berupa hari Sabat—w
 
 Buatlah sesuatu untuk mengingatkanmu tentang cerita-cerita dari pekan ini. Letakkan di dalam kotak kenangan khususmu. Lihatlah benda-benda lain di dalam kotakmu dan lihat apakah kamu dapat mengingat cerita dan pesan yang diwakili oleh setiap benda tersebut.\
 
-Nyanyikan lagu “Jesus Loves Me” bersama-sama lagi sebagai keluarga, menggunakan lirik Sabat di bawah ini. \
+Nyanyikan lagu “Jesus Loves Me” (Yesus Mengasihiku) bersama-sama lagi sebagai keluarga, menggunakan lirik Sabat di bawah ini. \
 
-**“Yesus Mengasihi Aku (Lagu Sabat)”**\
+**“Jesus Loves Me (Sabbath Song)” (Yesus Mengasihiku (Lagu Sabat))**\
 
 Yesus mengasihiku, ini aku tahu.\
 Karena hari Sabat menunjukkan hal itu kepadaku,\

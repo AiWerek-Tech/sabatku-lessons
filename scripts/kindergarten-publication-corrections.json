@@ -1,0 +1,110 @@
+{
+  "shared": [
+    ["mempercayai", "memercayai"],
+    ["Mempercayai", "Memercayai"],
+    ["menghembuskan", "mengembuskan"]
+  ],
+  "sharedTeacher": [
+    ["**KEAHLIAN:**", "**KERAJINAN:**"],
+    ["penawaran misi", "persembahan misi"],
+    ["ke mana arah penawaran pada triwulan ini", "tujuan persembahan triwulan ini"],
+    ["boneka manekin", "boneka kayu"],
+    ["peniti kerajinan tangan", "kancing belah untuk kerajinan"],
+    ["peniti kerajinan", "kancing belah untuk kerajinan"]
+  ],
+  "files": {
+    "teacher/lesson-01/full-program-outline.md": [
+      ["hanya terdiri dari tiga kata", "hanya terdiri dari dua kata"],
+      ["mengatasi perasaan mereka yang hebat", "mengatasi rasa takut mereka yang begitu besar"],
+      ["- Bagian gelap (", "- Kegelapan ("]
+    ],
+    "teacher/lesson-01/tell-the-story.md": [
+      ["Goyangkan bak mandi untuk suara ombak besar.", "Goyangkan baskom agar airnya bergelombang seperti ombak besar."],
+      ["tidak takut akan kegelapan yang berawan atau angin yang berisik", "tidak takut pada langit yang gelap berawan atau angin yang menderu"],
+      ["Apakah menurut Anda Dia akan membiarkan mereka tenggelam?", "Menurut kalian, apakah Dia akan membiarkan mereka tenggelam?"]
+    ],
+    "teacher/lesson-03/tell-the-story.md": [
+      ["**(Bangunlah, boneka, dan berjalanlah pergi.)**", "**(Tegakkan boneka, lalu gerakkan seolah-olah sedang berjalan pergi.)**"],
+      ["**(Bangunkan boneka, lipat alasnya, dan \"berjalan\" pergi.)**", "**(Tegakkan boneka, lipat alasnya, lalu gerakkan boneka seolah-olah sedang berjalan pergi.)**"]
+    ],
+    "teacher/lesson-03/full-program-outline.md": [
+      ["kartu \"Semoga Cepat Sembuh\"", "kartu ucapan \"Semoga Cepat Sembuh\""]
+    ],
+    "teacher/lesson-04/tell-the-story.md": [
+      ["**wadah garam**", "**botol penabur garam**"]
+    ],
+    "teacher/lesson-04/a-quiet-moment.md": [
+      ["Dengan mata tertuju pada Yesus, Dia juga dapat membantu kita melakukan apa yang tampaknya mustahil.", "Saat kita terus memandang kepada Yesus, Dia dapat menolong kita melakukan apa yang tampaknya mustahil."]
+    ],
+    "teacher/lesson-02/nature-lesson.md": [
+      ["Mereka juga disebut bintang laut karena sebenarnya mereka bukan ikan. Mereka disebut invertebrata karena tidak memiliki tulang belakang", "Walaupun hidup di laut, bintang laut bukanlah ikan. Hewan ini termasuk invertebrata, yaitu hewan yang tidak memiliki tulang belakang"]
+    ],
+    "teacher/lesson-08/a-quiet-moment.md": [
+      ["Sekali lagi, Anda akan melihat nyanyian gembira dan anak-anak kecil yang aktif, kerajinan tangan yang berantakan dan pikiran yang ingin tahu, obrolan yang bersemangat dan upaya untuk menjaga ketertiban.", "Sekali lagi, Anda akan menjumpai anak-anak yang bernyanyi riang, bergerak aktif, dan penuh rasa ingin tahu. Mereka akan asyik membuat kerajinan dan mengobrol penuh semangat, sementara Anda berusaha menjaga kegiatan tetap tertib."]
+    ],
+    "teacher/lesson-07/craft.md": [
+      ["pasak boneka", "jepitan baju yang menjadi tubuh boneka"],
+      ["penjepit boneka", "jepitan baju"],
+      ["Balikkan pasak", "Balikkan jepitan baju"],
+      ["menggunakan properti yang tersedia", "menggunakan alat peraga yang tersedia"]
+    ],
+    "teacher/lesson-11/tell-the-story.md": [
+      ["**► (Kenakan helm dan tiru gerakan, orang yang memegang pasak.)**", "**► (Kenakan helm dan peragakan gerakan boneka perwira.)**"],
+      ["Ia bukan guru hukum atau pemimpin Yahudi.", "Ia bukan ahli Taurat atau pemimpin Yahudi."],
+      ["**(Kenakan selendang dan mengangguk; pasangkan orang-orang.)**", "**(Kenakan selendang sambil mengangguk; gerakkan boneka para pemimpin Yahudi.)**"],
+      ["Yesus datang untuk menyembuhkan hamba-Nya! Jika\n\nYesus akan datang, dia akan pergi dan menemui-Nya di jalan.", "Yesus datang untuk menyembuhkan hambanya! Kalau Yesus datang, ia akan keluar untuk menemui-Nya di jalan."],
+      ["Yang perlu engkau lakukan hanyalah", "Yang perlu Engkau lakukan hanyalah"]
+    ],
+    "teacher/lesson-12/tell-the-story.md": [
+      ["**(Para pengocok yang gembira.)**", "**(Goyangkan alat musik dengan gembira.)**"],
+      ["**(Kocok shaker lagi, lalu berhenti.)**", "**(Goyangkan kembali alat musik, lalu berhenti.)**"],
+      ["**(Kocok shaker, lalu berhenti.)**", "**(Goyangkan alat musik, lalu berhenti.)**"],
+      ["**(Kocok shaker. Berhenti dan ambil.) ►**", "**(Goyangkan alat musik, lalu berhenti dan kumpulkan alat musiknya.) ►**"],
+      ["**(melambai)** Mereka", "**(Melambai.)** Mereka"]
+    ],
+    "teacher/lesson-12/full-program-outline.md": [
+      ["(Goyang-goyangkan pengocok.)", "(Goyangkan alat musik.)"],
+      ["(Goyangkan pengocok.)", "(Goyangkan alat musik.)"]
+    ],
+    "teacher/lesson-13/tell-the-story.md": [
+      ["**(pasangkan Maria, Marta, Yesus)**", "**(Tampilkan boneka Maria, Marta, dan Yesus.)**"],
+      ["**(murid pasak)**", "**(Tampilkan boneka para murid.)**"],
+      ["**(Peg Marta)**", "**(Tampilkan boneka Marta.)**"],
+      ["**(Peg Maria)**", "**(Tampilkan boneka Maria.)**"],
+      ["**(Contoh pesawat Lazarus.)**", "**(Tampilkan contoh kerajinan Lazarus.)**"],
+      ["membuka kain kafan-Nya", "melepaskan kain pembalut tubuh Lazarus"],
+      ["**(pasangkan Maria dan Marta)**", "**(Tampilkan boneka Maria dan Marta.)**"],
+      ["**(menjepit Yesus)**", "**(Tampilkan boneka Yesus.)**"],
+      ["**(Peg Marta berlari untuk menjepit Yesus.)**", "**(Gerakkan boneka Marta seolah-olah berlari menemui boneka Yesus.)**"],
+      ["**(Peg Maria berlari untuk menjepit Yesus.)**", "**(Gerakkan boneka Maria seolah-olah berlari menemui boneka Yesus.)**"],
+      ["**(Maria, boneka kayu)**", "**(Tampilkan boneka Maria.)**"],
+      ["membuka selimutnya", "melepaskan kain pembalut tubuhnya"],
+      ["Karena itu Yesus mengasihi Marta", "Yesus mengasihi Marta"]
+    ],
+    "student/lesson-04/friday.md": [
+      ["Sekarang kita dapat berasumsi bahwa kaki kita berdiri kokoh, dan bahwa kita tidak akan pernah tergoyahkan.", "Sekarang mungkin kita merasa telah berdiri kokoh dan tidak akan pernah tergoyahkan."]
+    ],
+    "student/lesson-05/sabbath.md": [
+      ["**Pengecapan:** kamu", "**Pengecapan:** Kamu"]
+    ],
+    "student/lesson-06/sunday.md": [
+      ["Dokter baru saja mengatakan kepadanya bahwa ia telah melakukan semua yang ia bisa untuk membantunya.", "Dokter baru saja mengatakan bahwa segala upaya telah dilakukan untuk menolongnya."]
+    ],
+    "student/lesson-06/thursday.md": [
+      ["Dengan begitu banyak orang yang berdesakan dan terhimpit di sekitar-Nya, wanita ini adalah satu-satunya, pada saat itu, yang menyentuh-Nya dan membutuhkan sesuatu yang sangat istimewa.", "Banyak orang berdesakan di sekitar Yesus. Namun, saat itu hanya perempuan ini yang menyentuh-Nya dengan harapan mendapatkan pertolongan yang sangat istimewa."]
+    ],
+    "student/lesson-08/friday.md": [
+      ["### Klik untuk Menampilkan Jawabannya", "### Jawaban Teka-Teki"]
+    ],
+    "student/lesson-11/sunday.md": [
+      ["Maju mundur, maju mundur, sang perwira berjalan—berpikir, berpikir, berpikir.", "Sang perwira terus berjalan mondar-mandir sambil berpikir keras."],
+      ["Di aula yang sunyi", "Di lorong yang sunyi"]
+    ],
+    "student/lesson-12/friday.md": [
+      ["Dia merasa seperti selimut cinta membungkusnya dengan erat.", "Ia merasa seolah-olah diselimuti kasih yang hangat."]
+    ],
+    "student/lesson-13/wednesday.md": [
+      ["Ia sedih untuk teman-teman-Nya, Maria, Marta, dan Lazarus. Ia sedih untuk setiap orang yang merasa sedih ketika orang yang mereka cintai meninggal.", "Ia ikut merasakan kesedihan sahabat-sahabat-Nya, Maria, Marta, dan Lazarus. Ia turut berduka bersama setiap orang yang kehilangan orang terkasih."]
+    ]
+  }
+}

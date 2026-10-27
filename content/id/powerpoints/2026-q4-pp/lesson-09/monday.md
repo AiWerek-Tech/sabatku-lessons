@@ -4,7 +4,7 @@ Bacalah Nehemia 9:1–8.
 
 ## Daftarkan
 
-Dalam jurnal pelajaran Alkitabmu, tuliskan lima hal terpenting yang membuatmu ingin memuji Allah.
+Dalam jurnal pendalaman Alkitabmu, tuliskan lima hal terpenting yang membuatmu ingin memuji Allah.
 
 ## Bagikan
 

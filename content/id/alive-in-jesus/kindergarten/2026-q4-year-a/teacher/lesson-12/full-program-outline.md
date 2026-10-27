@@ -8,9 +8,9 @@
 
 Sambil membicarakan hal ini, bantu setiap anak membuat dan menghias shaker yang ceria. (Siapkan beberapa shaker tambahan sebelumnya untuk anak-anak yang mungkin datang terlambat.) Sampaikan bahwa mereka dapat menggunakannya untuk berbagai bagian program hari ini dan membawanya pulang untuk menyebarkan kegembiraan.
 
-**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack It Up.”
+**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack It Up” (Berkemaslah).
 
-[♫ Berkemaslah](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
+[♫ Pack It Up (Berkemaslah)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
 
 ### SAMBUTAN, LAGU-LAGU, DOA (5 MENIT)
 
@@ -18,39 +18,39 @@ Sambil membicarakan hal ini, bantu setiap anak membuat dan menghias shaker yang 
 
 **MENYANYI:** Nyanyikan lagu-lagu berikut dengan gerakan dan alat peraga:
 
-- “Kami Menyambut Anda” (dengan iringan musik riang)
-- “Bersukacitalah selalu di dalam Tuhan”
-- "Selalu"
-- “Lagu Pengunjung” dan ucapan terima kasih
-- “Selamat Ulang Tahun” untuk setiap anak yang berulang tahun minggu lalu
+- “We Welcome You” (Kami Menyambutmu) (dengan iringan musik riang)
+- “Rejoice in the Lord Always” (Bersukacitalah Selalu dalam Tuhan)
+- "Always" (Selalu)
+- “Visitor Song” (Lagu Pengunjung) dan ucapan terima kasih
+- “Happy Birthday” (Selamat ulang tahun) untuk setiap anak yang berulang tahun minggu lalu
 
 ### Lagu Pujian
 
-[♫ Kami Menyambut Anda](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
+[♫ We Welcome You (Kami Menyambutmu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
 
-[♫ Bersukacitalah selalu di dalam Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/rejoice-in-the-lord-always.mp3)
+[♫ Rejoice in the Lord Always (Bersukacitalah Selalu dalam Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/rejoice-in-the-lord-always.mp3)
 
-[♫ Selalu](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/always.mp3)
+[♫ Always (Selalu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/always.mp3)
 
-[♫ Lagu Pengunjung](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
+[♫ Visitor Song (Lagu Pengunjung)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
 
-[♫ Selamat ulang tahun](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
+[♫ Happy Birthday (Selamat ulang tahun)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
 
-**BERDOA:** Nyanyikan lagu “When I Kneel Down to Pray.” Ajak seorang anak untuk berdoa. Kemudian berdoalah juga, ucapkan terima kasih kepada Yesus atas kasih-Nya yang memberi kita sukacita, dan mintalah Dia untuk membantu kita mempelajari sesuatu yang baru tentang Dia hari ini.
+**BERDOA:** Nyanyikan lagu “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa). Ajak seorang anak untuk berdoa. Kemudian berdoalah juga, ucapkan terima kasih kepada Yesus atas kasih-Nya yang memberi kita sukacita, dan mintalah Dia untuk membantu kita mempelajari sesuatu yang baru tentang Dia hari ini.
 
-[♫ Saat Aku Berlutut untuk Berdoa](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
+[♫ When I Kneel Down To Pray (Saat Aku Berlutut untuk Berdoa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
 
 ### PERSEMBAHAN DAN AYAT HAFALAN (6 MENIT)
 
 **MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang ke mana dana yang ditawarkan akan dialokasikan pada triwulan ini.
 
-**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand,” dan ajak seorang anak untuk mengumpulkan persembahan Sekolah Sabat di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan. Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
+**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku), dan ajak seorang anak untuk mengumpulkan persembahan Sekolah Sabat di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan. Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
 
-[♫ Bukalah Hatiku, Bukalah Tanganku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
+[♫ Open My Heart, Open My Hand (Bukalah Hatiku, Bukalah Tanganku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
 
-BERNYANYI dan BERDISKUSI: Nyanyikan lagu “Firman Tuhan.” Ajak seorang anak untuk maju ke depan dan memegang Alkitab khusus kelas.
+BERNYANYI dan BERDISKUSI: Nyanyikan lagu “God’s Words” (Firman Tuhan). Ajak seorang anak untuk maju ke depan dan memegang Alkitab khusus kelas.
 
-[♫ Firman Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
+[♫ God’s Words (Firman Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
 
 - Hal-hal apa saja yang membuat Anda merasa bahagia dan gembira? Setujui ide-ide mereka.
 
@@ -62,7 +62,7 @@ Tunjukkan kepada anak-anak cara menemukan ayat hafalan, Roma 15:13. Ucapkan bers
 
 Dengarkan dan nyanyikan Lagu Ayat Alkitab Roma 15:13 bersama-sama.
 
-[♫ Roma 15:13](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/12-romans-15-13.mp3)
+[♫ Romans 15:13 (Roma 15:13)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/12-romans-15-13.mp3)
 
 ### KOTAK KEJUTAN RAHASIA (5 MENIT)
 
@@ -87,7 +87,7 @@ Ajak seorang anak untuk membuka kotak. Bagikan stiker atau sepotong buah kepada 
 
 Ceritakan bagaimana perasaan ibu dalam kisah kita hari ini yang sangat sedih karena anaknya telah meninggal.
 
-- Apa saja hal lain yang membuat Anda merasa sedih?
+- Apa saja hal lain yang membuat kamu merasa sedih?
 
 Pilih seorang anak untuk maju ke depan dan berdiri di samping Anda. Ceritakan bagaimana terkadang ketika kita merasa sedih, kita menangis. Air mata keluar dari mata kita dan mengalir di wajah kita. Kita mungkin membutuhkan tisu untuk menyekanya. (Berikan tisu kepada anak dan minta mereka berpura-pura menyeka mata mereka.)
 
@@ -107,20 +107,20 @@ Sampaikan bahwa ketika Yesus kembali, Ia akan membangkitkan orang mati, sama sep
 
 ### KERAJINAN TANGAN (15 MENIT)
 
-**KEAHLIAN:** Gerbera Penuh Sukacita - Kartu Belasungkawa. Ajak anak-anak untuk membuat bunga gerbera yang indah yang dapat mereka berikan kepada seseorang yang mungkin sedang berduka untuk menunjukkan bahwa Yesus peduli kepada mereka.
+**KERAJINAN:** Gerbera Penuh Sukacita - Kartu Belasungkawa. Ajak anak-anak untuk membuat bunga gerbera yang indah yang dapat mereka berikan kepada seseorang yang mungkin sedang berduka untuk menunjukkan bahwa Yesus peduli kepada mereka.
 
 **TANTANGAN MISI:** Dorong anak-anak untuk terus menyebarkan kebahagiaan kepada orang lain pekan ini. Tantangan Misi pekan ini adalah berbagi Pesan Utama dari pelajaran dengan anggota keluarga yang tinggal jauh. Mereka dapat mengirimkannya bersama gambar atau foto; atau mengirim pesan audio atau video.
 
 **TINJAUAN:** Bagikan alat musik perkusi (shaker) dan ajak anak-anak berdiri. Sampaikan bahwa sudah waktunya untuk merayakan apa yang telah kita pelajari hari ini. Hari ini kita belajar bahwa Yesus dapat mengubah kesedihan kita menjadi sukacita. (Goyangkan alat musik perkusi.)
 
-Kita belajar bahwa kita dapat merasakan kebahagiaan bahkan ketika kita melewati masa-masa sedih. (Goyang-goyangkan pengocok.)
+Kita belajar bahwa kita dapat merasakan kebahagiaan bahkan ketika kita melewati masa-masa sedih. (Goyangkan alat musik.)
 
-Kita juga belajar bahwa kita dapat bersukacita karena mengetahui Yesus telah berjanji untuk membawa kita ke surga. (Goyangkan pengocok.)
+Kita juga belajar bahwa kita dapat bersukacita karena mengetahui Yesus telah berjanji untuk membawa kita ke surga. (Goyangkan alat musik.)
 
-Nyanyikan “Bersukacitalah Selalu dalam Tuhan” lagi, sementara anak-anak menggoyangkan alat musik perkusi mereka.
+Nyanyikan “Rejoice in the Lord Always” (Bersukacitalah Selalu dalam Tuhan) lagi, sementara anak-anak menggoyangkan alat musik perkusi mereka.
 
-**MENYANYI:** Nyanyikan lagu “Yesus Mampu.” Sampaikan bahwa minggu depan kita akan mendengar tentang bagaimana Yesus mengubah kesedihan menjadi sukacita bagi sahabat-sahabat-Nya yang sangat baik.
+**MENYANYI:** Nyanyikan lagu “Jesus Can” (Yesus Mampu). Sampaikan bahwa minggu depan kita akan mendengar tentang bagaimana Yesus mengubah kesedihan menjadi sukacita bagi sahabat-sahabat-Nya yang sangat baik.
 
-[♫ Yesus Mampu](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
+[♫ Jesus Can (Yesus Mampu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
 
 **BERDOA:** Berdoalah, ucapkan terima kasih kepada Tuhan karena selalu bersama kita. Bersyukurlah kepada-Nya karena telah memberi kita sukacita bahkan di masa-masa sulit dan atas janji surga bersama-Nya.

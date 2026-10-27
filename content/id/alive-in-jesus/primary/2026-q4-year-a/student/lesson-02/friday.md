@@ -18,8 +18,8 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[Jumat Malam]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 \
 ^[Berbagi dan Memuji]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
-• Gambarlah Yesus di selembar kertas. Pada potongan kertas yang lebih kecil (satu untuk setiap anggota keluarga), tulis kata "iman." Letakkan gambar Yesus di lantai di tengah ruangan dan duduklah di sampingnya. Berikan anggota keluarga selembar kertas kecil dan pena. Minta mereka menuliskan kekhawatiran atau keraguan pribadi mereka di atasnya. Ajak mereka untuk membawanya kepada Yesus. Remas kertas tersebut, dan berikan mereka selembar kertas bertuliskan "iman." Ingatkan mereka bahwa Yesus ingin menggantikan kekhawatiran dan keraguan kita dengan iman.\
-• Nyanyikan ayat hafalan kamu. Cari lagu "Cast All My Cares Upon You," atau buat saja melodi sendiri.\
+• Gambarlah Yesus di selembar kertas. Pada potongan kertas yang lebih kecil (satu untuk setiap anggota keluarga), tulis kata "Faith" (Iman). Letakkan gambar Yesus di lantai di tengah ruangan dan duduklah di sampingnya. Berikan anggota keluarga selembar kertas kecil dan pena. Minta mereka menuliskan kekhawatiran atau keraguan pribadi mereka di atasnya. Ajak mereka untuk membawanya kepada Yesus. Remas kertas tersebut, dan berikan mereka selembar kertas bertuliskan "Faith" (Iman). Ingatkan mereka bahwa Yesus ingin menggantikan kekhawatiran dan keraguan kita dengan iman.\
+• Nyanyikan ayat hafalan kamu. Cari lagu "Cast All My Cares Upon You" (Kuserahkan Segala Kekhawatiranku kepada-Mu), atau buat saja melodi sendiri.\
 \
 ^[Jurnal Keluarga]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Kisah ini telah membantu saya memahami bahwa . . .\

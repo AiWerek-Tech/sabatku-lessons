@@ -12,7 +12,7 @@ Petrus berkata, “Guru, orang-orang ada di sekelilingmu dan berdesak-desakan di
 
 Kemudian Yesus memandang ke arah perempuan itu dan berkata, “Seseorang telah menyentuh Aku! Aku merasakan kuasa keluar dari dalam Aku” (Lukas 8:46, ICB).
 
-Dengan begitu banyak orang yang berdesakan dan terhimpit di sekitar-Nya, wanita ini adalah satu-satunya, pada saat itu, yang menyentuh-Nya dan membutuhkan sesuatu yang sangat istimewa. Yesus mengetahui hal itu, dan Dia ingin menguatkan imannya dan menggunakan teladannya untuk mengajar orang banyak.
+Banyak orang berdesakan di sekitar Yesus. Namun, saat itu hanya perempuan ini yang menyentuh-Nya dengan harapan mendapatkan pertolongan yang sangat istimewa. Yesus mengetahui hal itu, dan Dia ingin menguatkan imannya dan menggunakan teladannya untuk mengajar orang banyak.
 
 ### Aku Ingin Tahu
 

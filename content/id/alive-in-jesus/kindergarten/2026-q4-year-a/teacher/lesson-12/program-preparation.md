@@ -27,17 +27,17 @@ Siapkan kertas karton berwarna, daun dan potongan kertas hijau, potongan kertas 
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Berkemaslah”
-	- “Kami Menyambut Anda”
-	- “Bersukacitalah selalu di dalam Tuhan”
-	- "Selalu"
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
-	- Lagu Ayat Alkitab: “Roma 15:13”
-	- “Yesus Mampu”
+	- “Pack It Up” (Berkemaslah)
+	- “We Welcome You” (Kami Menyambutmu)
+	- “Rejoice in the Lord Always” (Bersukacitalah Selalu dalam Tuhan)
+	- "Always" (Selalu)
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
+	- Lagu Ayat Alkitab: “Romans 15:13” (Roma 15:13)
+	- “Jesus Can” (Yesus Mampu)
 - Kartu Koleksi Alam 51: Bunga Gerbera
 - PowerPoint Program Pekan ke-12
 - Gambaran surga

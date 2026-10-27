@@ -6,58 +6,58 @@
 
 **MELAKUKAN:** Siapkan baskom atau mangkuk besar berisi air dan berbagai macam benda (penjepit kertas, kunci, bulu, daun, dll.). Ajak anak-anak untuk menebak apakah setiap benda akan tenggelam atau mengapung, lalu uji prediksi mereka dengan memasukkan benda tersebut ke dalam air.
 
-**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack It Up.”
+**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack It Up” (Berkemaslah).
 
-[♫ Berkemaslah](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
+[♫ Pack It Up (Berkemaslah)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
 
 ### SAMBUTAN, LAGU-LAGU, DOA (5 MENIT)
 
-**SELAMAT DATANG:** Sambut anak-anak secara berkelompok di Sekolah Sabat. Bagikan bagaimana kita di sini untuk bertumbuh dan belajar serta memiliki waktu istimewa bersama. Nyanyikan “Kami Menyambutmu.”
+**SELAMAT DATANG:** Sambut anak-anak secara berkelompok di Sekolah Sabat. Bagikan bagaimana kita di sini untuk bertumbuh dan belajar serta memiliki waktu istimewa bersama. Nyanyikan “We Welcome You” (Kami Menyambutmu).
 
-[♫ Kami Menyambut Anda](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
+[♫ We Welcome You (Kami Menyambutmu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
 
 **MENYANYI:** Nyanyikan lagu-lagu berikut dengan gerakan dan alat peraga:
 
-- “Tuhan Menolongku”
-- “Tumbuh Dewasa Bersama Yesus”
+- “God Helps Me” (Tuhan Menolongku)
+- “Growing Up With Jesus” (Bertumbuh Bersama Yesus)
 
-[♫ Tuhan Menolongku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/god-helps-me.mp3)
+[♫ God Helps Me (Tuhan Menolongku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/god-helps-me.mp3)
 
-[♫ Tumbuh Dewasa Bersama Yesus](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/growing-up-with-jesus.mp3)
+[♫ Growing Up With Jesus (Bertumbuh Bersama Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/growing-up-with-jesus.mp3)
 
 Tanyakan: Apa saja hal-hal menakjubkan yang Anda ketahui yang Yesus lakukan selama berada di bumi?
 
-- Nyanyikan “Apa yang Dapat Yesus Lakukan”
-- “Lagu Pengunjung” dan ucapan terima kasih
-- “Selamat Ulang Tahun” untuk setiap anak yang berulang tahun minggu lalu
+- Nyanyikan “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
+- “Visitor Song” (Lagu Pengunjung) dan ucapan terima kasih
+- “Happy Birthday” (Selamat ulang tahun) untuk setiap anak yang berulang tahun minggu lalu
 
-[♫ Apa yang Dapat Dilakukan Yesus?](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/what-can-jesus-do.mp3)
+[♫ What Can Jesus Do? (Apa yang Dapat Dilakukan Yesus?)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/what-can-jesus-do.mp3)
 
-[♫ Lagu Pengunjung](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
+[♫ Visitor Song (Lagu Pengunjung)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
 
-[♫ Selamat ulang tahun](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
+[♫ Happy Birthday (Selamat ulang tahun)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
 
-**BERDOA:** Nyanyikan lagu “When I Kneel Down to Pray” (Saat Aku Berlutut untuk Berdoa). Ajak seorang anak untuk berdoa. Berdoalah juga, ucapkan terima kasih kepada Yesus karena Dia mampu melakukan apa saja.
+**BERDOA:** Nyanyikan lagu “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa). Ajak seorang anak untuk berdoa. Berdoalah juga, ucapkan terima kasih kepada Yesus karena Dia mampu melakukan apa saja.
 
-[♫ Saat Aku Berlutut untuk Berdoa](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
+[♫ When I Kneel Down To Pray (Saat Aku Berlutut untuk Berdoa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
 
 ### PERSEMBAHAN DAN AYAT HAFALAN (6 MENIT)
 
 **MEMBAGIKAN:** Perkenalkan divisi dan negara tujuan persembahan triwulan ini. Tunjukkan peta dunia, lalu bagikan salah satu Fakta Singkat Misi tentang negara tersebut. Tunjukkan bagan persembahan triwulanan yang telah Anda buat, dan dorong anak-anak untuk memberi setiap minggu untuk pekerjaan penting Tuhan yang terjadi di bagian dunia tersebut.
 
-**MEMBERI:** Nyanyikan lagu “Bukalah Hatiku, Bukalah Tanganku” dan ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk diberikan di tempat yang paling membutuhkan.
+**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku) dan ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk diberikan di tempat yang paling membutuhkan.
 
-[♫ Bukalah Hatiku, Bukalah Tanganku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
+[♫ Open My Heart, Open My Hand (Bukalah Hatiku, Bukalah Tanganku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
 
 Setelah dihitung, mintalah seorang anak untuk mewarnai bagian pertama dari bagan persembahan untuk menunjukkan berapa banyak yang telah terkumpul.
 
-BERNYANYI dan BERDISKUSI: Ajak seorang anak untuk maju ke depan, duduk di kursi, dan memegang Alkitab khusus kelas. Nyanyikan “Firman Tuhan” atau lagu lain tentang pentingnya Alkitab.
+BERNYANYI dan BERDISKUSI: Ajak seorang anak untuk maju ke depan, duduk di kursi, dan memegang Alkitab khusus kelas. Nyanyikan “God’s Words” (Firman Tuhan) atau lagu lain tentang pentingnya Alkitab.
 
-[♫ Firman Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
+[♫ God’s Words (Firman Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
 
-Tunjukkan kepada anak-anak cara menemukan ayat hafalan, Markus 4:39. Sampaikan bahwa ayat hafalan hari ini hanya terdiri dari tiga kata, tetapi sangat penting karena itu adalah kata-kata Yesus. Ucapkan bersama-sama: “Diam! Tenanglah!” (Markus 4:39). Dengarkan dan nyanyikan Lagu Ayat Alkitab Markus 4:39.
+Tunjukkan kepada anak-anak cara menemukan ayat hafalan, Markus 4:39. Sampaikan bahwa ayat hafalan hari ini hanya terdiri dari dua kata, tetapi sangat penting karena itu adalah kata-kata Yesus. Ucapkan bersama-sama: “Diam! Tenanglah!” (Markus 4:39). Dengarkan dan nyanyikan Lagu Ayat Alkitab Markus 4:39.
 
-[♫ Markus 4:39](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/1-mark-4-39.mp3)
+[♫ Mark 4:39 (Markus 4:39)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/1-mark-4-39.mp3)
 
 - Apa arti "perdamaian"? (Berarti tenang, diam, sunyi, atau tidak ada perkelahian atau masalah.)
 
@@ -70,9 +70,9 @@ Bagikan bahwa hari ini kita akan mencari tahu mengapa Yesus mengucapkan kata-kat
 ### MEMBAHAS:
 
 - Bagaimana rasanya berada di perahu pada hari yang tenang?
-- Bagaimana perasaan Anda jika berada di dalam perahu saat badai dahsyat?
+- Bagaimana perasaan kamu jika berada di dalam perahu saat badai dahsyat?
 
-**MEMBAGIKAN:** Kisah hari ini tentang teman-teman Yesus yang berada di tengah badai yang sangat besar dan menakutkan. Aku bertanya-tanya siapa yang dapat membantu mereka mengatasi perasaan mereka yang hebat. Pesan Utama kita mungkin memberi kita petunjuk. Mari kita ucapkan bersama-sama: Yesus dapat melakukan apa saja. Dia dapat menenangkan hatiku.
+**MEMBAGIKAN:** Kisah hari ini tentang teman-teman Yesus yang berada di tengah badai yang sangat besar dan menakutkan. Aku bertanya-tanya siapa yang dapat membantu mereka mengatasi rasa takut mereka yang begitu besar. Pesan Utama kita mungkin memberi kita petunjuk. Mari kita ucapkan bersama-sama: Yesus dapat melakukan apa saja. Dia dapat menenangkan hatiku.
 
 Tanyakan: “Apa yang dapat Yesus lakukan?” (Apa saja!)
 
@@ -86,7 +86,7 @@ Ajak anak-anak meniru gerakan Anda saat Anda mengucapkan Pesan Utama bersama-sam
 
 **MELAKUKAN:** Bunyikan lonceng atau alat penghasil suara Anda lagi dan ajak seorang anak untuk membuka Kotak Penjelajah Cerita untuk melihat beberapa perahu mainan kecil atau perahu buatan tangan. Mintalah anak-anak untuk berbagi apa yang mereka takuti. Beri label pada "layar" perahu dengan kata-kata atau gambar untuk menggambarkan tanggapan mereka. Misalnya:
 
-- Bagian gelap (gunakan spidol biru tua untuk mewarnai layar)
+- Kegelapan (gunakan spidol biru tua untuk mewarnai layar)
 - Guntur dan kilat (gambarlah petir)
 - Tersesat (gambar anak kecil sendirian)
 - Suara-suara menakutkan (gambarlah telinga dengan garis-garis yang menjulur keluar darinya)
@@ -108,7 +108,7 @@ Ulangi Pesan Utama bersama-sama: Yesus [tunjuk ke atas] dapat melakukan apa saja
 
 **KARTU KOLEKSI ALAM:** Tarik ke atas Kartu Koleksi Alam 40: Manatee Florida.
 
-- Bagaimana Anda mendeskripsikan hewan ini?
+- Bagaimana kamu mendeskripsikan hewan ini?
 - Manatee Florida adalah hewan besar yang hidup di laut. Beratnya bisa setara dengan enam bayi gajah!
 - Raksasa jinak ini juga dikenal sebagai sapi laut, karena mereka suka memakan rumput laut.
 - Mereka tidak menyakiti hewan lain. Mereka ramah dan bahkan saling berpelukan dan berciuman untuk saling menyapa.
@@ -122,18 +122,18 @@ Berikan kepada setiap anak Kartu Pengumpul Alam 40: Manatee Florida untuk dileta
 
 ### KERAJINAN TANGAN (15 MENIT)
 
-**KEAHLIAN:** Perahu di Tengah Badai. Buatlah "badai" dalam botol dengan perahu yang mengapung sebagai pengingat bahwa kita tidak perlu takut, karena Yesus selalu ada untuk membantu kita. Dia menenangkan kita. Dorong anak-anak untuk meletakkan botol mereka di suatu tempat yang akan mengingatkan mereka untuk berbicara kepada Yesus jika mereka merasa takut.
+**KERAJINAN:** Perahu di Tengah Badai. Buatlah "badai" dalam botol dengan perahu yang mengapung sebagai pengingat bahwa kita tidak perlu takut, karena Yesus selalu ada untuk membantu kita. Dia menenangkan kita. Dorong anak-anak untuk meletakkan botol mereka di suatu tempat yang akan mengingatkan mereka untuk berbicara kepada Yesus jika mereka merasa takut.
 
-Putar lagu “Jesus Can,” atau lagu Steve Green, “When I Am Afraid” (Spotify). Ajak anak-anak untuk memutar botol mereka mengikuti irama musik, lalu diamkan botol tersebut saat musik berhenti. Ulangi beberapa kali. Ajak anak-anak untuk mengucapkan Pesan Utama bersama-sama, disertai gerakan: Yesus bisa melakukan apa saja! Dia bisa menenangkan saya.
+Putar lagu “Jesus Can” (Yesus Mampu), atau lagu Steve Green, “When I Am Afraid” (Saat Aku Takut) (Spotify). Ajak anak-anak untuk memutar botol mereka mengikuti irama musik, lalu diamkan botol tersebut saat musik berhenti. Ulangi beberapa kali. Ajak anak-anak untuk mengucapkan Pesan Utama bersama-sama, disertai gerakan: Yesus bisa melakukan apa saja! Dia bisa menenangkan saya.
 
-[♫ Yesus Mampu](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
+[♫ Jesus Can (Yesus Mampu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
 
 Ucapkan doa singkat: “Terima kasih, Yesus, karena telah menenangkan hatiku.”
 
 **TANTANGAN MISI:** Yesus senang mendengarkan dan menjawab doa kita. Tantangan Misi pekan ini adalah berdoa setiap hari, memohon agar Yesus menumbuhkan hal-hal baik dalam diri Anda sehingga Anda dapat menunjukkan kepada orang lain seperti apa Yesus itu.
 
-**MENYANYI:** Nyanyikan lagu “Yesus Mampu.” Sampaikan bahwa minggu depan kita akan belajar lebih banyak tentang Yesus dan kuasa-Nya atas alam.
+**MENYANYI:** Nyanyikan lagu “Jesus Can” (Yesus Mampu). Sampaikan bahwa minggu depan kita akan belajar lebih banyak tentang Yesus dan kuasa-Nya atas alam.
 
-[♫ Yesus Mampu](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
+[♫ Jesus Can (Yesus Mampu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
 
 **BERDOA:** Ajak seorang anak untuk berdoa, lalu ikut berdoa, mengucap syukur kepada Tuhan karena kita dapat memanggil-Nya ketika kita takut, dan Dia akan memenuhi kita dengan kedamaian-Nya.

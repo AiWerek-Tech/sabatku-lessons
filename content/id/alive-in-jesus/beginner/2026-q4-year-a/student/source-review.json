@@ -4,9 +4,9 @@
   "status": "approved",
   "sourceLocale": "en",
   "targetLocale": "id",
-  "reviewer": "Codex (audit editorial dan integrasi; publikasi atas instruksi pemilik proyek)",
-  "reviewedAt": "2026-10-25",
-  "note": "Audit pasangan sumber Inggris–Indonesia dan revisi editorial diselesaikan. Pemilik proyek meminta status diterbitkan setelah audit. Ini bukan klaim pemeriksaan manusia oleh Tim SabatKu.",
+  "reviewer": "Codex (audit editorial lanjutan atas permintaan pemilik proyek)",
+  "reviewedAt": "2026-10-26",
+  "note": "Audit lanjutan terhadap bahasa dan judul lagu; publikasi tetap mengikuti instruksi pemilik proyek. Riwayat penilaian sebelumnya dipertahankan. Ini merupakan audit AI, bukan klaim persetujuan manusia baru.",
   "sourceAudit": {
     "englishFiles": 43,
     "indonesianFiles": 43,
@@ -196,7 +196,7 @@
     "lesson-01/story.md": "0d1fc28eeb851f89d486f89398efc51c20b6646fd87f44c26908635648b37ade",
     "lesson-02/parent-reflection.md": "1b1db9c8a7985f25e56bd219b5ced34231ba9fc46fdd12118ebd8d2f95bbec68",
     "lesson-02/play.md": "71b962861c9fd7471484f6bc71ed012743599debcf0148736aed9fd74763890a",
-    "lesson-02/story.md": "389ec92ec8f5a60b4590440086ca54caffbfde48bac177d989339db23c58809c",
+    "lesson-02/story.md": "e1a51e35f8d15c729be90c3ecb2bc6dca00c1dc215e66a9ad0b3b3f93c71ff46",
     "lesson-03/parent-reflection.md": "03e39945d0d568bf73dd584a3028c54d142c94c654de5645b96219748f1af7db",
     "lesson-03/play.md": "23554cb4e8a8b50873929903c82bd22d0b865b098e014876d79dfafa693a0fbd",
     "lesson-03/story.md": "f7b374697234e8a349e3ca5e1951d9e50d7845ad738f25a968841152f5994e75",
@@ -218,7 +218,7 @@
     "lesson-09/parent-reflection.md": "0a18b6df0c996a7898ddbdf09e8c125ec907de05567fc8d516c98f896bdaeaa4",
     "lesson-09/play.md": "636aefe48c53fae5993ffb8315b4247648ea38aa861921000ef8117d2af2a1f2",
     "lesson-09/story.md": "10d507256a1588ed5b4d1b482fefb3125bea48ad604b49f223241fd4b5773bf2",
-    "lesson-10/parent-reflection.md": "9ab15350cf9dec23d52fbc5325afacfe1b289df1b17ef729b539517c7c419c7f",
+    "lesson-10/parent-reflection.md": "f2b06c2dbce9af4246d313235d10347d336d6b7eb2cada368691d6fde7b75d02",
     "lesson-10/play.md": "10b6d05bd54abd58d8fb9dc1294fea2406cb68ad85d98535103e10e59292f9fb",
     "lesson-10/story.md": "21e4779213bc3597c991552ff5f216d6785ea9b535e29505e153ede6a497d429",
     "lesson-11/parent-reflection.md": "f06415721ff5a992ae221326ad56294f26e371ce6e00b7878d148466aa3ff3f4",
@@ -240,5 +240,11 @@
     "reviewer": "Codex",
     "basis": "User instruction: retain English song titles, add Indonesian subtitles.",
     "scope": "Song cards, weekly instructions and quarter resources; media URLs unchanged."
-  }
+  },
+  "previousApproval": {
+    "reviewer": "Codex (audit editorial dan integrasi; publikasi atas instruksi pemilik proyek)",
+    "reviewedAt": "2026-10-25",
+    "note": "Audit pasangan sumber Inggris–Indonesia dan revisi editorial diselesaikan. Pemilik proyek meminta status diterbitkan setelah audit. Ini bukan klaim pemeriksaan manusia oleh Tim SabatKu."
+  },
+  "editorialAudit": "docs/audits/beginner-publication-review-20261026.json"
 }

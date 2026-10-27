@@ -29,13 +29,13 @@
 
 Para siswa akan:
 
-- **Mengetahui** bahwa Allah masih menuntun anak-anak-Nya sekarang, sama seperti Ia menuntun orang-orang Majus dan Yusuf.
+- **Mengetahui** bahwa Allah masih menuntun anak-anak-Nya sekarang, sama seperti Ia menuntun orang-orang majus dan Yusuf.
 - **Merasakan** keinginan untuk mengikuti tuntunan Allah.
 - **Menanggapi** dengan memilih mengikuti rencana Allah bagi kehidupan mereka.
 
 ### Gambaran Umum Pelajaran Alkitab
 
-Orang-orang Majus dari Timur mencari seorang Raja yang baru lahir dan mengikuti bintang yang tidak biasa menuju Yerusalem. Raja Herodes mendengar keinginan mereka untuk menyembah bayi Yesus. Dengan berpura-pura ingin menyembah Bayi itu, ia meminta mereka pergi terlebih dahulu lalu melaporkan kepadanya. Setelah menemukan Bayi itu dan mempersembahkan emas, kemenyan, dan mur, selain menyembah-Nya, mereka diperingatkan Allah melalui mimpi agar tidak kembali kepada Herodes. Mereka pun menempuh jalan lain untuk pulang. Setelah orang-orang Majus pergi, Allah memperingatkan Yusuf bahwa Herodes sedang mencari Anak itu untuk membunuh-Nya. Maria dan Yusuf melarikan diri ke Mesir bersama bayi Yesus.
+Orang-orang Majus dari Timur mencari seorang Raja yang baru lahir dan mengikuti bintang yang tidak biasa menuju Yerusalem. Raja Herodes mendengar keinginan mereka untuk menyembah bayi Yesus. Dengan berpura-pura ingin menyembah Bayi itu, ia meminta mereka pergi terlebih dahulu lalu melaporkan kepadanya. Setelah menemukan Bayi itu dan mempersembahkan emas, kemenyan, dan mur, selain menyembah-Nya, mereka diperingatkan Allah melalui mimpi agar tidak kembali kepada Herodes. Mereka pun menempuh jalan lain untuk pulang. Setelah orang-orang majus pergi, Allah memperingatkan Yusuf bahwa Herodes sedang mencari Anak itu untuk membunuh-Nya. Maria dan Yusuf melarikan diri ke Mesir bersama bayi Yesus.
 
 ### Ini adalah pelajaran tentang kasih karunia dalam tindakan
 
@@ -43,11 +43,11 @@ Orang-orang Majus, Maria, dan Yusuf semuanya menerima petunjuk yang jelas dari A
 
 ### Pengayaan Guru
 
-“Dalam sebuah mimpi [orang-orang Majus] menerima pesan ilahi agar tidak berkomunikasi lagi dengan [Herodes]. Mereka menghindari Yerusalem dan pulang ke negeri mereka melalui jalan lain.
+“Dalam sebuah mimpi [orang-orang majus] menerima pesan ilahi agar tidak berkomunikasi lagi dengan [Herodes]. Mereka menghindari Yerusalem dan pulang ke negeri mereka melalui jalan lain.
 
 “Demikian pula Yusuf menerima peringatan untuk melarikan diri ke Mesir bersama Maria dan Anak itu. ... Yusuf segera menurut tanpa menunda, lalu berangkat pada malam hari demi keamanan yang lebih besar. ...
 
-“Setan bertekad menghalangi terang ilahi menerangi dunia, dan ia mengerahkan segala kecerdikannya untuk membinasakan Juruselamat. Namun, Dia yang tidak pernah mengantuk atau tertidur terus menjaga Anak-Nya yang dikasihi. ... Melalui persembahan orang-orang Majus ... Tuhan menyediakan sarana untuk perjalanan ke Mesir dan untuk tinggal sementara di negeri asing” (*The Desire of Ages*, hlm. 64–65).
+“Setan bertekad menghalangi terang ilahi menerangi dunia, dan ia mengerahkan segala kecerdikannya untuk membinasakan Juruselamat. Namun, Dia yang tidak pernah mengantuk atau tertidur terus menjaga Anak-Nya yang dikasihi. ... Melalui persembahan orang-orang majus ... Tuhan menyediakan kebutuhan untuk perjalanan ke Mesir dan untuk tinggal sementara di negeri asing” (*The Desire of Ages*, hlm. 64–65).
 
 Bagaimana Allah berbicara kepada manusia saat ini? Bagaimana Ia berbicara kepada saya? Pilihan apakah yang sedang saya buat untuk mengikuti ke mana Ia menuntun, sekalipun tampaknya jalan itu berbeda dari yang saya kira telah Ia tentukan bagi saya?
 
@@ -151,7 +151,7 @@ Siapkan makanan kecil sehat bagi siswa, misalnya buah atau kacang-kacangan. Bung
 
 Katakan kepada siswa bahwa Anda telah menyediakan hadiah bagi mereka, tetapi mereka harus menemukannya. Jelaskan bahwa jika selama mencari mereka menemukan hadiah milik orang lain, mereka harus membiarkannya di tempat dan tidak memberikan petunjuk kepada teman yang lain. Setelah kira-kira satu menit, minta mereka berhenti mencari. Mungkin ada yang memprotes, tetapi abaikan protes itu. Bagikan lembar petunjuk. Setelah semua mendapatkannya, izinkan mereka melanjutkan pencarian. Ketika semua siswa sudah menemukan hadiah masing-masing, izinkan mereka membuka bungkusnya.
 
-**Catatan sumber:** Jika kelas Anda besar, lakukan kegiatan ini dengan sekelompok kecil siswa sementara yang lainnya mengamati.
+**Penyesuaian kegiatan:** Jika kelas Anda besar, lakukan kegiatan ini dengan sekelompok kecil siswa sementara yang lainnya mengamati.
 
 **Diskusi:**
 
@@ -201,9 +201,9 @@ Sampaikan sukacita dan kesedihan para siswa (hal-hal yang menyenangkan dan meris
 
 ### Lagu yang Disarankan
 
-- “We Three Kings” (*The SDA Hymnal*, no. 137).
-- “Angels We Have Heard on High” (*The SDA Hymnal*, no. 142).
-- “O Little Town of Bethlehem” (*The SDA Hymnal*, no. 135).
+- “We Three Kings” (Kami Tiga Orang Majus) (*The SDA Hymnal*, no. 137).
+- “Angels We Have Heard on High” (Malaikat yang Kami Dengar dari Surga) (*The SDA Hymnal*, no. 142).
+- “O Little Town of Bethlehem” (Hai Kota Mungil Betlehem) (*The SDA Hymnal*, no. 135).
 
 ### Cerita Misi
 
@@ -232,7 +232,7 @@ Bergandengan tanganlah membentuk lingkaran. Mulailah doa dengan mengucap syukur 
 
 Para kesatria dan samurai tidak bisa begitu saja memutuskan, “Hari ini aku ingin menaklukkan sebuah pulau.” Mereka harus menerima tugas dari penguasa. Penguasa bukan hanya memberikan petunjuk, melainkan juga memastikan mereka mempunyai segala sesuatu yang dibutuhkan untuk melaksanakan tugas itu: makanan, pakaian, perlengkapan tidur, uang, hadiah, orang-orang pendukung, sarana transportasi, dan senjata. Sebagai balasannya, mereka memberikan kesetiaan kepadanya. Di beberapa negeri, orang-orang ini bahkan menyembah panglima tertinggi mereka.
 
-Hari ini kita akan membicarakan tiga orang yang dituntun Allah dalam perjalanan mencari bayi Yesus. Allah menyediakan bintang, dan sebagai tanggapannya, mereka menyembah Dia. Persembahan yang diberikan orang-orang Majus dalam penyembahan itu membantu Maria dan Yusuf memelihara Yesus pada tahun-tahun awal kehidupan-Nya.
+Hari ini kita akan membicarakan tiga orang yang dituntun Allah dalam perjalanan mencari bayi Yesus. Allah menyediakan bintang, dan sebagai tanggapannya, mereka menyembah Dia. Persembahan yang diberikan orang-orang majus dalam penyembahan itu membantu Maria dan Yusuf memelihara Yesus pada tahun-tahun awal kehidupan-Nya.
 
 ### Mengalami Kisah (*Experiencing the Story*)
 
@@ -242,11 +242,11 @@ Bacalah Matius 2:1–15 bersama-sama sebagai satu kelas. Kemudian bagilah kelas 
 
 **1. Musik/Drama**
 
-Tulislah dan pentaskan sebuah drama pendek tentang pencarian Yesus oleh orang-orang Majus dan pelarian Maria serta Yusuf ke Mesir. Sertakan setidaknya satu lagu ciptaan sendiri.
+Tulislah dan pentaskan sebuah drama pendek tentang pencarian Yesus oleh orang-orang majus dan pelarian Maria serta Yusuf ke Mesir. Sertakan setidaknya satu lagu ciptaan sendiri.
 
 **2. Matematika/Sains**
 
-Gambarlah sebuah peta atau buatlah diorama yang menunjukkan kemungkinan rute perjalanan orang-orang Majus. Jelaskan rintangan fisik yang mungkin harus mereka hadapi. Hitunglah berapa mil/kilometer perjalanan mereka dan berapa lama waktu yang dibutuhkan. Mulailah dari Matius 2:1.
+Gambarlah sebuah peta atau buatlah diorama yang menunjukkan kemungkinan rute perjalanan orang-orang majus. Jelaskan rintangan fisik yang mungkin harus mereka hadapi. Hitunglah berapa mil/kilometer perjalanan mereka dan berapa lama waktu yang dibutuhkan. Mulailah dari Matius 2:1.
 
 **3. Menulis/Penelitian**
 
@@ -268,7 +268,7 @@ Mintalah seorang sukarelawan membaca Mikha 5:2 dan seorang lagi membaca Matius 2
 
 Mintalah siswa lain membaca bagian pertama Bilangan 24:17 dan seorang siswa lainnya membaca Wahyu 22:16.
 
-**Tanyakan:** Menurut kalian, mengapa orang-orang Majus perlu menemukan Yesus untuk menyembah-Nya? Apa yang dikatakan pesan utama kita?
+**Tanyakan:** Menurut kalian, mengapa orang-orang majus perlu menemukan Yesus untuk menyembah-Nya? Apa yang dikatakan pesan utama kita?
 
 **Kita menyembah Allah ketika mengikuti tuntunan-Nya.**
 
@@ -320,7 +320,7 @@ Di akhir kegiatan, izinkan siswa membagikan kisah mereka kepada seluruh kelas.
 
 ### A. Doa dan Kata-kata Penutup
 
-Akhirilah dengan berdoa bagi setiap siswa dan bagi orang-orang yang akan membagikan kisah mereka mengenai mengikuti tuntunan Allah, sebagaimana yang dilakukan orang-orang Majus, Yusuf, dan Maria.
+Akhirilah dengan berdoa bagi setiap siswa dan bagi orang-orang yang akan membagikan kisah mereka mengenai mengikuti tuntunan Allah, sebagaimana yang dilakukan orang-orang majus, Yusuf, dan Maria.
 
 ### B. Pengingat kepada Orang Tua
 
@@ -366,7 +366,7 @@ Malam berikutnya, sambil mengamati bintang itu, mereka menyusun rencana perjalan
 
 Tanpa mereka sadari, setiap hadiah memiliki makna yang berkaitan dengan kehidupan Yesus. Emas melambangkan asal-usul Yesus sebagai keturunan raja dari garis Daud, juga pemerintahan-Nya yang kekal sebagai Raja segala raja. Karena mur digunakan untuk mengawetkan jenazah sebelum penguburan, hadiah itu menjadi gambaran awal kematian Yesus sebagai korban bagi dosa-dosa kita. Kemenyan digunakan oleh para imam di Bait Suci, sehingga melambangkan peran Yesus sebagai Imam Besar kita yang menjadi Pengantara demi pengampunan dosa-dosa kita.
 
-Setelah menyelesaikan segala persiapan yang diperlukan, orang-orang Majus memasang pelana pada unta mereka dan berangkat mencari Raja yang baru lahir itu. Bintang yang pertama kali mereka lihat ketika Yesus lahir akan menuntun mereka pada malam hari. Selama berminggu-minggu bahkan berbulan-bulan, para pengembara itu dengan sabar mengikuti bintang tersebut.
+Setelah menyelesaikan segala persiapan yang diperlukan, orang-orang majus memasang pelana pada unta mereka dan berangkat mencari Raja yang baru lahir itu. Bintang yang pertama kali mereka lihat ketika Yesus lahir akan menuntun mereka pada malam hari. Selama berminggu-minggu bahkan berbulan-bulan, para pengembara itu dengan sabar mengikuti bintang tersebut.
 
 Akhirnya mereka melihat kubah keemasan Bait Suci di Yerusalem. Dengan penuh harapan, mereka masuk ke kota itu.
 
@@ -374,17 +374,17 @@ Akhirnya mereka melihat kubah keemasan Bait Suci di Yerusalem. Dengan penuh hara
 
 Berita itu segera tersebar. Raja Herodes mengundang mereka untuk menjadi tamunya sementara ia berusaha memperoleh informasi bagi mereka. Informasi itu juga akan berguna baginya karena ia sedang merencanakan cara untuk menyingkirkan siapa pun yang mungkin menjadi pesaing takhta dan telah lahir sebagai seorang raja.
 
-Herodes memanggil para imam. Mereka meneliti nubuat-nubuat kuno. Dari nubuat-nubuat itu, ia mengetahui bahwa kelahiran seorang raja telah dinubuatkan akan terjadi di Betlehem. Herodes memanggil orang-orang Majus dan memberitahukan apa yang telah diketahuinya. Ia meminta mereka kembali ke Yerusalem membawa kabar mengenai tempat kelahiran bayi itu supaya ia juga dapat pergi menyembah raja yang baru lahir tersebut.
+Herodes memanggil para imam. Mereka meneliti nubuat-nubuat kuno. Dari nubuat-nubuat itu, ia mengetahui bahwa kelahiran seorang raja telah dinubuatkan akan terjadi di Betlehem. Herodes memanggil orang-orang majus dan memberitahukan apa yang telah diketahuinya. Ia meminta mereka kembali ke Yerusalem membawa kabar mengenai tempat kelahiran bayi itu supaya ia juga dapat pergi menyembah raja yang baru lahir tersebut.
 
-Sekali lagi orang-orang Majus mengikuti bintang itu. Bintang tersebut berhenti di pinggiran Betlehem. Ketika mereka mencapai tempat bintang itu berhenti, mereka berada di depan sebuah rumah yang sangat sederhana. Di dalamnya, mereka menemukan Maria, Yusuf, dan Yesus yang masih kecil.
+Sekali lagi orang-orang majus mengikuti bintang itu. Bintang tersebut berhenti di pinggiran Betlehem. Ketika mereka mencapai tempat bintang itu berhenti, mereka berada di depan sebuah rumah yang sangat sederhana. Di dalamnya, mereka menemukan Maria, Yusuf, dan Yesus yang masih kecil.
 
 Ketika melihat Yesus, mereka tahu bahwa perjalanan mereka tidak sia-sia. Meskipun keadaan sekeliling-Nya sangat sederhana, Allah meyakinkan mereka bahwa mereka telah menemukan Dia yang selama ini dicari. Mereka menyembah-Nya dan mempersembahkan hadiah-hadiah mereka.
 
-Sekali lagi Allah sedang menuntun rencana orang-orang yang percaya kepada-Nya. Melalui mimpi, Ia memperingatkan orang-orang Majus supaya tidak kembali kepada Herodes, tetapi pulang melalui jalan lain. Mereka taat dan kembali ke negeri mereka untuk menyebarkan kabar yang luar biasa tentang Yesus.
+Sekali lagi Allah sedang menuntun rencana orang-orang yang percaya kepada-Nya. Melalui mimpi, Ia memperingatkan orang-orang majus supaya tidak kembali kepada Herodes, tetapi pulang melalui jalan lain. Mereka taat dan kembali ke negeri mereka untuk menyebarkan kabar yang luar biasa tentang Yesus.
 
 Namun, masih ada dua mimpi dan dua perjalanan lagi dalam kisah ini. Ketika Herodes menyadari bahwa para pengunjung itu tidak kembali melalui Yerusalem, ia mulai merencanakan kejahatan. Tetapi rencana Allah jauh mendahului rencana Herodes. Sekali lagi Allah menggunakan mimpi untuk menggerakkan Yusuf supaya segera membawa Maria dan Yesus pergi ke Mesir.
 
-Dengan memercayai pemeliharaan dan tuntunan Allah, Yusuf berhasil membawa Maria dan Yesus ke tempat yang aman di Mesir, jauh dari Herodes dan rencana-rencana jahatnya. Dengan hadiah yang dibawa orang-orang Majus, keluarga kecil itu dapat tinggal di negeri asing untuk sementara waktu. Allah akan memberitahukan ketika bahaya telah berlalu dan menuntun mereka pulang ke Nazaret.
+Dengan memercayai pemeliharaan dan tuntunan Allah, Yusuf berhasil membawa Maria dan Yesus ke tempat yang aman di Mesir, jauh dari Herodes dan rencana-rencana jahatnya. Dengan hadiah yang dibawa orang-orang majus, keluarga kecil itu dapat tinggal di negeri asing untuk sementara waktu. Allah akan memberitahukan ketika bahaya telah berlalu dan menuntun mereka pulang ke Nazaret.
 
 ---
 
@@ -426,7 +426,7 @@ Bacalah Matius 2:1–3.
 
 ## Pikirkan
 
-Mengapa Herodes merasa gelisah ketika orang-orang Majus bertanya tentang seorang raja yang baru lahir?
+Mengapa Herodes merasa gelisah ketika orang-orang majus bertanya tentang seorang raja yang baru lahir?
 
 ## Tuliskan
 
@@ -434,7 +434,7 @@ Dalam jurnal pendalaman Alkitabmu, tulislah apa yang akan kamu katakan kepada se
 
 ## Kegiatan
 
-Gambarlah atau buatlah patung kecil orang-orang Majus beserta hadiah-hadiah mereka. Letakkan karya itu di kamarmu sebagai pengingat akan kisah ini.
+Gambarlah atau buatlah patung kecil orang-orang majus beserta hadiah-hadiah mereka. Letakkan karya itu di kamarmu sebagai pengingat akan kisah ini.
 
 ## Doakan
 
@@ -502,7 +502,7 @@ Berdoalah agar Allah membuatmu siap mengikuti tuntunan-Nya, apa pun keadaannya.
 
 ## Nyanyikan
 
-Untuk mengawali ibadah keluarga, nyanyikan atau putarlah beberapa lagu Natal kesukaan keluargamu. Akhiri dengan lagu “We Three Kings”. Mintalah anggota keluarga yang berbeda menyanyikan (atau membacakan) masing-masing satu bait, lalu semua menyanyikan bagian refrain bersama-sama.
+Untuk mengawali ibadah keluarga, nyanyikan atau putarlah beberapa lagu Natal kesukaan keluargamu. Akhiri dengan lagu “We Three Kings” (Kami Tiga Orang Majus). Mintalah anggota keluarga yang berbeda menyanyikan (atau membacakan) masing-masing satu bait, lalu semua menyanyikan bagian refrein bersama-sama.
 
 ## Bacaan Alkitab
 

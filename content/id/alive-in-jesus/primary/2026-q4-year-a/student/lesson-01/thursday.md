@@ -13,7 +13,7 @@ Tiba-tiba angin berhenti menderu, dan ombak mereda. Awan-awan menghilang, dan bi
 
 Mereka benar-benar telah melihat kuasa Tuhan. Betapa banyak cerita yang bisa mereka ceritakan!
 
-Allah bisa saja menyelamatkan murid-murid-Nya di tengah badai, tetapi Ia memilih untuk melakukan hal yang mustahil dan menghentikan badai untuk menenangkan ketakutan mereka. Yesus dapat menenangkan ketakutan kita dan memberi kita kedamaian ketika kita takut. Kita dapat mempercayai-Nya untuk membantu kita tetap damai apa pun yang terjadi, karena Alkitab berkata, “Dan biarlah damai sejahtera Allah memerintah dalam hatimu” (Kolose 3:15).
+Allah bisa saja menyelamatkan murid-murid-Nya di tengah badai, tetapi Ia memilih untuk melakukan hal yang mustahil dan menghentikan badai untuk menenangkan ketakutan mereka. Yesus dapat menenangkan ketakutan kita dan memberi kita kedamaian ketika kita takut. Kita dapat memercayai-Nya untuk membantu kita tetap damai apa pun yang terjadi, karena Alkitab berkata, “Dan biarlah damai sejahtera Allah memerintah dalam hatimu” (Kolose 3:15).
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#647db4", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:

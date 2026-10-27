@@ -23,17 +23,17 @@ Cetak templat kerajinan pekan ke-2 dan sketsa tempat tidur dan anak laki-laki di
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Berkemaslah”
-	- “Kami Menyambut Anda”
-	- “Allah Maha Perkasa”
-	- “Apa yang Dapat Dilakukan Yesus?”
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
-	- Lagu Ayat Alkitab: “Kisah Para Rasul 16:31”
-	- “Yesus Mampu”
+	- “Pack It Up” (Berkemaslah)
+	- “We Welcome You” (Kami Menyambutmu)
+	- “God Is Mighty” (Allah Maha Perkasa)
+	- “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
+	- Lagu Ayat Alkitab: “Acts 16:31” (Kisah Para Rasul 16:31)
+	- “Jesus Can” (Yesus Mampu)
 - Kartu Koleksi Alam 41: Bintang Laut
 - PowerPoint Program Pekan ke-2
 - Fakta Singkat Misi

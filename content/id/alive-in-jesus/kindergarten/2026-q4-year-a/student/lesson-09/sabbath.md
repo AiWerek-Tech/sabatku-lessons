@@ -10,7 +10,7 @@ Malam itu, Ibu membuka Alkitab dan membacakan kepada Carine kisah tentang Yesus 
 
 Ketika Ibu menutup Alkitab, beliau masih tampak sedih. Carine menawarkan diri untuk menyanyikan sebuah lagu. Ibu senang mendengarkan suara Carine yang jernih dan merdu, dan beliau menyambut baik lagu itu. Lagu itu membantunya memiliki iman.
 
-Akhirnya, setelah sebulan, Ayah pulang! Ia tampak lelah, dan gerakannya lambat, tetapi Carine berlari ke pelukannya. “Aku akan merawatmu dengan bernyanyi untukmu,” kata Carine. Ia menyanyikan lagu favoritnya, “Haleluya.” Ia bernyanyi kepada ayahnya tentang kecintaannya kepada Yesus setiap hari—sampai ayahnya cukup sehat untuk kembali bekerja. Yesus telah menyelamatkan ayahnya!
+Akhirnya, setelah sebulan, Ayah pulang! Ia tampak lelah, dan gerakannya lambat, tetapi Carine berlari ke pelukannya. “Aku akan merawatmu dengan bernyanyi untukmu,” kata Carine. Ia menyanyikan lagu favoritnya, “Hallelujah” (Haleluya). Ia bernyanyi kepada ayahnya tentang kecintaannya kepada Yesus setiap hari—sampai ayahnya cukup sehat untuk kembali bekerja. Yesus telah menyelamatkan ayahnya!
 
 Alkitab memiliki banyak kisah dan lagu tentang kasih Tuhan. Mazmur 37:40 (ICB) mengatakan, “TUHAN menolong mereka dan menyelamatkan mereka.”
 

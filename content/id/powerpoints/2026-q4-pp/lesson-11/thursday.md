@@ -4,7 +4,7 @@ Bacalah Amsal 3:5–6.
 
 ## Tuliskan
 
-Adakah situasi dalam hidupmu yang membuatmu perlu memercayai Allah? Tuliskan kebutuhanmu itu dalam jurnal pelajaran Alkitabmu.
+Adakah situasi dalam hidupmu yang membuatmu perlu memercayai Allah? Tuliskan kebutuhanmu itu dalam jurnal pendalaman Alkitabmu.
 
 ## Diskusikan
 

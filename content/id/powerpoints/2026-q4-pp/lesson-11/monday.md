@@ -12,4 +12,4 @@ Bicarakanlah dengan seseorang tentang karakter Yusuf. Mengapa menurutmu Allah me
 
 ## Doakan
 
-Mintalah kepada Allah agar kamu memiliki karakter yang berintegritas ketika berhadapan dengan orang lain yang menyakitimu atau memperlakukanmu secara tidak adil.
+Mintalah kepada Allah agar kamu memiliki sikap jujur dan teguh dalam kebenaran ketika berhadapan dengan orang lain yang menyakitimu atau memperlakukanmu secara tidak adil.

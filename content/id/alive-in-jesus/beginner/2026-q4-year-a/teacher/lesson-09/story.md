@@ -1,6 +1,6 @@
 ### WAKTU BERCERITA ALKITAB INTERAKTIF (5 MENIT)
 
-Katakan: **Tuhan menceritakan banyak kisah istimewa dalam kitab-Nya, Alkitab.** Berikan setiap anak sebuah **“Alkitab”** kecil (karton hitam yang dilipat dengan tulisan “Alkitab” di bagian depan dan gambar di dalamnya) sambil Anda menyanyikan **“I Open My Bible Carefully” (Aku Membuka Alkitab dengan Hati-hati).** Setiap minggu, pilih satu anak untuk maju ke depan dan dengan hati-hati membuka Alkitab besar Anda. Katakan: **Saatnya mendengarkan cerita tentang Tuhan yang mengasihi dan selalu menyertai kita! Mari kita lihat apa yang ada di dalam kantong cerita hari ini.** (Lihat jadwal pekanan **Saran Cerita Alkitab Interaktif**. Tujuan pembelajaran ditekankan sebagai pernyataan **“ucapkan bersama”**.)
+Katakan: **Tuhan menceritakan banyak kisah istimewa dalam kitab-Nya, Alkitab.** Berikan setiap anak sebuah **“Alkitab”** kecil (karton hitam yang dilipat dengan tulisan “Alkitab” di bagian depan dan gambar di dalamnya) sambil Anda menyanyikan **“I Open My Bible Carefully” (Aku Membuka Alkitab dengan Hati-hati).** Setiap pekan, pilih satu anak untuk maju ke depan dan dengan hati-hati membuka Alkitab besar Anda. Katakan: **Saatnya mendengarkan cerita tentang Tuhan yang mengasihi dan selalu menyertai kita! Mari kita lihat apa yang ada di dalam kantong cerita hari ini.** (Lihat jadwal pekanan **Saran Cerita Alkitab Interaktif**. Tujuan pembelajaran ditekankan sebagai pernyataan **“ucapkan bersama”**.)
 
 [♫ I Open My Bible Carefully (Aku Membuka Alkitab dengan Hati-hati) · bahasa Inggris](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3)
 
@@ -18,13 +18,13 @@ Ucapkan: **Maria bernyanyi sambil merapikan rumah kecilnya.** Ajak anak-anak ber
 
 **Maria tersenyum kepada malaikat yang bersinar itu. Dia percaya kepada Tuhan dan firman-Nya yang diucapkan malaikat itu. Ya, dia akan menjadi penolong Tuhan!**
 
-**Ia berlari untuk memberitahukan kabar itu kepada Yusuf. Yusuf juga sangat terkejut! Bisakah kamu menunjukkan wajah terkejut? Ia menggaruk kepalanya. Haruskah ia mempercayai Maria?**
+**Ia berlari untuk memberitahukan kabar itu kepada Yusuf. Yusuf juga sangat terkejut! Bisakah kamu menunjukkan wajah terkejut? Ia menggaruk kepalanya. Benarkah kabar yang disampaikan Maria?**
 
 **Yusuf memikirkan malaikat itu sepanjang hari.** Ajak anak-anak berbaring di lantai. **Ketika ia tidur, ia melihat malaikat dalam mimpinya. Malaikat itu datang untuk memberi tahu Yusuf bahwa itu benar—Maria akan melahirkan bayi!**
 
-**Yusuf juga sangat gembira. Dia tahu dia bisa mempercayai Tuhan. Dia akan menjaga Yesus dan menjadi penolong Tuhan.**
+**Yusuf juga sangat gembira. Dia tahu dia bisa memercayai Tuhan. Dia akan menjaga Yesus dan menjadi penolong Tuhan.**
 
-**Tuhan terkadang juga memilih kita untuk tugas-tugas khusus. Seperti Maria, kita dapat mempercayai Tuhan dan mengatakan ya ketika Dia meminta kita untuk melakukan sesuatu untuk-Nya.**
+**Tuhan terkadang juga memilih kita untuk tugas-tugas khusus. Seperti Maria, kita dapat memercayai Tuhan dan mengatakan ya ketika Dia meminta kita untuk melakukan sesuatu untuk-Nya.**
 
 Ucapkan bersama: **Aku bisa percaya kepada Tuhan.**
 
@@ -34,13 +34,13 @@ Ucapkan bersama: **Aku bisa percaya kepada Tuhan.**
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/bible-story-poster-09.jpg)
 
-Gunakan poster cerita Alkitab pekanan sebagai referensi saat Anda membagikan cerita Alkitab, bersama dengan barang-barang dalam tas cerita. Anda juga dapat memilih untuk membaca narasi pelajaran pekanan sebagai bagian dari Waktu Cerita Alkitab Interaktif ini.
+Gunakan poster cerita Alkitab pekanan sebagai referensi saat Anda menyampaikan cerita Alkitab dengan alat peraga dalam tas cerita. Anda juga dapat memilih untuk membaca narasi pelajaran pekanan sebagai bagian dari Waktu Cerita Alkitab Interaktif ini.
 
 
 
 ### BAHAN DAN ALAT
 
-- Alkitab Kecil
+- Alkitab kecil dari karton
 - Alkitab
 - Tas cerita pekanan dan barang-barang yang tercantum dalam saran Waktu Bercerita.
 - Poster cerita Alkitab

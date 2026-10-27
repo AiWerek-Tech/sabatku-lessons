@@ -6,9 +6,9 @@
 
 **BERMAIN:** Jika memungkinkan, cetaklah gambar wajah anak-anak di kelas Sekolah Sabat Anda. Jika tidak memungkinkan, ajak anak-anak untuk menggambar diri mereka sendiri. Kemudian mintalah anak-anak menggambar bentuk-bentuk cerah dan berwarna-warni di sekitar wajah mereka, dan mintalah mereka membantu Anda menyambungkan "wajah" mereka dengan tali untuk membuat "tali persahabatan" yang panjang. Letakkan ini di depan kelas agar dapat dilihat sepanjang pelajaran hari ini.
 
-**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack it Up.”
+**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack It Up” (Berkemaslah).
 
-[♫ Berkemaslah](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
+[♫ Pack It Up (Berkemaslah)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
 
 ### SAMBUTAN, LAGU-LAGU, DOA (5 MENIT)
 
@@ -16,41 +16,41 @@
 
 **MENYANYI:** Nyanyikan lagu-lagu berikut dengan gerakan dan alat peraga:
 
-- “Kami Menyambut Anda”
-- “Keluarga Besar Tuhan”
+- “We Welcome You” (Kami Menyambutmu)
+- “God’s Big Family” (Keluarga Besar Tuhan)
 - “Yesus Mengasihi Saya, dan Saya Mengasihi Yesus”
-- “Lagu Pengunjung” dan ucapan terima kasih
-- “Selamat Ulang Tahun” untuk setiap anak yang berulang tahun minggu lalu
+- “Visitor Song” (Lagu Pengunjung) dan ucapan terima kasih
+- “Happy Birthday” (Selamat ulang tahun) untuk setiap anak yang berulang tahun minggu lalu
 
 ### Lagu Pujian
 
-[♫ Kami Menyambut Anda](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
+[♫ We Welcome You (Kami Menyambutmu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
 
-[♫ Keluarga Besar Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-big-family.mp3)
+[♫ God’s Big Family (Keluarga Besar Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-big-family.mp3)
 
-[♫ Yesus Mengasihi Aku dan Aku Mengasihi Yesus](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-loves-me-and-i-love-jesus.mp3)
+[♫ Jesus Loves Me and I Love Jesus (Yesus Mengasihi Aku dan Aku Mengasihi Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-loves-me-and-i-love-jesus.mp3)
 
-[♫ Lagu Pengunjung](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
+[♫ Visitor Song (Lagu Pengunjung)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
 
-[♫ Selamat ulang tahun](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
+[♫ Happy Birthday (Selamat ulang tahun)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
 
-**BERDOA:** Nyanyikan lagu “When I Kneel Down to Pray” (Saat Aku Berlutut untuk Berdoa). Kemudian ajak seorang anak untuk berdoa. Lalu berdoalah juga, ucapkan terima kasih kepada Tuhan karena Dia adalah sahabat terbaik kita.
+**BERDOA:** Nyanyikan lagu “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa). Kemudian ajak seorang anak untuk berdoa. Lalu berdoalah juga, ucapkan terima kasih kepada Tuhan karena Dia adalah sahabat terbaik kita.
 
-[♫ Saat Aku Berlutut untuk Berdoa](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
+[♫ When I Kneel Down To Pray (Saat Aku Berlutut untuk Berdoa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
 
 ### PERSEMBAHAN DAN AYAT HAFALAN (6 MENIT)
 
-**MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang penawaran misi triwulan ini.
+**MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang persembahan misi triwulan ini.
 
-**MEMBERI:** Nyanyikan lagu “Bukalah Hatiku, Bukalah Tanganku” dan ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk diberikan di tempat yang paling membutuhkan.
+**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku) dan ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk diberikan di tempat yang paling membutuhkan.
 
-[♫ Bukalah Hatiku, Bukalah Tanganku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
+[♫ Open My Heart, Open My Hand (Bukalah Hatiku, Bukalah Tanganku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
 
 Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
 
-BERNYANYI dan BERDISKUSI: Nyanyikan lagu “Firman Tuhan.” Ajak seorang anak maju ke depan dan memegang Alkitab khusus kelas. Tunjuklah “tali persahabatan” dari kegiatan pembuka dan bicarakan betapa istimewanya kita semua berteman. Kita tidak perlu merasa kesepian atau sedih karena kita mengenal Yesus dan kita saling mengenal.
+BERNYANYI dan BERDISKUSI: Nyanyikan lagu “God’s Words” (Firman Tuhan). Ajak seorang anak maju ke depan dan memegang Alkitab khusus kelas. Tunjuklah “tali persahabatan” dari kegiatan pembuka dan bicarakan betapa istimewanya kita semua berteman. Kita tidak perlu merasa kesepian atau sedih karena kita mengenal Yesus dan kita saling mengenal.
 
-[♫ Firman Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
+[♫ God’s Words (Firman Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
 
 Jelaskan bahwa ayat hafalan hari ini sangat baik bagi siapa pun yang merasa kesepian atau sedih. Mungkin anak-anak mengenal seseorang yang merasa seperti itu sehingga mereka dapat mengundangnya ke Sekolah Sabat untuk menjadi bagian dari lingkaran persahabatan kita. Tunjukkan kepada anak-anak cara menemukan Mazmur 34:18. Ucapkan bersama-sama: “TUHAN dekat kepada orang-orang yang patah hati.”
 
@@ -58,7 +58,7 @@ Jelaskan bahwa ayat hafalan hari ini sangat baik bagi siapa pun yang merasa kese
 
 Sampaikan bahwa Yesus ingin menjadi sahabat dekat kita. Dia dapat menyembuhkan hati kita yang hancur. Bersama-sama, dengarkan dan nyanyikan Lagu Alkitab: Mazmur 34:18.
 
-[♫ Mazmur 34:18](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/5-psalm-34-18.mp3)
+[♫ Psalm 34:18 (Mazmur 34:18)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/5-psalm-34-18.mp3)
 
 ### KOTAK KEJUTAN RAHASIA (7 MENIT)
 
@@ -86,8 +86,8 @@ Sampaikan bahwa Yesus ingin menjadi sahabat dekat kita. Dia dapat menyembuhkan h
 
 - Dalam kisah pelajaran kita, bagaimana Yesus menunjukkan bahwa Dia baik hati? (Dia mendekati orang-orang yang menderita, sakit, atau terpinggirkan. Dia menggunakan tangan yang lembut dan kata-kata yang baik. Dia menolong mereka.)
 - Bagaimana Yesus menunjukkan bahwa Dia berkuasa dan dapat melakukan apa saja? (Dia menyembuhkan tiga orang.)
-- Bisakah Anda berbagi tentang saat Anda merasa sedih atau kesepian?
-- Siapa yang dapat Anda percayai untuk membantu Anda dan menjadi teman yang baik ketika Anda merasa sedih atau dikucilkan? Mengapa? (Yesus. Dia mengasihi saya. Keluarga saya dan orang lain yang juga baik hati.)
+- Bisakah kamu berbagi tentang saat kamu merasa sedih atau kesepian?
+- Siapa yang dapat kamu percayai untuk membantu kamu dan menjadi teman yang baik ketika kamu merasa sedih atau dikucilkan? Mengapa? (Yesus. Dia mengasihi saya. Keluarga saya dan orang lain yang juga baik hati.)
 
 Ulangi Pesan Utama bersama-sama: “Yesus [tunjuk ke atas] dapat melakukan apa saja [lompat dengan satu kepalan tangan di udara]. Dia ingin menjadi sahabat dekatku [peluk bahu sendiri].”
 
@@ -110,7 +110,7 @@ Berikan kepada setiap anak Kartu Pengumpul Alam 44: Salamander Axolotl Meksiko u
 
 ### KERAJINAN TANGAN (15 MENIT)
 
-**KEAHLIAN:** “Hati yang Menyembuhkan.” Tunjukkan kepada anak-anak cara membuat “Hati yang Menyembuhkan” untuk mengingatkan mereka bahwa Yesus peduli kepada mereka dan akan menjadi sahabat terbaik mereka. Putar lagu “Sahabatku Selamanya, Yesus” saat anak-anak membuat kerajinan tangan mereka untuk membiasakan mereka dengan liriknya.
+**KERAJINAN:** “Hati yang Menyembuhkan.” Tunjukkan kepada anak-anak cara membuat “Hati yang Menyembuhkan” untuk mengingatkan mereka bahwa Yesus peduli kepada mereka dan akan menjadi sahabat terbaik mereka. Putar lagu “My Forever Friend Jesus” (Sahabatku Selamanya, Yesus) saat anak-anak membuat kerajinan tangan mereka untuk membiasakan mereka dengan liriknya.
 
 **MENERAPKAN:** Bagikan bahwa hari ini kita telah belajar bahwa Yesus dekat dengan kita ketika kita sedih, kesepian, merasa tersisih, atau terluka. Dia ingin menjadi sahabat dekat kita. Pekan ini kita dapat menjadi seperti Yesus dengan menjangkau orang lain dengan kasih dan kebaikan.
 
@@ -120,14 +120,14 @@ Ajak anak-anak untuk berdiri dan, sambil memegang tepi hati mereka yang sedang s
 
 Lempar balon dan/atau pita keriting ke dalam lingkaran untuk melambangkan kegembiraan yang muncul ketika kita mengundang orang-orang ke dalam lingkaran pertemanan kita. Dengan melakukan ini, kita membantu menyembuhkan hati mereka dan membantu mereka berbahagia.
 
-Tetaplah berada dalam lingkaran, nyanyikan bersama “Sahabatku Selamanya, Yesus.” Yesus akan selalu membantu kita menjadi sahabat yang baik, seperti Dia sendiri.
+Tetaplah berada dalam lingkaran, nyanyikan bersama “My Forever Friend Jesus” (Sahabatku Selamanya, Yesus). Yesus akan selalu membantu kita menjadi sahabat yang baik, seperti Dia sendiri.
 
-[♫ Sahabatku Selamanya, Yesus](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/my-forever-friend-jesus.mp3)
+[♫ My Forever Friend Jesus (Sahabatku Selamanya, Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/my-forever-friend-jesus.mp3)
 
 **TANTANGAN MISI:** Tantangan Misi Minggu Ini adalah berdoa setiap hari untuk para dokter, perawat, dan dokter gigi yang menjadi misionaris. Apa yang dapat Anda lakukan pekan ini untuk merawat seseorang atau hewan yang membutuhkan bantuan? Kebaikan Anda mungkin menunjukkan kepada mereka bahwa Yesus ingin menjadi sahabat dekat mereka.
 
-**MENYANYI:** “Yesus Mampu.” Bagikan bahwa minggu depan kita akan mempelajari cara luar biasa Yesus menolong seorang wanita yang telah sakit dalam waktu yang sangat lama.
+**MENYANYI:** “Jesus Can” (Yesus Mampu). Bagikan bahwa minggu depan kita akan mempelajari cara luar biasa Yesus menolong seorang wanita yang telah sakit dalam waktu yang sangat lama.
 
-[♫ Yesus Mampu](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
+[♫ Jesus Can (Yesus Mampu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
 
 **BERDOA:** Berdoalah, ucapkan terima kasih kepada Tuhan karena Dia mengasihi kita dan mengundang kita untuk menjadi sahabat dekat-Nya. Mintalah Tuhan untuk membantu anak-anak saat mereka menjangkau orang-orang yang kesepian atau terpinggirkan.

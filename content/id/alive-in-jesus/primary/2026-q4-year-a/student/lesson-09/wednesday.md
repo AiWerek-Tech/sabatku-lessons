@@ -11,7 +11,7 @@ Dalam kegembiraannya, pria yang disembuhkan itu benar-benar lupa bahwa itu adala
 
 Orang-orang Farisi tidak menyukai jawabannya, jadi mereka mengajukan pertanyaan lain: “Siapakah orang yang berkata kepadamu: ‘Angkatlah tempat tidurmu dan berjalanlah’?” (Yohanes 5:12). Tentu saja, Yesus tidak tahu. Tetapi orang-orang Farisi tahu. Mereka hanya mencari alasan untuk membuat Yesus mendapat masalah. Mereka tidak melihat kasih sayang Allah kepada seorang pria yang kesepian dan menderita. Mereka hanya melihat pelanggaran aturan.
 
-Seperti orang yang disembuhkan itu, kita mungkin tidak selalu dapat menjawab semua pertanyaan orang tentang Yesus, tetapi kita dapat dengan percaya diri menceritakan apa yang telah Yesus lakukan untuk kita. Sekalipun orang lain tidak mempercayai kita, tidak seorang pun dapat mengambil kisah dan sukacita kita.
+Seperti orang yang disembuhkan itu, kita mungkin tidak selalu dapat menjawab semua pertanyaan orang tentang Yesus, tetapi kita dapat dengan percaya diri menceritakan apa yang telah Yesus lakukan untuk kita. Sekalipun orang lain tidak memercayai kita, tidak seorang pun dapat mengambil kisah dan sukacita kita.
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#6b5191", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:

@@ -47,7 +47,7 @@ Namun, itu bukan terakhir kalinya kita mendengar tentang Elia dan pekerjaannya b
 
 Ketika Yesus berada di bumi dan memikirkan pengorbanan besar yang akan dilakukan-Nya bagi kita, Elia turun kembali dari surga bersama Musa untuk menguatkan Yesus. Elia hadir untuk mengingatkan Yesus tentang semua orang yang suatu hari akan dapat pergi ke surga tanpa mengalami kematian. Musa hadir untuk mengingatkan Yesus tentang semua orang lain yang akan mati, tetapi akan dibangkitkan dan pergi ke surga ketika Yesus datang kembali.
 
-Elia bukan hanya menguatkan Yesus—ia juga menguatkan ketiga murid yang berada di sana bersama Yesus. Mereka inilah yang akan memimpin gereja Kristen yang baru ketika Yesus tidak lagi bersama mereka.
+Elia bukan hanya menguatkan Yesus—ia juga menguatkan ketiga murid yang berada di sana bersama Yesus. Mereka inilah yang akan memimpin gereja Kristen yang baru setelah Yesus kembali ke surga.
 
 Jadi, Elia yang dahulu lelah, tertekan, putus asa, dan ingin mati menjadi salah seorang nabi Allah yang paling penting. Betapa mengagumkannya Allah kita! Ia mengangkat kita ketika kita jatuh dan menemukan kita ketika kita melarikan diri. Ia membawa kita kembali ke jalan yang benar dan menolong kita terus bertumbuh menjadi pribadi sebagaimana yang dikehendaki-Nya.
 

@@ -12,15 +12,15 @@ Templat kerajinan pekan ke-7 di atas kertas karton, penjepit baju, spidol hitam,
 
 - Potong benang tebal menjadi beberapa bagian (kira-kira sepanjang 2-1/3 inci/6 sentimeter)
 - Gunting potongan kain untuk pakaian dan selimut.
-- Potong pita menjadi beberapa bagian untuk diikatkan di sekeliling pasak boneka.
+- Potong pita menjadi beberapa bagian untuk diikatkan di sekeliling jepitan baju yang menjadi tubuh boneka.
 
 ### Buat Bersama:
 
-1. Gunakan spidol hitam untuk menggambar wajah tidur di salah satu sisi penjepit boneka.
+1. Gunakan spidol hitam untuk menggambar wajah tidur di salah satu sisi jepitan baju.
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/07/7b.png)
 
-2. Balikkan pasak dan gambarlah wajah gembira di sisi lainnya.
+2. Balikkan jepitan baju dan gambarlah wajah gembira di sisi lainnya.
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/07/7c.png)
 
@@ -36,7 +36,7 @@ Templat kerajinan pekan ke-7 di atas kertas karton, penjepit baju, spidol hitam,
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/07/7f.png)
 
-6. Peragakan kembali cerita tersebut menggunakan properti yang tersedia.
+6. Peragakan kembali cerita tersebut menggunakan alat peraga yang tersedia.
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/07/7g.png)
 

@@ -3,13 +3,13 @@
 
 Di rumahnya di Kapernaum, anak laki-laki yang sekarat itu tiba-tiba membuka matanya dan tersenyum. Ia meregangkan tubuh, saat kekuatan kembali ke lengan dan kakinya. Demamnya telah hilang. Rasa lelahnya telah hilang. Ia sehat!
 
-Sementara itu, di Kana, bangsawan itu tidak dapat melihat bahwa putranya telah disembuhkan. Ia tidak menerima telepon yang memberitahu bahwa putranya sudah sehat. Tetapi ia benar-benar yakin bahwa Yesus telah melakukan hal yang mustahil dan menyembuhkan putranya yang berharga. Yesus mengatakannya, dan ia mempercayainya.
+Sementara itu, di Kana, bangsawan itu tidak dapat melihat bahwa putranya telah disembuhkan. Ia tidak menerima telepon yang memberitahu bahwa putranya sudah sehat. Tetapi ia benar-benar yakin bahwa Yesus telah melakukan hal yang mustahil dan menyembuhkan putranya yang berharga. Yesus mengatakannya, dan ia memercayainya.
 
 Iman kini memenuhi hatinya. Kekhawatiran, keraguan, dan ketakutan telah lenyap. Ia meninggalkan Yesus dengan perasaan damai dan sukacita! Pria itu kini mengetahui kebenaran firman Allah, “Berbahagialah orang yang tidak melihat, namun percaya” (Yohanes 20:29).
 
 Kemudian bangsawan itu melakukan sesuatu yang mengejutkan. Meskipun ia bisa dengan mudah menuruni bukit menuju Kapernaum sebelum malam tiba, ia tidak terburu-buru pulang. Imannya yang baru kepada Yesus begitu kuat sehingga ia merasa tidak perlu bergegas pulang untuk mencari bukti mukjizat tersebut. Mungkin ia berhenti sejenak untuk beristirahat dan memuji Tuhan. Mungkin ia menghabiskan waktu di tengah kerumunan, mendengarkan dan belajar dari Mesias yang sekarang ia percayai. Apa pun yang ia pilih untuk lakukan, ia melakukannya dengan hati yang penuh syukur.
 
-Alkitab mengatakan kepada kita, “Iman berarti yakin akan hal-hal yang kita harapkan. Dan iman berarti mengetahui bahwa sesuatu itu nyata meskipun kita tidak melihatnya” (Ibrani 11:1). Ketika kamu menyerahkan kekhawatiran kamu kepada Yesus, kamu dapat memiliki iman bahwa Dia peduli kepada kamu. Kamu dapat mempercayai janji-janji-Nya dan memilih untuk bertindak sesuai dengan janji-janji tersebut.
+Alkitab mengatakan kepada kita, “Iman berarti yakin akan hal-hal yang kita harapkan. Dan iman berarti mengetahui bahwa sesuatu itu nyata meskipun kita tidak melihatnya” (Ibrani 11:1). Ketika kamu menyerahkan kekhawatiran kamu kepada Yesus, kamu dapat memiliki iman bahwa Dia peduli kepada kamu. Kamu dapat memercayai janji-janji-Nya dan memilih untuk bertindak sesuai dengan janji-janji tersebut.
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#cf6951", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:

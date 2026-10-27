@@ -1,0 +1,334 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "Codex",
+  "scope": "Junior PowerPoints 2026 Q4 Indonesian student readings and weekly teacher guides",
+  "authorization": "Project owner requested the same translation and English song-title audit as Primary and Beginner.",
+  "documentsChecked": 104,
+  "sourcePdfs": {
+    "PP-26-Q4-L01.pdf": "2d79be768ce299dc45e4cedaab9958fbfea5913fc00bfc8780ab95ade442534d",
+    "PP-26-Q4-L01-T.pdf": "bb47197c16cb49a747a79d95992db560aec50c169b08b5bebdd324ace00d2888",
+    "PP-26-Q4-L02.pdf": "139e1a6d1cfcdce5a1b0011f5ac4592462965fc986e33fe6a7fff538f09d2ab8",
+    "PP-26-Q4-L02-T.pdf": "26f5617d23b216e85a8ddd0a22ef0f4a70625375b8414fbd86553f8986ea30fe",
+    "PP-26-Q4-L03.pdf": "a83fdd5ffe4ddf1880f7862bc0fea55f76f4786f3d3388448b86afdf0660f07a",
+    "PP-26-Q4-L03-T.pdf": "48ecd40dd0037609eccd278eac76228b36c819825f697efe0718d991bdcfe033",
+    "PP-26-Q4-L04.pdf": "b5dc766558db3f20733314f0a5ec1d69e9adda567ac777536b2b5df2e7b34408",
+    "PP-26-Q4-L04-T.pdf": "a738c4e7fc5a7ef04d970ef15c186fcf9200c185f95a8d5f4ce5ee23fc1311b5",
+    "PP-26-Q4-L05.pdf": "438154f46fafa6bec7b28bd5b14cf405ca920c6c0ea5ee2902d02b914f79b407",
+    "PP-26-Q4-L05-T.pdf": "4c4a14a7d80a9668fe1d9913c012089d8136ae30c354ed65cfe30b8f48e4c8be",
+    "PP-26-Q4-L06.pdf": "f513f577d0ca4bca9e0d3fcb889d537dbce578a999f13a6bda69fce793d9803f",
+    "PP-26-Q4-L06-T.pdf": "f0f75cff95b4b24ae23ac199d89292c1773b29ec90f5ddfdbcc2542822a46057",
+    "PP-26-Q4-L07.pdf": "a5e3c6bafc6958ea50418df248c5303c4c1500fcf2d3c4465035ee65ae587598",
+    "PP-26-Q4-L07-T.pdf": "05d995bdb3aea9da1bdad4a2a972b8501238f92bc969ce35c4a4b9d69129b0fc",
+    "PP-26-Q4-L08.pdf": "362e16243c7fd2d161a49bc3e0cb4d0e14fd20a0ec27e2037a8825f8eafb5b28",
+    "PP-26-Q4-L08-T.pdf": "2c51dd0d728094148b5ed6f9d9f200723b80e89241891840a8308ba14ea45d68",
+    "PP-26-Q4-L09.pdf": "3f7467c66f7cc685ae41aa0409aef0310d3330d2f3f256d90a98aa20991b566d",
+    "PP-26-Q4-L09-T.pdf": "c3c8e6fc0ebf056f47ce0941f1bc520b834f34a9f46aa6cd2058cafb8cb30fed",
+    "PP-26-Q4-L10.pdf": "0bde67e2c245df5001d7b7caa6496d70f168408f251874a8642fe843a3c60a45",
+    "PP-26-Q4-L10-T.pdf": "9aab0fa94bc49fa28fe5675993194df462d5bb9cebab56140ec8897cff7ea097",
+    "PP-26-Q4-L11.pdf": "9c81971cbb68f1e5ef5b059664c09a4a4fc6eba2897446ad8643a3bd3ee5d7ef",
+    "PP-26-Q4-L11-T.pdf": "01dc84a2fd9efc1093e318926131bc2e456071ae7a8bb0bd18ad411c01215e1c",
+    "PP-26-Q4-L12.pdf": "702d9463d3c750b4530142273658d6b1eec0123d6530317752849ec50d4d0b77",
+    "PP-26-Q4-L12-T.pdf": "ccb0c5c226dc387bae1ed48e4182acd24ab4146a8b73f7e918c0748fa9ca1088",
+    "PP-26-Q4-L13.pdf": "b7fb404327b7b3db02d71646414e7fccf8a56da9570102e3af4b1fc100a1e05e",
+    "PP-26-Q4-L13-T.pdf": "9228e6a7606368a969ea7331246f310adfbe3a9a82e60d5d551980a0543bdd24"
+  },
+  "findings": [
+    "Preserve seven student days, all thirteen weekly teacher guides, numbered covers, puzzles and official English PDF links.",
+    "Song names already in English remain unchanged; add Indonesian title meanings in parentheses while preserving hymnal titles and numbers.",
+    "Remove unfinished translation-review instructions from the Proverbs 16:3 and 1 John 4:19 puzzle quotations. Keep the existing source-based meaning and do not falsely label it an exact TB 1974 quotation.",
+    "Correct mezbah spelling, memercayai, journal terminology, unclear activity instructions, literal phrasing and adult-facing language.",
+    "Teacher lesson 9 suggested-song list incorrectly names He Is Our Song for no. 341; the full activity and The SDA Hymnal identify To God Be the Glory. Correct that local bibliography mismatch.",
+    "The Nehemiah 13 Wednesday exercise in lesson 9 follows the English source, so its reference was retained.",
+    "Restore the existing lesson-02 puzzle asset inline instead of a noninteractive local source filename; lesson-03 remains its original text-based letter puzzle.",
+    "Adapt the printed-journal location instruction for app readers without introducing unsupported navigation claims. No translator or editorial notes added to lesson text."
+  ],
+  "limitations": "AI editorial audit; no new human approval or Android device testing claimed.",
+  "documentChecksums": {
+    "student/lesson-01/friday.md": "700d85c86753eb9c194ab02db7f3125e8794f02713abf864411330c61e4bacdd",
+    "student/lesson-01/monday.md": "f314e005680a198ae95a4d9ff825a516ce6476bafc91cddbe8084ffb356e52ee",
+    "student/lesson-01/sabbath.md": "674b18d85785b2fa91bd90824a86e14173c5d9309b67dc7aa60c39c1ffa536a3",
+    "student/lesson-01/sunday.md": "ac709f577cefdb32a80e538ca50406294bc4769aeb9f7c025e9ccc5f9ddcc4e7",
+    "student/lesson-01/thursday.md": "06436cc0f48702add072947976f32ea98462f1b1b3cc6b91047b8add83079de9",
+    "student/lesson-01/tuesday.md": "1b6a60b78df46afa487e83fceca1c7ef6f250459710e28ed3b11d4f018297063",
+    "student/lesson-01/wednesday.md": "47f1afe12819cea5e7bdc3a4e0132127a35d7f208ab849e90193420da952bf83",
+    "teacher/lesson-01/teacher-guide/content.md": "a4be86ec6e2d1c813985bfbfed2ff89489aee5355050104ab6c45383a6e56d6e",
+    "student/lesson-02/friday.md": "d5096f229f8db5dc7084c5e6d79e49dff034b3846aa7a6669a2f4b10781ba732",
+    "student/lesson-02/monday.md": "9731454e75288bf600f36e6e47332c4616ee047f1fe03e6435293b2c22eb5091",
+    "student/lesson-02/sabbath.md": "4d47e6c2ecdcbb573039b3315a58a9637e0c1a3be3d0fcbf462e3d29aaf47981",
+    "student/lesson-02/sunday.md": "0d1ac5f99602a646658e7a939fff947d52cf82934b52c436390170a68c910a0a",
+    "student/lesson-02/thursday.md": "76df4fa0c5ef18161ea8bb6af2636081afce5276df8ac3a52523dce858faad10",
+    "student/lesson-02/tuesday.md": "c0a5851085bb485c79df5bf84101608013a12d878d4c13130b566d87f45794e8",
+    "student/lesson-02/wednesday.md": "2ef867a7d5383967a17c2dcc6a9c981b80c73ca761f874368e65e0d9c3a384b3",
+    "teacher/lesson-02/teacher-guide/content.md": "29125f2aaf483bbe96a227dbdd8c39e30787fd8804239aa2de09939ad26acec2",
+    "student/lesson-03/friday.md": "29bd4dde972e17d8d9f95958384be2fa3b4d67543c405de4eb9d0a2e075ad1ff",
+    "student/lesson-03/monday.md": "7d7c72338615d4084d79756d2af3d21d3d5445d26a2b65bb849f46fcb36e96a5",
+    "student/lesson-03/sabbath.md": "cfacd6c19f4530add32ba91cbfdda88d3bc2d7ab4c48527a327db7abac6acff2",
+    "student/lesson-03/sunday.md": "cc966d5a9033e11cf4138acdcb34d1d899ab3d76d37f3397ec97b17efde50af5",
+    "student/lesson-03/thursday.md": "274b3e862716f6b8b1311eaceee53a2dea357705869b0d13c061798d6534deba",
+    "student/lesson-03/tuesday.md": "bec67641d3343d13d5a08c72c8433f17f333b42c853b614ae12a10334a41dbda",
+    "student/lesson-03/wednesday.md": "7f4d53a6a39c27070e14fad2b65ea18586e1d0fb1580389ec8b382683367f7ed",
+    "teacher/lesson-03/teacher-guide/content.md": "94722ce268e92fb1e32e9446b78b94501e978b357d3a56b295a99626fc9c939e",
+    "student/lesson-04/friday.md": "0f9c8b1bd14441b5f6a8eea56a05196ab27282157cfd8ef62330cc3375153e2d",
+    "student/lesson-04/monday.md": "b70452873323febbbd9c39d53ec1398995e6b24a2c225f147ba8300f11344175",
+    "student/lesson-04/sabbath.md": "ce97b1f5c7e00cdd1439aec9f14602651d2564270ac6e3164cb108c2e24e34d8",
+    "student/lesson-04/sunday.md": "e587a06f38de65de20c7f9a10f054d92359c3238199d77848fa08e57eef66c07",
+    "student/lesson-04/thursday.md": "a85ed6be4e07060d0d157de3a28822d858ba785c9f3088fb7390951a4df9973b",
+    "student/lesson-04/tuesday.md": "6d5d935645e69aa2e02118167c23fdfb78d3561455deab527af4cf42f5b48198",
+    "student/lesson-04/wednesday.md": "af8c28bf92612e59b576e808b024f45152824a435bd660afb07568962a12b4e5",
+    "teacher/lesson-04/teacher-guide/content.md": "bb2e49161d811f11395e7dde454aed1f000d1303834afbd0afb18ac2c362ac6e",
+    "student/lesson-05/friday.md": "317aff2e547ef1079c1eac01131b40c5cf1dd59516e42b52cb2bd59459801cd6",
+    "student/lesson-05/monday.md": "6ce67915b526f24d1a8878d4405e4eee0d2bc4aec3c2f50a64e5dfaf55d63bc3",
+    "student/lesson-05/sabbath.md": "3da85c2e9a656286f1c119d2d6f0424e6c8ed1a9ab8ece39655d591a0e514704",
+    "student/lesson-05/sunday.md": "cb498040d5606b0147ccf95521d010e933ea34831afd81078a6fdb7137246598",
+    "student/lesson-05/thursday.md": "df65617856382fbec1224676d5a3bad9c8831f5f5db565d9d5202f5cc29f25f6",
+    "student/lesson-05/tuesday.md": "daed60a8426e4c6d791c89e896d7f43e22cc991f53981a09ecf433964367cbff",
+    "student/lesson-05/wednesday.md": "6fde01dd3c1e89892e60eb939ccf04762ee3506c3f9c56853728c366ff45cb20",
+    "teacher/lesson-05/teacher-guide/content.md": "9e3f9f1cb3527e083472e814743d62cec3c4c2cc5e23529f7133675f7db4206a",
+    "student/lesson-06/friday.md": "0b0dd68c21be5f35356c9bf7978b4e6a76ae7dea73ad236905af6131a1f8d583",
+    "student/lesson-06/monday.md": "f6c115dc4cb3824b23bfae199d702e48f1cf61d02b755c3d1710c1e2b583c044",
+    "student/lesson-06/sabbath.md": "b4cd7ce6d00139ae3aa2ac99f938f782864a6e7366d0e53269f653cbb1e2663d",
+    "student/lesson-06/sunday.md": "7e444f3eaf2e217ec420fe3c4529d969ab0b7b5d18001647303327aad5d75ed4",
+    "student/lesson-06/thursday.md": "26e179f9d9311ae7f8504a6dd01869cb1aea103a1a74251512d78a5a09302df5",
+    "student/lesson-06/tuesday.md": "cc68f5c62d9dcc65e71a0718b21df83133aed2a97ba4ea6e15d263eaddf5591a",
+    "student/lesson-06/wednesday.md": "c5633e1cbc89cb0fcc38476f3912663e65d334a98960b8c061df7bfc372030ef",
+    "teacher/lesson-06/teacher-guide/content.md": "dab65030f3f1781f585e968df34e452702f07f6049766fb000d2e447dba8fbf0",
+    "student/lesson-07/friday.md": "e87ef7f4492cef7d7aaefabe20f0a2affd2447715a4234325c96454cdc7aff1c",
+    "student/lesson-07/monday.md": "573ae47069d60f973839713a5bd70fd6d35102683524dbb9213b20515e49f143",
+    "student/lesson-07/sabbath.md": "2befc783e04e253c9049ee84e817daa3cb78dfec2b79e25e447a5d17fc94abe8",
+    "student/lesson-07/sunday.md": "73a4cc0bca1b8c3cd4b607854612d1ab32e1b2364e7cc13a83f27608cea4f34d",
+    "student/lesson-07/thursday.md": "30e6ea70141803e723f6422b72046453e70bef1d408c31b5bc4dc07f644f53a9",
+    "student/lesson-07/tuesday.md": "26c62ca17b887d61e3e11af18907901ee9b16404a8cc8a8fd2c81762176fd3e3",
+    "student/lesson-07/wednesday.md": "38fd9ea3326b069234bcb45fa0d62eb34fbfdb3c4c33ed3dfef75f2df2b6b15d",
+    "teacher/lesson-07/teacher-guide/content.md": "f6a390cb278758b58bbd530def6e1105593e5ac56a1f0d1bad33466aa8cc3b12",
+    "student/lesson-08/friday.md": "08ec17d64bc13dcb9c56cc8144006f0d0e35866b6be28dc332529047176d1210",
+    "student/lesson-08/monday.md": "b428c8787cfd25f712b374d22da374c98ee877ae02f5ad8166ddef4707b68dc1",
+    "student/lesson-08/sabbath.md": "d34413fe8685fbee5da4afdb02897a5a7736068b851bb7e687858027cb1692ef",
+    "student/lesson-08/sunday.md": "acd438e16879a0e66e46f586c838579abd8e93099729bc0bfb9085a6c2b47940",
+    "student/lesson-08/thursday.md": "7ff4d92bfd7b799bc27fe8ff819117230d9e10502d2c26032f64dfc35bc86ac4",
+    "student/lesson-08/tuesday.md": "7c5a149c7806cd88b0593c9d2991c7720669ecb69885341adbad139eed6a8fe2",
+    "student/lesson-08/wednesday.md": "1bd740bf5acb52177d13ee9c09568721768d078d331f84cbb291ec5c593d8771",
+    "teacher/lesson-08/teacher-guide/content.md": "a15804a2dde2df2510b8971591ed822fb6e0564255a7d57018b801a9cd69992b",
+    "student/lesson-09/friday.md": "91b2b4bfd46934bdaf36eefc2f7c4fcda6d821e490a91d676bd92936a312251e",
+    "student/lesson-09/monday.md": "d8f412ef05ed931cd4427372abd926f66d2f2b7751261552f9000076f4e742b7",
+    "student/lesson-09/sabbath.md": "6b0e9ddebedcc3fe95591f89a5fc757e231ae38009ff57aea5864279f983b9a1",
+    "student/lesson-09/sunday.md": "2cb009a0850965a2d5000252796531e7e222b5a269c3d355b946f4ed0267cbd6",
+    "student/lesson-09/thursday.md": "12679f337ae7d20bc014ac52373b05149fe662f6ce968d19088b15a70806f7d6",
+    "student/lesson-09/tuesday.md": "b674b05e26be971f57466758da8f59c86bfaa14b9d3bafd5f83fbec5b17e46ee",
+    "student/lesson-09/wednesday.md": "bb6209270312e377769468804c149a342c1bf1ffcf9fa5265d91070d1c437335",
+    "teacher/lesson-09/teacher-guide/content.md": "3570ffcfe682e00001ec223156bd6fd1183821063745c8f48ce1025217b70ec7",
+    "student/lesson-10/friday.md": "3d4f2e3ca577130e845e4c913a821aa34c55d0c3fe0a539d3e2d6b56fcbe11c5",
+    "student/lesson-10/monday.md": "0d834d6996a12325d09f8ed610223e0b5541912ce998b14b0d02075b47441479",
+    "student/lesson-10/sabbath.md": "b1fc45c30b7b93bff80ec54f42dec5ef3c18c65caad05bc62ec71e8641b3c922",
+    "student/lesson-10/sunday.md": "6cdd5b8f2e6eb98c8b9a94bf7cfc69f679e0bec397a3223cd4d058054970cd1d",
+    "student/lesson-10/thursday.md": "b71844effb530cd2495eea3562fec3f35fbfd1bdf7f41e6c9aad4f93e5518a9b",
+    "student/lesson-10/tuesday.md": "1a2d0ff53cfa0d19149c41d17f2490bbfc9081f46aebffb0e113648ff974e2fe",
+    "student/lesson-10/wednesday.md": "24f021d1bb0ad56f37790e5254705ea3c8955a795293d17668e56da04444b2e3",
+    "teacher/lesson-10/teacher-guide/content.md": "38decdb48c8eafd3b15f720622a5e7e7ed06ede05d215c2aae6696bd3857bace",
+    "student/lesson-11/friday.md": "bb3ede6ef14f2b9769a4e819bb33a532597fb66e1ea1cc7919cbad36f10bd8d8",
+    "student/lesson-11/monday.md": "1866402bdb3bf14dd5f2f69cf7b6a82c458f43d70dce0f5ce5c3f045335e219f",
+    "student/lesson-11/sabbath.md": "715aa34bad7abab723935d8ab89015aab5dddd4cc95643ab496bd1148198838b",
+    "student/lesson-11/sunday.md": "c856eb29956e6abf4fe8279c7dd8d349c1c655b95615d076c73b9c0d501737c7",
+    "student/lesson-11/thursday.md": "62476175ba266b1c24f3bb2efdd75ec4aa6708064a07fbadd05c3551c43ee55f",
+    "student/lesson-11/tuesday.md": "82fdbcc113c7177803bb9e5a790a275569faad19f23e977bb5846a77d1638b32",
+    "student/lesson-11/wednesday.md": "a89f09ca8735cdbbc977df172c02386d697af7bd440a31e6725b958207e3d876",
+    "teacher/lesson-11/teacher-guide/content.md": "1cd2906c34b8ff996bd1fcfc52008b25ada64aa5b2c80ebe4c3a1ff2e2c1d733",
+    "student/lesson-12/friday.md": "5cb2b9643a90b4c1ea28fd2b05694d99f821efd69e1faf74dce680e795e79d57",
+    "student/lesson-12/monday.md": "6e7f04710f02cab5e779943ffb680f4d481e030df97038eaa3561a3266c83357",
+    "student/lesson-12/sabbath.md": "5ef540d5cbc9a246005d890cf8a47a9e495c7a77745e3ca647a7374d4b8a3dcf",
+    "student/lesson-12/sunday.md": "e90fd414c95700396457789d6e7b2ddd789aaaebe40923e1ac62d221771e5019",
+    "student/lesson-12/thursday.md": "390d93067bd6bd04ebe858cc2499110e3a19290efb9e49ff57e16911c077c200",
+    "student/lesson-12/tuesday.md": "2755426de3ae680de1b56fbf11d352326bd2cc9a6d82b99b541ace5b7d88d893",
+    "student/lesson-12/wednesday.md": "cade59b5c1ab3189426e30a510922455958ba4dcb8a72ed38cf3d8ac0aa1b95c",
+    "teacher/lesson-12/teacher-guide/content.md": "4624f706f91a43c421cf9734f71d36eae87d2ebcbb0845903d59ed87fd2fdbb5",
+    "student/lesson-13/friday.md": "6671e4e7667432946c5c93e3083b08bbe3d9f39b052c75c78da9d48e82d67c27",
+    "student/lesson-13/monday.md": "5568d244f416a6119236b621c57a201f20f50c07d0fd3ed7144336cef24c1fd1",
+    "student/lesson-13/sabbath.md": "11fa3d6ba0c8380d05e0f6ccbef8afa4d8e7461997a7ad1fe6bdb258480efe27",
+    "student/lesson-13/sunday.md": "c9100bfde18c96d40fdbbb69f857f2a550bf66ba18dac8d422c945c266c320c4",
+    "student/lesson-13/thursday.md": "ec82b17c32c5f62e8d29ea6a7be712336f57f33cb760f4dc04477fa72617737f",
+    "student/lesson-13/tuesday.md": "bd7943b32f33a016f9eb1274affc597cda5c1268277f5809f809b1053a73ae6c",
+    "student/lesson-13/wednesday.md": "2b1c69d2a3b9b599e65b314ec5efd51a66f727705b8ef750c5004d64be5a5f06",
+    "teacher/lesson-13/teacher-guide/content.md": "387f66a1a63a4443f1248a9e25639e3b943af6c6dd3a4004d7d5a8eb90af1edb"
+  },
+  "changes": [
+    {
+      "file": "student/lesson-01/sunday.md",
+      "before": "f98096c1ecf06e5b2c0d2eb85c48025eaf5f8a47a9ab7a782acbd6d3699cf1c1",
+      "after": "ac709f577cefdb32a80e538ca50406294bc4769aeb9f7c025e9ccc5f9ddcc4e7"
+    },
+    {
+      "file": "student/lesson-01/thursday.md",
+      "before": "80aaa531a3e15fb11b724722ce4665fbf08fe8487bebc5b0670a22e57bbbfaea",
+      "after": "06436cc0f48702add072947976f32ea98462f1b1b3cc6b91047b8add83079de9"
+    },
+    {
+      "file": "student/lesson-01/wednesday.md",
+      "before": "e7bf7dbbfabc26a7f102ee1adc7225c494af42a1e841ce18ee4b38f930fbd44d",
+      "after": "47f1afe12819cea5e7bdc3a4e0132127a35d7f208ab849e90193420da952bf83"
+    },
+    {
+      "file": "student/lesson-02/sabbath.md",
+      "before": "e3436d713b88512e22d8362ece809e706665ce20af3e1ed9607b2b53df9cbad3",
+      "after": "4d47e6c2ecdcbb573039b3315a58a9637e0c1a3be3d0fcbf462e3d29aaf47981"
+    },
+    {
+      "file": "student/lesson-02/sunday.md",
+      "before": "a86c1837d130bc2eb1e7bca6f88b8d9b94d4168e8a869c6c4a7e0ee9f9289b09",
+      "after": "0d1ac5f99602a646658e7a939fff947d52cf82934b52c436390170a68c910a0a"
+    },
+    {
+      "file": "student/lesson-04/monday.md",
+      "before": "7c2d641408659ba4f1202894922c6fd36a0a8836f07af9d8ca8d0be6f510b6c0",
+      "after": "b70452873323febbbd9c39d53ec1398995e6b24a2c225f147ba8300f11344175"
+    },
+    {
+      "file": "student/lesson-05/sabbath.md",
+      "before": "4c9515fc8131efbaf33656a64735db8d779f658e369b5848ebd010718a21ff52",
+      "after": "3da85c2e9a656286f1c119d2d6f0424e6c8ed1a9ab8ece39655d591a0e514704"
+    },
+    {
+      "file": "student/lesson-07/sabbath.md",
+      "before": "49e6a39a03ef665664fecab5b0fcc889928a5ab2606ef1547de0868c0055432e",
+      "after": "2befc783e04e253c9049ee84e817daa3cb78dfec2b79e25e447a5d17fc94abe8"
+    },
+    {
+      "file": "student/lesson-07/tuesday.md",
+      "before": "c7f5866f573a5ca5c1d2bad503c7c6ee3bfa0889875f49221f0e1b8a158b2b67",
+      "after": "26c62ca17b887d61e3e11af18907901ee9b16404a8cc8a8fd2c81762176fd3e3"
+    },
+    {
+      "file": "student/lesson-08/thursday.md",
+      "before": "31cc6b8d935b9eb075c33624fb4e5fee01d61e93f6f3d28d8a61de4de984da66",
+      "after": "7ff4d92bfd7b799bc27fe8ff819117230d9e10502d2c26032f64dfc35bc86ac4"
+    },
+    {
+      "file": "student/lesson-09/monday.md",
+      "before": "349edf6a7396af8c329fa2625d944f91150194f26ff3c0fde65e7e084827f7cb",
+      "after": "d8f412ef05ed931cd4427372abd926f66d2f2b7751261552f9000076f4e742b7"
+    },
+    {
+      "file": "student/lesson-09/tuesday.md",
+      "before": "9427541f17103481bbee3fd6ebcfa65030198fb70b3e5cd717555025c795b88c",
+      "after": "b674b05e26be971f57466758da8f59c86bfaa14b9d3bafd5f83fbec5b17e46ee"
+    },
+    {
+      "file": "student/lesson-09/wednesday.md",
+      "before": "f6cb6b9f3b9ee09ef646fe9b0dc5a72bc82f305fc09f5a83b105b15c22dec6b8",
+      "after": "bb6209270312e377769468804c149a342c1bf1ffcf9fa5265d91070d1c437335"
+    },
+    {
+      "file": "student/lesson-10/monday.md",
+      "before": "a5142a63c1e179334a862d27020c92f50a748fd6c474ab8d7c7d2f823edf0702",
+      "after": "0d834d6996a12325d09f8ed610223e0b5541912ce998b14b0d02075b47441479"
+    },
+    {
+      "file": "student/lesson-10/sabbath.md",
+      "before": "fcc7fa0cd571c9390b7e6dffd23eaa83e208363320af646d983ce973c192a7ba",
+      "after": "b1fc45c30b7b93bff80ec54f42dec5ef3c18c65caad05bc62ec71e8641b3c922"
+    },
+    {
+      "file": "student/lesson-10/wednesday.md",
+      "before": "74ea5424700740d5640f759de3129c1f61a20b14f87409f0e1a0172909b8e208",
+      "after": "24f021d1bb0ad56f37790e5254705ea3c8955a795293d17668e56da04444b2e3"
+    },
+    {
+      "file": "student/lesson-11/friday.md",
+      "before": "a6593a9cc930aa885fde0a60978d77c99f3d033d87da7d8eddd6c74aae584bda",
+      "after": "bb3ede6ef14f2b9769a4e819bb33a532597fb66e1ea1cc7919cbad36f10bd8d8"
+    },
+    {
+      "file": "student/lesson-11/monday.md",
+      "before": "f4c1b37d80002dd3016864e9bc2f1627fefb63af442462a5033a18ae75ab4e3c",
+      "after": "1866402bdb3bf14dd5f2f69cf7b6a82c458f43d70dce0f5ce5c3f045335e219f"
+    },
+    {
+      "file": "student/lesson-11/thursday.md",
+      "before": "c0ac9d1d478904535c6fbccca936efaccad12887f36fcd0040770d5b5bfeffc9",
+      "after": "62476175ba266b1c24f3bb2efdd75ec4aa6708064a07fbadd05c3551c43ee55f"
+    },
+    {
+      "file": "student/lesson-11/tuesday.md",
+      "before": "51b934cbc37c69ee48cd8e43f9a7e85853c44076f11492aa92d8787adbe8e6c4",
+      "after": "82fdbcc113c7177803bb9e5a790a275569faad19f23e977bb5846a77d1638b32"
+    },
+    {
+      "file": "student/lesson-13/friday.md",
+      "before": "a189be3656e5aa5a0dc1723a7770c08810dfb85534e32a43569c0f7d3c4625ac",
+      "after": "6671e4e7667432946c5c93e3083b08bbe3d9f39b052c75c78da9d48e82d67c27"
+    },
+    {
+      "file": "student/lesson-13/monday.md",
+      "before": "6b9889b45df2caee310ae0051bef645b65c14466ce2370d6fafc654b4c38af3b",
+      "after": "5568d244f416a6119236b621c57a201f20f50c07d0fd3ed7144336cef24c1fd1"
+    },
+    {
+      "file": "student/lesson-13/sabbath.md",
+      "before": "23202fe45ab31f7337a262c6978e270bb959b650da5031febac6be24d48c6fe2",
+      "after": "11fa3d6ba0c8380d05e0f6ccbef8afa4d8e7461997a7ad1fe6bdb258480efe27"
+    },
+    {
+      "file": "teacher/lesson-01/teacher-guide/content.md",
+      "before": "41b7f61a69457f46687bb9ae971594e46a4e5ccdc1d36490c4d28f317e75fe68",
+      "after": "a4be86ec6e2d1c813985bfbfed2ff89489aee5355050104ab6c45383a6e56d6e"
+    },
+    {
+      "file": "teacher/lesson-02/teacher-guide/content.md",
+      "before": "355b9a9bba258362a2147e68ee30e8a58f54f2ee4d377c9c027e150298d5340e",
+      "after": "29125f2aaf483bbe96a227dbdd8c39e30787fd8804239aa2de09939ad26acec2"
+    },
+    {
+      "file": "teacher/lesson-03/teacher-guide/content.md",
+      "before": "1ba8203534c6318cc6e5d1143821dd70731c664a0d7f42f83df739f069aa4bdc",
+      "after": "94722ce268e92fb1e32e9446b78b94501e978b357d3a56b295a99626fc9c939e"
+    },
+    {
+      "file": "teacher/lesson-04/teacher-guide/content.md",
+      "before": "41f35375d18c85c8618df63cdfb9c1178db39957656d0e483439e4516b425047",
+      "after": "bb2e49161d811f11395e7dde454aed1f000d1303834afbd0afb18ac2c362ac6e"
+    },
+    {
+      "file": "teacher/lesson-05/teacher-guide/content.md",
+      "before": "aa8f1ebec033993b39bb55c4ce05031d17ed8d90d28a31d59b3d9835dda8f814",
+      "after": "9e3f9f1cb3527e083472e814743d62cec3c4c2cc5e23529f7133675f7db4206a"
+    },
+    {
+      "file": "teacher/lesson-06/teacher-guide/content.md",
+      "before": "0f5d9479ba949b84e03ce9d3ed430262f914e32b03dc8c4321a52f472eeb374a",
+      "after": "dab65030f3f1781f585e968df34e452702f07f6049766fb000d2e447dba8fbf0"
+    },
+    {
+      "file": "teacher/lesson-07/teacher-guide/content.md",
+      "before": "ce0e6ef8fcc4ab4d1e544588f101b50fddb37eb0b5af1905f0cec7e5a52771ed",
+      "after": "f6a390cb278758b58bbd530def6e1105593e5ac56a1f0d1bad33466aa8cc3b12"
+    },
+    {
+      "file": "teacher/lesson-08/teacher-guide/content.md",
+      "before": "125ee5484711f5a38a27cc27180f93ad6e4b859b694fb0c1a104eb076c99699d",
+      "after": "a15804a2dde2df2510b8971591ed822fb6e0564255a7d57018b801a9cd69992b"
+    },
+    {
+      "file": "teacher/lesson-09/teacher-guide/content.md",
+      "before": "c8b1f37e24dfd0b6d34d2249cbb7083fa2e9258825d6c8ea497346b111b07308",
+      "after": "3570ffcfe682e00001ec223156bd6fd1183821063745c8f48ce1025217b70ec7"
+    },
+    {
+      "file": "teacher/lesson-10/teacher-guide/content.md",
+      "before": "7d492c83969fd6bac7e808be2f942893ae353582af545c25aed6e9a7f8abe506",
+      "after": "38decdb48c8eafd3b15f720622a5e7e7ed06ede05d215c2aae6696bd3857bace"
+    },
+    {
+      "file": "teacher/lesson-11/teacher-guide/content.md",
+      "before": "4c508e8252d1f881d781f846c4240bff4749858bcc8e4cc356c7ba9aee2b637a",
+      "after": "1cd2906c34b8ff996bd1fcfc52008b25ada64aa5b2c80ebe4c3a1ff2e2c1d733"
+    },
+    {
+      "file": "teacher/lesson-12/teacher-guide/content.md",
+      "before": "2002f76f2f51b5b51974baea90eb48960efd9b0475bd854cbd8144eb3911ec08",
+      "after": "4624f706f91a43c421cf9734f71d36eae87d2ebcbb0845903d59ed87fd2fdbb5"
+    },
+    {
+      "file": "teacher/lesson-13/teacher-guide/content.md",
+      "before": "711a68951281e00b87db9f2be28e91b6e8a375d5a23eb51a3eb48c7597e176a5",
+      "after": "387f66a1a63a4443f1248a9e25639e3b943af6c6dd3a4004d7d5a8eb90af1edb"
+    }
+  ]
+}

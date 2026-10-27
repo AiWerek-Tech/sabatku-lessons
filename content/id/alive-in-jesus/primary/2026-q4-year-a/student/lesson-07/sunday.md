@@ -43,4 +43,4 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[TANTANGAN MISI:]({"style": {"text": {"typeface": "Trashbone-Regular"}}}) Dengarkan siaran Adventist World Radio bersama keluargamu. Bersiaplah menceritakan salah satu tempat para misionaris melayani.
 
 {"style": {"block": {"backgroundColor": "#f1f6ee", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#78a057"}}}
-^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Apa janji Alkitab favoritmu? Doakan janji itu dalam hati kepada Tuhan dan ucapkan terima kasih kepada-Nya karena kamu selalu dapat mempercayai-Nya.
+^[BERDOA:]({"style": {"text": {"typeface": "Trashbone-Regular", "size": "xl"}}}) Apa janji Alkitab favoritmu? Doakan janji itu dalam hati kepada Tuhan dan ucapkan terima kasih kepada-Nya karena kamu selalu dapat memercayai-Nya.

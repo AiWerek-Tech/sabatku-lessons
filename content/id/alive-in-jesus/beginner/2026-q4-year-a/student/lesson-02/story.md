@@ -17,7 +17,7 @@ Tangan Samuel suka menolong _(ulurkan kedua tangan)_. Setiap hari ia membantu Im
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/02/02.png)
 
-Srek, srek, srek, bunyi sapu Samuel _(pura-pura menyapu)_. Ia menjaga rumah Tuhan tetap bersih dan rapi. Dengan sapu kecilnya, ia menyapu daun-daun yang terbawa angin ke dalam rumah Tuhan. Samuel bekerja dengan teliti. Ia tidak terburu-buru dan tidak melewatkan pekerjaannya. Ia menyelesaikannya dengan baik.
+Srek, srek, srek, bunyi sapu Samuel _(pura-pura menyapu)_. Ia menjaga rumah Tuhan tetap bersih dan rapi. Dengan sapu kecilnya, ia menyapu daun-daun yang terbawa angin ke dalam rumah Tuhan. Samuel bekerja dengan teliti. Ia tidak terburu-buru dan tidak mengerjakannya asal-asalan. Ia menyelesaikannya dengan baik.
 
 Gosok, gosok, gosok, Samuel menggerakkan kainnya _(pura-pura menggosok)_. Ia mengilapkan benda-benda indah yang dipakai di rumah Tuhan sampai berkilau. Samuel gembira karena ia dapat membantu Tuhan melalui berbagai pekerjaan. Apa pun yang dikerjakannya, Samuel berusaha melakukan yang terbaik.
 

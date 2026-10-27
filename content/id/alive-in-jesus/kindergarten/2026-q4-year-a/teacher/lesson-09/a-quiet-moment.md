@@ -8,6 +8,6 @@ Yesus mengerti. Ia hanya mengajak pria itu untuk berdiri dan dipulihkan. Pria it
 
 Beberapa saat sebelumnya, ia bahkan tidak dapat membayangkannya, tetapi ia bertindak sesuai dengan perkataan Yesus. Ia berdiri, mengambil tikarnya, dan berjalan menuju kehidupan baru yang penuh sukacita yang diberikan oleh satu-satunya Pribadi yang dapat menyelamatkannya.
 
-Ada banyak hal dalam hidup kita saat ini yang tidak dapat kita kendalikan. Tetapi Yesus berdiri dengan penuh kasih di sisi kita, mengajak kita untuk mempercayai-Nya. “Tidak ada yang tampak lebih tak berdaya, namun sebenarnya lebih tak terkalahkan, daripada jiwa yang menyadari bahwa dirinya tidak memiliki apa-apa untuk diandalkan dan sepenuhnya bergantung pada jasa Juruselamat” (Ellen G. White, _The Ministry of Healing_, hlm. 182).
+Ada banyak hal dalam hidup kita saat ini yang tidak dapat kita kendalikan. Tetapi Yesus berdiri dengan penuh kasih di sisi kita, mengajak kita untuk memercayai-Nya. “Tidak ada yang tampak lebih tak berdaya, namun sebenarnya lebih tak terkalahkan, daripada jiwa yang menyadari bahwa dirinya tidak memiliki apa-apa untuk diandalkan dan sepenuhnya bergantung pada jasa Juruselamat” (Ellen G. White, _The Ministry of Healing_, hlm. 182).
 
 Sungguh suatu kehormatan untuk mengeksplorasi kisah yang menyentuh hati ini pada hari Sabat ini. Semoga Anda dan anak-anak di kelas Anda terinspirasi untuk percaya kepada Yesus. “Sebab oleh kasih karunia kamu telah diselamatkan melalui iman, dan itu bukan dari dirimu sendiri; itu adalah karunia Allah” (Efesus 2:8).

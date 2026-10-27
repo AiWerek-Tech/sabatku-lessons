@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "Codex",
+  "scope": "Beginner Indonesian student/home and teacher publications",
+  "documentsChecked": 170,
+  "englishSources": {
+    "student": {
+      "folder": "AIJ_Beginner_2026_Q4_EN_MD/2026-04-bg",
+      "checksums": {
+        "00-introduction/introduction.md": "4f87ea55b1bdc822d78b9fbe18fb992fff43a1791d11c0ba9ed40e4c6742c1c2",
+        "00-little-devotions/little-devotions.md": "51e3b89f5524e80a0b7f7d65e5752e746c7ceb4edb411a8e26965ca8d38cb38c",
+        "00-music-and-podcasts/00-music-podcasts.md": "30e4b9243d47e41bcbbc8b2b2dbe63bbf399f921ce5b8aa706b1db7120849366",
+        "01/01-story.md": "839fc02ee22f868ff6ff4332157ce6a106ddfc8ddaf5bde248c089118136d1a9",
+        "01/02-play.md": "0893fc3aa9c35468f4958cd26da27426bb0e7c359be460f5a8570b4e02fc3fe0",
+        "01/03-the-heart-of-the-matter.md": "0b714b05556713d4d5023e2a29f79c75958b04891e79dc1c451758d560680268",
+        "02/01-story.md": "5507deb2439ca2639b3fa9fa2532dcc07cd79d80f8b57d46ffcfe8b6d16bf191",
+        "02/02-play.md": "e9459451bb659a05ed2e5a3f85cffc9fbb13cb53ca26a13a7f2137b09855bfdf",
+        "02/03-the-heart-of-the-matter.md": "3e1d97d8321a91872cebab1acc27ecc75f1f7b13d6e2559e677277bd660fe29f",
+        "03/01-story.md": "cd0c2a006667dd87c032d432efa55937c451737c8ddea99e72c744a16ba7b9a1",
+        "03/02-play.md": "4138ecfdc750549cc251efad1884992fd2b5fb1ec69cc4af37fb07afd0ae9c67",
+        "03/03-the-heart-of-the-matter.md": "b948d3963d19f685f5ed5439c4f71484f2b1e97a293c72876ed8766cd3f90b53",
+        "04/01-story.md": "f76c52ad3eb5bdb920164bddb12dd5a2553c840179696fe768d484ab36e671b5",
+        "04/02-play.md": "81c7e16f09f1ac8ae2307b13e737e0b3893bcebcd4b9e94c1b0924475f68a21f",
+        "04/03-the-heart-of-the-matter.md": "1cbbae37e0f2aed0c83062d74bc761f42759ad3c0ca973dd448522d188b1bfa7",
+        "05/01-story.md": "991fb3bd34e00843fc0e389b2203fcc3c50a9a0650e7571074dad62efd9ed317",
+        "05/02-play.md": "82833def14f642d8c705512a45fd6d9c12c3df54edbe2e7154bd8987247e6a8f",
+        "05/03-the-heart-of-the-matter.md": "3dcd68c95ddc7d06cfd383f2ba781f779af66c3fdd54c5750e14c41bdfbe0270",
+        "06/01-story.md": "c3da141951c11ee7d2b4ef4e0b1d1f2e2b76d33b0cb6b5a1d53266171863bc35",
+        "06/02-play.md": "6438949ad27738cb94dbf80e96d08357bc2611eae9e76e8711a397969ddf777e",
+        "06/03-the-heart-of-the-matter.md": "3b818928ba0b0651cd3c8146ed3bb14261e12516009a5cf619a420dc6764f591",
+        "07/01-story.md": "554694646805b93987b37600ef6a24315be5bd3e635beef2476d2593fcbc85c8",
+        "07/02-play.md": "1c62bc890746eea60ca2968b3b88eaaf4acc936a78be35552e8b0c7bc9b29957",
+        "07/03-the-heart-of-the-matter.md": "b46117b512ec729eccacf01106e52cd3a2be765667d0da40194e2519c3bf70d6",
+        "08/01-story.md": "011fb2c434565418377b090cc70548820b9d1b86dd32cee14ed1a540f14cd6d2",
+        "08/02-play.md": "070d1857700b02d93f5c7beb6df30b5a011e467ee7077b6bb8b3a08a3d904456",
+        "08/03-the-heart-of-the-matter.md": "29a72f2bc6c39f6bb1e22f0b5040c74f1af4db1404caf3f8c7788f6abab30981",
+        "09/01-story.md": "b7a301d75952622fe07a0fa98cb2fb4208dbd8a85b393e70744e9a2898c04445",
+        "09/02-play.md": "20484139814525fc5af7649e61feb33280e7b20a5cc1e785c1d5916d4b89bbb3",
+        "09/03-the-heart-of-the-matter.md": "8ff8b9b8213b20c9365e41a4eb46d8a5bcd33c6bc4f56789ecaac5e8e79e657c",
+        "10/01-story.md": "87ef19319ed7c01e00c3b8378b65d126d2249fd72a5b645d5fdfa1c7473213f6",
+        "10/02-play.md": "9b6673ae828cdee41d38442ed993e0b55c4d41450e41d6e2ba69893a086cb313",
+        "10/03-the-heart-of-the-matter.md": "155743272bd854a47a1c991b18e90c9371bcfc54970c6060a803e658e93af61d",
+        "11/01-story.md": "f61fc4d632388cdb1022e1bc6238fd123653420a9d52a18f782da57e58833566",
+        "11/02-play.md": "45d4e9567bc7e0920dede7562ad4c063344ef08322b9c5e47bfbf56e8503b0fe",
+        "11/03-the-heart-of-the-matter.md": "440abb729d93d3fa93e4804cdd5c8225d8a224692ed4573000e60cb91581ad4e",
+        "12/01-story.md": "a320cfbb46b5fa78d228fd9a9509ba2bc3c4e23eee2691c4a961c291f5431f19",
+        "12/02-play.md": "1f50a8c57e3c294b0bbb7fac5c4a391cc6a63dacc3beac54c0cbe5db8e5de456",
+        "12/03-the-heart-of-the-matter.md": "6a413eae52369943a49e63b9d0a40c87c734f6f48d93f05fdf0295beee453e2f",
+        "13/01-story.md": "ab38bddec719059d891638fee6432b03cde0384af8374ea62d87cfa823e4ebda",
+        "13/02-play.md": "cb2a7378c215e3ef43555a430f117e9cfb97d235326e4c705bf7df7bf03295f8",
+        "13/03-the-heart-of-the-matter.md": "6897a333f82c4b83dd2a111ab08f53060d50a0ea56926b5ce6f6b86347b076ef",
+        "introduction.md": "6b1bbf6c89dbdf8b4a6bb64140a742af96eddc707ce36f4f089638bfc39ad38b"
+      }
+    },
+    "teacher": {
+      "folder": "AIJ_Beginner_Teacher_2026_Q4_EN_MD/2026-04-bg-tg",
+      "checksums": {
+        "000-beginner-child/000-beginner-child.md": "bde4585e2934fe06a2a68e364373199d2dcc5ce8f71c3ce14b889f000e7cc658",
+        "001-tips-for-teacher/001-tips-for-teacher.md": "2f0c8903443ce4b53757a5a02dd1c01717bca02971521b199395eb4fa144e389",
+        "002-beginner-sabbath-school-overview/002-beginner-sabbath-school-overview.md": "c659dfd8da01bcd89a4be1584f9001866953896a5693f8e259aa43157d8ce2ea",
+        "003-a-quiet-moment/003-a-quiet-moment.md": "189c2b6f79d8e924361e4b073f89787ee441fbb543776a1e173b71f442d99b86",
+        "004-at-a-glance/004-at-a-glance.md": "44a28929e85d4669231673efba735c359c48f67d77ff18e488d917bd74b4f893",
+        "005-simple-program-outline/004-simple-program-outline.md": "ec2a16e83eb89fe77c74224295c58174cc284d442d58cdca1f3f13e4b2f58e1a",
+        "006-printed-resources/006-printed-resources.md": "56c92a1e3aed6c8dd9f7843a6959694008cfa95d11a4d606a452e2a420b6bf4e",
+        "007-crafts/007-crafts.md": "266122a5906b1d4f84db3e7cc0978d6817616cbde9dd30f41439f85ae70ef019",
+        "008-music-and-podcasts/008-music-podcasts.md": "426419bd4ff5a4a6e65ac921d8035b81a9b736f2f90d1d35d60f4f49676e54a4",
+        "01/01.md": "44812b08ffc448cce7cf1f9a194aa7054b831b86ab37a205464536da03c86790",
+        "02/02.md": "425e76ac7e8fd7e928c573de3d052671d8e87db35c6f70075cb241a206102af3",
+        "03/03.md": "eae11403964ec0556d2ab2753bc162ec8e82b2a8d0ecc9fd69ff53159890defb",
+        "04/04.md": "6ad35d79047d6ef3351ec3749e1ca6dd1ba69634b499db7ff2bdd4d4f9e7613d",
+        "05/05.md": "0b9a7d09f25ef2a5ee9da83e88b41c00b1adbda4461b889750a25a5ffaac409c",
+        "06/06.md": "d4f165c9ad398c2397210c5545652d74f0e661745c6144ffb65aa98de213696a",
+        "07/07.md": "02ed27ff4196b947d28a76536ae7efe00c44af365fc03e219d627dd1e3e6144a",
+        "08/08.md": "f2cf113397609b1d77277008d68e1fdacfcbfcad9448ff967f4b15c8197abb12",
+        "09/09.md": "22ce139f4a19260666c30a7569721dfdf2a856068786ca913869c8bf6ac426b1",
+        "10/10.md": "ccf8ce24b28e8d097838382ecf2c5abb32699a1a12cddd73258714f0d9a0fe11",
+        "11/11.md": "db88768777ff9bc0fd5892ae9ecbaf34a1ad19096ed154704852af894cd60d5d",
+        "12/12.md": "3802aafa68dac88d745b433227d25d601e1402f25aa3e2170ebe8eac57a14088",
+        "13/13.md": "5a699496b0310fc343f48d4b26ee0e72d48952e96a3ee8b37c48de18733480ff",
+        "introduction.md": "86840b6ea2b54fbf85763de048bc94bda80a47e167482ca57c86606544dfbfc4"
+      }
+    }
+  },
+  "findings": [
+    "Keep the weekly repeatable home-story structure and independent interactive teacher program; do not impose Kindergarten daily readings.",
+    "English song titles retained; Indonesian subtitles, apostrophe variants and quoted-title aliases handled without translating a doll label or Bible narrative into a song title.",
+    "Teacher directions revised for clear actors, natural motion/sound descriptions, appropriate props and consistent weekly messages.",
+    "Correct grammatical mengajak to ajak, clarify Kemah Suci, moncong lumba-lumba and perfumed gifts, and distinguish donkey hoofbeats from speech.",
+    "The English preparation resource itself refers to Creation-day activities; generalized this inherited mismatch to the activity being taught for the present quarter.",
+    "The short Matthew 1:21 memory verse intentionally follows the English curriculum excerpt. Indonesian Isaiah 9:5 and Psalm 34:11 references remain unchanged.",
+    "Preserve the official provider media URLs including the reused 2025 asset paths supplied by the English 2026 edition."
+  ],
+  "limitations": "AI editorial audit, without claiming new human approval or Android device testing.",
+  "changes": [
+    {
+      "file": "student/lesson-02/story.md",
+      "before": "389ec92ec8f5a60b4590440086ca54caffbfde48bac177d989339db23c58809c",
+      "after": "e1a51e35f8d15c729be90c3ecb2bc6dca00c1dc215e66a9ad0b3b3f93c71ff46"
+    },
+    {
+      "file": "student/lesson-10/parent-reflection.md",
+      "before": "9ab15350cf9dec23d52fbc5325afacfe1b289df1b17ef729b539517c7c419c7f",
+      "after": "f2b06c2dbce9af4246d313235d10347d336d6b7eb2cada368691d6fde7b75d02"
+    },
+    {
+      "file": "teacher/lesson-01/memory-verse.md",
+      "before": "9f215f073eb0a32cf6cc26ad63e4f315294ba47ff1b84a7fc3aaf6feaf6692bc",
+      "after": "7bca91d30879042f77d55375010e8529ab2711085fded7405947973c596791d3"
+    },
+    {
+      "file": "teacher/lesson-01/story.md",
+      "before": "84e9a80b5a7a54294fa27b0a60ad92b41e733910377d00deb87fe394a69fdd7b",
+      "after": "153fc2c92b49d685e1266eb19b00c40f1b6ff8634390049833d247e8b853dee5"
+    },
+    {
+      "file": "teacher/lesson-02/memory-verse.md",
+      "before": "9f215f073eb0a32cf6cc26ad63e4f315294ba47ff1b84a7fc3aaf6feaf6692bc",
+      "after": "7bca91d30879042f77d55375010e8529ab2711085fded7405947973c596791d3"
+    },
+    {
+      "file": "teacher/lesson-02/story.md",
+      "before": "74cd62486d4dd8ab01b333b336194b79b4e7c86765bfc57b952ec5e1571aace9",
+      "after": "c789b6234e7c029a6c1ed867b36a5610489baa5689bf805fcbd99ea06ce3a9cf"
+    },
+    {
+      "file": "teacher/lesson-03/memory-verse.md",
+      "before": "9f215f073eb0a32cf6cc26ad63e4f315294ba47ff1b84a7fc3aaf6feaf6692bc",
+      "after": "7bca91d30879042f77d55375010e8529ab2711085fded7405947973c596791d3"
+    },
+    {
+      "file": "teacher/lesson-03/story.md",
+      "before": "54cccf1e91f5f23048ffda2b0483f36e02a44d47c9c7c4d66a37d4d2bb902d37",
+      "after": "a773dd468a754e5e6a8defff4e06c338fabb6f22594074aeca488edd67bd66d1"
+    },
+    {
+      "file": "teacher/lesson-04/memory-verse.md",
+      "before": "9f215f073eb0a32cf6cc26ad63e4f315294ba47ff1b84a7fc3aaf6feaf6692bc",
+      "after": "7bca91d30879042f77d55375010e8529ab2711085fded7405947973c596791d3"
+    },
+    {
+      "file": "teacher/lesson-04/story.md",
+      "before": "b56690d4b8e726de081d92cab61f4e2a61b8350decb6186f256f966910dc4ce4",
+      "after": "bd6341ed15850adee8fb43c8cbb1578d08ce9cbbac718a818bfea14f71516e2b"
+    },
+    {
+      "file": "teacher/lesson-05/memory-verse.md",
+      "before": "9f215f073eb0a32cf6cc26ad63e4f315294ba47ff1b84a7fc3aaf6feaf6692bc",
+      "after": "7bca91d30879042f77d55375010e8529ab2711085fded7405947973c596791d3"
+    },
+    {
+      "file": "teacher/lesson-05/story.md",
+      "before": "ed981ff5bd2e103067b0c0226ec71b2f2e4c11f33d66e383c105eaf409fcf712",
+      "after": "c247aef8da7d9e4b8bb85b06d07c6a2d757bce1d8132ef952ab0d2d0b8d01a94"
+    },
+    {
+      "file": "teacher/lesson-06/memory-verse.md",
+      "before": "9f215f073eb0a32cf6cc26ad63e4f315294ba47ff1b84a7fc3aaf6feaf6692bc",
+      "after": "7bca91d30879042f77d55375010e8529ab2711085fded7405947973c596791d3"
+    },
+    {
+      "file": "teacher/lesson-06/story.md",
+      "before": "a550c515a4f17e24c46ae7036ffb16f0cee28a5f470ee3d402f3bcf3f83207c0",
+      "after": "ab7fee7e9a367d3247fd04552e35e3c1457ecf2e2da93a849feaa2c26b347126"
+    },
+    {
+      "file": "teacher/lesson-07/memory-verse.md",
+      "before": "9f215f073eb0a32cf6cc26ad63e4f315294ba47ff1b84a7fc3aaf6feaf6692bc",
+      "after": "7bca91d30879042f77d55375010e8529ab2711085fded7405947973c596791d3"
+    },
+    {
+      "file": "teacher/lesson-07/story.md",
+      "before": "acac5f11a6a92d25ff62ca9d73a7ceeeb081c6a3b95bc3a484dee29b2e3a1819",
+      "after": "360e07d8a1712fb7fe688ebc86b48930b7292afca4a34f3cd1cb29caf129aafa"
+    },
+    {
+      "file": "teacher/lesson-08/memory-verse.md",
+      "before": "9f215f073eb0a32cf6cc26ad63e4f315294ba47ff1b84a7fc3aaf6feaf6692bc",
+      "after": "7bca91d30879042f77d55375010e8529ab2711085fded7405947973c596791d3"
+    },
+    {
+      "file": "teacher/lesson-08/story.md",
+      "before": "dc5e4194afcc52c22420852442a701b3dcedbeafcc09f61ab0556d683b31c9c8",
+      "after": "8b01d00bf32cb29fa200c7bf7f722ca072227372fd067f77f29fe176c08ee817"
+    },
+    {
+      "file": "teacher/lesson-09/memory-verse.md",
+      "before": "8480382581f83e9765c403eee9ac18b130a647e43a622556960d904ba9d26208",
+      "after": "bcb3f9623cea8180179324f56aae5cf3bbe9d4eddce8c48322d28e5785726bbb"
+    },
+    {
+      "file": "teacher/lesson-09/story.md",
+      "before": "34873046bfb1a72c73ab3e7a13e4599cef95a26d7ec595c6dd7a6096982b61ac",
+      "after": "0c9e3dc1d207d306adefdfb1f1a43cfe079a22ee767c22c35e2f6bb649acb073"
+    },
+    {
+      "file": "teacher/lesson-10/memory-verse.md",
+      "before": "8480382581f83e9765c403eee9ac18b130a647e43a622556960d904ba9d26208",
+      "after": "bcb3f9623cea8180179324f56aae5cf3bbe9d4eddce8c48322d28e5785726bbb"
+    },
+    {
+      "file": "teacher/lesson-10/story.md",
+      "before": "f0aa2381841048f4760a20d292f2666d62fff7dd95d79f94b4416a3feef7664b",
+      "after": "062e05e9a9214c9f6acf6a72cb543cf2f3d87c853b02090ab1ee4c3b4a08075e"
+    },
+    {
+      "file": "teacher/lesson-11/memory-verse.md",
+      "before": "8480382581f83e9765c403eee9ac18b130a647e43a622556960d904ba9d26208",
+      "after": "bcb3f9623cea8180179324f56aae5cf3bbe9d4eddce8c48322d28e5785726bbb"
+    },
+    {
+      "file": "teacher/lesson-11/story.md",
+      "before": "f00c06810c43d51954ee96434d4b422d56b4ec0286c77e1ee83c8749536e0195",
+      "after": "c765426ac81d6fb9e3234f152b751744d6c03636005f7b040821c0fcb99e3cd7"
+    },
+    {
+      "file": "teacher/lesson-12/memory-verse.md",
+      "before": "8480382581f83e9765c403eee9ac18b130a647e43a622556960d904ba9d26208",
+      "after": "bcb3f9623cea8180179324f56aae5cf3bbe9d4eddce8c48322d28e5785726bbb"
+    },
+    {
+      "file": "teacher/lesson-12/story.md",
+      "before": "a09c7ea594f108ab5f4f8c6d28363e28e9ead4782b9d529328d86638b9eca20b",
+      "after": "7bdebfd672ea32b2638fe7fdc1fd1fef53f96149c0cf31fc8ecb55045b1b19d5"
+    },
+    {
+      "file": "teacher/lesson-13/memory-verse.md",
+      "before": "8480382581f83e9765c403eee9ac18b130a647e43a622556960d904ba9d26208",
+      "after": "bcb3f9623cea8180179324f56aae5cf3bbe9d4eddce8c48322d28e5785726bbb"
+    },
+    {
+      "file": "teacher/lesson-13/story.md",
+      "before": "fcbccc4384044d7fb33d3fedd4f6aebb08c7f744c8bd16528896dc6076dd0794",
+      "after": "d5a0c6d0420947cd6f1a0ea4b3f7e4fdf28d92c524468887f5286825351cbe84"
+    },
+    {
+      "file": "teacher/unit-resource-about-beginner/about-beginner.md",
+      "before": "e5bc3ffd8966562a5b3790e5e2fe6c3264008534cd9d6dfef10fec9ce1eccae9",
+      "after": "115f7e739acac10649fe41205b6e2d2dccc51c8166cda2acc7ca7092542058d3"
+    },
+    {
+      "file": "teacher/unit-resource-preparation/preparation.md",
+      "before": "dcdcff18a96c6a5c97169eb82bb34c8f2eb3fbaf333aff057df64543e9fb7c78",
+      "after": "d7a1855966d361b8a71cc7e6f16a213bba6f5b85bcaa8fe7f8b33347d335bed6"
+    }
+  ]
+}

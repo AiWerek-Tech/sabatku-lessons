@@ -6,9 +6,9 @@
 
 **BERMAIN:** Siapkan beberapa kotak "sentuh dan rasakan" (kotak sepatu dengan lubang di sisinya). Letakkan benda menarik di setiap kotak. Ajak anak-anak untuk memasukkan tangan mereka ke dalam kotak, menyentuh isinya, dan melihat apakah mereka bisa menebak apa itu. Sampaikan bahwa kita akan belajar tentang sentuhan yang sangat istimewa hari ini.
 
-**MENYANYI:** Nyanyikan lagu “Pack It Up” saat Anda memasuki program.
+**MENYANYI:** Nyanyikan lagu “Pack It Up” (Berkemaslah) saat Anda memasuki program.
 
-[♫ Berkemaslah](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
+[♫ Pack It Up (Berkemaslah)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
 
 ### SAMBUTAN, LAGU-LAGU, DOA (5 MENIT)
 
@@ -16,49 +16,49 @@
 
 **MENYANYI:** Nyanyikan lagu-lagu berikut dengan gerakan dan alat peraga:
 
-- “Kami Menyambut Anda”
-- “Aku Bisa Percaya pada Tuhan”
+- “We Welcome You” (Kami Menyambutmu)
+- “I Can Trust God” (Aku Dapat Memercayai Tuhan)
 - “Sahabatku Selamanya Yesus”
-- “Aku Akan Melayani-Mu, Yesus”
-- “Lagu Pengunjung” dan ucapan terima kasih
-- “Selamat Ulang Tahun” untuk setiap anak yang berulang tahun minggu lalu
+- “I Will Serve You, Jesus” (Aku Akan Melayani-Mu, Yesus)
+- “Visitor Song” (Lagu Pengunjung) dan ucapan terima kasih
+- “Happy Birthday” (Selamat ulang tahun) untuk setiap anak yang berulang tahun minggu lalu
 
 ### Lagu Pujian
 
-[♫ Kami Menyambut Anda](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
+[♫ We Welcome You (Kami Menyambutmu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
 
-[♫ Aku Bisa Percaya pada Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/i-can-trust-god.mp3)
+[♫ I Can Trust God (Aku Dapat Memercayai Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/i-can-trust-god.mp3)
 
-[♫ Sahabatku Selamanya, Yesus](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/my-forever-friend-jesus.mp3)
+[♫ My Forever Friend Jesus (Sahabatku Selamanya, Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/my-forever-friend-jesus.mp3)
 
-[♫ Aku Akan Melayani-Mu, Yesus](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/i-will-serve-you-jesus.mp3)
+[♫ I Will Serve You, Jesus (Aku Akan Melayani-Mu, Yesus)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/i-will-serve-you-jesus.mp3)
 
-[♫ Lagu Pengunjung](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
+[♫ Visitor Song (Lagu Pengunjung)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
 
-[♫ Selamat ulang tahun](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
+[♫ Happy Birthday (Selamat ulang tahun)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
 
-**BERDOA:** Nyanyikan lagu “When I Kneel Down to Pray” (Saat Aku Berlutut untuk Berdoa). Kemudian ajak seorang anak untuk berdoa. Lalu berdoalah juga, ucapkan terima kasih kepada Tuhan atas firman-Nya dalam Alkitab yang membantu kita untuk beriman kepada-Nya.
+**BERDOA:** Nyanyikan lagu “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa). Kemudian ajak seorang anak untuk berdoa. Lalu berdoalah juga, ucapkan terima kasih kepada Tuhan atas firman-Nya dalam Alkitab yang membantu kita untuk beriman kepada-Nya.
 
-[♫ Saat Aku Berlutut untuk Berdoa](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
+[♫ When I Kneel Down To Pray (Saat Aku Berlutut untuk Berdoa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
 
 ### PERSEMBAHAN DAN AYAT HAFALAN (6 MENIT)
 
-**MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang penawaran misi triwulan ini.
+**MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang persembahan misi triwulan ini.
 
-**MEMBERI:** Nyanyikan lagu “Bukalah Hatiku, Bukalah Tanganku.” Ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan. Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
+**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku). Ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan. Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
 
-[♫ Bukalah Hatiku, Bukalah Tanganku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
+[♫ Open My Heart, Open My Hand (Bukalah Hatiku, Bukalah Tanganku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
 
-BERNYANYI dan BERDISKUSI: Nyanyikan lagu “Firman Tuhan,” dan ajak seorang anak maju ke depan dan memegang Alkitab khusus kelas. Ceritakan bahwa Yesus mengucapkan kata-kata dari ayat hafalan kita. Tunjukkan kepada anak-anak cara menemukan ayat hafalan: Lukas 8:48. Ucapkan bersama-sama: “Anakku, tabahlah! Imanmu telah menyembuhkanmu. Pergilah dengan damai” (Lukas 8:48).
+BERNYANYI dan BERDISKUSI: Nyanyikan lagu “God’s Words” (Firman Tuhan), dan ajak seorang anak maju ke depan dan memegang Alkitab khusus kelas. Ceritakan bahwa Yesus mengucapkan kata-kata dari ayat hafalan kita. Tunjukkan kepada anak-anak cara menemukan ayat hafalan: Lukas 8:48. Ucapkan bersama-sama: “Anakku, tabahlah! Imanmu telah menyembuhkanmu. Pergilah dengan damai” (Lukas 8:48).
 
-[♫ Firman Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
+[♫ God’s Words (Firman Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
 
-- Menurutmu apa arti iman? (Percaya, mempercayai, yakin pada sesuatu atau seseorang—meskipun kamu mungkin tidak melihat atau memahaminya.)
+- Menurutmu apa arti iman? (Percaya, memercayai, yakin pada sesuatu atau seseorang—meskipun kamu mungkin tidak melihat atau memahaminya.)
 - Kepada siapa kamu percaya?
 
-Kita dapat beriman kepada Yesus karena semua firman-Nya benar. Dia adalah Sahabat kita yang berkuasa, penolong, dan penuh kasih. Dia dapat mengubah kita! Yesus berkata kepada perempuan dalam ayat ini bahwa imannya kepada-Nya-lah yang menyembuhkannya. Dengarkan lalu nyanyikan Lagu Ayat Alkitab “Lukas 8:48”.
+Kita dapat beriman kepada Yesus karena semua firman-Nya benar. Dia adalah Sahabat kita yang berkuasa, penolong, dan penuh kasih. Dia dapat mengubah kita! Yesus berkata kepada perempuan dalam ayat ini bahwa imannya kepada-Nya-lah yang menyembuhkannya. Dengarkan lalu nyanyikan Lagu Ayat Alkitab “Luke 8:48” (Lukas 8:48).
 
-[♫ Lukas 8:48](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/6-luke-8-48.mp3)
+[♫ Luke 8:48 (Lukas 8:48)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/6-luke-8-48.mp3)
 
 ### KOTAK KEJUTAN RAHASIA (5 MENIT)
 
@@ -66,7 +66,7 @@ Kita dapat beriman kepada Yesus karena semua firman-Nya benar. Dia adalah Sahaba
 
 ### MEMBAHAS:
 
-- Mengapa Anda begitu gembira menemukan hati itu? (Anda memberi tahu kami bahwa kami akan mendapatkan sesuatu yang bagus; kami mempercayai Anda.)
+- Mengapa kamu begitu gembira menemukan hati itu? (kamu memberi tahu kami bahwa kami akan mendapatkan sesuatu yang bagus; kami memercayai kamu.)
 - Apakah mudah ditemukan? (Tidak.)
 - Mengapa kamu tidak menyerah? (Kami menginginkan hadiah itu.)
 
@@ -98,7 +98,7 @@ Ajak anak-anak untuk menunjukkan bahwa mereka percaya kepada Yesus dengan menutu
 
 ### KERAJINAN TANGAN (15 MENIT)
 
-**KEAHLIAN:** “Sentuhan Iman.” Buatlah kerajinan tangan untuk menggambarkan seorang wanita yang mengulurkan tangan dengan iman untuk menyentuh Yesus. Ingatkan anak-anak akan perkataan Yesus kepadanya dalam ayat hafalan. Betapa istimewanya bahwa Dia memanggilnya “anak perempuan.” Dorong anak-anak untuk berbagi cerita dengan seorang teman atau anggota keluarga hari ini.
+**KERAJINAN:** “Sentuhan Iman.” Buatlah kerajinan tangan untuk menggambarkan seorang wanita yang mengulurkan tangan dengan iman untuk menyentuh Yesus. Ingatkan anak-anak akan perkataan Yesus kepadanya dalam ayat hafalan. Betapa istimewanya bahwa Dia memanggilnya “anak perempuan.” Dorong anak-anak untuk berbagi cerita dengan seorang teman atau anggota keluarga hari ini.
 
 **TANTANGAN MISI:** Tantangan Misi pekan ini adalah berdoa setiap hari untuk para guru dan pengkhotbah yang merupakan misionaris. Mereka membantu orang lain untuk beriman kepada Yesus. Kepada siapa Anda dapat menceritakan tentang Yesus pekan ini?
 
@@ -106,8 +106,8 @@ Ajak anak-anak untuk menunjukkan bahwa mereka percaya kepada Yesus dengan menutu
 
 Yesus dapat membantu kita untuk berbahagia. Hal-hal baik apa lagi yang dapat Yesus ubah dalam diri kita? Apakah kalian ingin menjadi seperti itu? (Petunjuk: penyayang, baik hati, ceria, suka membantu, damai, sabar, jujur, lembut, dll.) Setelah setiap jawaban, ajak anak-anak untuk melompat tinggi ke udara dan berkata, “Ya!”
 
-**MENYANYI:** Nyanyikan lagu “Yesus Bisa.” Ceritakan bahwa minggu depan kita akan belajar tentang seorang gadis kecil yang ditolong Yesus dengan cara yang luar biasa.
+**MENYANYI:** Nyanyikan lagu “Jesus Can” (Yesus Mampu). Ceritakan bahwa minggu depan kita akan belajar tentang seorang gadis kecil yang ditolong Yesus dengan cara yang luar biasa.
 
-[♫ Yesus Mampu](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
+[♫ Jesus Can (Yesus Mampu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
 
 **BERDOA:** Berdoalah, ucapkan syukur kepada Tuhan karena Dia mampu melakukan apa saja. Mintalah kepada-Nya agar Dia membantu kita memiliki iman kepada-Nya dan mengizinkan-Nya mengubah kita.

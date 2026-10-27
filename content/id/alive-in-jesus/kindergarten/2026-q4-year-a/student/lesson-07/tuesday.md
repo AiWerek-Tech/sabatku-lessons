@@ -23,7 +23,7 @@ Yairus hampir tersenyum saat membayangkan melihat putrinya sehat kembali. Dia ta
 
 ### Ayo Lakukan
 
-Nyanyikan refrein lagu “God Will Take Care of You” (Buku Nyanyian Gereja Advent Hari Ketujuh, no. 99), “Cast Your Burdens Unto Jesus,” atau lagu yang kamu ketahui tentang kepedulian Tuhan terhadap kamu.
+Nyanyikan refrein lagu “God Will Take Care of You” (Allah Akan Memeliharamu) (Buku Nyanyian Gereja Advent Hari Ketujuh, no. 99), “Cast Your Burdens Unto Jesus” (Serahkan Bebanmu kepada Yesus), atau lagu yang kamu ketahui tentang kepedulian Tuhan terhadap kamu.
 
 ### Ide Doa
 

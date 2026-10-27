@@ -6,7 +6,7 @@ import { mkdtemp, readFile, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
 
-test('Approved Primary preserves team-reviewed source checksums while publishing normalized readings and audio', async () => {
+test('Primary preserves team approval provenance and audited checksums while publishing normalized readings and audio', async () => {
   const out = await mkdtemp(path.join(tmpdir(), 'sabatku-primary-'));
   try {
     const published = await buildAliveInJesus('content', out);
@@ -25,7 +25,11 @@ test('Approved Primary preserves team-reviewed source checksums while publishing
       const reviewPath = path.resolve(`content/id/alive-in-jesus/primary/2026-q4-year-a/${role}/source-review.json`);
       const review = JSON.parse(await readFile(reviewPath, 'utf8'));
       assert.equal(review.status, 'approved');
-      assert.equal(review.reviewer, 'Tim SabatKu');
+      assert.equal(review.previousApproval?.reviewer ?? review.reviewer, 'Tim SabatKu');
+      if (review.previousApproval) {
+        assert.match(review.reviewer, /Codex/);
+        assert.match(review.note, /bukan klaim pemeriksaan manusia baru/);
+      }
       for (const [relativePath, expectedHash] of Object.entries(review.translationFiles)) {
         const fileText = (await readFile(path.resolve(`content/id/alive-in-jesus/primary/2026-q4-year-a/${role}`, relativePath), 'utf8')).replace(/\r\n/g, '\n');
         const actualHash = createHash('sha256').update(fileText).digest('hex');

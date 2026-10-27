@@ -30,7 +30,7 @@ _Kisah Alkitab_, jilid 7, hlm. 184-188
 {"style": {"text": {"size": "lg"}}}
 **Kepercayaan Dasar**
 
-Beberapa aspek dari keyakinan mendasar berikut tercermin dalam pelajaran ini:
+Pelajaran ini mencerminkan beberapa aspek dari Kepercayaan Dasar berikut:
 
 4. Allah Putra\
 6. Penciptaan\
@@ -61,9 +61,9 @@ Akhirnya mereka ingat bahwa Yesus ada bersama mereka. Mereka berseru kepada-Nya 
 
 Anak-anak akan:
 
-- **Ketahuilah** bahwa Tuhan dapat menolong kita ketika kita menghadapi kesulitan dalam hidup kita.
-- **Rasakan** kedamaian dari Tuhan, bahkan jika kita sedang berada di tengah-tengah hal buruk.
-- **Berikan tanggapan** dengan mempercayai Yesus untuk menjaga kita.
+- **Mengetahui** bahwa Tuhan dapat menolong kita ketika kita menghadapi kesulitan dalam hidup kita.
+- **Merasakan** kedamaian dari Tuhan, bahkan jika kita sedang berada di tengah-tengah hal buruk.
+- **Menanggapi** dengan memercayai Yesus untuk menjaga kita.
 
 ---
 
@@ -76,9 +76,9 @@ Kita semua mengalami "badai" dalam hidup kita—masa-masa ketidakpastian, stres,
 
 Sungguh sangat menenangkan mengetahui bahwa Yesus menyertai kita di setiap badai. Dia tidak hanya berada di perahu bersama kita, tetapi Dia juga berada di kemudi sebagai pengarah perahu. Meskipun terkadang Dia diam, Dia selalu mendengar seruan kita meminta pertolongan. Kita tetap dapat yakin bahwa semuanya akan baik-baik saja karena seluruh ciptaan mengenal suara-Nya.
 
-“Ia tidak pernah gagal memberikan pertolongan yang kita butuhkan. Baik di darat maupun di laut, jika kita memiliki Juruselamat di dalam hati kita, tidak perlu takut. Iman yang hidup di dalam Penebus akan melancarkan lautan kehidupan, dan akan menyelamatkan kita dari bahaya dengan cara yang Ia ketahui sebagai yang terbaik” (Ellen G. White, _Kerinduan Segala Zaman_, hlm. 336).
+“Ia tidak pernah gagal memberikan pertolongan yang kita butuhkan. Baik di darat maupun di laut, jika kita memiliki Juruselamat di dalam hati kita, tidak perlu takut. Iman yang hidup di dalam Penebus akan menenangkan gelombang kehidupan, dan akan menyelamatkan kita dari bahaya dengan cara yang Ia ketahui sebagai yang terbaik” (Ellen G. White, _Kerinduan Segala Zaman_, hlm. 336).
 
-Hari ini Yesus ingin memberikan kedamaian kepadamu di tengah badai apa pun yang kamu hadapi. Dia akan menenangkan hatimu dan kekhawatiran dalam pikiranmu. Dia berjanji, “Damai sejahtera Kutinggalkan bagimu, damai sejahtera-Ku Kuberikan kepadamu, bukan damai sejahtera yang diberikan dunia, Aku memberikannya kepadamu. Janganlah hatimu gelisah dan janganlah takut” (Yohanes 14:27).
+Hari ini Yesus ingin memberikan kedamaian kepada Anda di tengah badai apa pun yang Anda hadapi. Ia akan menenangkan hati serta kekhawatiran Anda. Dia berjanji, “Damai sejahtera Kutinggalkan bagimu, damai sejahtera-Ku Kuberikan kepadamu, bukan damai sejahtera yang diberikan dunia, Aku memberikannya kepadamu. Janganlah hatimu gelisah dan janganlah takut” (Yohanes 14:27).
 
 Percayalah kepada Tuhan dan beristirahatlah dalam damai-Nya hari ini. Dia menyertai Anda dan anak-anak di kelas Sekolah Sabat Anda minggu ini dan selalu.
 
@@ -87,13 +87,13 @@ Percayalah kepada Tuhan dan beristirahatlah dalam damai-Nya hari ini. Dia menyer
 ## Garis Besar Program Sederhana
 
 {"style": {"text": {"color": "#F4793B"}}}
-**Gagasan Utama:** Ketika saya takut, saya dapat mempercayai Yesus untuk menenangkan ketakutan saya dan memberi saya kedamaian.
+**Gagasan Utama:** Ketika saya takut, saya dapat memercayai Yesus untuk menenangkan ketakutan saya dan memberi saya kedamaian.
 
 {"style": {"block": {"backgroundColor": "#E4E4E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **KEDATANGAN AWAL**
 
 - {"style": {"block": {"backgroundColor": "#F8F7F6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
-- Putar daftar putar **Lagu Ayat Alkitab** dan lagu **“Kitab-kitab Alkitab”** setiap tiga bulan sekali.
+- Putar daftar putar **Lagu Ayat Alkitab** dan lagu **“Books of the Bible” (Kitab-kitab Alkitab)** untuk triwulan ini.
 - Buat perahu dari plastisin dan apungkan di atas air.
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
@@ -102,15 +102,15 @@ Percayalah kepada Tuhan dan beristirahatlah dalam damai-Nya hari ini. Dia menyer
 - {"style": {"block": {"backgroundColor": "#FEF8F6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Selamat datang
 - Lagu-lagu
-	- **^[“Bantuan Saya”]({"style": {"text": {"color":"#d34d5e"}}})**
-	- **^[“Berhenti dan Belajar”]({"style": {"text": {"color":"#d34d5e"}}})**
-	- **^[“Ketika Tuhan Berbicara”]({"style": {"text": {"color":"#d34d5e"}}})**
-	- **^[“Aku Berlutut dan Berdoa”]({"style": {"text": {"color":"#d34d5e"}}})**
+	- **^[“My Help” (Pertolonganku)]({"style": {"text": {"color":"#d34d5e"}}})**
+	- **^[“Stop and Learn” (Berhenti dan Belajar)]({"style": {"text": {"color":"#d34d5e"}}})**
+	- **^[“When God Speaks” (Ketika Tuhan Berbicara)]({"style": {"text": {"color":"#d34d5e"}}})**
+	- **^[“I Kneel and Pray” (Aku Berlutut dan Berdoa)]({"style": {"text": {"color":"#d34d5e"}}})**
 - Berdoa: Doa Lingkaran, “Aku memuji-Mu, Tuhan, karena . . .”
-- Memperkenalkan **^[proyek misi triwulanan]({"style": {"text": {"color":"#d34d5e"}}})**, **^[Fakta Singkat Misi]({"style": {"text": {"color":"#d34d5e"}}})**, Dan **^[Bagan Persembahan]({"style": {"text": {"color":"#d34d5e"}}})**. Nyanyikan lagu persembahan,**^[“Apa yang dapat kuberikan kepada Tuhan?”]({"style": {"text": {"color":"#d34d5e"}}})**
+- Memperkenalkan **^[proyek misi triwulanan]({"style": {"text": {"color":"#d34d5e"}}})**, **^[Fakta Singkat Misi]({"style": {"text": {"color":"#d34d5e"}}})**, Dan **^[Bagan Persembahan]({"style": {"text": {"color":"#d34d5e"}}})**. Nyanyikan lagu persembahan,**^[“What Can I Give to the Lord?” (Apa yang Dapat Kuberikan kepada Tuhan?)]({"style": {"text": {"color":"#d34d5e"}}})**
 - Mengumpulkan persembahan.
-- **^[“Lagu Pengunjung”]({"style": {"text": {"color":"#d34d5e"}}})**
-- **^["Selamat ulang tahun"]({"style": {"text": {"color":"#d34d5e"}}})**
+- **^[“Visitor Song” (Lagu Pengunjung)]({"style": {"text": {"color":"#d34d5e"}}})**
+- **^["Happy Birthday" (Selamat Ulang Tahun)]({"style": {"text": {"color":"#d34d5e"}}})**
 
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **AKTIVITAS FOKUS** (5 MENIT)
@@ -139,8 +139,8 @@ Percayalah kepada Tuhan dan beristirahatlah dalam damai-Nya hari ini. Dia menyer
 - Berbaur dan berbagi ayat hafalan.
 - **^[Kisah Misi:]({"style": {"text": {"color":"#a771b0"}}})** “Para Malaikat di Tengah Badai”
 - **^[Tantangan Misi:]({"style": {"text": {"color":"#a771b0"}}})** Berdoalah kepada Tuhan agar Dia memenuhi hati dan pikiranmu dengan kasih-Nya sehingga kamu dapat menunjukkan dan membagikannya kepada orang lain di triwulan ini.
-- **^[Keahlian:]({"style": {"text": {"color":"#a771b0"}}})** Badai Besar (Putar daftar putar **Lagu Ayat Alkitab** triwulanan.)
-- Menyanyi **^[“Semoga Tuhan menyertai Anda.”]({"style": {"text": {"color":"#a771b0"}}})**
+- **^[Kerajinan:]({"style": {"text": {"color":"#a771b0"}}})** Badai Besar (Putar daftar putar **Lagu Ayat Alkitab** triwulanan.)
+- Menyanyi **^[“God Be With You” (Tuhan Menyertaimu).]({"style": {"text": {"color":"#a771b0"}}})**
 - **^[Tinjau dan Komitmenkan:]({"style": {"text": {"color":"#a771b0"}}})** Lihatlah kerajinan tangan ini dan tanyakan pada diri sendiri: Minggu ini, apakah Anda menginginkan kedamaian yang hanya dapat diberikan oleh Yesus?
 - **^[Berdoa.]({"style": {"text": {"color":"#a771b0"}}})**
 
@@ -184,16 +184,16 @@ Cetak **^[templat kerajinan minggu 1]({"style": {"text": {"color": "#58B0E3"}}})
 **Sumber dari situs web AIJ** (www.aliveinjesus.info):
 
 - Musik:
-	- “Kitab-kitab Alkitab”
-	- “Bantuan Saya”
-	- “Berhenti dan Belajar”
-	- “Ketika Tuhan Berbicara”
-	- “Aku Berlutut dan Berdoa”
-	- “Apa yang dapat kuberikan kepada Tuhan?”
+	- “Books of the Bible” (Kitab-kitab Alkitab)
+	- “My Help” (Pertolonganku)
+	- “Stop and Learn” (Berhenti dan Belajar)
+	- “When God Speaks” (Ketika Tuhan Berbicara)
+	- “I Kneel and Pray” (Aku Berlutut dan Berdoa)
+	- “What Can I Give to the Lord?” (Apa yang Dapat Kuberikan kepada Tuhan?)
 	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- Lagu Ayat Alkitab: “Yohanes 14:27”
-	- “Semoga Tuhan menyertaimu”
+	- "Happy Birthday" (Selamat Ulang Tahun)
+	- Lagu Ayat Alkitab: “John 14:27” (Yohanes 14:27)
+	- “God Be With You” (Tuhan Menyertaimu)
 - Lokasi persembahan misi
 - 13 Fakta Singkat Misi
 - Templat Bagan Persembahan
@@ -219,44 +219,44 @@ Cetak **^[templat kerajinan minggu 1]({"style": {"text": {"color": "#58B0E3"}}})
 ## Garis Besar Program Lengkap
 
 {"style": {"text": {"color": "#F4793B"}}}
-**Gagasan Utama:** Ketika saya takut, saya dapat mempercayai Yesus untuk menenangkan ketakutan saya dan memberi saya kedamaian.
+**Gagasan Utama:** Ketika saya takut, saya dapat memercayai Yesus untuk menenangkan ketakutan saya dan memberi saya kedamaian.
 
 {"style": {"block": {"backgroundColor": "#E4E4E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **KEDATANGAN LEBIH AWAL** (10 MENIT SEBELUM SEKOLAH SABAT DIMULAI)
 
-**^[DENGARKAN:]({"style": {"text": {"color":"#4d4d4f"}}})** Putar daftar putar **Lagu Ayat Alkitab** dan lagu **“Kitab-kitab Alkitab”** untuk triwulan ini di latar belakang.
+**^[DENGARKAN:]({"style": {"text": {"color":"#4d4d4f"}}})** Putar daftar putar **Lagu Ayat Alkitab** dan lagu **“Books of the Bible” (Kitab-kitab Alkitab)** untuk triwulan ini di latar belakang.
 
 ```=Daftar Putar Lagu Ayat Alkitab
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3] “Yohanes 14:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 14:27 (Yohanes 14:27)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/2-1-peter-5-7.mp3] “1 Petrus 5:7” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Elle Stojanovic, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ 1 Peter 5:7 (1 Petrus 5:7)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/2-1-peter-5-7.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/3-romans-12-10.mp3] “Roma 12:10” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Romans 12:10 (Roma 12:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/3-romans-12-10.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/4-isaiah-45-22.mp3] “Yesaya 45:22” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Isaiah 45:22 (Yesaya 45:22)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/4-isaiah-45-22.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/5-psalm-145-8.mp3] “Mazmur 145:8” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Psalm 145:8 (Mazmur 145:8)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/5-psalm-145-8.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/6-john-10-10.mp3] “Yohanes 10:10” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 10:10 (Yohanes 10:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/6-john-10-10.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/7-luke-8-50.mp3] “Lukas 8:50” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Elle Stojanovic"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Luke 8:50 (Lukas 8:50)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/7-luke-8-50.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/8-john-8-32.mp3] “Yohanes 8:32” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, Sheli Coblacoglo, TVAC Choir"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 8:32 (Yohanes 8:32)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/8-john-8-32.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/9-isaiah-54-10.mp3] “Yesaya 54:10” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Isaiah 54:10 (Yesaya 54:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/9-isaiah-54-10.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/10-psalm-146-8.mp3] “Mazmur 146:8” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"David Williams"},{"key":"Guitarist","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Psalm 146:8 (Mazmur 146:8)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/10-psalm-146-8.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/11-matthew-8-13.mp3] “Matius 8:13” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Matthew 8:13 (Matius 8:13)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/11-matthew-8-13.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/12-jeremiah-31-13.mp3] “Yeremia 31:13” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, TVAC Choir"},{"key":"Pianist","value":"David Williams"},{"key":"Ukulele","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"},{"key":"Whistling","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Jeremiah 31:13 (Yeremia 31:13)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/12-jeremiah-31-13.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/13-john-11-25.mp3] “Yohanes 11:25” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 11:25 (Yohanes 11:25)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/13-john-11-25.mp3)
 
 ```
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/books-of-the-bible.mp3] “Kitab-kitab Alkitab” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Books of the Bible (Kitab-kitab Alkitab)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/books-of-the-bible.mp3)
 
 **^[BANGUN KEAKRABAN:]({"style": {"text": {"color":"#4d4d4f"}}})** Sambut kedatangan anak-anak dengan hangat, sebut nama mereka. Sampaikan betapa senangnya Anda melihat mereka.
 
@@ -267,29 +267,29 @@ Cetak **^[templat kerajinan minggu 1]({"style": {"text": {"color": "#58B0E3"}}})
 
 **^[SAMBUT:]({"style": {"text": {"color":"#d34d5e"}}})**Kumpulkan anak-anak dan sambut mereka. Sampaikan bahwa Anda sangat senang mereka berada di Sekolah Sabat—dan Tuhan pun demikian! Dia tersenyum hari ini karena kalian, anak-anak-Nya yang terkasih, berada di Sekolah Sabat.**
 
-**^[NYANYIKAN:]({"style": {"text": {"color":"#d34d5e"}}})**Nyanyikan lagu “Pertolonganku.”** Diskusikan lirik lagu baru ini dan bagaimana Tuhan telah menolong mereka minggu ini. Kemudian nyanyikan lagu “Berhenti dan Belajar” dan “Ketika Tuhan Berbicara.” Nyanyikan lagu doa baru, “Aku Berlutut dan Berdoa.”**
+**^[NYANYIKAN:]({"style": {"text": {"color":"#d34d5e"}}})**Nyanyikan lagu “My Help” (Pertolonganku).** Diskusikan lirik lagu baru ini dan bagaimana Tuhan telah menolong mereka minggu ini. Kemudian nyanyikan lagu “Stop and Learn” (Berhenti dan Belajar) dan “When God Speaks” (Ketika Tuhan Berbicara). Nyanyikan lagu doa baru, “I Kneel and Pray” (Aku Berlutut dan Berdoa).**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/my-help.mp3] “Bantuan Saya” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+[♫ My Help (Pertolonganku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/my-help.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/stop-and-learn.mp3] “Berhenti dan Belajar” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Instrumentals","value":"Kevin Kemuel"}],"title": "Credits","copyright":"Copyright © 2023 Abide Family Ministries. Used by permission."}
+[♫ Stop and Learn (Berhenti dan Belajar)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/stop-and-learn.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/when-god-speaks.mp3] “Ketika Tuhan Berbicara” {"credits":[{"key":"Writer","value":"Braedan Entermann"},{"key":"Singers","value":"Alise Entermann, Braedan Entermann"},{"key":"Pianist","value":"Braedan Entermann"},{"key":"Guitarist","value":"Braedan Entermann"},{"key":"Producer","value":"Rhys Zacher"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+[♫ When God Speaks (Ketika Tuhan Berbicara)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/when-god-speaks.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-kneel-and-pray.mp3] “Aku Berlutut dan Berdoa” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"Tahlia Atcheson, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2007 Abide Family Ministries. Used by permission."}
+[♫ I Kneel and Pray (Aku Berlutut dan Berdoa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-kneel-and-pray.mp3)
 
 **^[BERDOA:]({"style": {"text": {"color":"#d34d5e"}}})** Mintalah anak-anak untuk membentuk lingkaran dan undang mereka yang ingin berdoa untuk memulai dengan kalimat pembuka, “Aku mengucap syukur kepada-Mu, Tuhan, atas . . .” Akhiri dengan mengucap syukur kepada Tuhan untuk setiap anak yang telah datang ke Sekolah Sabat hari ini (sebutkan nama mereka, jika kelas Anda kecil).
 
 **^[MEMBERI:]({"style": {"text": {"color":"#d34d5e"}}})**Bagikan **Fakta Singkat Misi** minggu ini, yang akan memperkenalkan area-area tujuan persembahan Anda pada triwulan ini. Tunjukkan lokasi-lokasi tersebut pada peta dunia atau globe. Berdoalah agar Tuhan memberkati pemberian Anda dan mengarahkan persembahan tersebut ke tempat yang paling membutuhkan.**
 
-Mintalah seorang anak untuk mengumpulkan **persembahan**, sambil Anda menyanyikan **“Apa yang Dapat Kuberikan kepada Tuhan?”** Tampilkan **Bagan Persembahan** Anda dan sampaikan bahwa kita akan mencatat berapa banyak uang yang kita kumpulkan pada triwulan ini. Setelah persembahan dikumpulkan dan dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian pertama Bagan Persembahan.
+Mintalah seorang anak untuk mengumpulkan **persembahan**, sambil Anda menyanyikan **“What Can I Give to the Lord?” (Apa yang Dapat Kuberikan kepada Tuhan?)** Tampilkan **Bagan Persembahan** Anda dan sampaikan bahwa kita akan mencatat berapa banyak uang yang kita kumpulkan pada triwulan ini. Setelah persembahan dikumpulkan dan dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian pertama Bagan Persembahan.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “Apa yang dapat kuberikan kepada Tuhan?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+[♫ What Can I Give to the Lord? (Apa yang Dapat Kuberikan kepada Tuhan?)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3)
 
-**^[NYANYIKAN:]({"style": {"text": {"color":"#d34d5e"}}})** Sambutlah setiap pengunjung dengan hangat dan nyanyikan **“Lagu Pengunjung.”** Nyanyikan **“Selamat Ulang Tahun”** untuk anak yang berulang tahun minggu ini, dan doakan mereka.
+**^[NYANYIKAN:]({"style": {"text": {"color":"#d34d5e"}}})** Sambutlah setiap pengunjung dengan hangat dan nyanyikan **“Visitor Song” (Lagu Pengunjung).** Nyanyikan **“Happy Birthday” (Selamat Ulang Tahun)** untuk anak yang berulang tahun minggu ini, dan doakan mereka.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3] “Lagu Pengunjung” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Visitor Song (Lagu Pengunjung)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3] "Selamat ulang tahun" {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
+[♫ Happy Birthday (Selamat Ulang Tahun)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3)
 
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **AKTIVITAS FOKUS** (5 MENIT)
@@ -330,7 +330,7 @@ Kemudian katakan, “Berhenti!” dan minta anak-anak untuk segera berhenti meng
 
 Diskusikan gambar tersebut dan mintalah anak-anak untuk menyanyikan **Lagu Ayat Alkitab** dan mengucapkan **ayat hafalan** minggu ini: “Damai sejahtera Kutinggalkan bagimu, damai sejahtera-Ku Kuberikan kepadamu, bukan seperti yang diberikan dunia, Aku memberikannya kepadamu. Janganlah hatimu gelisah dan janganlah takut” **(Yohanes 14:27)**. Ajak anak-anak untuk mengulanginya dengan pelan, membayangkan Tuhan membisikkannya di telinga mereka.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3] “Yohanes 14:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 14:27 (Yohanes 14:27)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3)
 
 - **Dari ayat hafalan, apa yang ingin Tuhan berikan kepada kita?** (Damai sejahtera.)
 
@@ -340,48 +340,48 @@ Putarlah musik dan biarkan **anak-anak berbaur**. Hentikan musik dan minta merek
 
 **^[TANTANGAN MISI:]({"style": {"text": {"color":"#a771b0"}}})**Tantangan Misi Minggu Ini adalah:** **Mintalah kepada Tuhan untuk memberikan kasih dan kedamaian kepada Anda. Pikirkan cara-cara Anda dapat menunjukkan dan membagikan kedamaian istimewa Tuhan kepada orang lain di triwulan ini.** Jelaskan bahwa ketika kita memiliki kedamaian di hati kita, kita akan menjadi orang-orang yang membagikan kedamaian. Banyak orang akan senang memiliki kedamaian.
 
-**^[KEAHLIAN:]({"style": {"text": {"color":"#a771b0"}}})**Bagikan materi dan petunjuk untuk kerajinan tangan **Yesus Menenangkan Badai**. Putar **daftar putar Lagu Ayat Alkitab** triwulanan atau lagu lain pilihan Anda sebagai latar belakang. Dorong mereka untuk berbagi cerita bersama dengan kata-kata mereka sendiri sambil membuat kerajinan tangan mereka.**
+**^[KERAJINAN:]({"style": {"text": {"color":"#a771b0"}}})**Bagikan materi dan petunjuk untuk kerajinan tangan **Yesus Menenangkan Badai**. Putar **daftar putar Lagu Ayat Alkitab** triwulanan atau lagu lain pilihan Anda sebagai latar belakang. Dorong mereka untuk berbagi cerita bersama dengan kata-kata mereka sendiri sambil membuat kerajinan tangan mereka.**
 
 ```=Daftar Putar Lagu Ayat Alkitab
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3] “Yohanes 14:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 14:27 (Yohanes 14:27)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/2-1-peter-5-7.mp3] “1 Petrus 5:7” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Elle Stojanovic, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ 1 Peter 5:7 (1 Petrus 5:7)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/2-1-peter-5-7.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/3-romans-12-10.mp3] “Roma 12:10” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Romans 12:10 (Roma 12:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/3-romans-12-10.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/4-isaiah-45-22.mp3] “Yesaya 45:22” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Isaiah 45:22 (Yesaya 45:22)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/4-isaiah-45-22.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/5-psalm-145-8.mp3] “Mazmur 145:8” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Psalm 145:8 (Mazmur 145:8)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/5-psalm-145-8.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/6-john-10-10.mp3] “Yohanes 10:10” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 10:10 (Yohanes 10:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/6-john-10-10.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/7-luke-8-50.mp3] “Lukas 8:50” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Elle Stojanovic"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Luke 8:50 (Lukas 8:50)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/7-luke-8-50.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/8-john-8-32.mp3] “Yohanes 8:32” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, Sheli Coblacoglo, TVAC Choir"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 8:32 (Yohanes 8:32)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/8-john-8-32.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/9-isaiah-54-10.mp3] “Yesaya 54:10” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Isaiah 54:10 (Yesaya 54:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/9-isaiah-54-10.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/10-psalm-146-8.mp3] “Mazmur 146:8” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"David Williams"},{"key":"Guitarist","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Psalm 146:8 (Mazmur 146:8)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/10-psalm-146-8.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/11-matthew-8-13.mp3] “Matius 8:13” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Matthew 8:13 (Matius 8:13)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/11-matthew-8-13.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/12-jeremiah-31-13.mp3] “Yeremia 31:13” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, TVAC Choir"},{"key":"Pianist","value":"David Williams"},{"key":"Ukulele","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"},{"key":"Whistling","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Jeremiah 31:13 (Yeremia 31:13)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/12-jeremiah-31-13.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/13-john-11-25.mp3] “Yohanes 11:25” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 11:25 (Yohanes 11:25)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/13-john-11-25.mp3)
 
 ```
 
 Ajak anak-anak untuk menggunakan kerajinan yang telah mereka buat untuk berbagi cerita dan pesannya dengan setidaknya satu orang lain.
 
-**^[NYANYIKAN:]({"style": {"text": {"color":"#a771b0"}}})**Kumpulkan kembali anak-anak untuk menyanyikan lagu penutup, **“Semoga Tuhan menyertai Anda.”**
+**^[NYANYIKAN:]({"style": {"text": {"color":"#a771b0"}}})**Kumpulkan kembali anak-anak untuk menyanyikan lagu penutup, **“God Be With You” (Tuhan Menyertaimu).**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3] Semoga Tuhan menyertaimu {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+[♫ God Be With You (Tuhan Menyertaimu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3)
 
 **^[TINJAU dan SETUJUI:]({"style": {"text": {"color":"#a771b0"}}})** Ajak semua anak untuk mengangkat hasil karya mereka untuk merenung dan berdiskusi:
 
 - **Menurut Anda, apa yang dipelajari para murid dari pengalaman berada di tengah badai bersama Yesus?**
-- **Apa yang Anda pelajari dari para murid yang berada di tengah badai bersama Yesus?** Ulangi **Gagasan Utama** sekali lagi, sebagai bagian dari jawaban atas pertanyaan ini: **Ketika saya takut, saya dapat mempercayai Yesus untuk menenangkan ketakutan saya dan memberi saya kedamaian.**
+- **Apa yang Anda pelajari dari para murid yang berada di tengah badai bersama Yesus?** Ulangi **Gagasan Utama** sekali lagi, sebagai bagian dari jawaban atas pertanyaan ini: **Ketika saya takut, saya dapat memercayai Yesus untuk menenangkan ketakutan saya dan memberi saya kedamaian.**
 - **Apakah Anda menginginkan kedamaian yang hanya dapat diberikan oleh Yesus minggu ini?** Ajak mereka untuk berdoa bersama Anda sekarang.
 
 **^[BERDOA:]({"style": {"text": {"color":"#a771b0"}}})**Berdoalah, mintalah kepada Tuhan agar Dia membantu setiap anak merasakan kedamaian yang hanya Dia yang dapat berikan, dengan mengetahui bahwa Tuhan menyertai mereka dan ingin membantu mereka dalam setiap situasi.
@@ -391,9 +391,9 @@ Ajak anak-anak untuk menggunakan kerajinan yang telah mereka buat untuk berbagi 
 ## \"Yesus Menenangkan Badai\"
 
 {"style": {"text": {"color": "#F4793B"}}}
-**Gagasan Utama:** Ketika saya takut, saya dapat mempercayai Yesus untuk menenangkan ketakutan saya dan memberi saya kedamaian.
+**Gagasan Utama:** Ketika saya takut, saya dapat memercayai Yesus untuk menenangkan ketakutan saya dan memberi saya kedamaian.
 
-Saat Anda bersiap untuk membagikan cerita ini, silakan baca panduan siswa untuk narasi lengkap dan detailnya. Untuk memaksimalkan keterlibatan, hindari membacakan cerita kepada anak-anak. Lihat saran bercerita di bagian depan publikasi ini.
+Sebelum bercerita, bacalah narasi lengkap dalam Panduan Murid. Untuk memaksimalkan keterlibatan, hindari membacakan cerita kepada anak-anak. Lihat saran bercerita di bagian depan publikasi ini.
 
 ```=Saran Bercerita
 
@@ -438,16 +438,14 @@ Para murid dengan panik berseru kepada-Nya, “Guru! Guru! Kami akan tenggelam!�
 
 Teriakan keras mereka membangunkan Yesus, dan Dia membuka mata-Nya. ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Yesus berdiri dengan tenang di atas perahu yang terombang-ambing sementara ombak menerjang dan kilat menyambar. Ia mengangkat tangan-Nya dan berbicara tanpa takut kepada badai yang mengamuk: “Tenanglah!” (Markus 4:39).
 
-Tiba-tiba angin berhenti menderu dan ombak mereda. Awan-awan berguguran dan bintang-bintang berkel twinkling. ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Perahu itu mengapung perlahan di laut yang tenang sementara para murid dan semua orang di perahu lain menatap Yesus dengan takjub. Yesus, yang menciptakan air dan angin, juga tahu bagaimana mengendalikan hal-hal yang telah Dia ciptakan.
+Tiba-tiba angin berhenti menderu dan ombak mereda. Awan-awan menyingkir dan bintang-bintang kembali berkelap-kelip. ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Perahu itu mengapung perlahan di laut yang tenang sementara para murid dan semua orang di perahu lain menatap Yesus dengan takjub. Yesus, yang menciptakan air dan angin, juga tahu bagaimana mengendalikan hal-hal yang telah Dia ciptakan.
 
 {"style": {"text": {"color":"#58b0e3"}}}
 **Apa yang mereka katakan? Bacalah Matius 8:27.** (“Siapakah Dia ini, sehingga angin dan laut pun taat kepada-Nya?”)
 
-Mereka benar-benar telah melihat kuasa Allah. Ia tidak takut dalam badai, bahkan sedikit pun. Ia hanya berdiri dan mengucapkan tiga kata sederhana itu, “Tenanglah!” (Markus 4:39).
+Mereka benar-benar telah melihat kuasa Allah. Ia tidak takut dalam badai, bahkan sedikit pun. Ia hanya berdiri dan mengucapkan perintah singkat itu, “Tenanglah!” (Markus 4:39).
 
-**Ilustrasikan:** Ambil selembar kertas kusut dan berkerut, lalu ingatkan anak-anak tentang stres yang dirasakan para murid. Kemudian letakkan selembar kertas polos yang halus di atasnya untuk menutupi kerutan. Ceritakan bagaimana memiliki Yesus sebagai Juruselamat dan Sahabat kita memberi kita kedamaian dalam pikiran, bahkan ketika dunia di sekitar kita terasa kacau. Terkadang Dia membawa kedamaian ke dunia kita, dan terkadang Dia memberi kita kedamaian dalam pikiran dan hati kita, meskipun keadaan di sekitar kita terus terlihat sulit dan
-
-berbadai. Keduanya adalah mukjizat yang Dia lakukan untuk kita—kita tidak bisa melakukannya sendiri!
+**Ilustrasikan:** Ambil selembar kertas kusut dan berkerut, lalu ingatkan anak-anak tentang stres yang dirasakan para murid. Kemudian letakkan selembar kertas polos yang halus di atasnya untuk menutupi kerutan. Ceritakan bagaimana memiliki Yesus sebagai Juruselamat dan Sahabat kita memberi kita kedamaian dalam pikiran, bahkan ketika dunia di sekitar kita terasa kacau. Terkadang Dia membawa kedamaian ke dunia kita, dan terkadang Dia memberi kita kedamaian dalam pikiran dan hati kita, meskipun keadaan di sekitar kita tetap sulit dan penuh badai. Keduanya adalah mukjizat yang Dia lakukan untuk kita—kita tidak bisa melakukannya sendiri!
 
 **Ajak semua orang untuk berseru, “Terima kasih, Yesus!”**
 

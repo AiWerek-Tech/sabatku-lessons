@@ -4,7 +4,7 @@ Bacalah 2 Tawarikh 7:13–14.
 
 ## Daftarkan
 
-Dalam jurnal belajar Alkitabmu, tuliskan semua kisah Alkitab yang dapat kamu ingat yang melibatkan roti.
+Dalam jurnal pendalaman Alkitabmu, tuliskan semua kisah Alkitab yang dapat kamu ingat yang melibatkan roti.
 
 ## Tuliskan
 

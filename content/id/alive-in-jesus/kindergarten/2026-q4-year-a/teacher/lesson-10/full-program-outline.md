@@ -6,9 +6,9 @@
 
 Siapkan kertas dan krayon. Minta anak-anak untuk duduk tenang dan mendengarkan, lalu menggambar semua hal yang dapat mereka dengar.
 
-**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack It Up.”
+**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack It Up” (Berkemaslah).
 
-[♫ Berkemaslah](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
+[♫ Pack It Up (Berkemaslah)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
 
 ### SAMBUTAN, LAGU-LAGU, DOA (5 MENIT)
 
@@ -16,46 +16,46 @@ Siapkan kertas dan krayon. Minta anak-anak untuk duduk tenang dan mendengarkan, 
 
 **MENYANYI:** Nyanyikan lagu-lagu berikut dengan gerakan dan alat peraga:
 
-- “Kami Menyambut Anda”
-- “Dengarkan dan Pahami” (Mintalah anak-anak untuk mendengarkan kata-kata dengan sangat saksama saat mereka bernyanyi.)
-- “Yesus Adalah Tuhanku”
-- “Apa yang Dapat Dilakukan Yesus?”
-- “Lagu Pengunjung” dan ucapan terima kasih
-- “Selamat Ulang Tahun” untuk setiap anak yang berulang tahun minggu lalu
+- “We Welcome You” (Kami Menyambutmu)
+- “Listen and Hear” (Dengarkan dan Perhatikan) (Mintalah anak-anak untuk mendengarkan kata-kata dengan sangat saksama saat mereka bernyanyi.)
+- “Jesus Is My God” (Yesus Tuhanku)
+- “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
+- “Visitor Song” (Lagu Pengunjung) dan ucapan terima kasih
+- “Happy Birthday” (Selamat ulang tahun) untuk setiap anak yang berulang tahun minggu lalu
 
 ### Lagu Pujian
 
-[♫ Kami Menyambut Anda](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
+[♫ We Welcome You (Kami Menyambutmu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
 
-[♫ Yesus Adalah Tuhanku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-is-my-god.mp3)
+[♫ Jesus Is My God (Yesus Tuhanku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-is-my-god.mp3)
 
-[♫ Apa yang Dapat Dilakukan Yesus?](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/what-can-jesus-do.mp3)
+[♫ What Can Jesus Do? (Apa yang Dapat Dilakukan Yesus?)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/what-can-jesus-do.mp3)
 
-[♫ Dengarkan dan Perhatikan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/listen-and-hear.mp3)
+[♫ Listen and Hear (Dengarkan dan Perhatikan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/listen-and-hear.mp3)
 
-[♫ Lagu Pengunjung](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
+[♫ Visitor Song (Lagu Pengunjung)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
 
-[♫ Selamat ulang tahun](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
+[♫ Happy Birthday (Selamat ulang tahun)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
 
-**BERDOA:** Nyanyikan lagu “When I Kneel Down to Pray,” lalu ajak seorang anak untuk berdoa. Kemudian berdoalah juga, ucapkan terima kasih kepada Yesus atas firman-Nya dalam Alkitab dan karena selalu mendengarkan doa-doa kita.
+**BERDOA:** Nyanyikan lagu “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa), lalu ajak seorang anak untuk berdoa. Kemudian berdoalah juga, ucapkan terima kasih kepada Yesus atas firman-Nya dalam Alkitab dan karena selalu mendengarkan doa-doa kita.
 
-[♫ Saat Aku Berlutut untuk Berdoa](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
+[♫ When I Kneel Down To Pray (Saat Aku Berlutut untuk Berdoa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
 
 ### PERSEMBAHAN DAN AYAT HAFALAN (6 MENIT)
 
-**MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang penawaran misi triwulan ini.
+**MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang persembahan misi triwulan ini.
 
 **MEMBERI:** Ingatkan anak-anak tentang Tantangan Misi minggu lalu untuk membawa uang hari ini khususnya untuk para misionaris global dan pekerjaan yang mereka lakukan. Tunjukkan wadah khusus dan ajak anak-anak untuk maju jika mereka memiliki uang untuk para pekerja khusus bagi Tuhan, atau proyek-proyek Tuhan.
 
-Nyanyikan “Bukalah Hatiku, Bukalah Tanganku,” dan ajak seorang anak untuk mengumpulkan persembahan Sekolah Sabat di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan. Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
+Nyanyikan “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku), dan ajak seorang anak untuk mengumpulkan persembahan Sekolah Sabat di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk keperluan yang paling dibutuhkan. Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
 
-[♫ Bukalah Hatiku, Bukalah Tanganku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
+[♫ Open My Heart, Open My Hand (Bukalah Hatiku, Bukalah Tanganku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
 
-**MENYANYI:** Nyanyikan lagu “Firman Tuhan.” Ajak seorang anak untuk maju ke depan dan memegang Alkitab khusus kelas.
+**MENYANYI:** Nyanyikan lagu “God’s Words” (Firman Tuhan). Ajak seorang anak untuk maju ke depan dan memegang Alkitab khusus kelas.
 
-[♫ Firman Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
+[♫ God’s Words (Firman Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
 
-- Pernahkah Anda bertanya-tanya apakah Yesus mendengar doa kita? (Dia selalu mendengarnya.)
+- Pernahkah kamu bertanya-tanya apakah Yesus mendengar doa kita? (Dia selalu mendengarnya.)
 
 Bagikan bagaimana teks Alkitab kita memberi tahu kita sesuatu yang sangat penting tentang apa yang terjadi ketika kita berdoa. Tunjukkan kepada anak-anak cara menemukan ayat hafalan, Yoel 2:32. Ucapkan bersama-sama: “Siapa pun yang menyeru nama Tuhan akan diselamatkan” (Yoel 2:32).
 
@@ -63,7 +63,7 @@ Poin Pengajaran: Yesus dapat mendengar banyak orang berseru kepada-Nya pada saat
 
 Dengarkan dan nyanyikan Lagu Ayat Alkitab Yoel 2:32.
 
-[♫ Yoel 2:32](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/10-joel-2-32.mp3)
+[♫ Joel 2:32 (Yoel 2:32)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/10-joel-2-32.mp3)
 
 ### KOTAK KEJUTAN RAHASIA (7 MENIT)
 
@@ -71,7 +71,7 @@ Dengarkan dan nyanyikan Lagu Ayat Alkitab Yoel 2:32.
 
 Ajak anak-anak untuk datang dan memilih selembar kertas. Buka dan bacakan untuk mereka, sambil membisikkan nama hewan tersebut di telinga mereka. Beri tahu kelompok tersebut bahwa pada hitungan ketiga, mereka harus menirukan suara hewan pilihan mereka. Pada saat yang sama, mereka perlu mendengarkan untuk menemukan orang lain yang menirukan suara hewan yang sama. Setelah menemukan pasangannya, mereka dapat duduk bersama.
 
-- Bagaimana cara Anda menemukan pasangan Anda? (Saya mendengarkan suara yang tepat.)
+- Bagaimana cara kamu menemukan pasangan kamu? (Saya mendengarkan suara yang tepat.)
 - Apa yang membuat hal itu sulit dilakukan? (Ada begitu banyak suara lain.)
 
 ### KOTAK KEJUTAN RAHASIA (5 MENIT)
@@ -105,7 +105,7 @@ Poin Pengajaran: Yesus mengasihi kita dan akan selalu mendengarkan kita ketika k
 
 ### KERAJINAN TANGAN (15 MENIT)
 
-**KEAHLIAN:** Burung Lyrebird Berisik. Buatlah Burung Lyrebird yang berisik untuk mendorong anak-anak berdoa kepada Yesus tentang apa pun dan segala sesuatu, karena mereka tahu bahwa Dia peduli dan mendengarkan.
+**KERAJINAN:** Burung Lyrebird Berisik. Buatlah Burung Lyrebird yang berisik untuk mendorong anak-anak berdoa kepada Yesus tentang apa pun dan segala sesuatu, karena mereka tahu bahwa Dia peduli dan mendengarkan.
 
 Bagikan bahwa hari ini kita belajar bahwa kita dapat memanggil Yesus kapan saja. Dia selalu mendengarkan doa kita. Ajak anak-anak untuk berdiri dan ucapkan Pesan Utama bersama Anda tiga kali: dengan berbisik; lalu lebih keras; lalu paling keras: “Yesus [tunjuk ke atas] dapat melakukan apa saja [lompat dengan satu kepalan tangan di udara]. [Tutup kedua tangan di sisi mulut] Dia mendengarku ketika aku memanggil-Nya.”
 
@@ -113,8 +113,8 @@ Mari kita berdoa kepada-Nya sendiri dan juga bersama keluarga kita sepanjang min
 
 **TANTANGAN MISI:** Tunjukkan peta dunia atau globe. Sebutkan beberapa negara. Sampaikan bahwa Tantangan Misi pekan ini adalah untuk berdoa bagi para misionaris di seluruh dunia setiap hari pekan ini. Tuhan mengenal setiap orang. Dia akan mendengar doa kita untuk mereka.
 
-**MENYANYI:** Nyanyikan lagu “Yesus Mampu.” Ceritakan bahwa minggu depan kita akan belajar tentang orang lain yang dibantu Yesus, meskipun sebagian orang berpikir Dia seharusnya tidak melakukannya.
+**MENYANYI:** Nyanyikan lagu “Jesus Can” (Yesus Mampu). Ceritakan bahwa minggu depan kita akan belajar tentang orang lain yang dibantu Yesus, meskipun sebagian orang berpikir Dia seharusnya tidak melakukannya.
 
-[♫ Yesus Mampu](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
+[♫ Jesus Can (Yesus Mampu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
 
 **BERDOA:** Berdoalah, ucapkan syukur kepada Tuhan karena Dia selalu mendengar dan menjawab doa-doa kita. Doakan anak-anak dan keluarga mereka pekan ini, agar mereka dapat percaya kepada-Nya dan selalu berbicara kepada-Nya.

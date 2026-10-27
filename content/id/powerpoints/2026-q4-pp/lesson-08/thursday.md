@@ -18,4 +18,4 @@ Gambarlah bagian dari perlengkapan senjata itu yang paling kamu perlukan untuk m
 
 ## Doakan
 
-Mintalah kepada Allah agar Dia memperlengkapimu dengan perlengkapan senjata-Nya.
+Mintalah kepada Allah agar Ia memperlengkapimu dengan seluruh senjata rohani-Nya.

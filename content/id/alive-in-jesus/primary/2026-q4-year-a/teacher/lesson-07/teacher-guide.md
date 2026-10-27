@@ -31,7 +31,7 @@ _Kisah Alkitab_, jilid 8, hlm. 12-15
 {"style": {"text": {"size": "lg"}}}
 **Kepercayaan Dasar**
 
-Beberapa aspek dari keyakinan mendasar berikut tercermin dalam pelajaran ini:
+Pelajaran ini mencerminkan beberapa aspek dari Kepercayaan Dasar berikut:
 
 4. Allah Putra\
 7. Hakikat Kemanusiaan\
@@ -61,9 +61,9 @@ Yairus, pemimpin sinagoge, dengan iman meminta Yesus untuk menyembuhkan putrinya
 
 Anak-anak akan:
 
-- **Ketahuilah** bahwa mereka dapat beriman kepada Yesus.
+- **Mengetahui** bahwa mereka dapat beriman kepada Yesus.
 - **Merasa** terdorong untuk terus percaya dan mengandalkan Yesus, bahkan ketika keadaan sulit atau tanpa harapan.
-- **Berikan tanggapan** dengan mendorong orang lain untuk percaya kepada Yesus juga.
+- **Menanggapi** dengan mendorong orang lain untuk percaya kepada Yesus juga.
 
 ---
 
@@ -104,13 +104,13 @@ Saat Anda mempelajari kisah minggu ini, semoga Anda dan anak-anak terdorong untu
 - {"style": {"block": {"backgroundColor": "#FEF8F6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Selamat datang
 - Lagu-lagu
-	- **^[“Tuhan Sungguh Luar Biasa”]({"style": {"text": {"color":"#d34d5e"}}})**
-	- **^[“Percaya dan Patuh”]({"style": {"text": {"color":"#d34d5e"}}})**
-	- **^[“Tenanglah, Diamlah”]({"style": {"text": {"color":"#d34d5e"}}})**
+	- **^[“God Is So Wonderful” (Tuhan Sungguh Luar Biasa)]({"style": {"text": {"color":"#d34d5e"}}})**
+	- **^[“Trust and Obey” (Percaya dan Taat)]({"style": {"text": {"color":"#d34d5e"}}})**
+	- **^[“Be Still, Be Silent” (Tenanglah, Diamlah)]({"style": {"text": {"color":"#d34d5e"}}})**
 - Berdoa bersama pasangan.
-- Bagikan **^[Fakta Singkat Misi]({"style": {"text": {"color":"#d34d5e"}}})**. Menyanyi **^[“Apa yang dapat kuberikan kepada Tuhan?”]({"style": {"text": {"color":"#d34d5e"}}})**, kumpulkan persembahan, warnai **^[Bagan Persembahan]({"style": {"text": {"color":"#d34d5e"}}})**.
-- **^[“Lagu Pengunjung”]({"style": {"text": {"color":"#d34d5e"}}})**
-- **^["Selamat ulang tahun"]({"style": {"text": {"color":"#d34d5e"}}})**
+- Bagikan **^[Fakta Singkat Misi]({"style": {"text": {"color":"#d34d5e"}}})**. Menyanyi **^[“What Can I Give to the Lord?” (Apa yang Dapat Kuberikan kepada Tuhan?)]({"style": {"text": {"color":"#d34d5e"}}})**, kumpulkan persembahan, warnai **^[Bagan Persembahan]({"style": {"text": {"color":"#d34d5e"}}})**.
+- **^[“Visitor Song” (Lagu Pengunjung)]({"style": {"text": {"color":"#d34d5e"}}})**
+- **^["Happy Birthday" (Selamat Ulang Tahun)]({"style": {"text": {"color":"#d34d5e"}}})**
 
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **AKTIVITAS FOKUS** (5 MENIT)
@@ -137,11 +137,11 @@ Saat Anda mempelajari kisah minggu ini, semoga Anda dan anak-anak terdorong untu
 - **^[Kartu Karakter 46: Putri Yairus yang Dibangkitkan Kembali]({"style": {"text": {"color":"#a771b0"}}})**
 - **^[Ayat Hafalan dan Lagu Pujian:]({"style": {"text": {"color":"#a771b0"}}})** “Tetapi ketika Yesus mendengarnya, Ia menjawabnya, ‘Jangan takut, percayalah saja’” (Lukas 8:50).
 - **^[Kisah Misi:]({"style": {"text": {"color":"#a771b0"}}})** “Keajaiban di Hutan”
-- **^[Keahlian:]({"style": {"text": {"color":"#a771b0"}}})** Putri Yairus Pop-up (Mainkan) **^[“Aku Bisa Percaya pada Tuhan”]({"style": {"text": {"color":"#a771b0"}}})** diam-diam di latar belakang.)
+- **^[Kerajinan:]({"style": {"text": {"color":"#a771b0"}}})** Putri Yairus Pop-up (Mainkan) **^[“I Can Trust God” (Aku Bisa Percaya pada Tuhan)]({"style": {"text": {"color":"#a771b0"}}})** diam-diam di latar belakang.)
 - **^[Fokus Misi:]({"style": {"text": {"color":"#a771b0"}}})** Mempelajari tentang misionaris
 - **^[Tantangan Misi:]({"style": {"text": {"color":"#a771b0"}}})** Ceritakan kepada temanmu apa yang telah kamu pelajari tentang misionaris.
 - **^[Tinjau dan Komitmenkan:]({"style": {"text": {"color":"#a771b0"}}})** Anak-anak merasakan denyut nadi mereka. Bagaimana Anda bisa menjadi pemberi semangat bagi Yesus minggu ini?
-- Menyanyi **^[“Semoga Tuhan menyertai Anda.”]({"style": {"text": {"color":"#a771b0"}}})**
+- Menyanyi **^[“God Be With You” (Tuhan Menyertaimu).]({"style": {"text": {"color":"#a771b0"}}})**
 - **^[Berdoa.]({"style": {"text": {"color":"#a771b0"}}})**
 
 ---
@@ -184,15 +184,15 @@ Cetak **^[templat kerajinan minggu ke-7]({"style": {"text": {"color": "#58B0E3"}
 **Sumber dari situs web AIJ** (www.aliveinjesus.info):
 
 - Musik:
-	- “Tuhan Sungguh Luar Biasa”
-	- “Percaya dan Patuh”
-	- “Tenanglah, Diamlah”
-	- “Apa yang dapat kuberikan kepada Tuhan?”
+	- “God Is So Wonderful” (Tuhan Sungguh Luar Biasa)
+	- “Trust and Obey” (Percaya dan Taat)
+	- “Be Still, Be Silent” (Tenanglah, Diamlah)
+	- “What Can I Give to the Lord?” (Apa yang Dapat Kuberikan kepada Tuhan?)
 	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- Lagu Ayat Alkitab: “Lukas 8:50”
-	- “Aku Bisa Percaya pada Tuhan”
-	- “Semoga Tuhan menyertaimu”
+	- "Happy Birthday" (Selamat Ulang Tahun)
+	- Lagu Ayat Alkitab: “Luke 8:50” (Lukas 8:50)
+	- “I Can Trust God” (Aku Bisa Percaya pada Tuhan)
+	- “God Be With You” (Tuhan Menyertaimu)
 - Fakta Singkat Misi
 - PowerPoint Program Minggu ke-7
 - Kartu Karakter 46: Putri Yairus yang Dibangkitkan Kembali
@@ -219,7 +219,7 @@ Cetak **^[templat kerajinan minggu ke-7]({"style": {"text": {"color": "#58B0E3"}
 {"style": {"block": {"backgroundColor": "#E4E4E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **KEDATANGAN LEBIH AWAL** (10 MENIT SEBELUM SEKOLAH SABAT DIMULAI)
 
-**^[DENGARKAN:]({"style": {"text": {"color":"#4d4d4f"}}})** Putar lagu “I Can Trust God” di latar belakang.
+**^[DENGARKAN:]({"style": {"text": {"color":"#4d4d4f"}}})** Putar lagu “I Can Trust God” (Aku Bisa Percaya pada Tuhan) di latar belakang.
 
 **^[BANGUN KEAKRABAN:]({"style": {"text": {"color":"#4d4d4f"}}})** Sambut semua anak dengan hangat, sebutkan nama mereka saat mereka tiba. Cari tahu hal-hal baik dan hal-hal sedih yang mungkin terjadi selama minggu mereka. Berikan dukungan dan semangat kepada mereka. Ungkapkan betapa senangnya Anda melihat mereka.
 
@@ -232,33 +232,33 @@ Cetak **^[templat kerajinan minggu ke-7]({"style": {"text": {"color": "#58B0E3"}
 
 **^[SAMBUT:]({"style": {"text": {"color":"#d34d5e"}}})** Kumpulkan anak-anak dan sambut mereka sebagai sebuah kelompok. Pikirkan sesuatu yang menyemangati untuk dikatakan kepada mereka secara keseluruhan (“Saya sangat senang kalian datang ke Sekolah Sabat hari ini! Tuhan kita yang luar biasa juga senang.”) Atau jika kelas Anda kecil, berikan semangat kepada setiap anak dengan mengatakan sesuatu yang lebih pribadi.
 
-**^[NYANYIKAN:]({"style": {"text": {"color":"#d34d5e"}}})** Sambut Tuhan kita yang penuh kasih dengan menyanyikan lagu, **“Tuhan Sungguh Luar Biasa.”**
+**^[NYANYIKAN:]({"style": {"text": {"color":"#d34d5e"}}})** Sambut Tuhan kita yang penuh kasih dengan menyanyikan lagu, **“God Is So Wonderful” (Tuhan Sungguh Luar Biasa).**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-is-so-wonderful.mp3] “Tuhan Sungguh Luar Biasa” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"David Williams, TVAC choir"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2011 Abide Family Ministries. Used by permission."}
+[♫ God Is So Wonderful (Tuhan Sungguh Luar Biasa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-is-so-wonderful.mp3)
 
 - **Apa hal menakjubkan tentang Tuhan yang ingin Anda syukuri?**
 
 Kemudian nyanyikan **“Percaya dan Patuhi.”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/trust-and-obey.mp3] “Percaya dan Patuh” {"credits":[{"key":"Writer","value":"John H. Sammis"},{"key":"Composer","value":"Daniel B. Towner"}],"title": "Credits","copyright":"Public domain."}
+[♫ Trust and Obey (Percaya dan Taat)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/trust-and-obey.mp3)
 
-- **Menurutmu mana yang lebih mudah dilakukan, mempercayai Tuhan atau menaati-Nya?**
+- **Menurutmu mana yang lebih mudah dilakukan, memercayai Tuhan atau menaati-Nya?**
 
-Nyanyikan lagu doa **“Tenanglah, Diamlah.”**
+Nyanyikan lagu doa **“Be Still, Be Silent” (Tenanglah, Diamlah).**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/be-still-be-silent.mp3] “Tenanglah, Diamlah” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Violin","value":"Tahlia Atcheson"},{"key":"Cello","value":"Jared Chung"},{"key":"Bass","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Be Still, Be Silent (Tenanglah, Diamlah)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/be-still-be-silent.mp3)
 
 **^[BERDOA:]({"style": {"text": {"color":"#d34d5e"}}})** Ajak anak-anak untuk mencari pasangan berdoa dan saling mendoakan, memohon kepada Tuhan untuk melakukan pekerjaan khusus dalam hidup mereka. Setelah setiap pasangan selesai, doakan kelompok tersebut, agar setiap anak menyadari kehadiran Tuhan yang dekat dan membiarkan Dia memenuhi mereka dengan kasih-Nya hari ini.
 
-**^[MEMBERI:]({"style": {"text": {"color":"#d34d5e"}}})**Bagikan **Fakta Singkat Misi** minggu ini tentang proyek misi triwulan ini. Mintalah seorang anak untuk mengumpulkan persembahan sambil kalian semua menyanyikan **“Apa yang Dapat Kuberikan kepada Tuhan?”** Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari **Bagan Persembahan** Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini. Berdoalah agar Tuhan memberkati dan mengantarkan persembahan tersebut ke tempat yang paling membutuhkan.**
+**^[MEMBERI:]({"style": {"text": {"color":"#d34d5e"}}})**Bagikan **Fakta Singkat Misi** minggu ini tentang proyek misi triwulan ini. Mintalah seorang anak untuk mengumpulkan persembahan sambil kalian semua menyanyikan **“What Can I Give to the Lord?” (Apa yang Dapat Kuberikan kepada Tuhan?)** Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari **Bagan Persembahan** Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini. Berdoalah agar Tuhan memberkati dan mengantarkan persembahan tersebut ke tempat yang paling membutuhkan.**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “Apa yang dapat kuberikan kepada Tuhan?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+[♫ What Can I Give to the Lord? (Apa yang Dapat Kuberikan kepada Tuhan?)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3)
 
-**^[NYANYIKAN:]({"style": {"text": {"color":"#d34d5e"}}})** Sambutlah setiap pengunjung dengan hangat dan nyanyikan **“Lagu Pengunjung.”** Nyanyikan **“Selamat Ulang Tahun”** untuk anak yang berulang tahun minggu ini dan doakan agar Tuhan memberkati mereka.
+**^[NYANYIKAN:]({"style": {"text": {"color":"#d34d5e"}}})** Sambutlah setiap pengunjung dengan hangat dan nyanyikan **“Visitor Song” (Lagu Pengunjung).** Nyanyikan **“Happy Birthday” (Selamat Ulang Tahun)** untuk anak yang berulang tahun minggu ini dan doakan agar Tuhan memberkati mereka.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3] “Lagu Pengunjung” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Visitor Song (Lagu Pengunjung)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3] "Selamat ulang tahun" {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
+[♫ Happy Birthday (Selamat Ulang Tahun)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3)
 
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **AKTIVITAS FOKUS** (5 MENIT)
@@ -274,7 +274,7 @@ Kemudian mintalah mereka untuk menyelesaikan tugas tersebut tanpa tenggat waktu 
 - **Apakah ada sesuatu yang pernah terasa "terlambat" dalam kehidupan nyata?**
 - **Apakah menurutmu ada kalanya Yesus terlambat untuk membantu kita dalam sesuatu?**
 
-**^[MEMBACA:]({"style": {"text": {"color":"#e6b349"}}})**Bagikan bahwa dalam cerita hari ini, orang-orang mengira Yesus sudah terlambat, tetapi Dia tidak! Bacalah **Gagasan Utama** bersama-sama dari papan tulis atau PowerPoint Program: **Aku dapat mempercayai Yesus bahkan ketika keadaan tampak tanpa harapan.** Mari kita cari tahu apa yang terjadi.
+**^[MEMBACA:]({"style": {"text": {"color":"#e6b349"}}})**Bagikan bahwa dalam cerita hari ini, orang-orang mengira Yesus sudah terlambat, tetapi Dia tidak! Bacalah **Gagasan Utama** bersama-sama dari papan tulis atau PowerPoint Program: **Aku dapat memercayai Yesus bahkan ketika keadaan tampak tanpa harapan.** Mari kita cari tahu apa yang terjadi.
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **KISAH ALKITAB** (15 MENIT)
@@ -305,9 +305,9 @@ Jika waktu memungkinkan, mintalah setiap kelompok untuk secara singkat membagika
 
 - **Apa yang dapat kita pelajari dari skenario-skenario ini?**
 
-Bahkan ketika semuanya tampak mengerikan, Yesus selalu bersama kita, dan Dia selalu memiliki keputusan akhir. Dia memiliki belas kasihan dan kuasa, dan kita selalu dapat mempercayai-Nya, bahkan ketika kita tidak mengerti mengapa kita mengalami masa-masa sulit.
+Bahkan ketika semuanya tampak mengerikan, Yesus selalu bersama kita, dan Dia selalu memiliki keputusan akhir. Dia memiliki belas kasihan dan kuasa, dan kita selalu dapat memercayai-Nya, bahkan ketika kita tidak mengerti mengapa kita mengalami masa-masa sulit.
 
-Ulangi **Gagasan Utama** ini: **Aku dapat mempercayai Yesus bahkan ketika keadaan tampak tanpa harapan.**
+Ulangi **Gagasan Utama** ini: **Aku dapat memercayai Yesus bahkan ketika keadaan tampak tanpa harapan.**
 
 {"style": {"block": {"backgroundColor": "#F2ECF0", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **GABUNGKAN SEMUANYA** (20 MENIT)
@@ -317,45 +317,45 @@ Ulangi **Gagasan Utama** ini: **Aku dapat mempercayai Yesus bahkan ketika keadaa
 - **Menurutmu, bagaimana perasaan Yairus ketika mendengar perkataan Yesus?**
 - **Yesus ingin kita mendorong orang lain untuk percaya kepada-Nya juga. Apa saja cara yang dapat kita lakukan untuk mendorong teman dan keluarga kita untuk percaya kepada Yesus?** (Bagikan hal-hal baik yang kita ketahui tentang Yesus; bagikan lagu-lagu pujian dan kisah-kisah Alkitab; bagikan ayat-ayat Alkitab; bagikan bagaimana Yesus telah menolong kita dan keluarga kita.)
 
-Kemudian nyanyikan **Lagu Ayat Alkitab** bersama-sama: **“Lukas 8:50.”**
+Kemudian nyanyikan **Lagu Ayat Alkitab** bersama-sama: **“Luke 8:50” (Lukas 8:50).**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/7-luke-8-50.mp3] “Lukas 8:50” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Elle Stojanovic"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Luke 8:50 (Lukas 8:50)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/7-luke-8-50.mp3)
 
 **^[KISAH MISI:]({"style": {"text": {"color":"#a771b0"}}})**Bagikan Kisah Misi, **“Keajaiban di Hutan.”**
 
-**^[KEAHLIAN:]({"style": {"text": {"color":"#a771b0"}}})**Tampilkan kerajinan pop-up **Putri Yairus** Anda dan jelaskan cara membuatnya.**
+**^[KERAJINAN:]({"style": {"text": {"color":"#a771b0"}}})**Tampilkan kerajinan pop-up **Putri Yairus** Anda dan jelaskan cara membuatnya.**
 
-Putarlah lagu **“Aku Bisa Percaya pada Tuhan”** atau **daftar putar Lagu Ayat Alkitab** triwulanan saat anak-anak mengerjakan kerajinan tangan mereka.
+Putarlah lagu **“I Can Trust God” (Aku Bisa Percaya pada Tuhan)** atau **daftar putar Lagu Ayat Alkitab** triwulanan saat anak-anak mengerjakan kerajinan tangan mereka.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-can-trust-god.mp3] “Aku Bisa Percaya pada Tuhan” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, Yelena Jovinov"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+[♫ I Can Trust God (Aku Bisa Percaya pada Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-can-trust-god.mp3)
 
 ```=Daftar Putar Lagu Ayat Alkitab
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3] “Yohanes 14:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 14:27 (Yohanes 14:27)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/2-1-peter-5-7.mp3] “1 Petrus 5:7” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Elle Stojanovic, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ 1 Peter 5:7 (1 Petrus 5:7)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/2-1-peter-5-7.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/3-romans-12-10.mp3] “Roma 12:10” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Romans 12:10 (Roma 12:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/3-romans-12-10.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/4-isaiah-45-22.mp3] “Yesaya 45:22” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Isaiah 45:22 (Yesaya 45:22)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/4-isaiah-45-22.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/5-psalm-145-8.mp3] “Mazmur 145:8” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Psalm 145:8 (Mazmur 145:8)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/5-psalm-145-8.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/6-john-10-10.mp3] “Yohanes 10:10” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 10:10 (Yohanes 10:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/6-john-10-10.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/7-luke-8-50.mp3] “Lukas 8:50” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Elle Stojanovic"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Luke 8:50 (Lukas 8:50)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/7-luke-8-50.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/8-john-8-32.mp3] “Yohanes 8:32” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, Sheli Coblacoglo, TVAC Choir"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 8:32 (Yohanes 8:32)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/8-john-8-32.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/9-isaiah-54-10.mp3] “Yesaya 54:10” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Isaiah 54:10 (Yesaya 54:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/9-isaiah-54-10.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/10-psalm-146-8.mp3] “Mazmur 146:8” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"David Williams"},{"key":"Guitarist","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Psalm 146:8 (Mazmur 146:8)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/10-psalm-146-8.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/11-matthew-8-13.mp3] “Matius 8:13” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Matthew 8:13 (Matius 8:13)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/11-matthew-8-13.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/12-jeremiah-31-13.mp3] “Yeremia 31:13” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, TVAC Choir"},{"key":"Pianist","value":"David Williams"},{"key":"Ukulele","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"},{"key":"Whistling","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ Jeremiah 31:13 (Yeremia 31:13)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/12-jeremiah-31-13.mp3)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/13-john-11-25.mp3] “Yohanes 11:25” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+[♫ John 11:25 (Yohanes 11:25)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/13-john-11-25.mp3)
 
 ```
 
@@ -374,9 +374,9 @@ Setelah kerajinan selesai, minta anak-anak untuk segera menceritakan kisah terse
 - **Apa yang ingin Anda sampaikan kepada Tuhan setelah mengetahui hal ini?**
 - **Apakah Anda ingin mendorong orang lain untuk percaya kepada Yesus juga? Bagaimana Anda bisa melakukannya?**
 
-**^[BERDOA:]({"style": {"text": {"color":"#a771b0"}}})** Nyanyikan lagu “Semoga Tuhan menyertaimu.”** Kemudian berdoalah bersama anak-anak Anda, ucapkan terima kasih kepada Tuhan karena kita dapat mempercayai kuasa-Nya yang luar biasa, apa pun yang terjadi. Mintalah Tuhan untuk membantu anak-anak mencari kesempatan untuk mendorong orang-orang di sekitar mereka agar juga mempercayai-Nya.
+**^[BERDOA:]({"style": {"text": {"color":"#a771b0"}}})** Nyanyikan lagu “God Be With You” (Tuhan Menyertaimu).** Kemudian berdoalah bersama anak-anak Anda, ucapkan terima kasih kepada Tuhan karena kita dapat memercayai kuasa-Nya yang luar biasa, apa pun yang terjadi. Mintalah Tuhan untuk membantu anak-anak mencari kesempatan untuk mendorong orang-orang di sekitar mereka agar juga memercayai-Nya.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3] Semoga Tuhan menyertaimu {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+[♫ God Be With You (Tuhan Menyertaimu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3)
 
 ---
 
@@ -385,7 +385,7 @@ Setelah kerajinan selesai, minta anak-anak untuk segera menceritakan kisah terse
 {"style": {"text": {"color": "#F4793B"}}}
 **Ide Utama:** Yesus mendorong saya untuk terus percaya kepada-Nya ketika keadaan tampak tanpa harapan.
 
-Saat Anda bersiap untuk membagikan cerita ini, silakan baca panduan siswa untuk narasi lengkap dan detailnya. Untuk memaksimalkan keterlibatan, hindari membacakan cerita kepada anak-anak. Lihat saran bercerita di bagian depan publikasi ini.
+Sebelum bercerita, bacalah narasi lengkap dalam Panduan Murid. Untuk memaksimalkan keterlibatan, hindari membacakan cerita kepada anak-anak. Lihat saran bercerita di bagian depan publikasi ini.
 
 ```=Saran Bercerita
 
@@ -456,7 +456,7 @@ Yesus tersenyum kepada keluarga yang bahagia itu. Sambil membungkuk, Ia meminta 
 ## Keajaiban di Hutan
 
 {"style": {"text": {"color": "#F4793B"}}}
-**Fokus:** Kita dapat mempercayai Yesus dalam segala hal!
+**Fokus:** Kita dapat memercayai Yesus dalam segala hal!
 
 **Lokasi:** Bantu seorang anak menemukan **Indonesia** di **bola dunia** atau **peta dunia** Anda.
 
@@ -478,7 +478,7 @@ Kemudian sebuah keajaiban terjadi. Hanya beberapa hari setelah Armi mengunjungi 
 
 Selama dua bulan berikutnya, Armi dan temannya mengunjungi wanita itu setiap dua minggu sekali dan merawat lukanya. Mereka mendorongnya untuk berdoa kepada Yesus, dan berbagi kisah tentang Dia dengannya dan tetangganya.
 
-Pembengkakan itu perlahan mereda, dan lukanya sembuh. Suatu hari dia bahkan bisa berjalan lagi! “Aku percaya itu semua karena Yesus,” kata wanita itu. Dia telah belajar untuk mempercayai-Nya bahkan ketika keadaan tampak tanpa harapan.
+Pembengkakan itu perlahan mereda, dan lukanya sembuh. Suatu hari dia bahkan bisa berjalan lagi! “Aku percaya itu semua karena Yesus,” kata wanita itu. Dia telah belajar untuk memercayai-Nya bahkan ketika keadaan tampak tanpa harapan.
 
 Seiring waktu, ia mulai berjalan kaki selama delapan jam setiap minggu untuk beribadah di gereja Armi. Ia juga menyekolahkan anak-anaknya dan semua anak-anak desa ke sekolah misi di hutan.
 

@@ -1,0 +1,50 @@
+{
+  "shared": [
+    ["mempercayai", "memercayai"],
+    ["Mempercayai", "Memercayai"],
+    ["menghembuskan", "mengembuskan"],
+    ["panduan siswa", "Panduan Murid"]
+  ],
+  "teacher": [
+    ["Keahlian:", "Kerajinan:"],
+    ["KEAHLIAN:", "KERAJINAN:"],
+    ["setiap tiga bulan sekali", "untuk triwulan ini"],
+    ["Gunakan keahlian Anda untuk memeragakan kembali cerita tersebut!", "Gunakan hasil kerajinan Anda untuk memeragakan kembali cerita tersebut!"],
+    ["Saat Anda bersiap untuk membagikan cerita ini, silakan baca Panduan Murid untuk narasi lengkap dan detailnya.", "Sebelum bercerita, bacalah narasi lengkap dalam Panduan Murid."],
+    ["Beberapa aspek dari keyakinan mendasar berikut tercermin dalam pelajaran ini:", "Pelajaran ini mencerminkan beberapa aspek dari Kepercayaan Dasar berikut:"]
+  ],
+  "files": {
+    "student/lesson-01/friday.md": [
+      ["mengucapkan tiga kata sederhana itu", "mengucapkan perintah singkat itu"]
+    ],
+    "teacher/lesson-01/teacher-guide.md": [
+      ["akan melancarkan lautan kehidupan", "akan menenangkan gelombang kehidupan"],
+      ["Awan-awan berguguran dan bintang-bintang berkel twinkling.", "Awan-awan menyingkir dan bintang-bintang kembali berkelap-kelip."],
+      ["mengucapkan tiga kata sederhana itu, “Tenanglah!”", "mengucapkan perintah singkat itu, “Tenanglah!”"],
+      ["terus terlihat sulit dan\n\nberbadai", "tetap sulit dan penuh badai"],
+      ["Hari ini Yesus ingin memberikan kedamaian kepadamu di tengah badai apa pun yang kamu hadapi. Dia akan menenangkan hatimu dan kekhawatiran dalam pikiranmu.", "Hari ini Yesus ingin memberikan kedamaian kepada Anda di tengah badai apa pun yang Anda hadapi. Ia akan menenangkan hati serta kekhawatiran Anda."]
+    ],
+    "teacher/lesson-02/teacher-guide.md": [
+      ["ia memercayai orang yang memimpinnya", "ia memercayai induk yang menuntunnya"],
+      ["mengambil langkah pertamanya yang goyah", "melangkahkan kakinya untuk pertama kali dengan gemetar"]
+    ],
+    "teacher/lesson-03/teacher-guide.md": [
+      ["(empat pasak/orang Lego)", "(Tampilkan empat boneka kayu atau figur Lego.)"],
+      ["(Letakkan pasak atau figur Lego di kakinya.)", "(Tegakkan boneka kayu atau figur Lego seolah-olah sedang berdiri.)"],
+      ["orang banyak mempersilakan dia masuk", "orang banyak memberi jalan baginya untuk keluar"]
+    ],
+    "student/lesson-03/friday.md": [
+      ["Kini tubuhnya bersinar penuh kekuatan dan matanya berbinar bahagia", "Kini tubuhnya kembali kuat dan matanya berbinar bahagia"]
+    ],
+    "student/lesson-03/sabbath.md": [
+      ["seorang pendiri dan pemimpin di gereja kami", "salah satu pendiri dan pemimpin Gereja Advent"],
+      ["visi sejati tentang Yesus", "penglihatan yang nyata tentang Yesus"]
+    ],
+    "teacher/lesson-09/teacher-guide.md": [
+      ["(orang-orangan pasak)", "(Gerakkan boneka kayu.)"]
+    ],
+    "teacher/lesson-13/teacher-guide.md": [
+      ["Marta dan Mary", "Marta dan Maria"]
+    ]
+  }
+}

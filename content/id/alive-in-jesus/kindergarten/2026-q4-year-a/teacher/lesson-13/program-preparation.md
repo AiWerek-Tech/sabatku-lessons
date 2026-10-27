@@ -25,18 +25,18 @@ Bahan-bahan: gulungan kardus, kain kasa atau perban, selotip, mata mainan, lem k
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Berkemaslah”
-	- “Kami Menyambut Anda”
-	- “Sahabatku Selamanya, Yesus”
-	- “Allah Maha Perkasa”
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
-	- Lagu Ayat Alkitab: “Yohanes 11:25”
-	- “Apa yang Dapat Dilakukan Yesus?”
-	- “Yesus Mampu”
+	- “Pack It Up” (Berkemaslah)
+	- “We Welcome You” (Kami Menyambutmu)
+	- “My Forever Friend Jesus” (Sahabatku Selamanya, Yesus)
+	- “God Is Mighty” (Allah Maha Perkasa)
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
+	- Lagu Ayat Alkitab: “John 11:25” (Yohanes 11:25)
+	- “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
+	- “Jesus Can” (Yesus Mampu)
 - Kartu Koleksi Alam 52: Gorila Punggung Perak
 - PowerPoint Program Pekan ke-13
 - Ringkasan Program PowerPoint per Triwulan

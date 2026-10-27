@@ -25,7 +25,7 @@ Beberapa aspek dari kepercayaan dasar berikut tercermin dalam pelajaran ini:
 
 ### Kata Pilihan Minggu Ini
 
-**Iman** berarti mempercayai dan meyakini seseorang atau sesuatu. Ketika kita memiliki iman, kita yakin akan sesuatu. Memiliki iman kepada Yesus berarti percaya bahwa Dia akan melakukan dan mengatakan semua yang telah Dia janjikan.
+**Iman** berarti memercayai dan meyakini seseorang atau sesuatu. Ketika kita memiliki iman, kita yakin akan sesuatu. Memiliki iman kepada Yesus berarti percaya bahwa Dia akan melakukan dan mengatakan semua yang telah Dia janjikan.
 
 ### Ringkasan Pelajaran
 
@@ -36,5 +36,5 @@ Seorang wanita yang telah sakit selama 12 tahun bertekad untuk meminta Yesus men
 Anak-anak akan:
 
 - **Mengetahui** bahwa Yesus Mahakuasa.
-- **Merasakan** memiliki keinginan untuk mempercayai Yesus.
+- **Merasakan** memiliki keinginan untuk memercayai Yesus.
 - **Menanggapi** dengan meminta Yesus untuk mengubah mereka.

@@ -30,7 +30,7 @@ Beberapa aspek dari kepercayaan dasar berikut tercermin dalam pelajaran ini:
 
 ### Ringkasan Pelajaran
 
-Putri Yairus sakit dan hampir meninggal. Pemimpin Yahudi itu percaya bahwa Yesus dapat menolongnya. Ia menemui Yesus dan memohon agar Dia datang dan menyembuhkan putrinya. Di tengah perjalanan, hamba Yairus tiba dengan kabar bahwa putrinya telah meninggal. Yesus mendorong Yairus untuk percaya saja. Yairus mempercayai Yesus, dan mereka melanjutkan perjalanan ke rumah Yairus. Ketika Yesus tiba, Dia menyuruh semua orang keluar kecuali orang tua gadis itu dan tiga murid-Nya. Kemudian Dia membangkitkan gadis kecil itu dari kematian.
+Putri Yairus sakit dan hampir meninggal. Pemimpin Yahudi itu percaya bahwa Yesus dapat menolongnya. Ia menemui Yesus dan memohon agar Dia datang dan menyembuhkan putrinya. Di tengah perjalanan, hamba Yairus tiba dengan kabar bahwa putrinya telah meninggal. Yesus mendorong Yairus untuk percaya saja. Yairus memercayai Yesus, dan mereka melanjutkan perjalanan ke rumah Yairus. Ketika Yesus tiba, Dia menyuruh semua orang keluar kecuali orang tua gadis itu dan tiga murid-Nya. Kemudian Dia membangkitkan gadis kecil itu dari kematian.
 
 ### Tujuan Pembelajaran
 

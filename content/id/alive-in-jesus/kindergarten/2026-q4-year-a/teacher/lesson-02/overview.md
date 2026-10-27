@@ -26,7 +26,7 @@ Beberapa aspek dari kepercayaan dasar berikut tercermin dalam pelajaran ini:
 
 ### Kata Pilihan Minggu Ini
 
-**Percaya:** Ketika Anda mempercayai seseorang, Anda tahu di dalam hati bahwa apa yang mereka katakan adalah benar. Anda merasa yakin akan hal itu.
+**Percaya:** Ketika Anda memercayai seseorang, Anda tahu di dalam hati bahwa apa yang mereka katakan adalah benar. Anda merasa yakin akan hal itu.
 
 ### Ringkasan Pelajaran
 

@@ -12,7 +12,7 @@ Berikut beberapa fakta menarik tentang indra kita.
 
 **Sentuhan:** Bibir, lidah, dan jari kamu adalah bagian tubuh yang paling sensitif terhadap sentuhan.
 
-**Pengecapan:** kamu memiliki indra perasa di tempat lain selain lidah. Ada juga bagian di tenggorokan dan hidung yang kamu gunakan untuk merasakan rasa.
+**Pengecapan:** Kamu memiliki indra perasa di tempat lain selain lidah. Ada juga bagian di tenggorokan dan hidung yang kamu gunakan untuk merasakan rasa.
 
 ### Aktivitas
 

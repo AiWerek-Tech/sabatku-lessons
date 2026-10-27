@@ -25,18 +25,18 @@ Cetak templat kerajinan pekan ke-10, dan bahan-bahan seperti krayon, gunting, pi
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Berkemaslah”
-	- “Kami Menyambut Anda”
-	- “Yesus Adalah Tuhanku”
-	- “Apa yang Dapat Dilakukan Yesus?”
-	- “Dengarkan dan Perhatikan”
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
-	- Lagu Ayat Alkitab: “Yoel 2:32”
-	- “Yesus Mampu”
+	- “Pack It Up” (Berkemaslah)
+	- “We Welcome You” (Kami Menyambutmu)
+	- “Jesus Is My God” (Yesus Tuhanku)
+	- “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
+	- “Listen and Hear” (Dengarkan dan Perhatikan)
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
+	- Lagu Ayat Alkitab: “Joel 2:32” (Yoel 2:32)
+	- “Jesus Can” (Yesus Mampu)
 - Kartu Koleksi Alam 49: Burung Lyrebird yang Menakjubkan
 - PowerPoint Program Pekan ke-10
 - Fakta Singkat Misi

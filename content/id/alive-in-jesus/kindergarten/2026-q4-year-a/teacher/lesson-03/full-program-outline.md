@@ -6,15 +6,15 @@
 
 **BERMAIN:** Bertanya:
 
-- Pernahkah Anda patah tulang atau cedera pada lengan? Pernahkah Anda menggunakan gendongan lengan?
+- Pernahkah kamu patah tulang atau cedera pada lengan? Pernahkah kamu menggunakan gendongan lengan?
 
 Ajak anak-anak berpasangan. Tunjukkan gendongan lengan Anda kepada anak-anak, dan jelaskan cara memasang gendongan pada seseorang yang lengannya sakit. Ajak anak-anak bergiliran memasang gendongan pada pasangannya. Jelaskan bahwa gendongan membantu lengan kita untuk beristirahat dan sembuh. Tanyakan:
 
-- Apa saja cara lain yang dapat kita lakukan untuk membantu teman-teman kita ketika mereka terluka atau sakit? (Mengunjungi mereka, bernyanyi untuk mereka, membuatkan mereka kartu "Semoga Cepat Sembuh", berdoa bersama mereka.)
+- Apa saja cara lain yang dapat kita lakukan untuk membantu teman-teman kita ketika mereka terluka atau sakit? (Mengunjungi mereka, bernyanyi untuk mereka, membuatkan mereka kartu ucapan "Semoga Cepat Sembuh", berdoa bersama mereka.)
 
-**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack it Up.”
+**MENYANYI:** Awali program Sekolah Sabat dengan menyanyikan lagu “Pack It Up” (Berkemaslah).
 
-[♫ Berkemaslah](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
+[♫ Pack It Up (Berkemaslah)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/pack-it-up.mp3)
 
 ### SAMBUTAN, LAGU-LAGU, DOA (5 MENIT)
 
@@ -24,44 +24,44 @@ Ajak para pemimpin untuk mengucapkan "Halo" dalam bahasa lain.
 
 **MENYANYI:** Nyanyikan lagu-lagu berikut dengan gerakan dan alat peraga:
 
-- “Kami Menyambut Anda.” Kemudian tanyakan apakah ada anak-anak yang bisa mengucapkan “Halo” dalam bahasa lain.
-- “Tuhan Menolongku”
-- “Apa yang Dapat Dilakukan Yesus?”
+- “We Welcome You” (Kami Menyambutmu). Kemudian tanyakan apakah ada anak-anak yang bisa mengucapkan “Halo” dalam bahasa lain.
+- “God Helps Me” (Tuhan Menolongku)
+- “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
 
-[♫ Kami Menyambut Anda](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
+[♫ We Welcome You (Kami Menyambutmu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3)
 
-[♫ Tuhan Menolongku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/god-helps-me.mp3)
+[♫ God Helps Me (Tuhan Menolongku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/god-helps-me.mp3)
 
-[♫ Apa yang Dapat Dilakukan Yesus?](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/what-can-jesus-do.mp3)
+[♫ What Can Jesus Do? (Apa yang Dapat Dilakukan Yesus?)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/what-can-jesus-do.mp3)
 
 - Apa yang Yesus lakukan dalam cerita pelajaran kita minggu lalu? (Ia menyembuhkan putra bangsawan itu.) Bagikan bagaimana hari ini kita akan menemukan hal lain yang dapat Yesus lakukan, karena Ia dapat melakukan apa saja!
 
-- “Lagu Pengunjung” dan ucapan terima kasih
-- “Lagu Ulang Tahun” untuk anak mana pun yang berulang tahun minggu lalu.
+- “Visitor Song” (Lagu Pengunjung) dan ucapan terima kasih
+- “Happy Birthday” (Selamat ulang tahun) untuk anak mana pun yang berulang tahun minggu lalu.
 
-[♫ Lagu Pengunjung](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
+[♫ Visitor Song (Lagu Pengunjung)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/visitor-song.mp3)
 
-[♫ Selamat ulang tahun](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
+[♫ Happy Birthday (Selamat ulang tahun)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3)
 
-**BERDOA:** Nyanyikan lagu “When I Kneel Down to Pray” (Saat Aku Berlutut untuk Berdoa). Kemudian ajak seorang anak untuk berdoa. Lalu berdoalah juga, ucapkan terima kasih kepada Yesus atas firman-Nya dalam Alkitab, dan karena selalu menolong kita dan teman-teman kita.
+**BERDOA:** Nyanyikan lagu “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa). Kemudian ajak seorang anak untuk berdoa. Lalu berdoalah juga, ucapkan terima kasih kepada Yesus atas firman-Nya dalam Alkitab, dan karena selalu menolong kita dan teman-teman kita.
 
-[♫ Saat Aku Berlutut untuk Berdoa](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
+[♫ When I Kneel Down To Pray (Saat Aku Berlutut untuk Berdoa)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3)
 
 ### PERSEMBAHAN DAN AYAT HAFALAN (6 MENIT)
 
 **MEMBAGIKAN:** Bagikan Fakta Singkat Misi tentang persembahan misi triwulan ini dan bagikan betapa baiknya memberi kepada negara lain sehingga lebih banyak orang dapat belajar tentang Tuhan.
 
-**MEMBERI:** Nyanyikan lagu “Bukalah Hatiku, Bukalah Tanganku” dan ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk diberikan di tempat yang paling membutuhkan.
+**MEMBERI:** Nyanyikan lagu “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku) dan ajak seorang anak untuk mengumpulkan persembahan di wadah persembahan Anda. Kemudian berdoalah agar Tuhan menggunakan persembahan tersebut untuk diberikan di tempat yang paling membutuhkan.
 
-[♫ Bukalah Hatiku, Bukalah Tanganku](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
+[♫ Open My Heart, Open My Hand (Bukalah Hatiku, Bukalah Tanganku)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3)
 
 Setelah uang dihitung oleh orang dewasa, ajak seorang anak untuk mewarnai bagian selanjutnya dari Bagan Persembahan Anda untuk menunjukkan berapa banyak yang telah terkumpul pada triwulan ini.
 
-NYANYIKAN dan LAKUKAN: Nyanyikan lagu “Firman Tuhan,” dan ajak seorang anak untuk memegang Alkitab khusus kelas. Jelaskan bahwa Yesus Sendiri yang mengucapkan ayat hafalan hari ini. Tunjukkan kepada anak-anak cara menemukan ayat hafalan, Yohanes 10:10. Ucapkan bersama-sama dan dengarkan serta nyanyikan Lagu Alkitab: “Aku datang supaya mereka mempunyai hidup, dan supaya mereka mempunyai hidup yang lebih melimpah” (Yohanes 10:10).
+NYANYIKAN dan LAKUKAN: Nyanyikan lagu “God’s Words” (Firman Tuhan), dan ajak seorang anak untuk memegang Alkitab khusus kelas. Jelaskan bahwa Yesus Sendiri yang mengucapkan ayat hafalan hari ini. Tunjukkan kepada anak-anak cara menemukan ayat hafalan, Yohanes 10:10. Ucapkan bersama-sama dan dengarkan serta nyanyikan Lagu Alkitab: “Aku datang supaya mereka mempunyai hidup, dan supaya mereka mempunyai hidup yang lebih melimpah” (Yohanes 10:10).
 
-[♫ Firman Tuhan](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
+[♫ God’s Words (Firman Tuhan)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3)
 
-[♫ Yohanes 10:10](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/3-john-10-10.mp3)
+[♫ John 10:10 (Yohanes 10:10)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/3-john-10-10.mp3)
 
 Jelaskan bahwa "berlimpah" berarti memiliki banyak sekali sesuatu. Yesus ingin kita memiliki kehidupan yang penuh dan melimpah dengan kebaikan.
 
@@ -112,18 +112,18 @@ Berikan kepada setiap anak Kartu Pengumpul Alam 42: Lumba-lumba Biasa Berparuh P
 
 ### KERAJINAN TANGAN (15 MENIT)
 
-**KEAHLIAN:** Disembuhkan dengan Dua Cara. Ingatkan anak-anak bagaimana pria dalam cerita hari ini disembuhkan dengan dua cara: hatinya yang sedih dan berdosa dan tubuhnya yang hancur. Peragakan bagaimana mereka dapat membuat sosok pria dan tikarnya dan menggunakannya untuk menceritakan kisah tersebut kepada seorang teman. Mereka yang selesai lebih awal dapat berlatih menceritakan kisah tersebut satu sama lain.
+**KERAJINAN:** Disembuhkan dengan Dua Cara. Ingatkan anak-anak bagaimana pria dalam cerita hari ini disembuhkan dengan dua cara: hatinya yang sedih dan berdosa dan tubuhnya yang hancur. Peragakan bagaimana mereka dapat membuat sosok pria dan tikarnya dan menggunakannya untuk menceritakan kisah tersebut kepada seorang teman. Mereka yang selesai lebih awal dapat berlatih menceritakan kisah tersebut satu sama lain.
 
 **MENERAPKAN:** Bagikan bahwa hari ini kita belajar bahwa Yesus dapat menyembuhkan tubuh dan hati kita. (Angkat piring kertas bergambar wajah bahagia dari cerita tersebut.) Dia senang membantu kita dan teman-teman kita. (Angkat wajah bahagia yang lainnya.)
 
-- Bagaimana Anda dapat membagikan Yesus kepada seorang teman pekan ini? (Ceritakan tentang Dia kepada mereka, bagikan kerajinan tangan dan kisah-kisah tentang Dia, dan undang mereka ke Sekolah Sabat.)
+- Bagaimana kamu dapat membagikan Yesus kepada seorang teman pekan ini? (Ceritakan tentang Dia kepada mereka, bagikan kerajinan tangan dan kisah-kisah tentang Dia, dan undang mereka ke Sekolah Sabat.)
 
 Ajak anak-anak untuk mencari dua atau tiga teman sekarang juga untuk bergandengan tangan membentuk lingkaran. Hitungan ketiga, ajak mereka untuk menyebutkan Pesan Utama hari ini dengan gerakan—dan wajah yang sangat gembira! “Yesus [tunjuk ke atas] dapat melakukan apa saja [lompat dengan satu kepalan tangan di udara]. Dia senang membantu saya dan teman-teman saya” [berdiri dan bergandengan tangan].
 
 **TANTANGAN MISI:** Ingatkan anak-anak tentang lagu sambutan yang menyenangkan dan bahasa-bahasa yang telah dibagikan. Tantangan Misi pekan ini adalah belajar bagaimana mengatakan "Yesus mengasihimu" dalam bahasa lain dan memberi tahu seseorang yang berbicara bahasa tersebut.
 
-**MENYANYI:** Nyanyikan lagu “Yesus Mampu.” Sampaikan bahwa minggu depan kita akan belajar tentang bagaimana Yesus menolong seorang pria yang anaknya sakit parah.
+**MENYANYI:** Nyanyikan lagu “Jesus Can” (Yesus Mampu). Sampaikan bahwa minggu depan kita akan belajar tentang bagaimana Yesus menolong seorang pria yang anaknya sakit parah.
 
-[♫ Yesus Mampu](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
+[♫ Jesus Can (Yesus Mampu)](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-can.mp3)
 
 **BERDOA:** Ajak dua anak untuk berdoa. Satu anak dapat berdoa “Terima Kasih” (Terima kasih karena selalu membantu kami) dan satu anak dapat berdoa “Mohon” (Mohon bantu kami menceritakan tentang Engkau, Yesus kami yang luar biasa, kepada teman-teman kami).

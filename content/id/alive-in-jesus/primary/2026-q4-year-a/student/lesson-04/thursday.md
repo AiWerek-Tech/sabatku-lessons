@@ -20,7 +20,7 @@ Berdampingan dan bergandengan tangan, Petrus dan Yesus berjalan ke perahu dan na
 
 Petrus telah diingatkan untuk selalu memfokuskan pandangannya pada Yesus. Di tengah badai di laut dan badai di hatinya, ia perlu memusatkan perhatiannya pada Yesus.
 
-Yesus membantu kita melakukan hal yang mustahil ketika kita tetap memusatkan pandangan kita kepada-Nya, seperti halnya Dia membantu Petrus. Kita dapat mempercayai kuasa-Nya untuk membantu kita membuat pilihan yang baik dan melakukan hal-hal yang sulit.
+Yesus membantu kita melakukan hal yang mustahil ketika kita tetap memusatkan pandangan kita kepada-Nya, seperti halnya Dia membantu Petrus. Kita dapat memercayai kuasa-Nya untuk membantu kita membuat pilihan yang baik dan melakukan hal-hal yang sulit.
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#6a918c", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:

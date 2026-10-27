@@ -4,7 +4,7 @@ Bacalah **1 Raja-raja 19:1–9**.
 
 ## Pikirkan
 
-Dalam kisah itu, Elia merasa takut dan melarikan diri untuk menyelamatkan nyawanya. Namun, Allah tidak menyerah terhadapnya. Allah memberikan bukti kepada Elia bahwa Dia akan terus memeliharanya.
+Dalam kisah itu, Elia merasa takut dan melarikan diri untuk menyelamatkan nyawanya. Namun, Allah tidak berhenti memedulikannya. Allah memberikan bukti kepada Elia bahwa Dia akan terus memeliharanya.
 
 ## Tuliskan
 

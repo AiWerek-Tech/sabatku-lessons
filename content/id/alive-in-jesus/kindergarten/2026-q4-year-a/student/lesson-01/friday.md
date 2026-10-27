@@ -4,7 +4,7 @@ Para murid memandang Yesus dengan mata terbelalak penuh keheranan. Yesus telah m
 
 Dalam keheningan, suara-suara berbisik, “Siapakah Dia, sehingga angin dan laut pun taat kepada-Nya!” (Markus 4:41).
 
-Kita tahu jawabannya! Yesus adalah Tuhan. Dia mahakuasa. Kita selalu dapat mempercayai-Nya untuk menolong kita. Dia membuat hati kita damai.
+Kita tahu jawabannya! Yesus adalah Tuhan. Dia mahakuasa. Kita selalu dapat memercayai-Nya untuk menolong kita. Dia membuat hati kita damai.
 
 Saat guntur bergemuruh di luar jendela dan hujan turun deras, jangan takut. Ingatlah bahwa Yesus menyertai kamu.
 

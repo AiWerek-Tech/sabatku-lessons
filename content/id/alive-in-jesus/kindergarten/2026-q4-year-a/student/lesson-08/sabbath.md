@@ -18,4 +18,4 @@ Sekarang setelah kamu tersenyum, berjalan-jalanlah dan kumpulkan hal-hal ciptaan
 
 Bawalah pulang dan temukan benda-benda lain di rumah yang memberikan sukacita pada hari Sabat (misalnya, Alkitab, alat musik). Susun semuanya dalam bentuk senyuman lebar.
 
-Nyanyikan lagu “Jesus Loves Me” bersama-sama. Mungkin kali ini kalian bisa menambahkan beberapa gerakan!
+Nyanyikan lagu “Jesus Loves Me” (Yesus Mengasihiku) bersama-sama. Mungkin kali ini kalian bisa menambahkan beberapa gerakan!

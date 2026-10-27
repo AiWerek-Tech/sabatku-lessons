@@ -46,7 +46,7 @@ Bahkan ketika kita mengalihkan pandangan dari Allah, Dia tidak mengalihkan panda
 
 ### Pengayaan Guru
 
-> “Kristus tidak akan pernah meninggalkan orang-orang yang untuk mereka Ia telah mati. Kita mungkin meninggalkan Dia dan dikuasai oleh pencobaan, tetapi Kristus tidak pernah dapat berpaling dari orang yang untuknya Ia telah membayar tebusan dengan nyawa-Nya sendiri. Seandainya pandangan rohani kita dapat dipertajam, kita akan melihat jiwa-jiwa yang terbungkuk oleh penindasan dan dibebani kesedihan, tertekan seperti kereta yang sarat dengan berkas-berkas hasil panen, dan hampir mati karena putus asa. Kita akan melihat malaikat-malaikat terbang dengan cepat untuk menolong orang-orang yang dicobai ini, memukul mundur pasukan kejahatan yang mengelilingi mereka, dan menempatkan kaki mereka di atas dasar yang teguh. Pertempuran antara kedua pasukan itu sama nyatanya dengan pertempuran yang dilakukan pasukan-pasukan dunia ini, dan nasib kekal bergantung pada hasil peperangan rohani tersebut.” (*Prophets and Kings*, hlm. 176; terjemahan dari kutipan yang dicetak dalam penuntun.)
+> “Kristus tidak akan pernah meninggalkan orang-orang yang untuk mereka Ia telah mati. Kita mungkin meninggalkan Dia dan dikuasai oleh pencobaan, tetapi Kristus tidak pernah dapat berpaling dari orang yang untuknya Ia telah membayar tebusan dengan nyawa-Nya sendiri. Seandainya pandangan rohani kita dapat dipertajam, kita akan melihat jiwa-jiwa yang terbungkuk oleh penindasan dan dibebani kesedihan, tertekan seperti kereta yang sarat dengan berkas-berkas hasil panen, dan hampir mati karena putus asa. Kita akan melihat malaikat-malaikat terbang dengan cepat untuk menolong orang-orang yang dicobai ini, memukul mundur pasukan kejahatan yang mengelilingi mereka, dan menempatkan kaki mereka di atas dasar yang teguh. Pertempuran antara kedua pasukan itu sama nyatanya dengan pertempuran yang dilakukan pasukan-pasukan dunia ini, dan nasib kekal bergantung pada hasil peperangan rohani tersebut.” (*Prophets and Kings*, hlm. 176.)
 
 Bagaimana perasaanku ketika mengetahui bahwa malaikat-malaikat siap datang dengan cepat untuk menolongku? Apa artinya bagiku bahwa Kristus tidak akan pernah meninggalkanku?
 
@@ -246,10 +246,10 @@ Sampaikan kegembiraan dan kesedihan siswa (hal-hal yang menyenangkan dan menyusa
 
 ### Lagu yang Disarankan
 
-- “Got a Reason for Livin’ Again” (*He Is Our Song*, no. 79).
-- “Thy Word” (*He Is Our Song*, no. 88).
-- “Cares Chorus” (*He Is Our Song*, no. 141).
-- “Think About His Love” (*He Is Our Song*, no. 40).
+- “Got a Reason for Livin’ Again” (Kumiliki Alasan untuk Hidup Kembali) (*He Is Our Song*, no. 79).
+- “Thy Word” (Firman-Mu) (*He Is Our Song*, no. 88).
+- “Cares Chorus” (Nyanyian Penyerahan Kekhawatiran) (*He Is Our Song*, no. 141).
+- “Think About His Love” (Renungkan Kasih-Nya) (*He Is Our Song*, no. 40).
 
 ### Misi
 
@@ -261,7 +261,7 @@ Gunakan *Adventist Mission* untuk remaja dan dewasa (kunjungi www.juniorpowerpoi
 
 **Perlengkapan:** kotak persembahan pelangi.
 
-Teruslah menggunakan kotak persembahan pelangi dari empat minggu yang lalu. Pilih warna yang berbeda dan bicarakan apa yang dilambangkan warna itu. Anda boleh menyanyikan “The Coloring Song” (*He Is Our Song*, no. 61). **Tanyakan:** Bagaimana warna ini mencerminkan kasih karunia Allah?
+Teruslah menggunakan kotak persembahan pelangi dari empat minggu yang lalu. Pilih warna yang berbeda dan bicarakan apa yang dilambangkan warna itu. Anda boleh menyanyikan “The Coloring Song” (Nyanyian tentang Warna) (*He Is Our Song*, no. 61). **Tanyakan:** Bagaimana warna ini mencerminkan kasih karunia Allah?
 
 ### Doa
 
@@ -378,13 +378,13 @@ Tutup dengan pujian kepada Allah atas kasih karunia-Nya yang mengampuni dan memu
 
 **Katakan:** Nehemia berdoa. Kita menyatakan kasih Allah ketika kita melayani orang lain.
 
-*Halaman cetak 61 merupakan halaman catatan kosong dalam sumber.*
+
 
 ---
 
 ## Lampiran — Kisah untuk Siswa (Halaman 62)
 
-Materi siswa yang dicetak ulang dalam penuntun guru dipertahankan di bawah ini sebagai referensi guru, terpisah dari berkas harian siswa.
+
 
 ## Kisah Alkitab — Berlari Bersama Allah
 
@@ -412,7 +412,7 @@ Namun, itu bukan terakhir kalinya kita mendengar tentang Elia dan pekerjaannya b
 
 Ketika Yesus berada di bumi dan memikirkan pengorbanan besar yang akan dilakukan-Nya bagi kita, Elia turun kembali dari surga bersama Musa untuk menguatkan Yesus. Elia hadir untuk mengingatkan Yesus tentang semua orang yang suatu hari akan dapat pergi ke surga tanpa mengalami kematian. Musa hadir untuk mengingatkan Yesus tentang semua orang lain yang akan mati, tetapi akan dibangkitkan dan pergi ke surga ketika Yesus datang kembali.
 
-Elia bukan hanya menguatkan Yesus—ia juga menguatkan ketiga murid yang berada di sana bersama Yesus. Mereka inilah yang akan memimpin gereja Kristen yang baru ketika Yesus tidak lagi bersama mereka.
+Elia bukan hanya menguatkan Yesus—ia juga menguatkan ketiga murid yang berada di sana bersama Yesus. Mereka inilah yang akan memimpin gereja Kristen yang baru setelah Yesus kembali ke surga.
 
 Jadi, Elia yang dahulu lelah, tertekan, putus asa, dan ingin mati menjadi salah seorang nabi Allah yang paling penting. Betapa mengagumkannya Allah kita! Ia mengangkat kita ketika kita jatuh dan menemukan kita ketika kita melarikan diri. Ia membawa kita kembali ke jalan yang benar dan menolong kita terus bertumbuh menjadi pribadi sebagaimana yang dikehendaki-Nya.
 

@@ -18,7 +18,7 @@ Sekarang, giliran Maria berlutut di kaki Yesus. "Tuhan, jika Engkau ada di sini,
 
 Apa yang Yesus lakukan? **Bacalah Yohanes 11:35.**
 
-Mata Yesus dipenuhi air mata. Hati-Nya sangat sedih. Ia sedih untuk teman-teman-Nya, Maria, Marta, dan Lazarus. Ia sedih untuk setiap orang yang merasa sedih ketika orang yang mereka cintai meninggal. Ia sangat sedih atas semua penderitaan yang disebabkan dosa kepada manusia di bumi. Yesus menangis.
+Mata Yesus dipenuhi air mata. Hati-Nya sangat sedih. Ia ikut merasakan kesedihan sahabat-sahabat-Nya, Maria, Marta, dan Lazarus. Ia turut berduka bersama setiap orang yang kehilangan orang terkasih. Ia sangat sedih atas semua penderitaan yang disebabkan dosa kepada manusia di bumi. Yesus menangis.
 
 Yesus adalah Sahabat dan Juruselamat yang penuh kasih!
 

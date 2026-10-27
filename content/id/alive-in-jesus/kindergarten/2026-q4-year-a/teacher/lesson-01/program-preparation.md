@@ -33,18 +33,18 @@ Perlengkapan yang dibutuhkan: botol plastik dengan tutup ulir untuk setiap anak,
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Berkemaslah”
-	- “Kami Menyambut Anda”
-	- “Tuhan Menolongku”
-	- “Tumbuh Dewasa Bersama Yesus”
-	- “Apa yang Dapat Dilakukan Yesus?”
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
-	- Lagu Ayat Alkitab: “Markus 4:39”
-	- “Yesus Mampu”
+	- “Pack It Up” (Berkemaslah)
+	- “We Welcome You” (Kami Menyambutmu)
+	- “God Helps Me” (Tuhan Menolongku)
+	- “Growing Up With Jesus” (Bertumbuh Bersama Yesus)
+	- “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
+	- Lagu Ayat Alkitab: “Mark 4:39” (Markus 4:39)
+	- “Jesus Can” (Yesus Mampu)
 - Bagan Persembahan
 - Kartu Koleksi Alam 40: Manatee Florida
 - PowerPoint Program Pekan 1

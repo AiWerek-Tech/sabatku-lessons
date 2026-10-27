@@ -1,0 +1,101 @@
+{
+  "shared": [
+    ["mempercayai", "memercayai"],
+    ["Mempercayai", "Memercayai"]
+  ],
+  "teacher": [
+    ["Nyanyikan **Lagu Kitab Suci**, dan mengajak orang tua dan anak-anak", "Nyanyikan lagu ayat hafalan, lalu ajak orang tua dan anak-anak"],
+    ["Nyanyikan **Lagu Kitab Suci**, dan ajak orang tua dan anak-anak", "Nyanyikan lagu ayat hafalan, lalu ajak orang tua dan anak-anak"],
+    ["Setiap minggu, pilih satu anak", "Setiap pekan, pilih satu anak"],
+    ["rumah Allah, tabernakel", "rumah Tuhan, yaitu Kemah Suci"],
+    ["rumah Tuhan, tabernakel", "rumah Tuhan, yaitu Kemah Suci"],
+    ["membagikan cerita Alkitab, bersama dengan barang-barang dalam tas cerita", "menyampaikan cerita Alkitab dengan alat peraga dalam tas cerita"],
+    ["- Alkitab Kecil", "- Alkitab kecil dari karton"],
+    ["Tuhan menjagaku.", "Tuhan memeliharaku."],
+    ["Tuhan tahu namaku.", "Tuhan mengenal namaku."],
+    ["Aku bisa membantu Tuhan.", "Aku bisa menolong Tuhan."]
+  ],
+  "files": {
+    "teacher/lesson-01/story.md": [
+      ["Seperti apa ekspresi perasaan sedih itu?", "Seperti apa wajah kita saat sedih?"],
+      ["Imam Eli melihat ada sesuatu yang salah dengan Hana.", "Imam Eli melihat bahwa Hana sedang sedih."],
+      ["Bergantianlah membentuk lingkaran, ayunkan boneka bayi dengan lembut", "Dalam lingkaran, ajak anak-anak bergantian mengayun boneka bayi dengan lembut"],
+      ["Allah telah memberikannya kepadanya. Sekarang ia akan menyerahkannya kepada Allah", "Tuhan telah memberikan Samuel kepada Hana. Sekarang Hana menyerahkan Samuel kepada Tuhan"]
+    ],
+    "teacher/lesson-02/story.md": [
+      ["Ia siap untuk hari itu!", "Ia siap memulai hari!"],
+      ["Pujilah dan dorong usaha serta ide-ide mereka.", "Hargai usaha dan ide anak-anak, lalu berilah semangat kepada mereka."]
+    ],
+    "teacher/lesson-03/story.md": [
+      ["Shh! Sudah waktunya kita tidur", "Ssst! Sekarang waktunya tidur"],
+      ["panggilan Tuhan. Ia menyuruh Samuel untuk berkata pada kali berikutnya", "Tuhan yang memanggil. Eli menyuruh Samuel menjawab jika suara itu terdengar lagi"]
+    ],
+    "teacher/lesson-04/story.md": [
+      ["kendi air mereka penuh dengan air—glug, glug, glug", "kendi mereka penuh air—gluk, gluk, gluk"],
+      ["keranjang makanannya dengan banyak roti lembut—enak!", "keranjang makanannya dengan roti yang lembut—nyam!"]
+    ],
+    "teacher/lesson-05/story.md": [
+      ["mengumpulkan gandum yang ditinggalkannya di ladangnya", "mengumpulkan biji-bijian yang tertinggal di ladangnya"],
+      ["membuat \"ladang\" panen musiman bersama-sama", "membuat miniatur ladang yang siap dipanen bersama-sama"],
+      ["Bisikkan, bisikkan. Shh!", "Bisik, bisik. Ssst!"],
+      ["_Mencari, mencari, mencari... Menemukan beberapa!_", "_Cari, cari, cari ... dapat lagi!_"]
+    ],
+    "teacher/lesson-06/story.md": [
+      ["hidung panjang mereka untuk menjauhkan bahaya", "moncongnya yang panjang untuk melindungi kawanan dari bahaya"],
+      ["Bagaimana kamu akan berdiri jika ada telur di kakimu?", "Bisakah kamu berdiri seperti penguin yang menjaga telur di atas kakinya?"]
+    ],
+    "teacher/lesson-07/story.md": [
+      ["Gajah-gajah besar yang menginjak-injak tanah adalah penolong yang hebat.", "Gajah yang besar berjalan dengan langkah berat. Mereka juga suka menolong!"],
+      ["mereka berjalan bergoyang-goyang. Burung-burung besar ini juga penolong!", "mereka berjalan bergoyang-goyang. Burung-burung besar ini juga suka menolong!"],
+      ["huruf \"v\"", "huruf V"],
+      ["formasi \"v\"", "formasi V"]
+    ],
+    "teacher/lesson-08/story.md": [
+      ["Sekarang teriakkan dengan lantang, hitungan ketiga", "Sekarang, pada hitungan ketiga, sebutkan namamu dengan lantang"],
+      ["Biji-biji ini tumbuh berakar dan menjadi pohon-pohon baru.", "Biji-biji itu berakar dan tumbuh menjadi pohon baru."]
+    ],
+    "teacher/lesson-09/story.md": [
+      ["Haruskah ia mempercayai Maria?", "Benarkah kabar yang disampaikan Maria?"],
+      ["Haruskah ia memercayai Maria?", "Benarkah kabar yang disampaikan Maria?"]
+    ],
+    "teacher/lesson-10/story.md": [
+      ["**_Klip-klop, klip-klop,_ kata keledai kecil itu, menyusuri jalan. Jalannya bergelombang.**", "**_Tuk, tak, tuk, tak,_ bunyi langkah keledai kecil menyusuri jalan yang tidak rata.**"],
+      ["_Klip-klop, klip-klop, klip-klop._", "_Tuk, tak, tuk, tak._"],
+      ["Yusuf memandang Maria. Ia sangat lelah. Ia benar-benar membutuhkan tempat tidur! Pemilik penginapan tahu di mana ia bisa tidur!", "Yusuf memandang Maria yang sangat lelah. Maria benar-benar perlu beristirahat! Pemilik penginapan tahu tempat yang bisa mereka pakai."]
+    ],
+    "teacher/lesson-11/story.md": [
+      ["(Wah, wah!) **Itu bayi!", "(Oek, oek!) **Itu suara bayi!"],
+      ["Para malaikat menjagamu.", "Para malaikat menjaga-Mu."],
+      ["Allah Bapa selalu bersamamu.", "Allah Bapa selalu bersama-Mu."],
+      ["Maria dan Yusuf akan mengasihi dan merawatmu.", "Maria dan Yusuf akan mengasihi dan merawat-Mu."],
+      ["Kami juga akan mengasihimu!", "Kami juga mengasihi-Mu!"]
+    ],
+    "teacher/lesson-12/story.md": [
+      ["sayap malaikat/properti", "sayap atau alat peraga malaikat"],
+      ["**Suara apa yang dikeluarkan domba? (Baa.)", "**Bagaimana suara domba? (Mbee.)"]
+    ],
+    "teacher/lesson-13/story.md": [
+      ["Jauh, jauh dari Betlehem hiduplah beberapa Orang Majus.", "Jauh dari Betlehem, hiduplah beberapa orang majus."],
+      ["menggerakkan Orang-orang majus", "menggerakkan boneka orang-orang majus"],
+      ["tetapi Orang Majus tidak tidur", "tetapi orang-orang majus tidak tidur"],
+      ["menggerakkan Orang Majus dan unta", "menggerakkan boneka orang-orang majus dan unta"],
+      ["orang-orang Majus sampai ke Betlehem", "orang-orang majus sampai ke Betlehem"],
+      ["sebuah hadiah kecil yang dibungkus dengan cerah", "sebuah hadiah kecil berbungkus kertas warna-warni"],
+      ["dua guci parfum yang disebut kemenyan dan mur", "dua wadah wewangian, yaitu kemenyan dan mur"],
+      ["barang-barang yang telah Anda letakkan di dalamnya", "benda-benda dari tas cerita"]
+    ],
+    "teacher/unit-resource-preparation/preparation.md": [
+      ["tergantung pada hari Penciptaan yang Anda ajarkan", "sesuai kegiatan yang akan dilakukan"],
+      ["Terdapat penutup di bagian atas untuk menutup dan menyembunyikan saat tidak digunakan dalam program.", "Lengkapi wadah dengan penutup agar dapat ditutup ketika tidak digunakan."],
+      ["benda alam yang berbeda pilihan Anda setiap pekan", "benda-benda alam pilihan Anda yang berbeda setiap pekan"],
+      ["_Lagu Nature Box juga dapat diunduh di www.aliveinjesus.info._", "_Lagu “Nature Box” (Kotak Alam) juga dapat diunduh di www.aliveinjesus.info._"],
+      ["item pekanan spesifik yang dapat ditempatkan di dalam tas cerita", "alat peraga yang perlu dimasukkan ke tas cerita setiap pekan"]
+    ],
+    "student/lesson-02/story.md": [
+      ["Ia tidak terburu-buru dan tidak melewatkan pekerjaannya.", "Ia tidak terburu-buru dan tidak mengerjakannya asal-asalan."]
+    ],
+    "student/lesson-10/parent-reflection.md": [
+      ["Apakah Anda memintanya datang lagi nanti?", "Apakah Anda meminta-Nya datang lagi nanti?"]
+    ]
+  }
+}

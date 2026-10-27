@@ -13,7 +13,7 @@ Yesus sudah mengetahui tentang anak yang sakit itu. Ia juga mengetahui keraguan 
 
 Apa yang akan Yesus katakan? Apa yang akan Yesus lakukan?
 
-Yesus kita yang penuh kasih memahami ketika keraguan bertentangan dengan iman di dalam hati kita. Terkadang kita mungkin tergoda untuk berkata, “Jika Tuhan menjawab doa saya, maka saya akan percaya dan mengasihi Dia.” Meskipun Yesus memahami pikiran-pikiran ini, Dia juga tahu bahwa kita akan jauh lebih bahagia ketika kita datang kepada-Nya dengan keraguan dan kekhawatiran kita, dan mempercayai-Nya untuk menumbuhkan iman kita. Itulah sebabnya Firman-Nya berkata, “Hai manusia, percayalah kepada Allah setiap saat. Ceritakanlah segala masalahmu kepada-Nya. Allah adalah perlindungan kita” (Mazmur 62:8, ICB).
+Yesus kita yang penuh kasih memahami ketika keraguan bertentangan dengan iman di dalam hati kita. Terkadang kita mungkin tergoda untuk berkata, “Jika Tuhan menjawab doa saya, maka saya akan percaya dan mengasihi Dia.” Meskipun Yesus memahami pikiran-pikiran ini, Dia juga tahu bahwa kita akan jauh lebih bahagia ketika kita datang kepada-Nya dengan keraguan dan kekhawatiran kita, dan memercayai-Nya untuk menumbuhkan iman kita. Itulah sebabnya Firman-Nya berkata, “Hai manusia, percayalah kepada Allah setiap saat. Ceritakanlah segala masalahmu kepada-Nya. Allah adalah perlindungan kita” (Mazmur 62:8, ICB).
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#7c9843", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:

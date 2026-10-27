@@ -46,7 +46,7 @@ Ketika mengisahkan bagian dari cerita kelahiran Yesus ini, Matius menekankan bag
 
 ### Pengayaan Guru
 
-“Pada zaman Alkitab, pertunangan memiliki kekuatan hukum yang sama mengikatnya dengan pernikahan. Dalam suatu upacara di hadapan para saksi, calon mempelai laki-laki membayar mas kawin, atau *mohar*, kepada ayah tunangannya; transaksi ini mengesahkan ikatan pasangan tersebut. Masa pertunangan biasanya berlangsung satu tahun. Selama masa itu, keduanya dianggap sebagai suami dan istri, sehingga mereka hanya dapat berpisah melalui perceraian resmi.” (*Illustrated Dictionary of Bible Life and Times* [Pleasantville, N.Y.: Reader’s Digest Association, 1997], hlm. 122; terjemahan dari kutipan dalam sumber guru.)
+“Pada zaman Alkitab, pertunangan memiliki kekuatan hukum yang sama mengikatnya dengan pernikahan. Dalam suatu upacara di hadapan para saksi, calon mempelai laki-laki membayar mas kawin, atau *mohar*, kepada ayah tunangannya; transaksi ini mengesahkan ikatan pasangan tersebut. Masa pertunangan biasanya berlangsung satu tahun. Selama masa itu, keduanya dianggap sebagai suami dan istri, sehingga mereka hanya dapat berpisah melalui perceraian resmi.” (*Illustrated Dictionary of Bible Life and Times* [Pleasantville, N.Y.: Reader’s Digest Association, 1997], hlm. 122.)
 
 Situasi apakah dalam hidup saya yang membutuhkan kepercayaan besar kepada Allah? Bagaimana saya akan memercayai rencana-Nya bagi hidup saya hari ini? Bagaimana saya akan memuji Allah karena rencana-rencana-Nya memberikan rasa aman?
 
@@ -186,7 +186,7 @@ Sampaikan sukacita dan kesedihan siswa sebagaimana mereka ceritakan di pintu mas
 
 ### Lagu yang Disarankan
 
-- “Emmanuel” (*He Is Our Song*, No. 52).
+- “Emmanuel” (Imanuel) (*He Is Our Song*, No. 52).
 - Lanjutkan menggunakan lagu-lagu Natal yang sesuai dan telah Anda pilih.
 
 ### Misi
@@ -299,7 +299,7 @@ Atau, seperti yang dikatakan Hudson Taylor:
 > Segala sesuatu yang tampak paling keliru pun menjadi benar,  
 > Jika itulah kehendak-Nya yang penuh kasih.
 
-(Robert J. Morgan, *Nelson’s Complete Book of Stories, Illustrations, & Quotes*, hlm. 653–654; terjemahan puisi dari kutipan dalam sumber.)
+(Robert J. Morgan, *Nelson’s Complete Book of Stories, Illustrations, & Quotes*, hlm. 653–654.)
 
 **Diskusi**
 
@@ -475,7 +475,7 @@ Bicarakanlah dengan seseorang tentang karakter Yusuf. Mengapa menurutmu Allah me
 
 ## Doakan
 
-Mintalah kepada Allah agar kamu memiliki karakter yang berintegritas ketika berhadapan dengan orang lain yang menyakitimu atau memperlakukanmu secara tidak adil.
+Mintalah kepada Allah agar kamu memiliki sikap jujur dan teguh dalam kebenaran ketika berhadapan dengan orang lain yang menyakitimu atau memperlakukanmu secara tidak adil.
 
 ### Selasa
 
@@ -489,7 +489,7 @@ Mengapa penting bagi Maria dan Yusuf untuk melihat serta mendengar seorang malai
 
 ## Tuliskan
 
-Dalam jurnal pelajaran Alkitabmu, tuliskan menurut pendapatmu bagaimana pemberitahuan dari malaikat membantu Maria dan Yusuf memercayai rencana Allah bagi kehidupan mereka.
+Dalam jurnal pendalaman Alkitabmu, tuliskan menurut pendapatmu bagaimana pemberitahuan dari malaikat membantu Maria dan Yusuf memercayai rencana Allah bagi kehidupan mereka.
 
 ## Doakan
 
@@ -517,7 +517,7 @@ Bacalah Amsal 3:5–6.
 
 ## Tuliskan
 
-Adakah situasi dalam hidupmu yang membuatmu perlu memercayai Allah? Tuliskan kebutuhanmu itu dalam jurnal pelajaran Alkitabmu.
+Adakah situasi dalam hidupmu yang membuatmu perlu memercayai Allah? Tuliskan kebutuhanmu itu dalam jurnal pendalaman Alkitabmu.
 
 ## Diskusikan
 
@@ -535,7 +535,7 @@ Bacalah Mazmur 20:7; 32:8–10; 56:3–4, 11.
 
 ## Diskusikan
 
-Apa saja hal-hal selain Allah yang dipercayai orang, dan mengapa mereka memercayainya?
+Selain Allah, apa saja yang dijadikan sandaran oleh orang-orang, dan mengapa?
 
 ## Pikirkan
 
@@ -552,5 +552,3 @@ Dalam ibadah keluarga, nyanyikan bersama beberapa lagu yang menyatakan kepercaya
 ## Doakan
 
 Bersyukurlah kepada Allah karena kamu dapat memercayai-Nya dan karena Ia mempunyai rencana bagimu dan bagi setiap anggota keluargamu.
-
-*Catatan sumber:* Referensi kegiatan di atas tercetak sebagai ringkasan harian pada halaman 123 dan juga termuat dalam buku siswa halaman 83–86. Ilustrasi teka-teki lengkap terdapat dalam PDF siswa halaman 88 dan pada berkas `Teka-teki Pelajaran 11 - Sumber.png` di folder siswa; pola malaikat halaman 158 tidak terdapat dalam PDF guru yang diberikan.

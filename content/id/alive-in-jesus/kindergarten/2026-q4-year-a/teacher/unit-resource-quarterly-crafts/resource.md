@@ -12,7 +12,7 @@
 
 ![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/2d.png)
 
-**Sumber daya/perlengkapan:** Templat kerajinan pekan ke-2 di atas kertas karton, pensil warna, gunting, peniti kerajinan.
+**Sumber daya/perlengkapan:** Templat kerajinan pekan ke-2 di atas kertas karton, pensil warna, gunting, kancing belah untuk kerajinan.
 
 ### Pekan ke-3: Menjadi Sahabat Yesus
 
@@ -46,7 +46,7 @@ Potongan kain flanel atau kain lainnya, stik kerajinan, jepitan baju kayu, pensi
 
 ![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/003-quarterly-crafts/6e.png)
 
-**Sumber daya/perlengkapan:** Templat kerajinan pekan ke-6 di atas kertas karton, pensil warna, gunting, peniti kerajinan.
+**Sumber daya/perlengkapan:** Templat kerajinan pekan ke-6 di atas kertas karton, pensil warna, gunting, kancing belah untuk kerajinan.
 
 ### Pekan ke-7: “Gadis Kecil, Bangunlah!”
 

@@ -25,17 +25,17 @@ Cetak templat kerajinan pekan ke-7 di atas kertas karton, jepitan baju kayu (sat
 ### Sumber dari situs web AIJ (www.aliveinjesus.info)
 
 - Musik:
-	- “Berkemaslah”
-	- “Kami Menyambut Anda”
-	- “Sahabatku Selamanya, Yesus”
-	- “Apa yang Dapat Dilakukan Yesus?”
-	- “Lagu Tamu”
-	- "Selamat ulang tahun"
-	- “Bukalah Hatiku, Bukalah Tanganku”
-	- “Saat Aku Berlutut untuk Berdoa”
-	- “Firman Tuhan”
+	- “Pack It Up” (Berkemaslah)
+	- “We Welcome You” (Kami Menyambutmu)
+	- “My Forever Friend Jesus” (Sahabatku Selamanya, Yesus)
+	- “What Can Jesus Do?” (Apa yang Dapat Dilakukan Yesus?)
+	- “Visitor Song” (Lagu Pengunjung)
+	- "Happy Birthday" (Selamat ulang tahun)
+	- “Open My Heart, Open My Hand” (Bukalah Hatiku, Bukalah Tanganku)
+	- “When I Kneel Down To Pray” (Saat Aku Berlutut untuk Berdoa)
+	- “God’s Words” (Firman Tuhan)
 	- Lagu Ayat Alkitab: 1 Korintus 15:22
-	- “Yesus Mampu”
+	- “Jesus Can” (Yesus Mampu)
 - Kartu Koleksi Alam 46: Kungkang Berbulu Lebat
 - PowerPoint Program Pekan ke-7
 - Fakta Singkat Misi

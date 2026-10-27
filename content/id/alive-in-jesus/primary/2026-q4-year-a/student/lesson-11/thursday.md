@@ -1,7 +1,7 @@
 {"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/11/image5.png)
 
-Hati Yesus pasti dipenuhi sukacita ketika Ia mendengar perwira itu menyatakan imannya kepada-Nya. Ia tahu bahwa orang ini dibesarkan dengan mempercayai berhala-berhala Roma, dan bahwa ia baru-baru ini mendengar tentang satu-satunya Allah yang benar. Namun ia percaya bahwa Yesus adalah Juruselamat.
+Hati Yesus pasti dipenuhi sukacita ketika Ia mendengar perwira itu menyatakan imannya kepada-Nya. Ia tahu bahwa orang ini dibesarkan dengan memercayai berhala-berhala Roma, dan bahwa ia baru-baru ini mendengar tentang satu-satunya Allah yang benar. Namun ia percaya bahwa Yesus adalah Juruselamat.
 
 Yesus tidak akan membiarkan iman yang luar biasa itu luput dari perhatian. Para pemimpin Yahudi, teman-teman perwira itu, dan seluruh orang banyak perlu mendengar tentang iman perwira yang menakjubkan itu!
 

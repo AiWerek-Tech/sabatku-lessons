@@ -330,7 +330,6 @@ Katakan: **Seorang malaikat berbicara kepada Yusuf. Kita menyembah Allah ketika 
 
 # Lampiran Penuntun Guru — Materi Siswa yang Dicetak Ulang
 
-*Bagian berikut mempertahankan materi siswa yang juga dicetak ulang pada halaman 112–113 buku guru. Ini adalah lampiran referensi bagi guru, bukan instruksi tambahan untuk siswa dan bukan berkas hari yang terpisah.*
 
 ## Referensi Pelajaran Siswa (halaman 112–113)
 
@@ -365,7 +364,7 @@ Kemudian malaikat itu memberi tahu Maria bahwa Elisabet, kerabatnya, juga akan m
 
 Maria menundukkan kepala. Ia sangat terkejut, tetapi tanpa ragu-ragu berkata kepada malaikat itu, “Aku ini hamba Tuhan. ... Jadilah padaku menurut perkataanmu itu” (Lukas 1:28–38).
 
-Setelah malaikat itu pergi, Maria berdoa dengan tenang untuk waktu yang lama. Kemudian ia perlahan-lahan berdiri dan memandang sekeliling ruangan sederhana yang sudah begitu dikenalnya. Semuanya masih sama seperti sebelum malaikat itu datang. Namun, semuanya juga terasa sangat berbeda. Maria tidak akan pernah lagi memandang ruangan itu dengan cara yang sama. Apa yang baru saja terjadi? *Benarkah seorang malaikat tadi ada di sini?* pikirnya. Ia harus menceritakan hal ini kepada seseorang, kalau tidak, ia sendiri akan sulit mempercayainya. Tetapi kepada siapa? Siapa yang akan mempercayainya?
+Setelah malaikat itu pergi, Maria berdoa dengan tenang untuk waktu yang lama. Kemudian ia perlahan-lahan berdiri dan memandang sekeliling ruangan sederhana yang sudah begitu dikenalnya. Semuanya masih sama seperti sebelum malaikat itu datang. Namun, semuanya juga terasa sangat berbeda. Maria tidak akan pernah lagi memandang ruangan itu dengan cara yang sama. Apa yang baru saja terjadi? *Benarkah seorang malaikat tadi ada di sini?* pikirnya. Ia harus menceritakan hal ini kepada seseorang, kalau tidak, ia sendiri akan sulit memercayainya. Tetapi kepada siapa? Siapa yang akan memercayainya?
 
 Maria merenungkan perkataan malaikat itu. Malaikat tersebut telah menyebut Elisabet, kerabatnya. Elisabet juga akan mempunyai seorang anak yang istimewa. Ia tentu akan memahami apa yang sangat ingin Maria bicarakan. Maria segera sibuk menyiapkan segala sesuatu agar bisa meninggalkan rumah untuk sementara waktu. Ia mengemas sedikit barang untuk dibawa dalam perjalanan menuju daerah pegunungan.
 
@@ -391,7 +390,7 @@ Kerjakan kegiatan minggu ini pada halaman 75 buku siswa, yaitu teka-teki **“Me
 
 **Petunjuk:** Temukan setiap kata dari ayat Alkitab berikut (tidak termasuk referensi yang ada dalam tanda kurung), yang tersembunyi dalam teka-teki di bawah ini. Kata-katanya berbelok dan berubah arah—maju, mundur, ke atas, ke bawah, atau diagonal—dan tidak mengikuti satu garis lurus. Huruf pertama setiap kata berada di samping huruf terakhir kata sebelumnya. Jadi, kamu seharusnya dapat menarik satu garis melalui seluruh teka-teki tanpa mengangkat pensil.
 
-> “Kita mengasihi, karena Allah lebih dahulu mengasihi kita.” (1 Yohanes 4:19; terjemahan makna sumber NIV — **periksa redaksi TB 1974**).
+> “Kita mengasihi, karena Allah lebih dahulu mengasihi kita.” (1 Yohanes 4:19).
 
 ### Minggu
 
@@ -415,11 +414,11 @@ Bacalah Lukas 1:26–34.
 
 ## Tuliskan
 
-Pikirkan berita yang disampaikan malaikat kepada Maria. Dalam jurnal pelajaran Alkitabmu, bersyukurlah kepada Allah karena Dia telah memilihmu.
+Pikirkan berita yang disampaikan malaikat kepada Maria. Dalam jurnal pendalaman Alkitabmu, bersyukurlah kepada Allah karena Dia telah memilihmu.
 
 ## Doakan
 
-Mintalah agar Allah menolongmu menerima panggilan-Nya, supaya kamu dapat melakukan pekerjaan yang untuknya Dia telah memilihmu.
+Mintalah agar Allah menolongmu menerima panggilan-Nya dan melakukan tugas yang Ia percayakan kepadamu.
 
 ### Selasa
 
@@ -451,7 +450,7 @@ Bagaimana Elisabet menyambut Maria, bahkan sebelum Maria menceritakan tentang ma
 
 ## Tuliskan
 
-Dalam jurnal pelajaran Alkitabmu, bandingkan persamaan dan perbedaan tugas yang Allah pilih untuk Maria dan Elisabet.
+Dalam jurnal pendalaman Alkitabmu, bandingkan persamaan dan perbedaan tugas yang Allah pilih untuk Maria dan Elisabet.
 
 ## Renungkan
 

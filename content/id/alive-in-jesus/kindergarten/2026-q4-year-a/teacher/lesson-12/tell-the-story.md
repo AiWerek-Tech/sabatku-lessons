@@ -6,7 +6,7 @@ Saat Anda bersiap untuk membagikan cerita ini, silakan baca Panduan Murid untuk 
 
 - Tampilkan gambar dari Panduan Murid saat Anda menceritakan kisah tersebut **(PowerPoint Program Pekan ke-12)**.
 - Saran Perlengkapan Bercerita: **tas berisi barang bawaan, sandal, alat musik perkusi**—dibagikan di akhir acara
-- Gunakan **boneka manekin** (Yesus, wanita, anak laki-laki) atau **set boneka dari kain flanel** jika diinginkan.
+- Gunakan **boneka kayu** (Yesus, wanita, anak laki-laki) atau **set boneka dari kain flanel** jika diinginkan.
 - Ajak anak-anak untuk bergabung dengan Anda dalam beberapa aktivitas.
 - Berbicaralah dengan ekspresif untuk menarik minat anak-anak.
 
@@ -19,12 +19,12 @@ Saat Anda bersiap untuk membagikan cerita ini, silakan baca Panduan Murid untuk 
 - Di gerbang Nain, mereka melihat sebuah pemakaman yang menyedihkan. Seorang pemuda telah meninggal dan dibawa ke makam. Ibunya yang menangis mengikuti di belakang. Ia tidak memiliki keluarga lain.
 - Yesus sangat merasa kasihan padanya. Ia berkata, “Jangan menangis” (Lukas 7:13).
 - Yesus menyentuh tandu itu. Ia berkata, “Hai anak muda, Aku berkata kepadamu, bangunlah!” (Lukas 7:14).
-- Pria itu bangkit! Sang ibu yang gembira memeluknya erat. Itu adalah sebuah keajaiban! Kerumunan orang takjub. Pemakaman yang tadinya menyedihkan berubah menjadi pawai yang penuh sukacita. **(Bagikan alat musik perkusi yang meriah.)** “Mereka berkata, ‘Seorang nabi besar telah datang kepada kita! Allah memelihara umat-Nya’” (Lukas 7:16, ICB). **(Para pengocok yang gembira.)**
-- Kabar tentang mukjizat itu menyebar ke mana-mana. Yesus telah membawa sukacita yang besar! **(Para pengocok yang gembira.)**
+- Pria itu bangkit! Sang ibu yang gembira memeluknya erat. Itu adalah sebuah keajaiban! Kerumunan orang takjub. Pemakaman yang tadinya menyedihkan berubah menjadi pawai yang penuh sukacita. **(Bagikan alat musik perkusi yang meriah.)** “Mereka berkata, ‘Seorang nabi besar telah datang kepada kita! Allah memelihara umat-Nya’” (Lukas 7:16, ICB). **(Goyangkan alat musik dengan gembira.)**
+- Kabar tentang mukjizat itu menyebar ke mana-mana. Yesus telah membawa sukacita yang besar! **(Goyangkan alat musik dengan gembira.)**
 
 ### CERITAKAN KISAHNYA
 
-Yesus, para murid-Nya, dan sekelompok pengikut-Nya mengemasi tas mereka dan mengenakan sandal mereka. **(Kemasi tas, kenakan sandal.)** Dengan lambaian tangan **(melambai)** Mereka mengucapkan selamat tinggal kepada teman-teman mereka dan melanjutkan perjalanan menyusuri jalan berdebu menuju desa pegunungan Nain.
+Yesus, para murid-Nya, dan sekelompok pengikut-Nya mengemasi tas mereka dan mengenakan sandal mereka. **(Kemasi tas, kenakan sandal.)** Dengan lambaian tangan **(Melambai.)** Mereka mengucapkan selamat tinggal kepada teman-teman mereka dan melanjutkan perjalanan menyusuri jalan berdebu menuju desa pegunungan Nain.
 
 Para murid selalu senang berjalan dan berbicara dengan Yesus.
 
@@ -52,10 +52,10 @@ Yesus tersenyum kepada ibu dan anaknya. Yesus telah mengubah kesedihannya menjad
 
 Sang ibu memeluk putranya erat-erat. Ia mencium pipinya. Lalu ia memeluknya lagi. Sungguh sebuah keajaiban! Pria yang tadinya meninggal, kini hidup kembali!
 
-Orang banyak tak percaya—Yesus telah melakukan hal yang mustahil! **Dia bisa melakukan apa saja.** Seketika itu juga, pemakaman yang menyedihkan berubah menjadi perayaan yang penuh sukacita. **(Bagikan alat musik perkusi yang meriah.)** Orang-orang bertepuk tangan dengan gembira. Kemudian kerumunan itu mulai menyanyikan lagu-lagu pujian kepada Tuhan. **(Kocok shaker lagi, lalu berhenti.)** “Mereka berkata, ‘Seorang nabi besar telah datang kepada kita! Allah memelihara umat-Nya’” (Lukas 7:16, ICB).
+Orang banyak tak percaya—Yesus telah melakukan hal yang mustahil! **Dia bisa melakukan apa saja.** Seketika itu juga, pemakaman yang menyedihkan berubah menjadi perayaan yang penuh sukacita. **(Bagikan alat musik perkusi yang meriah.)** Orang-orang bertepuk tangan dengan gembira. Kemudian kerumunan itu mulai menyanyikan lagu-lagu pujian kepada Tuhan. **(Goyangkan kembali alat musik, lalu berhenti.)** “Mereka berkata, ‘Seorang nabi besar telah datang kepada kita! Allah memelihara umat-Nya’” (Lukas 7:16, ICB).
 
-Kota Nain yang tadinya sedih kini dipenuhi sukacita karena apa yang telah Yesus lakukan. **(Kocok shaker, lalu berhenti.)**
+Kota Nain yang tadinya sedih kini dipenuhi sukacita karena apa yang telah Yesus lakukan. **(Goyangkan alat musik, lalu berhenti.)**
 
-Kabar tentang Yesus yang penuh kasih dan mahakuasa menyebar ke seluruh negeri. Ia telah menghidupkan kembali seorang pemuda yang telah meninggal! **(Kocok shaker. Berhenti dan ambil.) ►** Dan suatu hari nanti, ketika Yesus kembali, Dia akan membangkitkan semua orang yang telah meninggal dalam iman kepada-Nya. Betapa menggembirakannya hari itu!
+Kabar tentang Yesus yang penuh kasih dan mahakuasa menyebar ke seluruh negeri. Ia telah menghidupkan kembali seorang pemuda yang telah meninggal! **(Goyangkan alat musik, lalu berhenti dan kumpulkan alat musiknya.) ►** Dan suatu hari nanti, ketika Yesus kembali, Dia akan membangkitkan semua orang yang telah meninggal dalam iman kepada-Nya. Betapa menggembirakannya hari itu!
 
 **►** Ulangi **Pesan Utama: “Yesus** [tunjuk ke atas] **dapat melakukan apa saja** [lompat dengan satu kepalan tangan di udara]**. Dia memberi saya sukacita** [peluk teman]**.”**

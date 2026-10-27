@@ -6,13 +6,13 @@ Namun tiba-tiba, ia berhenti. Ia menggaruk dagunya, tenggelam dalam pikiran. Apa
 
 Perwira Romawi itu tersenyum. Ia punya ide bagus. Siapa yang ia minta bantuannya? **Bacalah Lukas 7:3.**
 
-Ya. Itu akan berhasil. Dia bisa mempercayai teman-teman Yahudinya yang bijaksana untuk menyampaikan pesan itu kepada Yesus. Tentu, mereka akan mengucapkan kata-kata yang tepat kepada Pria penting ini.
+Ya. Itu akan berhasil. Dia bisa memercayai teman-teman Yahudinya yang bijaksana untuk menyampaikan pesan itu kepada Yesus. Tentu, mereka akan mengucapkan kata-kata yang tepat kepada Pria penting ini.
 
 Ketika ia meminta bantuan mereka, para pemimpin Yahudi dengan senang hati setuju untuk membantu teman baik mereka itu. Mereka pun berangkat menyusuri jalan untuk mencari Yesus.
 
 Ketika Yesus tiba di Kapernaum, sekelompok orang menemukan Dia dan “memohon kepada-Nya, katanya: ‘Perwira ini layak menerima pertolonganmu. Ia mengasihi umat kami dan telah membangun sinagoge bagi kami’” (Lukas 7:4, 5, ICB).
 
-Yesus dapat melihat bahwa perwira Romawi itu sangat baik dan murah hati kepada orang-orang Yahudi. Tetapi ada hal lain yang membuat Yesus lebih bahagia. Prajurit Romawi ini, yang dibesarkan dengan menyembah berhala, mempercayai Allah yang mahakuasa dan satu-satunya Allah yang benar.
+Yesus dapat melihat bahwa perwira Romawi itu sangat baik dan murah hati kepada orang-orang Yahudi. Tetapi ada hal lain yang membuat Yesus lebih bahagia. Prajurit Romawi ini, yang dibesarkan dengan menyembah berhala, memercayai Allah yang mahakuasa dan satu-satunya Allah yang benar.
 
 Yesus tersenyum kepada teman-teman yang membantu itu. Ya, Dia dengan senang hati akan membantu. Yesus mengikuti kelompok pemimpin itu menyusuri jalan menuju rumah perwira itu.
 

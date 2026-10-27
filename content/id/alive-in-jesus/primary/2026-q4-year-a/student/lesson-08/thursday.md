@@ -11,7 +11,7 @@ Orang-orang Farisi memandang Yesus dengan diam membeku, karena mereka tahu bahwa
 
 Saat pria yang takjub itu menggerakkan jari-jarinya dan menatap tangannya yang sehat, para rabi bergegas keluar dari sinagoge dengan hati yang keras kepala. Tetapi sekali lagi, orang-orang lainnya mulai memahami kebenaran tentang kasih Tuhan dan hari Sabat yang telah Dia ciptakan.
 
-Tuhan berfirman dalam Firman-Nya, “Janganlah kamu dibodohi dengan mengatakan hal-hal yang tidak benar” (Efesus 5:6, ICB). Kita selalu dapat mempercayai kebenaran Tuhan sebagaimana yang kita baca dalam Alkitab.
+Tuhan berfirman dalam Firman-Nya, “Janganlah kamu dibodohi dengan mengatakan hal-hal yang tidak benar” (Efesus 5:6, ICB). Kita selalu dapat memercayai kebenaran Tuhan sebagaimana yang kita baca dalam Alkitab.
 
 {"style": {"text": {"typeface": "Trashbone-Regular", "color": "#6a918c", "size": "xl"}}}
 PIKIRKAN... LALU DISKUSIKAN:

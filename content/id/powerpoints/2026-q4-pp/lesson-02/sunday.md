@@ -4,7 +4,7 @@ Bacalah 1 Raja-raja 18:37 dan kisah pekan ini, “Api Dahulu, Kemudian Hujan”.
 
 ## Kegiatan
 
-Buatlah sebuah mazbah dari bahan-bahan yang ada di rumahmu, lalu tuliskan ayat hafalan, 1 Raja-raja 18:37, pada mazbah itu.
+Buatlah sebuah mezbah dari bahan-bahan yang ada di rumahmu, lalu tuliskan ayat hafalan, 1 Raja-raja 18:37, pada mezbah itu.
 
 ## Hafalkan
 

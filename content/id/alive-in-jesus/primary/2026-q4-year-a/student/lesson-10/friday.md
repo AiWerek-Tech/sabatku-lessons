@@ -21,7 +21,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[Berbagi dan Memuji]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Ceritakan kisah Bartimeus kepada keluarga kamu. Peragakan bagian-bagian yang kamu bisa, agar lebih menarik. Gunakan properti seperti mangkuk, koin, dan mantel.\
 • Ajak keluarga kamu untuk bekerja sama menyusun puzzle ayat hafalan.\
-• Nyanyikan lagu pujian kepada Tuhan seperti “Aku Akan Menyanyikan Pujian untuk Penebusku” (Buku Nyanyian Gereja Advent Hari Ketujuh, no. 343) atau lagu lain pilihan kamu.\
+• Nyanyikan lagu pujian kepada Tuhan seperti “I Will Sing of My Redeemer” (Kunyanyikan Pujian bagi Penebusku) (Buku Nyanyian Gereja Advent Hari Ketujuh, no. 343) atau lagu lain pilihan kamu.\
 \
 ^[Jurnal Keluarga]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Bagian mana dari cerita minggu ini yang paling kamu sukai? Mengapa?\

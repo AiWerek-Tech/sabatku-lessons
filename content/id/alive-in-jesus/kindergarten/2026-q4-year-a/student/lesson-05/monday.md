@@ -27,7 +27,7 @@ Ia mendongak dengan senyum ceria dan bahagia menatap mata Yesus yang baik dan pe
 
 ### Ayo Lakukan
 
-Nyanyikan lagu “Yesus Mengasihi Aku.” Bayangkan pria yang menderita kusta saat kamu menyanyikan bait kedua, “Yesus mengasihimu, Dia yang telah mati . . .”
+Nyanyikan lagu “Jesus Loves Me” (Yesus Mengasihiku). Bayangkan pria yang menderita kusta saat kamu menyanyikan bait kedua, “Yesus mengasihimu, Dia yang telah mati . . .”
 
 ### Ide Doa
 

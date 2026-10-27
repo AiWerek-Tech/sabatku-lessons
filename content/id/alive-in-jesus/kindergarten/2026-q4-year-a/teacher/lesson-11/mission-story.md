@@ -14,10 +14,10 @@ Perjalanan misi itu merupakan waktu yang menyenangkan bagi Wyan, dan di akhir pe
 
 Ketika mereka kembali ke rumah, Tuhan memiliki kejutan untuk ibu Wyan. “Pada minggu pertama Ibu kembali ke tokonya, dia menghasilkan cukup uang untuk menutupi kerugian selama tiga minggu toko itu tutup!” kata Wyan. “Dan bisnisnya terus berkembang!”
 
-Iman Wyan membantu ibunya belajar untuk mempercayai Tuhan juga. Mereka berdua telah dibaptis, dan mereka ingin selalu mempercayai Yesus.
+Iman Wyan membantu ibunya belajar untuk memercayai Tuhan juga. Mereka berdua telah dibaptis, dan mereka ingin selalu memercayai Yesus.
 
 - **Wyan membantu ibunya belajar untuk percaya kepada Tuhan. Bagaimana kita dapat membantu orang lain untuk percaya kepada Tuhan?**
 
-Ulangi **Pesan Utama: Yesus dapat melakukan apa saja. Aku dapat mempercayai-Nya!**
+Ulangi **Pesan Utama: Yesus dapat melakukan apa saja. Aku dapat memercayai-Nya!**
 
 Cerita ini diadaptasi dari “Pelajaran Iman Wyan” karya Gina Wahlen, _Children’s Mission_, hak cipta © 2015 Konferensi Umum Gereja Masehi Advent Hari Ketujuh. Digunakan dan diadaptasi dengan izin.

@@ -5,7 +5,7 @@ Maria dan Marta bergegas menghampiri saudara mereka dan memeluknya erat-erat. Ia
 
 Sementara para saudari terus memeluk Lazarus, para murid memuji Tuhan bersama semua orang di kerumunan itu. Sekarang mereka mengerti mengapa Yesus tidak segera menyembuhkan Lazarus. Mereka menyadari bahwa rencana khusus-Nya telah menunjukkan kepada semua orang bahwa Dia benar-benar adalah Putra Allah. Dan bahwa Dia memiliki kuasa untuk membangkitkan orang-orang yang telah mati.
 
-Kisah ini membantu kita untuk memahami dan mempercayai kebangkitan juga. Roma 6:23 mengatakan, “Sebab upah dosa adalah kematian, tetapi karunia Allah adalah hidup kekal dalam Yesus Kristus Tuhan kita.” Kita tidak perlu khawatir tentang kematian di bumi ini, karena Yesus telah berjanji untuk bangkit dan memberikan hidup kekal kepada mereka yang mengasihi-Nya.
+Kisah ini membantu kita untuk memahami dan memercayai kebangkitan juga. Roma 6:23 mengatakan, “Sebab upah dosa adalah kematian, tetapi karunia Allah adalah hidup kekal dalam Yesus Kristus Tuhan kita.” Kita tidak perlu khawatir tentang kematian di bumi ini, karena Yesus telah berjanji untuk bangkit dan memberikan hidup kekal kepada mereka yang mengasihi-Nya.
 
 Para pengikut-Nya mungkin mati dan "tertidur" selama dua bulan, dua tahun, atau 2.000 tahun; itu tidak menjadi masalah bagi Yesus. Janji Allah selalu benar: "Lihatlah, hai umat-Ku, Aku akan membuka kuburanmu dan mengeluarkan kamu dari kuburanmu" (Yehezkiel 37:12).
 
@@ -26,7 +26,7 @@ PIKIRKAN... LALU DISKUSIKAN:
 ^[Berbagi dan Memuji]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Ucapkan atau nyanyikan ayat hafalan kamu dan jelaskan apa artinya bagi kamu.\
 • Bersama-sama, lihat dan **diskusikan Matius 27:50-53 dan Yohanes 5:28, 29.**\
-• Nyanyikan atau bacalah lirik Kidung 633, “When We All Get to Heaven,” dalam Buku Kidung Gereja Advent Hari Ketujuh.\
+• Nyanyikan atau bacalah lirik Kidung 633, “When We All Get to Heaven” (Saat Kita Semua Tiba di Surga), dalam Buku Kidung Gereja Advent Hari Ketujuh.\
 \
 ^[Jurnal Keluarga]({"style": {"text": {"typeface": "Trashbone-Regular", "color": "#3d8b5a", "size": "xl"}}})\
 • Kisah ini telah membantu saya memahami bahwa . . .\
